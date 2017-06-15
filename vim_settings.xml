@@ -28,7 +28,7 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="79" column="21" />
       </file>
-      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.java" timestamp="1496740401717">
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.java" timestamp="1497506572707">
         <mark key="'" line="51" column="27" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -53,8 +53,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="26" column="27" />
       </file>
-      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1497431129858">
-        <mark key="'" line="62" column="0" />
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1497506491526">
+        <mark key="'" line="455" column="37" />
       </file>
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogParam.java" timestamp="1497439018292">
         <mark key="[" line="27" column="33" />
@@ -188,12 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="70" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" />
-      <jump line="124" column="25" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" />
-      <jump line="124" column="14" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" />
-      <jump line="183" column="8" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" />
-      <jump line="990" column="8" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="422" column="63" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="513" column="0" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="74" column="31" filename="G:/GitRepository/WOS_Rest/src/main/resources/application-dev.yml" />
       <jump line="45" column="23" filename="G:/GitRepository/WOS_Rest/src/main/resources/application-prd.yml" />
@@ -288,6 +282,12 @@
       <jump line="379" column="4" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="326" column="49" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="400" column="35" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="232" column="8" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="247" column="20" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="248" column="69" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="250" column="23" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="454" column="15" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="455" column="37" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -297,7 +297,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>\/auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZSA9IHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYmFzaWNBdXRob3JpemF0aW9uKGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMF0sIGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMV0pLmJ1aWxkKCk7Cg==</text>
@@ -337,9 +337,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>\/auth</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>\/auth</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -347,8 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1XD4=</entry>
-        <entry>findRecentNews</entry>
         <entry>get</entry>
         <entry>getfor</entry>
         <entry>getF</entry>
@@ -367,6 +365,8 @@
         <entry>list</entry>
         <entry>follow</entry>
         <entry>save</entry>
+        <entry>auth</entry>
+        <entry>\/auth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static String //g</entry>
