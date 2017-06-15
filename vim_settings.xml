@@ -3,11 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1497494209308">
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1497495979320">
         <mark key="'" line="400" column="35" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      </file>
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/NewsPojo.java" timestamp="1497496464407">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.java" timestamp="1497497176958">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="153" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/oa/NotifyTodoRepository.java" timestamp="1495424865821">
         <mark key="[" line="45" column="45" />
@@ -90,6 +97,7 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/NewsRepository.java" timestamp="1497495263282" />
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/OaToDo.java" timestamp="1496750800125">
         <mark key="[" line="25" column="5" />
         <mark key="]" line="19" column="0" />
@@ -132,6 +140,12 @@
         <mark key="." line="82" column="31" />
       </file>
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1497493760643" />
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/News.java" timestamp="1497496441606">
+        <mark key="[" line="18" column="268" />
+        <mark key="]" line="18" column="268" />
+        <mark key="." line="18" column="268" />
+      </file>
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" timestamp="1497495413096" />
       <file name="G:/GitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1496904016806">
         <mark key="[" line="38" column="44" />
         <mark key="]" line="14" column="36" />
@@ -276,61 +290,47 @@
       <jump line="400" column="35" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new Object()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZSA9IHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYmFzaWNBdXRob3JpemF0aW9uKGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMF0sIGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMV0pLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Object()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXVybCA9IHVybC5jb25jYXQoIiZsaXN0X3N0eWxlPSIpLmNvbmNhdCh0eXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZSA9IHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYmFzaWNBdXRob3JpemF0aW9uKGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMF0sIGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMV0pLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoaWthcmlDb25maWcuc2V0SmRiYzRDb25uZWN0aW9uVGVzdCh0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBBcGlJbXBsaWNpdFBhcmFtcyh7LCBAQXBpSW1wbGljaXRQYXJhbShyZXF1aXJlZCA9IHRydWUsIG5hbWUgPSAiZGF0ZSIsIHZhbHVlID0gIrWxx7DI1cbaIiwgZXhhbXBsZSA9ICIyMDE3LTAyLTIxIiwgcGFyYW1UeXBlID0gInF1ZXJ5Iil9KQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q29udGVudCgpIHsKICAgICAgICByZXR1cm4gdGhpcy5jb250ZW50OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENvbnRlbnQoU3RyaW5nIGNvbnRlbnQpIHsKICAgICAgICB0aGlzLmNvbnRlbnQgPSBjb250ZW50OwogICAgfQ==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnRlbnQgPSBjb250ZW50Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text>1.日志接口优化
-2.用户接口优化</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNvbnRlbnQ7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBc3luYwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">LyoJQEFwaU9wZXJhdGlvbihub3RlcyA9ICK78cih1ri2qMjVxtq6zda4tqjP7sS/SUS1xM/uxL/I1da+IiwgdmFsdWUgPSAiu/HIoda4tqjI1cbaus3WuLaoz+7Ev0lEtcTP7sS/yNXWviIpCglAQXBpSW1wbGljaXRQYXJhbXMoe0BBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJkYXRlIiwgdmFsdWUgPSAi1ri2qMjVxtoiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwgQEFwaUltcGxpY2l0UGFyYW0ocmVxdWlyZWQgPSB0cnVlLCBuYW1lID0gInByb2plY3RJZCIsIHZhbHVlID0gIs/uxL9JRCIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpfSkKCUBHZXRNYXBwaW5nKHsiL3Byb2plY3QtbG9ncyJ9KQoJcHVibGljIFJlc3BvbnNlV3JhcHBlcjxMaXN0PE9iamVjdD4+IGdldFByb2plY3RMb2dzKEBSZXF1ZXN0UGFyYW0oImRhdGUiKSBTdHJpbmcgZGF0ZSwgQFJlcXVlc3RQYXJhbSgicHJvamVjdElkIikgU3RyaW5nIHByb2plY3RJZCkgdGhyb3dzIFJlc3RFeGNlcHRpb24gewoKCQlTdHJpbmcgICAgICAgIGJhc2VTcWwgPSAiU0VMRUNUIGxvZy5pZCwgdS5lbXBsb3llZV9pZCBhcyAnd3NJZCcsIHUubmFtZSwgdS5Kb2JDTmFtZSBhcyAnam9iQ05hbWUnLCBEQVRFX0ZPUk1BVChsb2cuZGF0YWxvZywgJyVZLSVtLSVkJykgQVMgZGF0ZSwgcC5sb2dfY29udGVudCBhcyAnY29udGVudCcgRlJPTSB1c2VyIHUgTEVGVCBKT0lOIGBsb2dzYCBsb2cgT04gKHUuZW1wbG95ZWVfaWQgPSBsb2cud3NfaWQpIExFRlQgSk9JTiBwcm9qZWN0X2xvZyBwIE9OIChwLmxvZ19pZCA9IGxvZy5pZCkiOwoJCVN0cmluZ0J1aWxkZXIgc2IgICAgICA9IG5ldyBTdHJpbmdCdWlsZGVyKGJhc2VTcWwpOwoJCWlmIChudWxsICE9IGRhdGUpIHsKCQkJc2IuYXBwZW5kKCIgV0hFUkUgREFURV9GT1JNQVQobG9nLmRhdGFsb2csICclWS0lbS0lZCcpID0gJyIpLmFwcGVuZChkYXRlKS5hcHBlbmQoIiciKTsKCQl9CgoJCWlmIChudWxsICE9IHByb2plY3RJZCkgewoJCQlzYi5hcHBlbmQoIiBBTkQgcC5wcm9qZWN0X2lkID0gIikuYXBwZW5kKHByb2plY3RJZCk7CgkJfQoKCQlzYi5hcHBlbmQoIiBPUkRFUiBCWSBkYXRlIERFU0MiKTsKCQlPYmplY3QgICAgICAgcHJvamVjdE1hcmtlciA9IHRoaXMucHJvamVjdEVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoIlNFTEVDVCBtYXJrX25hbWUgRlJPTSBQTVNfUHJvamVjdE1hcmtlciBXSEVSRSBwcm9qZWN0X2lkID0gIiArIHByb2plY3RJZCArICIgQU5EIGlzX2NvbXBsZXRlX21hcmsgaXMgbnVsbCBMSU1JVCAxIikuZ2V0U2luZ2xlUmVzdWx0KCk7CgkJTGlzdDxPYmplY3Q+IHJlc3VsdCAgICAgICAgPSB0aGlzLndwc0VudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoc2IudG9TdHJpbmcoKSkuZ2V0UmVzdWx0TGlzdCgpOwoJCXJlc3VsdC5hZGQocHJvamVjdE1hcmtlcik7CgkJcmV0dXJuIHRoaXMubm9Db250ZW50SGFuZGxlKHJlc3VsdCk7Cgl9Ki8=</text>
       </register>
-      <register name="7" type="4">
-        <text>/*	                &quot;ws_id&quot;: &quot;15012154&quot;,
-		                &quot;name&quot;: &quot;李天作&quot;,
-		                &quot;list_style&quot;: &quot;job_evaluate&quot;,
-		                &quot;dep_name&quot;: &quot;MK事业部&quot;,
-		                &quot;sub_dep_name&quot;: &quot;MK研发部&quot;,
-		                &quot;position_name&quot;: &quot;MK研发部高级经理&quot;,
-		                &quot;grade&quot;: &quot;M4.1&quot;,
-		                &quot;date&quot;: &quot;2017-06-09&quot;,
-		                &quot;order_change&quot;: 0,
-		                &quot;has_like&quot;: 0,
-		                &quot;like_count&quot;: 49,
-		                &quot;review_count&quot;: 0,
-		                &quot;follow_status&quot;: -1,
-		                &quot;userImg&quot;: &quot;1451440983830237.png&quot;*/</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQlyZXR1cm4gdGhpcy5ub0NvbnRlbnRIYW5kbGUocmVzdWx0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlocnNIb3N0ID0gRW52UGFyYW1zQ29uZmlnLmdldEhyc0hvc3QoKTsK</text>
+        <text encoding="base64">CQkJCQlyZXR1cm4gdGhpcy5ub0NvbnRlbnRIYW5kbGUocmVzdWx0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aGlzLmFwcFVzZXJSZXBvc2l0b3J5ID0gYXBwVXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIHRoaXMubm9Db250ZW50SGFuZGxlKHJlc3VsdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
