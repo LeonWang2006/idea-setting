@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1497495979320">
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1497512098911">
         <mark key="'" line="400" column="35" />
       </file>
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/NewsPojo.java" timestamp="1497496464407">
@@ -53,8 +53,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="26" column="27" />
       </file>
-      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1497509036312">
-        <mark key="'" line="157" column="40" />
+      <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1497512116890">
+        <mark key="'" line="262" column="52" />
+        <mark key="[" line="314" column="21" />
+        <mark key="]" line="314" column="21" />
+        <mark key="^" line="232" column="8" />
+        <mark key="." line="314" column="21" />
       </file>
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogParam.java" timestamp="1497439018292">
         <mark key="[" line="27" column="33" />
@@ -188,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="62" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="261" column="69" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="282" column="0" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
       <jump line="116" column="88" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.java" />
@@ -288,16 +291,17 @@
       <jump line="151" column="59" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="155" column="15" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="157" column="40" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="262" column="52" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZSA9IHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYmFzaWNBdXRob3JpemF0aW9uKGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMF0sIGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMV0pLmJ1aWxkKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{} {} GET /users/details/{} [获取用户详细信息]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{} {} GET /users/details/{} [获取用户详细信息]</text>
       </register>
       <register name="/" type="4">
-        <text>Contact</text>
+        <text>wos</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUmVzdFRlbXBsYXRlIHJlc3RUZW1wbGF0ZSA9IHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYmFzaWNBdXRob3JpemF0aW9uKGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMF0sIGJhc2U2NENyZWRlbnRpYWxzLnNwbGl0KCI6IilbMV0pLmJ1aWxkKCk7Cg==</text>
@@ -337,9 +341,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Contact</last-search>
+      <last-search>wos</last-search>
       <last-offset />
-      <last-pattern>Contact</last-pattern>
+      <last-pattern>wos</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -347,8 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getfor</entry>
-        <entry>getF</entry>
         <entry>Calen</entry>
         <entry>isEmp</entry>
         <entry>feel</entry>
@@ -361,12 +363,14 @@
         <entry>log</entry>
         <entry>lists</entry>
         <entry>list</entry>
-        <entry>follow</entry>
         <entry>save</entry>
         <entry>auth</entry>
         <entry>\/auth</entry>
         <entry>Cotact</entry>
         <entry>Contact</entry>
+        <entry>follow</entry>
+        <entry>WOS</entry>
+        <entry>wos</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static String //g</entry>
