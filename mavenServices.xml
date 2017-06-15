@@ -1,0 +1,9 @@
+<application>
+  <component name="MavenServices">
+    <service-url>http://oss.sonatype.org/service/local/</service-url>
+    <service-url>http://repo.jfrog.org/artifactory/api/</service-url>
+    <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
+    <service-url>http://www.activiti.org/community.html#maven.repository</service-url>
+    <service-url>http://repository.sonatype.org/content/groups/forge/</service-url>
+  </component>
+</application>

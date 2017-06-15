@@ -1,0 +1,33 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="MySQL" injector-id="java">
+      <display-name>EntityManager (javax.persistence)</display-name>
+      <value-pattern>`</value-pattern>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
+    <injection language="JAVA" injector-id="java">
+      <display-name>JoinColumn.name (javax.persistence)</display-name>
+      <place><![CDATA[psiMethod().withName("name").withParameters().definedInClass("javax.persistence.JoinColumn")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>NamedNativeQuery.query (javax.persistence)</display-name>
+      <place><![CDATA[psiMethod().withName("query").withParameters().definedInClass("javax.persistence.NamedNativeQuery")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>Query.value (org.springframework.data.jpa.repository)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.jpa.repository.Query")]]></place>
+    </injection>
+    <injection language="JPAQL" injector-id="java">
+      <display-name>SpringData JPA Query (org.springframework.data.jpa.repository)</display-name>
+      <place><![CDATA[psiMethod().withName("countQuery").withParameters().definedInClass("org.springframework.data.jpa.repository.Query")]]></place>
+      <place disabled="true"><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.jpa.repository.Query")]]></place>
+    </injection>
+  </component>
+</application>
