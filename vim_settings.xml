@@ -49,7 +49,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="26" column="27" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/OaDataSourceJpaConfig.java" timestamp="1498018326082">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/OaDataSourceJpaConfig.java" timestamp="1498020280444">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -169,9 +169,6 @@
         <mark key="." line="15" column="342" />
         <mark key="^" line="15" column="342" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogRepository.java" timestamp="1497689513096">
-        <mark key="^" line="30" column="74" />
-      </file>
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogPk.java" timestamp="1496717205014">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -194,6 +191,12 @@
         <mark key="]" line="28" column="56" />
         <mark key="." line="28" column="56" />
         <mark key="^" line="20" column="50" />
+      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrsDataSourceJpaConfig.java" timestamp="1498020414087">
+        <mark key="[" line="52" column="9" />
+        <mark key="]" line="46" column="21" />
+        <mark key="." line="46" column="21" />
+        <mark key="^" line="52" column="8" />
       </file>
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1497439825276">
         <mark key="[" line="170" column="36" />
@@ -332,10 +335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>operate</text>
@@ -344,7 +347,7 @@
         <text encoding="base64">CUBWYWx1ZSgiJHtvYS5kYXRhc291cmNlLnVybH0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAiaHIuZGF0YXNvdXJjZSIpCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IFNpbXBsZURyaXZlckRhdGFTb3VyY2UoZHJpdmVyLCB1cmwsIHVzZXJOYW1lLCBwYXNzd29yZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -353,25 +356,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyAgICAgICAgcmV0dXJuIERhdGFTb3VyY2VCdWlsZGVyLmNyZWF0ZSgpLnR5cGUoU2ltcGxlRHJpdmVyRGF0YVNvdXJjZS5jbGFzcykuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YVNvdXJjZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJvYS5kYXRhc291cmNlIikK</text>
+        <text encoding="base64">ICAgIEBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAiaHIuZGF0YXNvdXJjZSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JQENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJvYS5kYXRhc291cmNlIikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkvLyAgICAgICAgcmV0dXJuIERhdGFTb3VyY2VCdWlsZGVyLmNyZWF0ZSgpLnR5cGUoU2ltcGxlRHJpdmVyRGF0YVNvdXJjZS5jbGFzcykuYnVpbGQoKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcGFzc3dvcmQgPSBudWxsOwo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJvYS5kYXRhc291cmNlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdXNlck5hbWUgPSBudWxsOwo=</text>
+        <text encoding="base64">Ly8JQENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJvYS5kYXRhc291cmNlIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcml2YXRlIFN0cmluZyB1cmw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
