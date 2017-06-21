@@ -82,8 +82,8 @@
       <file name="/dummy.sql" timestamp="1498029621111">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498010717362">
-        <mark key="'" line="208" column="77" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498038868102">
+        <mark key="'" line="228" column="23" />
         <mark key="[" line="289" column="0" />
         <mark key="]" line="289" column="30" />
         <mark key="." line="289" column="0" />
@@ -114,11 +114,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/NewsRepository.java" timestamp="1498013986788" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498012843777">
-        <mark key="[" line="115" column="36" />
-        <mark key="]" line="115" column="36" />
-        <mark key="." line="115" column="36" />
-        <mark key="^" line="114" column="44" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498038966782">
+        <mark key="'" line="257" column="4" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="64" column="19" />
+        <mark key="." line="64" column="19" />
+        <mark key="^" line="64" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1498012822554">
         <mark key="[" line="0" column="0" />
@@ -127,8 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="37" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.8.RELEASE/b278822fc694d9b5a943fef1d4c9fd28ad2b92a6/spring-core-4.3.8.RELEASE-sources.jar!/org/springframework/util/ObjectUtils.java" />
-      <jump line="233" column="0" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="243" column="82" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="0" column="0" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="226" column="31" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -227,49 +226,51 @@
       <jump line="71" column="120" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="75" column="33" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="208" column="77" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="228" column="23" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="253" column="4" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>restTemplateBuilder</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>restTemplateBuilder</text>
       </register>
       <register name="/" type="4">
         <text>operate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBWYWx1ZSgiJHtvYS5kYXRhc291cmNlLnVybH0iKQo=</text>
+        <text encoding="base64">CQl0aGlzLnJlc3RUZW1wbGF0ZUJ1aWxkZXIgPSByZXN0VGVtcGxhdGVCdWlsZGVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IFNpbXBsZURyaXZlckRhdGFTb3VyY2UoZHJpdmVyLCB1cmwsIHVzZXJOYW1lLCBwYXNzd29yZCk7Cg==</text>
+        <text encoding="base64">CUBBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJ3c0lkIiwgdmFsdWUgPSAi08O7p7mkusUiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IFNpbXBsZURyaXZlckRhdGFTb3VyY2UoZHJpdmVyLCB1cmwsIHVzZXJOYW1lLCBwYXNzd29yZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YVNvdXJjZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAiaHIuZGF0YXNvdXJjZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YVNvdXJjZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAiaHIuZGF0YXNvdXJjZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyAgICAgICAgcmV0dXJuIERhdGFTb3VyY2VCdWlsZGVyLmNyZWF0ZSgpLnR5cGUoU2ltcGxlRHJpdmVyRGF0YVNvdXJjZS5jbGFzcykuYnVpbGQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJvYS5kYXRhc291cmNlIikK</text>
+        <text encoding="base64">CQkvLyAgICAgICAgcmV0dXJuIERhdGFTb3VyY2VCdWlsZGVyLmNyZWF0ZSgpLnR5cGUoU2ltcGxlRHJpdmVyRGF0YVNvdXJjZS5jbGFzcykuYnVpbGQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8JQENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJvYS5kYXRhc291cmNlIikK</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJvYS5kYXRhc291cmNlIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JQENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJvYS5kYXRhc291cmNlIikK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
