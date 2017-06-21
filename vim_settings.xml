@@ -63,6 +63,12 @@
         <mark key="^" line="232" column="8" />
         <mark key="." line="314" column="21" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/OaDataSourceJpaConfig.java" timestamp="1498015955639">
+        <mark key="[" line="38" column="65" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
+      </file>
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/MobileUsersRepository.java" timestamp="1495193116436">
         <mark key="[" line="26" column="112" />
         <mark key="]" line="26" column="110" />
@@ -121,7 +127,7 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="79" column="21" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1498011512873">
+      <file name="C:/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1498015873969">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
@@ -356,28 +362,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BigInteger</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>BigInteger</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>operate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJLy90b2RvILe1u9jWtWpzb2694s72xdC2zwo=</text>
+        <text encoding="base64">CUBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAib2EuZGF0YXNvdXJjZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gIm9hLmRhdGFzb3VyY2UudXJsIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlAQ29uZmlndXJhdGlvblByb3BlcnRpZXNCaW5kaW5nKCJvYS5kYXRhc291cmNlLnVybCIpCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldEF0dGVudChGbG9hdCBhdHRlbnQpIHsKCgkJdGhpcy5hdHRlbmQgPSBhdHRlbnQ7Cgl9</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiAgICAgdXJsOiBqZGJjOnNxbHNlcnZlcjovLzE5Mi4xNjguMTAuMTYzOjE0MzM7ZGF0YWJhc2VOYW1lPWVrcHdvbmRlcnNoYXJldGVzdF8yMDE3MDYxMwogICAgICAgICB1c2VyTmFtZTogZWtwd29uZGVyc2hhcmV0ZXN0CiAgICAgICAgIHBhc3N3b3JkOiBla3B3b25kZXJzaGFyZXRlc3QKICAgICAgICAgKi8=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -385,17 +391,17 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IFJlc3RFeGNlcHRpb24oVHlwZS5OT19DT05URU5ULCAiZXJyb3IubG9nLm5vY29udGVudCIpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldEF0dGVudChGbG9hdCBhdHRlbnQpIHsKCgkJdGhpcy5hdHRlbmQgPSBhdHRlbnQ7Cgl9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJRW50aXR5TWFuYWdlciBlbSAgID0gZmFjdG9yeS5jcmVhdGVFbnRpdHlNYW5hZ2VyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIEVudGl0eU1hbmFnZXJGYWN0b3J5IGZhY3RvcnkgID0gUGVyc2lzdGVuY2UuY3JlYXRlRW50aXR5TWFuYWdlckZhY3RvcnkoImFwcCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IFJlc3RFeGNlcHRpb24oVHlwZS5OT19DT05URU5ULCAiZXJyb3IubG9nLm5vY29udGVudCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
