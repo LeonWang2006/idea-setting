@@ -5,11 +5,11 @@
     <filemarks>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.java" timestamp="1498048054852" />
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1498116515411" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1498130608105">
-        <mark key="[" line="61" column="192" />
-        <mark key="]" line="61" column="193" />
-        <mark key="." line="61" column="193" />
-        <mark key="^" line="61" column="192" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1498137237410">
+        <mark key="[" line="102" column="32" />
+        <mark key="]" line="65" column="55" />
+        <mark key="." line="65" column="55" />
+        <mark key="^" line="65" column="55" />
       </file>
       <file name="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/NewsPojo.java" timestamp="1497496464407">
         <mark key="[" line="53" column="0" />
@@ -67,6 +67,12 @@
         <mark key="]" line="18" column="268" />
         <mark key="." line="18" column="268" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogParam.java" timestamp="1498136425088">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="35" column="0" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrDataSourceJpaConfig.java" timestamp="1498018355604">
         <mark key="[" line="29" column="14" />
         <mark key="]" line="29" column="15" />
@@ -121,12 +127,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/RestServiceError.java" timestamp="1498130030915" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498095377667">
-        <mark key="'" line="326" column="49" />
-        <mark key="[" line="85" column="27" />
-        <mark key="]" line="289" column="30" />
-        <mark key="." line="289" column="0" />
-        <mark key="^" line="256" column="8" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498137024120">
+        <mark key="'" line="589" column="118" />
+        <mark key="[" line="418" column="57" />
+        <mark key="]" line="398" column="13" />
+        <mark key="^" line="398" column="13" />
+        <mark key="." line="398" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1498129089986">
         <mark key="[" line="0" column="0" />
@@ -150,7 +156,7 @@
         <mark key="]" line="170" column="36" />
         <mark key="." line="170" column="36" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498130053272">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498132464569">
         <mark key="[" line="128" column="94" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogList.java" timestamp="1498044855678">
@@ -180,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="463" column="51" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="117" column="50" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="138" column="32" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="143" column="58" filename="G:/GitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
@@ -280,46 +285,50 @@
       <jump line="325" column="49" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="453" column="59" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
       <jump line="378" column="55" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="480" column="118" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nICBqb2JDbm5hbWU7Cg==</text>
+        <text encoding="base64">ICAgIEBQYXR0ZXJuKHJlZ2V4cCA9ICIoW1NNVFBdKSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaWYgKCFPYmplY3RVdGlscy5pc0VtcHR5KHR5cGUpKSB7Cg==</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vQGZvcm1hdHRlcjpvZmYK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CS8qKgoJICogV09TLbvxyKFXT1Ow8bWlCgkgKgoJICogQHBhcmFtIHR5cGUKCSAqIEBwYXJhbSBzaG93TnVtCgkgKiBAcGFyYW0gcmVxdWVzdAoJICoKCSAqIEByZXR1cm4KCSAqIEB0aHJvd3MgUmVzdEV4Y2VwdGlvbgoJICogQGZvcm1hdHRlcjpvZmYKCSAqLw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>/*    @InitBinder
+    protected void initBinder(WebDataBinder binder) {
+        binder.setValidator(new LogParamValidator());
+    }*/</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTdHJpbmcgYXZhdGFyUmVzdWx0ID0gdGhpcy5hcHBSZXBvc2l0b3J5LmdldEF2YXRhcih3c0lkKTsK</text>
+        <text encoding="base64">QFZhbGlkYXRlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJ3c0lkIiwgdmFsdWUgPSAi08O7p7mkusUiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IFNpbXBsZURyaXZlckRhdGFTb3VyY2UoZHJpdmVyLCB1cmwsIHVzZXJOYW1lLCBwYXNzd29yZCk7Cg==</text>
+        <text encoding="base64">CQkJaWYgKCFPYmplY3RVdGlscy5pc0VtcHR5KHR5cGUpKSB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
