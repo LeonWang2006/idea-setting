@@ -13,7 +13,7 @@
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1498177536851">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1498208292240">
         <mark key="[" line="102" column="32" />
         <mark key="]" line="65" column="55" />
         <mark key="." line="65" column="55" />
@@ -60,15 +60,17 @@
         <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498204294636">
-        <mark key="'" line="281" column="19" />
-        <mark key="[" line="94" column="30" />
-        <mark key="]" line="312" column="27" />
-        <mark key="^" line="281" column="18" />
-        <mark key="." line="312" column="27" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498208854969">
+        <mark key="[" line="252" column="46" />
+        <mark key="]" line="252" column="66" />
+        <mark key="." line="252" column="46" />
+        <mark key="^" line="252" column="45" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1498095239040">
-        <mark key="[" line="32" column="14" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1498208578327">
+        <mark key="[" line="103" column="126" />
+        <mark key="]" line="103" column="126" />
+        <mark key="^" line="103" column="146" />
+        <mark key="." line="103" column="126" />
       </file>
       <file name="/Dummy.txt" timestamp="1498177812439">
         <mark key="[" line="0" column="0" />
@@ -113,11 +115,7 @@
         <mark key="." line="29" column="15" />
         <mark key="^" line="29" column="15" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498190579329">
-        <mark key="[" line="75" column="75" />
-        <mark key="]" line="75" column="75" />
-        <mark key="." line="75" column="75" />
-      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498209849735" />
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages.properties" timestamp="1498179028045">
         <mark key="[" line="14" column="38" />
       </file>
@@ -240,49 +238,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0aGlzLmVtID0gZW07Cg==</text>
+        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IHt9IEdFVCAvbG9ncy9jb21tZW50cz9sb2dJZD17fSBbu/HIocjV1r624MjLxsC8210iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCByZXF1ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICAqIEZST00gYXBwX3VzZXJfbG9ncyBXSEVSRSBsb2dfaWQgPSAnMjcwNTMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUICAqIEZST00gYXBwX3VzZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I1VQREFURSBhcHBfdXNlcl9sb2dzIFNFVCByZWFkX3dzX2lkID0gY29uY2F0X3dzKCcsJyxyZWFkX3dzX2lkLCcwMzEwMDAwMScpLHJlYWRfd3NfbmFtZT1jb25jYXRfd3MoJywnLHJlYWRfd3NfbmFtZSwnzujMqLKiJykgV0hFUkUgbG9nX2lkID0gJzI3MDUzJwo=</text>
+        <text encoding="base64">U0VMRUNUICAqIEZST00gYXBwX3VzZXJfbG9ncyBXSEVSRSBsb2dfaWQgPSAnMjcwNTMnCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUICAqIEZST00gYXBwX3VzZXI7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I1VQREFURSBhcHBfdXNlcl9sb2dzIFNFVCByZWFkX3dzX2lkID0gY29uY2F0X3dzKCcsJyxyZWFkX3dzX2lkLCcwMzEwMDAwMScpLHJlYWRfd3NfbmFtZT1jb25jYXRfd3MoJywnLHJlYWRfd3NfbmFtZSwnzujMqLKiJykgV0hFUkUgbG9nX2lkID0gJzI3MDUzJwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">VVBEQVRFIGFwcF91c2VyX2xvZ3MgU0VUIHJlYWRfd3NfaWQgPSBjb25jYXRfd3MoJywnLHJlYWRfd3NfaWQsJzAzMTAwMDAzJykscmVhZF93c19uYW1lPWNvbmNhdF93cygnLCcscmVhZF93c19uYW1lLD8yKSBXSEVSRSBsb2dfaWQgPSA/Mwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>/*			em.joinTransaction();
 			em.createNativeQuery(&quot;UPDATE app_user_logs SET read_ws_id = concat_ws(',',read_ws_id,?1),read_ws_name=concat_ws(',',read_ws_name,?2) WHERE log_id = ?3&quot;)
 			  .setParameter(1, wsId).setParameter(2, name).setParameter(3, id).executeUpdate();
 			em.clear();*/</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlUaW1lc3RhbXAudmFsdWVPZihMb2NhbERhdGVUaW1lLm5vdygpKTsgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlMb2NhbERhdGVUaW1lLm5vdygpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlUaW1lc3RhbXAgdGltZXN0YW1wID0gVGltZXN0YW1wLnZhbHVlT2YobG9jYWxEYXRlVGltZSk7Cg==</text>
+        <text encoding="base64">CQlUaW1lc3RhbXAudmFsdWVPZihMb2NhbERhdGVUaW1lLm5vdygpKTsgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
