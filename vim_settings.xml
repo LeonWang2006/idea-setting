@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.java" timestamp="1498048054852" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/ValidationConfig.java" timestamp="1498119880318">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1498179039676">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="6" />
@@ -14,57 +18,6 @@
         <mark key="]" line="65" column="55" />
         <mark key="." line="65" column="55" />
         <mark key="^" line="65" column="55" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserInfo.java" timestamp="1498012478658">
-        <mark key="[" line="192" column="11" />
-        <mark key="]" line="192" column="11" />
-        <mark key="." line="192" column="11" />
-        <mark key="^" line="192" column="10" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1498010771562">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Float.java" timestamp="1498012746823" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1498095239040">
-        <mark key="[" line="32" column="14" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1498048305709">
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="56" />
-        <mark key="." line="31" column="56" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/OaDataSourceJpaConfig.java" timestamp="1498020280444">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1498095224574">
-        <mark key="[" line="127" column="18" />
-        <mark key="]" line="127" column="18" />
-        <mark key="." line="127" column="18" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1498110685377" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogParam.java" timestamp="1498136425088">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="35" column="0" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrDataSourceJpaConfig.java" timestamp="1498018355604">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="15" />
-        <mark key="^" line="29" column="15" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages.properties" timestamp="1498179028045">
-        <mark key="[" line="14" column="38" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/ValidationConfig.java" timestamp="1498119880318">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10f1622e-1b0e-46b6-9c7e-6a06c6f39cee/console.sql" timestamp="1498183308526">
         <mark key="[" line="2" column="145" />
@@ -77,7 +30,17 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.java" timestamp="1498047981076" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserInfo.java" timestamp="1498012478658">
+        <mark key="[" line="192" column="11" />
+        <mark key="]" line="192" column="11" />
+        <mark key="." line="192" column="11" />
+        <mark key="^" line="192" column="10" />
+      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1498010771562">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1498044801576">
         <mark key="'" line="302" column="49" />
         <mark key="[" line="37" column="119" />
@@ -98,29 +61,61 @@
         <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498183267237">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498188674462">
         <mark key="'" line="46" column="17" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="122" column="36" />
         <mark key="^" line="122" column="36" />
         <mark key="." line="122" column="36" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1498095239040">
+        <mark key="[" line="32" column="14" />
+      </file>
       <file name="/Dummy.txt" timestamp="1498177812439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/I18nMessage.java" timestamp="1498129735149" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1498048305709">
+        <mark key="[" line="31" column="56" />
+        <mark key="]" line="31" column="56" />
+        <mark key="." line="31" column="56" />
+      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/OaDataSourceJpaConfig.java" timestamp="1498020280444">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrsDataSourceJpaConfig.java" timestamp="1498025150259">
         <mark key="[" line="52" column="9" />
         <mark key="]" line="43" column="54" />
         <mark key="." line="43" column="54" />
         <mark key="^" line="43" column="54" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1498095224574">
+        <mark key="[" line="127" column="18" />
+        <mark key="]" line="127" column="18" />
+        <mark key="." line="127" column="18" />
+      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogParam.java" timestamp="1498136425088">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="35" column="0" />
+      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrDataSourceJpaConfig.java" timestamp="1498018355604">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498180259137">
         <mark key="[" line="75" column="75" />
         <mark key="]" line="75" column="75" />
         <mark key="." line="75" column="75" />
+      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages.properties" timestamp="1498179028045">
+        <mark key="[" line="14" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1498009692538">
         <mark key="[" line="0" column="0" />
@@ -129,7 +124,6 @@
         <mark key="'" line="453" column="59" />
         <mark key="[" line="447" column="36" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/NewsRepository.java" timestamp="1498013986788" />
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498183635842">
         <mark key="'" line="111" column="28" />
         <mark key="[" line="325" column="59" />
