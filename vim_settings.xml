@@ -60,12 +60,12 @@
         <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498198507303">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498201535307">
         <mark key="'" line="281" column="19" />
-        <mark key="[" line="241" column="17" />
-        <mark key="]" line="241" column="17" />
+        <mark key="[" line="94" column="30" />
+        <mark key="]" line="312" column="27" />
         <mark key="^" line="281" column="18" />
-        <mark key="." line="241" column="17" />
+        <mark key="." line="312" column="27" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1498095239040">
         <mark key="[" line="32" column="14" />
@@ -239,11 +239,11 @@
       <jump line="281" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICAqIEZST00gYXBwX3VzZXJfbG9ncyBXSEVSRSBsb2dfaWQgPSAnMjcwNTMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
@@ -408,6 +408,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
