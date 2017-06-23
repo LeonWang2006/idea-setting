@@ -5,7 +5,7 @@
     <filemarks>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.java" timestamp="1498048054852" />
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1498116515411" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1498137237410">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1498177536851">
         <mark key="[" line="102" column="32" />
         <mark key="]" line="65" column="55" />
         <mark key="." line="65" column="55" />
@@ -127,12 +127,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/RestServiceError.java" timestamp="1498130030915" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498137024120">
-        <mark key="'" line="589" column="118" />
-        <mark key="[" line="418" column="57" />
-        <mark key="]" line="398" column="13" />
-        <mark key="^" line="398" column="13" />
-        <mark key="." line="398" column="13" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498177525774">
+        <mark key="'" line="592" column="118" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="395" column="13" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1498129089986">
         <mark key="[" line="0" column="0" />
@@ -288,8 +288,8 @@
       <jump line="480" column="118" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CS8qKgoJICoKCSAqIEBwYXJhbSB3c0lkCgkgKiBAcGFyYW0gZGF0ZQoJICogQHBhcmFtIHJlcXVlc3QKCSAqIEByZXR1cm4KCSAqIEB0aHJvd3MgUmVzdEV4Y2VwdGlvbgoJICov</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -300,8 +300,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBQYXR0ZXJuKHJlZ2V4cCA9ICIoW1NNVFBdKSIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CS8qKgoJICoKCSAqIEBwYXJhbSB3c0lkCgkgKiBAcGFyYW0gZGF0ZQoJICogQHBhcmFtIHJlcXVlc3QKCSAqIEByZXR1cm4KCSAqIEB0aHJvd3MgUmVzdEV4Y2VwdGlvbgoJICov</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -310,28 +310,28 @@
         <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CS8vQGZvcm1hdHRlcjpvZmYK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CS8qKgoJICogV09TLbvxyKFXT1Ow8bWlCgkgKgoJICogQHBhcmFtIHR5cGUKCSAqIEBwYXJhbSBzaG93TnVtCgkgKiBAcGFyYW0gcmVxdWVzdAoJICoKCSAqIEByZXR1cm4KCSAqIEB0aHJvd3MgUmVzdEV4Y2VwdGlvbgoJICogQGZvcm1hdHRlcjpvZmYKCSAqLw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/*    @InitBinder
     protected void initBinder(WebDataBinder binder) {
         binder.setValidator(new LogParamValidator());
     }*/</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QFZhbGlkYXRlZAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJaWYgKCFPYmplY3RVdGlscy5pc0VtcHR5KHR5cGUpKSB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYgKCFPYmplY3RVdGlscy5pc0VtcHR5KHR5cGUpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
