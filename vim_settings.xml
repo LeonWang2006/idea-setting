@@ -55,16 +55,16 @@
       <file name="/dummy.sql" timestamp="1498183318975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/RestServiceError.java" timestamp="1498180228555">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/RestServiceError.java" timestamp="1498271019058">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498208854969">
-        <mark key="[" line="252" column="46" />
-        <mark key="]" line="252" column="66" />
-        <mark key="." line="252" column="46" />
-        <mark key="^" line="252" column="45" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498272144288">
+        <mark key="[" line="455" column="50" />
+        <mark key="]" line="455" column="50" />
+        <mark key="." line="455" column="50" />
+        <mark key="^" line="455" column="56" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1498208578327">
         <mark key="[" line="103" column="126" />
@@ -103,10 +103,10 @@
         <mark key="]" line="127" column="18" />
         <mark key="." line="127" column="18" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogParam.java" timestamp="1498136425088">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogParam.java" timestamp="1498271151013">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
         <mark key="^" line="35" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrDataSourceJpaConfig.java" timestamp="1498018355604">
@@ -115,7 +115,11 @@
         <mark key="." line="29" column="15" />
         <mark key="^" line="29" column="15" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498209849735" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498271072798">
+        <mark key="[" line="151" column="8" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages.properties" timestamp="1498179028045">
         <mark key="[" line="14" column="38" />
       </file>
@@ -238,19 +242,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IHt9IEdFVCAvbG9ncy9jb21tZW50cz9sb2dJZD17fSBbu/HIocjV1r624MjLxsC8210iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCByZXF1ZXN0Cg==</text>
+      <register name="0" type="4">
+        <text>[v1/job/set-user-job?ws_id]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -259,28 +263,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICAqIEZST00gYXBwX3VzZXJfbG9ncyBXSEVSRSBsb2dfaWQgPSAnMjcwNTMnCg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30ge30gR0VUIC9sb2dzL2xpc3Q/d3NJZD17fSZwYWdlU2l6ZT17fSZwYWdlTnVtYmVyPXt9IFu78cihyNXWvsHQse3K/b7dXSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpIC5nZXRJZCgpLCByZXF1ZXN0IC5nZXRVc2VyUHJpbmNpcGFsKCkuZ2V0TmFtZSgpLCBsb2dQYXJhbS5nZXRXc0lkKCksIGxvZ1BhcmFtLmdldFBhZ2VTaXplKCksbG9nUGFyYW0uZ2V0UGFnZU51bWJlcigpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUICAqIEZST00gYXBwX3VzZXI7Cg==</text>
+        <text encoding="base64">CUBSZXNwb25zZVN0YXR1cyhIdHRwU3RhdHVzLk5PVF9BQ0NFUFRBQkxFKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1VQREFURSBhcHBfdXNlcl9sb2dzIFNFVCByZWFkX3dzX2lkID0gY29uY2F0X3dzKCcsJyxyZWFkX3dzX2lkLCcwMzEwMDAwMScpLHJlYWRfd3NfbmFtZT1jb25jYXRfd3MoJywnLHJlYWRfd3NfbmFtZSwnzujMqLKiJykgV0hFUkUgbG9nX2lkID0gJzI3MDUzJwo=</text>
+        <text encoding="base64">CUBSZXNwb25zZVN0YXR1cyhIdHRwU3RhdHVzLklOVEVSTkFMX1NFUlZFUl9FUlJPUikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VVBEQVRFIGFwcF91c2VyX2xvZ3MgU0VUIHJlYWRfd3NfaWQgPSBjb25jYXRfd3MoJywnLHJlYWRfd3NfaWQsJzAzMTAwMDAzJykscmVhZF93c19uYW1lPWNvbmNhdF93cygnLCcscmVhZF93c19uYW1lLD8yKSBXSEVSRSBsb2dfaWQgPSA/Mwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5pMThuTWVzc2FnZS5nZXRMb2NhbEVycm9yTWVzc2FnZShSZXN0U2VydmljZUVycm9yLlR5cGUuSU5URVJOQUxfU0VSVkVSX0VSUk9SLCAiZXJyb3IuaW50ZXJuYWxzZXJ2ZXIiLCBudWxsLCByZXF1ZXN0KTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>/*			em.joinTransaction();
-			em.createNativeQuery(&quot;UPDATE app_user_logs SET read_ws_id = concat_ws(',',read_ws_id,?1),read_ws_name=concat_ws(',',read_ws_name,?2) WHERE log_id = ?3&quot;)
-			  .setParameter(1, wsId).setParameter(2, name).setParameter(3, id).executeUpdate();
-			em.clear();*/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoIkVSUk9SIC0gsra78SBSZXN0RXhjZXB0aW9uINLss6OjrLSlt6LTw7uno7p7faOsSVCjunt9o6wgU2Vzc2lvbklko7p7faOstO3O89DFz6Kjunt9IiwgcmVxdWVzdC5nZXRVc2VyUHJpbmNpcGFsKCkuZ2V0TmFtZSgpLCByZXF1ZXN0LmdldFJlbW90ZUFkZHIoKSwgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0SWQoKSwgZXguZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHN0ckJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlUaW1lc3RhbXAudmFsdWVPZihMb2NhbERhdGVUaW1lLm5vdygpKTsgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4=</text>
