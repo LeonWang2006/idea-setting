@@ -67,7 +67,7 @@
         <mark key="." line="39" column="9" />
         <mark key="^" line="39" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498177812439">
+      <file name="/Dummy.txt" timestamp="1498297869041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -124,12 +124,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1498009692538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1498297819519">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1498298351696">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="512" column="89" />
-        <mark key="]" line="512" column="124" />
-        <mark key="." line="512" column="89" />
-        <mark key="^" line="512" column="31" />
+        <mark key="[" line="246" column="85" />
+        <mark key="]" line="246" column="118" />
+        <mark key="." line="246" column="85" />
+        <mark key="^" line="246" column="84" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498296556910">
         <mark key="'" line="611" column="0" />
@@ -248,16 +248,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[rest/v1/message/count-user-notify]</text>
+        <text>[rest/v1/message/message-reminds]</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;rest/v1/message/set-status&quot;</text>
+        <text>&quot;rest/v1/message/message-reminds&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Pattern</text>
       </register>
       <register name="0" type="4">
-        <text>[rest/v1/message/count-user-notify]</text>
+        <text>[rest/v1/message/message-reminds]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlAVmFsaWQK</text>
