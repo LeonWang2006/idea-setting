@@ -60,11 +60,11 @@
         <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498279385114">
-        <mark key="[" line="787" column="0" />
-        <mark key="]" line="787" column="45" />
-        <mark key="." line="787" column="0" />
-        <mark key="^" line="455" column="56" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498283480559">
+        <mark key="[" line="600" column="87" />
+        <mark key="]" line="600" column="100" />
+        <mark key="." line="488" column="68" />
+        <mark key="^" line="600" column="86" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1498208578327">
         <mark key="[" line="103" column="126" />
@@ -241,17 +241,17 @@
       <jump line="281" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8PihvYmplY3QpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>获取需要补写日志的日期列表</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>获取日志操作记录</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8PihvYmplY3QpOwo=</text>
+      <register name="0" type="4">
+        <text>获取需要补写日志的日期列表</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJbG9nZ2VyLmluZm8oKTsK</text>
