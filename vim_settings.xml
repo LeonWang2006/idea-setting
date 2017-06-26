@@ -40,12 +40,12 @@
         <mark key="]" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.java" timestamp="1498456883773">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.java" timestamp="1498462472079">
         <mark key="'" line="74" column="43" />
         <mark key="[" line="131" column="37" />
         <mark key="]" line="131" column="40" />
         <mark key="^" line="131" column="40" />
-        <mark key="." line="131" column="40" />
+        <mark key="." line="144" column="111" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" timestamp="1498455855972">
         <mark key="'" line="145" column="44" />
@@ -156,11 +156,11 @@
         <mark key="." line="473" column="55" />
         <mark key="^" line="473" column="55" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498461236630">
-        <mark key="[" line="408" column="27" />
-        <mark key="]" line="408" column="27" />
-        <mark key="^" line="417" column="14" />
-        <mark key="." line="408" column="27" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498462532744">
+        <mark key="[" line="407" column="27" />
+        <mark key="]" line="407" column="27" />
+        <mark key="^" line="416" column="14" />
+        <mark key="." line="407" column="27" />
       </file>
       <file name="/fragment.java" timestamp="1498292799509">
         <mark key="[" line="0" column="10" />
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>Follows</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>Follows</text>
       </register>
       <register name="/" type="4">
         <text>gson</text>
