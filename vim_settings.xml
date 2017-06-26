@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.java" timestamp="1498464748862" />
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/ValidationConfig.java" timestamp="1498119880318">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="19" column="31" />
@@ -13,11 +14,11 @@
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1498293515980">
-        <mark key="[" line="57" column="65" />
-        <mark key="]" line="57" column="77" />
-        <mark key="." line="57" column="65" />
-        <mark key="^" line="57" column="41" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1498465042584">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="56" column="41" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10f1622e-1b0e-46b6-9c7e-6a06c6f39cee/console.sql" timestamp="1498198553080">
         <mark key="[" line="0" column="0" />
@@ -134,7 +135,7 @@
         <mark key="." line="29" column="15" />
         <mark key="^" line="29" column="15" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498297533330">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498464738374">
         <mark key="[" line="163" column="114" />
         <mark key="]" line="163" column="114" />
         <mark key="." line="163" column="114" />
@@ -271,11 +272,11 @@
       <jump line="95" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Follows</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Follows</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>gson</text>
@@ -284,34 +285,36 @@
         <text encoding="base64">TWFwPFN0cmluZywgRm9sbG93Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30ge30gR0VUIC9sb2dzL2V4aXN0P3dzSWQ9e30mZGF0ZT17fSBbvOyy6crHt/HT0NC0yNXWvl0iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCByZXF1ZXN0IC5nZXRVc2VyUHJpbmNpcGFsKCkuZ2V0TmFtZSgpLCB3c0lkLCBkYXRlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30ge30gR0VUIC9uZXdzL3t9IFu78cih1ri2qElE0MLOxc/qx+ldIiwgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0SWQoKSwgcmVxdWVzdC5nZXRVc2VyUHJpbmNpcGFsKCkgLmdldE5hbWUoKSwgaWQpOwo=</text>
+      <register name="3" type="4">
+        <text>/*			if (type == null) {
+				throw new RestException(RestServiceError.Type.BAD_REQUEST, &quot;error.badrequest&quot;);
+			}*/</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8qKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlci4K</text>
+        <text encoding="base64">CQlAUGF0dGVybihyZWdleHAgPSAiKGF0dGVuZGFuY2V8am9iX2V2YWx1YXRlfGpvYl9sb2d8b2FfcHJvY2Vzc3xvYV90aW1lKSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQYXR0ZXJuKHJlZ2V4cCA9ICJbMS0yXVswLTldezN9LVswLTldezJ9LVswLTldezJ9IikK</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBQYXR0ZXJuKHJlZ2V4cCA9ICJbMS0yXVswLTldezN9LVswLTldezJ9LVswLTldezJ9IikK</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIERBVEUgPSAiIjsK</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
