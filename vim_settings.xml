@@ -20,6 +20,7 @@
         <mark key="^" line="56" column="41" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/RestApplication.java" timestamp="1498542865346" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10f1622e-1b0e-46b6-9c7e-6a06c6f39cee/console.sql" timestamp="1498198553080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -76,6 +77,11 @@
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="28" />
+      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/test/java/cn/wondershare/service/MailTest.java" timestamp="1498543110263">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498529668742">
         <mark key="'" line="132" column="25" />
@@ -155,9 +161,6 @@
         <mark key="." line="163" column="114" />
         <mark key="^" line="146" column="71" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages.properties" timestamp="1498438579829">
-        <mark key="[" line="14" column="38" />
-      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Follow.java" timestamp="1498459418082">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="18" />
@@ -178,8 +181,8 @@
         <mark key="^" line="470" column="56" />
         <mark key="." line="474" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1498292799509">
-        <mark key="[" line="0" column="10" />
+      <file name="/fragment.java" timestamp="1498542432955">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -287,47 +290,49 @@
       <jump line="219" column="55" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNwcmluZy1ib290LXN0YXJ0ZXItdGVzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>@SpringApplicationConfiguration(classes = RestApplication.class)
+@WebIntegrationTest</text>
       </register>
       <register name="-" type="4">
-        <text>web</text>
+        <text encoding="base64">QWRtaW5pc3RyYXRvciA=</text>
       </register>
       <register name="/" type="4">
         <text>follow</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXdlYiIpCg==</text>
+      <register name="0" type="4">
+        <text>wangfl@wondershare.cn</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNwcmluZy1ib290LXN0YXJ0ZXItdGVzdAo=</text>
+      <register name="1" type="4">
+        <text>@SpringApplicationConfiguration(classes = RestApplication.class)
+@WebIntegrationTest</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHMK</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlAVmFsaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlAVmFsaWQK</text>
+        <text encoding="base64">QFNwcmluZ0FwcGxpY2F0aW9uQ29uZmlndXJhdGlvbihjbGFzc2VzID0gUmVzdEFwcGxpY2F0aW9uLmNsYXNzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlAVmFsaWQK</text>
+        <text encoding="base64">ICAgIHNwcmluZy1ib290LXN0YXJ0ZXItdGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLwkJUmVzcG9uc2VXcmFwcGVyPExvZ0RldGFpbD4gcmVzdWx0ID0gZ2V0TG9nRGV0YWlsKGxvZ0lkLCByZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgIHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJ3c0lkIiwgdmFsdWUgPSAi08O7p7mkusUiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtKCkK</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
