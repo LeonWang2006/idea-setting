@@ -11,11 +11,11 @@
         <mark key="." line="79" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/RestApplication.java" timestamp="1498542865346" />
-      <file name="C:/gitRepository/WOS_Rest/src/test/resources/application-dev.yml" timestamp="1498544819306">
+      <file name="C:/gitRepository/WOS_Rest/src/test/resources/application-dev.yml" timestamp="1498545450185">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="5" />
+        <mark key="^" line="49" column="5" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserInfo.java" timestamp="1498012478658">
         <mark key="[" line="192" column="11" />
@@ -257,11 +257,11 @@
       <jump line="219" column="55" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3NsLnRydXN0OiBtYWlsLndvbmRlcnNoYXJlLmNuCg==</text>
+      <register name="&quot;" type="4">
+        <text>spring.mail.properties.mail.smtp.</text>
       </register>
       <register name="-" type="4">
-        <text>spring.mail.properties.</text>
+        <text>spring.mail.properties.mail.smtp.</text>
       </register>
       <register name="/" type="4">
         <text>follow</text>
