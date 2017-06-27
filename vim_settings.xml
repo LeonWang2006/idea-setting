@@ -11,7 +11,12 @@
         <mark key="." line="79" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/RestApplication.java" timestamp="1498542865346" />
-      <file name="C:/gitRepository/WOS_Rest/src/test/resources/application-dev.yml" timestamp="1498550017500">
+      <file name="C:/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1498551955555">
+        <mark key="[" line="51" column="17" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="17" />
+      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/test/resources/application-dev.yml" timestamp="1498551755418">
         <mark key="[" line="44" column="35" />
         <mark key="]" line="50" column="20" />
         <mark key="^" line="50" column="20" />
@@ -134,12 +139,12 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1498544228009">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1498552111375">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="250" column="45" />
-        <mark key="]" line="250" column="51" />
-        <mark key="." line="250" column="45" />
-        <mark key="^" line="250" column="32" />
+        <mark key="[" line="257" column="23" />
+        <mark key="]" line="257" column="23" />
+        <mark key="." line="257" column="23" />
+        <mark key="^" line="256" column="30" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498531836200">
         <mark key="'" line="219" column="55" />
@@ -257,11 +262,11 @@
       <jump line="219" column="55" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiB3YW5nZmxAd29uZGVyc2hhcmUuY24K</text>
+      <register name="&quot;" type="4">
+        <text>wangfl</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>wangfl</text>
       </register>
       <register name="/" type="4">
         <text>follow</text>
@@ -270,35 +275,35 @@
         <text encoding="base64">ICAgIHVzZXJuYW1lOiB3YW5nZmxAd29uZGVyc2hhcmUuY24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiB3YW5nZmxAd29uZGVyc2hhcmUuY24K</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiBXYW5nZmw5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3NsLnRydXN0OiBtYWlsLndvbmRlcnNoYXJlLmNuCg==</text>
+        <text encoding="base64">ICBtYWlsOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiB3YW5nZmxAd29uZGVyc2hhcmUuY24K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc3NsLnRydXN0OiBtYWlsLndvbmRlcnNoYXJlLmNuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQlTaW1wbGVNYWlsTWVzc2FnZSBtZXNzYWdlID0gbmV3IFNpbXBsZU1haWxNZXNzYWdlKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>@SpringApplicationConfiguration(classes = RestApplication.class)
 @WebIntegrationTest</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">QFNwcmluZ0FwcGxpY2F0aW9uQ29uZmlndXJhdGlvbihjbGFzc2VzID0gUmVzdEFwcGxpY2F0aW9uLmNsYXNzKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNwcmluZy1ib290LXN0YXJ0ZXItdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
