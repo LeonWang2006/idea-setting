@@ -147,12 +147,12 @@
         <mark key="." line="258" column="41" />
         <mark key="^" line="258" column="41" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498639402578">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498644315057">
         <mark key="'" line="219" column="55" />
-        <mark key="[" line="482" column="23" />
-        <mark key="]" line="474" column="51" />
-        <mark key="^" line="470" column="56" />
-        <mark key="." line="474" column="44" />
+        <mark key="[" line="470" column="61" />
+        <mark key="]" line="470" column="100" />
+        <mark key="." line="470" column="196" />
+        <mark key="^" line="470" column="100" />
       </file>
       <file name="/fragment.java" timestamp="1498542432955">
         <mark key="[" line="0" column="0" />
@@ -265,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;这是邮件内容&quot;</text>
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;这是邮件内容&quot;</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>follow</text>
@@ -276,36 +276,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVzZXJuYW1lOiB3YW5nZmxAd29uZGVyc2hhcmUuY24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiBXYW5nZmw5Cg==</text>
+      <register name="1" type="4">
+        <text>,
+	                                           @Pattern(regexp = &quot;(apply-follow|channel-follow|agree-fans|invite-fans|agree-invite|channel-fans)&quot;)
+	                                           @RequestParam
+		                                           String type</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYWlsOgo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBWYWxpZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiB3YW5nZmxAd29uZGVyc2hhcmUuY24K</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBWYWxpZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3NsLnRydXN0OiBtYWlsLndvbmRlcnNoYXJlLmNuCg==</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiBXYW5nZmw5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICBtYWlsOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTaW1wbGVNYWlsTWVzc2FnZSBtZXNzYWdlID0gbmV3IFNpbXBsZU1haWxNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiB3YW5nZmxAd29uZGVyc2hhcmUuY24K</text>
       </register>
-      <register name="7" type="4">
-        <text>@SpringApplicationConfiguration(classes = RestApplication.class)
-@WebIntegrationTest</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc3NsLnRydXN0OiBtYWlsLndvbmRlcnNoYXJlLmNuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTaW1wbGVNYWlsTWVzc2FnZSBtZXNzYWdlID0gbmV3IFNpbXBsZU1haWxNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
