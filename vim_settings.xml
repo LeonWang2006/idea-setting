@@ -161,11 +161,11 @@
         <mark key="]" line="263" column="0" />
         <mark key="." line="263" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498716421461">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498723486444">
         <mark key="'" line="438" column="50" />
-        <mark key="[" line="616" column="21" />
-        <mark key="]" line="616" column="21" />
-        <mark key="." line="616" column="21" />
+        <mark key="[" line="485" column="24" />
+        <mark key="]" line="485" column="24" />
+        <mark key="." line="485" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1498706469319">
         <mark key="[" line="0" column="0" />
@@ -278,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uY2F0KGxvY2F0aW9uKS5jb25jYXQoKSIzOS45ODM0MjQsMTE2LjMyMjk4NyZwb2lzPTEmYWs9xPq1xGFrIg==</text>
+        <text>getFollowOrFans</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uY2F0KGxvY2F0aW9uKS5jb25jYXQoKSIzOS45ODM0MjQsMTE2LjMyMjk4NyZwb2lzPTEmYWs9xPq1xGFrIg==</text>
+        <text>getFollowOrFans</text>
       </register>
       <register name="/" type="4">
         <text>follow</text>
@@ -289,8 +289,8 @@
       <register name="0" type="2">
         <text encoding="base64">CQlTdHJpbmcgbG9jYXRpb24gPSBsYXRpdHVkZS5jb25jYXQoIiwiKS5jb25jYXQobG9uZ2l0dWRlKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlAVmFsaWQK</text>
+      <register name="1" type="4">
+        <text encoding="base64">QFJlcXVlc3RQYXJhbSgiZW1wbG95ZWVJZHMiKQoJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBlbXBsb3llZUlkcw==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -298,26 +298,26 @@
       <register name="2" type="2">
         <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">CQlAVmFsaWQK</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CQlAUmVxdWVzdFBhcmFtKCJ3c0lkIikKCQkJU3RyaW5nIHdzSWQ=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlAQXBpSW1wbGljaXRQYXJhbShyZXF1aXJlZCA9IHRydWUsIG5hbWUgPSAid3NJZCIsIHZhbHVlID0gItPDu6e5pLrFIiwgcGFyYW1UeXBlID0gInF1ZXJ5IikK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlAQXBpSW1wbGljaXRQYXJhbShyZXF1aXJlZCA9IHRydWUsIG5hbWUgPSAid3NJZCIsIHZhbHVlID0gItPDu6e5pLrFIiwgcGFyYW1UeXBlID0gInF1ZXJ5IikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGltZVN0YW1wID0gbG9jYWxEYXRlVGltZS5nZXRMb25nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgdGltZVN0YW1wID0gbG9jYWxEYXRlVGltZS5nZXRMb25nKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbG9jYXRpb24gPSBsYXRpdHVkZS5jb25jYXQoIiwiKS5jb25jYXQobG9uZ2l0dWRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGltZVN0YW1wID0gbG9jYWxEYXRlVGltZS5nZXRMb25nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
