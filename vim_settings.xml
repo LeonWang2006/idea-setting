@@ -156,8 +156,12 @@
         <mark key="]" line="263" column="0" />
         <mark key="." line="263" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498734618798">
-        <mark key="'" line="454" column="50" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498794641227">
+        <mark key="'" line="446" column="50" />
+        <mark key="[" line="384" column="20" />
+        <mark key="]" line="347" column="0" />
+        <mark key="." line="347" column="0" />
+        <mark key="^" line="384" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1498785459005">
         <mark key="[" line="0" column="0" />
@@ -269,57 +273,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEphY2tzb24K</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="-" type="4">
-        <text>.getData().getResult().getFormattedAddress()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>follow</text>
+        <text>search</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlSZXNwb25zZVdyYXBwZXI8Y24ud29uZGVyc2hhcmUucmVwb3NpdG9yeS5wb2pvLkdlb0xvY2F0aW9uPiBnZW9Mb2NhdGlvbiA9IG1hcFNlcnZpY2UKCQkJLmdldEdlb2NvZGUobGF0aXR1ZGUsIGxvbmdpdHVkZSk7CgkJU3RyaW5nIGxvY2F0aW9uID0gZ2VvTG9jYXRpb24uZ2V0RGF0YSgpLmdldFJlc3VsdCgpLmdldEZvcm1hdHRlZEFkZHJlc3MoKQoJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNvbmNhdChnZW9Mb2NhdGlvbi5nZXREYXRhKCkuZ2V0UmVzdWx0KCkuZ2V0U2VtYXRpY0Rlc2NyaXB0aW9uKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEphY2tzb24K</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLwkJU3RyaW5nIGxvY2F0aW9uID0gbWFwU2VydmljZS5nZXRHZW9jb2RlKGxhdGl0dWRlLCBsb25naXR1ZGUpOwo=</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlSZXNwb25zZVdyYXBwZXI8Y24ud29uZGVyc2hhcmUucmVwb3NpdG9yeS5wb2pvLkdlb0xvY2F0aW9uPiBnZW9Mb2NhdGlvbiA9IG1hcFNlcnZpY2UK</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
- * Created by Wangfl on 2017/6/30.
- */</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CS8qCgkJICogewoJCSAic3RhdHVzIjogMCwKCQkgInJlc3VsdCI6IHsKCQkgImxvY2F0aW9uIjogewoJCSAibG5nIjogMTE0LjEwNTIwNTk5OTk5OTk3LAoJCSAibGF0IjogMjIuNTc4NDE5MDAwMzY4MDMzCgoJCSB9LAoJCSAiZm9ybWF0dGVkX2FkZHJlc3MiOiAiueO2q8qhye7b2srQwt66/sf4IiwKCQkgImJ1c2luZXNzIjogIsTguNos0vi6/izH5cuuutMiLAoJCSAiYWRkcmVzc0NvbXBvbmVudCI6IHsKCQkgImNvdW50cnkiOiAi1tC5+iIsCgkJICJjb3VudHJ5X2NvZGUiOiAwLAoJCSAicHJvdmluY2UiOiAiueO2q8qhIiwKCQkgImNpdHkiOiAiye7b2srQIiwKCQkgImRpc3RyaWN0IjogIsLeuv7H+CIsCgkJICJhZGNvZGUiOiAiNDQwMzAzIiwKCQkgInN0cmVldCI6ICIiLAoJCSAic3RyZWV0X251bWJlciI6ICIiLAoJCSAiZGlyZWN0aW9uIjogIiIsCgkJICJkaXN0YW5jZSI6ICIiCgkJIH0sCgkJICJwb2lzIjogW10sCgkJICJyb2FkcyI6IFtdLAoJCSAicG9pUmVnaW9ucyI6IFtdLAoJCSAic2VtYXRpY19kZXNjcmlwdGlvbiI6ICLNrbnExaW2q8TPNDY0w9ciLAoJCSAiY2l0eUNvZGUiOiAzNDAKCQkgfQoJCSB9CgkJICov</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlAVmFsaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcmVzdWx0ID0gcmVzdFRlbXBsYXRlLmdldEZvck9iamVjdCh1cmwsIFN0cmluZy5jbGFzcyk7Cg==</text>
+        <text encoding="base64">QEphY2tzb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>follow</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern>follow</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -327,8 +329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/Contact</entry>
-        <entry>\/Con</entry>
         <entry>\contact</entry>
         <entry>filter</entry>
         <entry>contact</entry>
@@ -347,6 +347,8 @@
         <entry>gson</entry>
         <entry>list</entry>
         <entry>follow</entry>
+        <entry>seach</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
