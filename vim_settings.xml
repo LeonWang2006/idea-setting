@@ -81,6 +81,11 @@
         <mark key="." line="39" column="9" />
         <mark key="^" line="39" column="9" />
       </file>
+      <file name="/Dummy.txt" timestamp="1498889467485">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1498786081693">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -99,11 +104,6 @@
         <mark key="." line="116" column="81" />
         <mark key="^" line="95" column="37" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.java" timestamp="1498196468035">
-        <mark key="[" line="76" column="22" />
-        <mark key="]" line="76" column="22" />
-        <mark key="." line="76" column="22" />
-      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Follows.java" timestamp="1498460792273">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="35" />
@@ -120,9 +120,9 @@
         <mark key="." line="138" column="26" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppRepository.java" timestamp="1498815462088">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="36" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1498792184444">
         <mark key="[" line="211" column="0" />
@@ -132,12 +132,6 @@
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/GeoLocationData.java" timestamp="1498791073694">
         <mark key="^" line="11" column="22" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppContacts.java" timestamp="1498815458078">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="42" column="24" />
-        <mark key="^" line="42" column="24" />
-        <mark key="." line="42" column="24" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1498464738374">
         <mark key="[" line="163" column="114" />
@@ -150,9 +144,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/UserRepository.java" timestamp="1498816193388">
-        <mark key="[" line="38" column="8" />
-      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/UserRepository.java" timestamp="1498816193388" />
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages.properties" timestamp="1498438579829">
         <mark key="[" line="14" column="38" />
       </file>
@@ -164,13 +156,6 @@
         <mark key="[" line="263" column="0" />
         <mark key="]" line="263" column="0" />
         <mark key="." line="263" column="0" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1498816282942">
-        <mark key="'" line="236" column="71" />
-        <mark key="[" line="400" column="121" />
-        <mark key="]" line="400" column="121" />
-        <mark key="." line="400" column="121" />
-        <mark key="^" line="402" column="98" />
       </file>
       <file name="/fragment.java" timestamp="1498785459005">
         <mark key="[" line="0" column="0" />
@@ -282,10 +267,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(&quot;wsId&quot;)</text>
+        <text>日志服务增加统一异常处理模块</text>
       </register>
       <register name="-" type="4">
-        <text>(&quot;wsId&quot;)</text>
+        <text>日志服务增加统一异常处理模块</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
