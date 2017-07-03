@@ -12,6 +12,11 @@
       <file name="/a.dummy" timestamp="1498706491287">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1499046428850">
+        <mark key="[" line="87" column="25" />
+        <mark key="]" line="87" column="25" />
+        <mark key="." line="87" column="25" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1498552795806">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="45" column="22" />
@@ -30,26 +35,6 @@
         <mark key="^" line="91" column="27" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.java" timestamp="1498462472079">
-        <mark key="'" line="74" column="43" />
-        <mark key="[" line="131" column="37" />
-        <mark key="]" line="131" column="40" />
-        <mark key="^" line="131" column="40" />
-        <mark key="." line="144" column="111" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" timestamp="1498455855972">
-        <mark key="'" line="145" column="44" />
-        <mark key="[" line="93" column="39" />
-        <mark key="]" line="93" column="39" />
-        <mark key="^" line="93" column="60" />
-        <mark key="." line="93" column="39" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1498471017793">
-        <mark key="'" line="82" column="5" />
-        <mark key="[" line="89" column="427" />
-        <mark key="]" line="89" column="427" />
-        <mark key="." line="89" column="427" />
-      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/TimeZone.java" timestamp="1498792660449">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="16" column="0" />
@@ -67,19 +52,18 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1498718132600">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499047270391">
         <mark key="'" line="299" column="21" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="58" />
-        <mark key="." line="113" column="113" />
-        <mark key="^" line="144" column="41" />
+        <mark key="[" line="546" column="23" />
+        <mark key="]" line="546" column="23" />
+        <mark key="^" line="543" column="23" />
+        <mark key="." line="546" column="23" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1498296541740">
-        <mark key="'" line="89" column="9" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="22" />
-        <mark key="." line="39" column="9" />
-        <mark key="^" line="39" column="9" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499046748519">
+        <mark key="[" line="88" column="73" />
+        <mark key="]" line="88" column="73" />
+        <mark key="." line="88" column="73" />
+        <mark key="^" line="88" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1498889467485">
         <mark key="[" line="0" column="0" />
@@ -119,11 +103,11 @@
         <mark key="^" line="23" column="20" />
         <mark key="." line="138" column="26" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1498792184444">
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="." line="211" column="0" />
-        <mark key="^" line="211" column="0" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1499046656372">
+        <mark key="[" line="187" column="11" />
+        <mark key="]" line="187" column="11" />
+        <mark key="." line="187" column="11" />
+        <mark key="^" line="149" column="18" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/GeoLocationData.java" timestamp="1498791073694">
         <mark key="^" line="11" column="22" />
@@ -144,12 +128,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1498009692538">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1498782631326">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="263" column="0" />
-        <mark key="." line="263" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1498785459005">
         <mark key="[" line="0" column="0" />
@@ -261,10 +239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>日志服务增加统一异常处理模块</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>日志服务增加统一异常处理模块</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
@@ -273,25 +251,25 @@
         <text encoding="base64">ICAgIExpc3Q8Q29udGFjdD4gZmluZEFsbENvbnRhY3RzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHNpZ24oU3RyaW5nIHVybCwgU3RyaW5nIHdzSWQsIFN0cmluZyBsb2NhdGlvbiwgU3RyaW5nIHRpbWV6b25lLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcmVzdWx0ID0gaW52b2RlRm9sbG93T3JGYW5zKHJlcXVlc3QsIHVybCwgd3NJZCwgdHlwZSk7Cg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdHlwZSA9ICJwZW5kaW5nLWxpc3QiOwo=</text>
+        <text encoding="base64">CQlTdHJpbmcgcmVzdWx0ID0gaW52b2RlRm9sbG93T3JGYW5zKHJlcXVlc3QsIHVybCwgd3NJZCwgdHlwZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdXJsID0gaHJzSG9zdC5jb25jYXQoInVzZXJpbmZvL2ZvbGxvd2xpc3QiKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgdHlwZSA9ICJwZW5kaW5nLWxpc3QiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmaW5kQWxsQ29udGFjdHNFeGNlcHRJZHMK</text>
+        <text encoding="base64">CQlTdHJpbmcgdXJsID0gaHJzSG9zdC5jb25jYXQoInVzZXJpbmZvL2ZvbGxvd2xpc3QiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlAVmFsaWQK</text>
+        <text encoding="base64">CQlmaW5kQWxsQ29udGFjdHNFeGNlcHRJZHMK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQlAVmFsaWQK</text>
