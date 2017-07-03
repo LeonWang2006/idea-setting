@@ -65,12 +65,12 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499061753896">
-        <mark key="'" line="738" column="36" />
-        <mark key="[" line="737" column="24" />
-        <mark key="]" line="738" column="36" />
-        <mark key="^" line="738" column="36" />
-        <mark key="." line="738" column="36" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499065197867">
+        <mark key="'" line="740" column="36" />
+        <mark key="[" line="509" column="101" />
+        <mark key="]" line="516" column="69" />
+        <mark key="^" line="475" column="63" />
+        <mark key="." line="516" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499046748519">
         <mark key="[" line="88" column="73" />
@@ -264,16 +264,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CUBTZXJpYWxpemVkTmFtZSgicmVsYXRlX3Jlc3BfaWQiKQo=</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g16q3osfrx/Mge30iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCB1cmwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>WOS[v1/toplist]-</text>
+        <text>WOS[v1/log/has-write-log]-</text>
       </register>
       <register name="/" type="4">
         <text>has-write-log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBTZXJpYWxpemVkTmFtZSgicmVsYXRlX3Jlc3BfaWQiKQo=</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g16q3osfrx/Mge30iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCB1cmwpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHNpZ24oU3RyaW5nIHVybCwgU3RyaW5nIHdzSWQsIFN0cmluZyBsb2NhdGlvbiwgU3RyaW5nIHRpbWV6b25lLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewo=</text>
