@@ -72,11 +72,11 @@
         <mark key="^" line="91" column="23" />
         <mark key="." line="91" column="23" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499046748519">
-        <mark key="[" line="88" column="73" />
-        <mark key="]" line="88" column="73" />
-        <mark key="." line="88" column="73" />
-        <mark key="^" line="88" column="26" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499072104277">
+        <mark key="[" line="84" column="26" />
+        <mark key="]" line="84" column="26" />
+        <mark key="." line="84" column="26" />
+        <mark key="^" line="80" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1498889467485">
         <mark key="[" line="0" column="0" />
@@ -142,12 +142,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1498009692538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1499050164969">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="601" column="33" />
-        <mark key="]" line="601" column="33" />
-        <mark key="." line="601" column="33" />
-        <mark key="^" line="584" column="12" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1499071565665">
+        <mark key="'" line="186" column="42" />
+        <mark key="[" line="265" column="111" />
+        <mark key="]" line="186" column="42" />
+        <mark key="." line="186" column="42" />
+        <mark key="^" line="186" column="42" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1499049379351">
         <mark key="[" line="553" column="15" />
@@ -161,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="50" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="606" column="8" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="636" column="54" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="638" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -261,16 +260,17 @@
       <jump line="220" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="225" column="50" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="269" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="186" column="42" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g16q3osfrx/Mge30iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCB1cmwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>WOS[v1/log/has-write-log]-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g16q3osfrx/Mge30iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCB1cmwpOwo=</text>
@@ -310,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -320,7 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/follows</entry>
         <entry>last</entry>
         <entry>em</entry>
         <entry>isRead</entry>
@@ -340,6 +339,7 @@
         <entry>status</entry>
         <entry>has-write-log</entry>
         <entry>save</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
