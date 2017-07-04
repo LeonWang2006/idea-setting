@@ -65,12 +65,12 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499077189978">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499140496771">
         <mark key="'" line="269" column="18" />
         <mark key="[" line="633" column="269" />
-        <mark key="]" line="633" column="269" />
-        <mark key="^" line="633" column="202" />
-        <mark key="." line="633" column="269" />
+        <mark key="]" line="86" column="4" />
+        <mark key="^" line="86" column="4" />
+        <mark key="." line="86" column="4" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499075618006">
         <mark key="'" line="90" column="18" />
@@ -150,7 +150,8 @@
         <mark key="." line="426" column="49" />
         <mark key="^" line="426" column="49" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1499049379351">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1499140866278">
+        <mark key="'" line="210" column="20" />
         <mark key="[" line="553" column="15" />
         <mark key="]" line="553" column="15" />
         <mark key="." line="553" column="15" />
@@ -162,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="24" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="267" column="54" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="270" column="17" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="275" column="8" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
@@ -262,6 +262,7 @@
       <jump line="269" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="86" column="68" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
       <jump line="426" column="49" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
+      <jump line="210" column="20" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -271,7 +272,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>remind</text>
+        <text>我申请</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g16q3osfrx/Mge30iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCB1cmwpOwo=</text>
@@ -311,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remind</last-search>
+      <last-search>我申请</last-search>
       <last-offset />
-      <last-pattern>remind</last-pattern>
+      <last-pattern>我申请</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -321,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>em</entry>
         <entry>isRead</entry>
         <entry>date</entry>
         <entry>Pattern</entry>
@@ -341,6 +341,7 @@
         <entry>mail</entry>
         <entry>save</entry>
         <entry>remind</entry>
+        <entry>我申请</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
