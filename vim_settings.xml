@@ -56,18 +56,18 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499159919099">
-        <mark key="'" line="269" column="18" />
-        <mark key="[" line="662" column="73" />
-        <mark key="]" line="662" column="73" />
-        <mark key="^" line="594" column="84" />
-        <mark key="." line="662" column="73" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499161923580">
+        <mark key="'" line="267" column="18" />
+        <mark key="[" line="660" column="52" />
+        <mark key="]" line="660" column="70" />
+        <mark key="." line="660" column="70" />
+        <mark key="^" line="660" column="70" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499075618006">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499161479103">
         <mark key="'" line="90" column="18" />
-        <mark key="[" line="84" column="26" />
-        <mark key="]" line="84" column="26" />
-        <mark key="." line="84" column="26" />
+        <mark key="[" line="90" column="107" />
+        <mark key="]" line="90" column="83" />
+        <mark key="." line="90" column="83" />
         <mark key="^" line="80" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1498889467485">
@@ -251,10 +251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>size</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -263,34 +263,34 @@
         <text>log_detail_type</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBTZXJpYWxpemVkTmFtZSgibG9nX2NvbnRlbnQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CS8vInRpbWVzdGFtcCI6IDE0OTkxNDgyMzIsCgkvLyJzdGF0dXMiOiAyMDAsCgkvLyAgImRhdGEiOiBb</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCQljb3VudCArPSBhcHBsb2cuZ2V0TG9nQ29udGVudCgpLnNpemUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHNpZ24oU3RyaW5nIHVybCwgU3RyaW5nIHdzSWQsIFN0cmluZyBsb2NhdGlvbiwgU3RyaW5nIHRpbWV6b25lLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewo=</text>
+        <text encoding="base64">CQkJCQkJCQkJcGhwd2luZGlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQljb3VudCArPSBhcHBsb2cuZ2V0TG9nQ29udGVudCgpLnNpemUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcmVzdWx0ID0gaW52b2RlRm9sbG93T3JGYW5zKHJlcXVlc3QsIHVybCwgd3NJZCwgdHlwZSk7Cg==</text>
+        <text encoding="base64">CUBTZXJpYWxpemVkTmFtZSgibG9nX2NvbnRlbnQiKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdHlwZSA9ICJwZW5kaW5nLWxpc3QiOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CS8vInRpbWVzdGFtcCI6IDE0OTkxNDgyMzIsCgkvLyJzdGF0dXMiOiAyMDAsCgkvLyAgImRhdGEiOiBb</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdXJsID0gaHJzSG9zdC5jb25jYXQoInVzZXJpbmZvL2ZvbGxvd2xpc3QiKTsK</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHNpZ24oU3RyaW5nIHVybCwgU3RyaW5nIHdzSWQsIFN0cmluZyBsb2NhdGlvbiwgU3RyaW5nIHRpbWV6b25lLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmaW5kQWxsQ29udGFjdHNFeGNlcHRJZHMK</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlAVmFsaWQK</text>
+        <text encoding="base64">CQlTdHJpbmcgcmVzdWx0ID0gaW52b2RlRm9sbG93T3JGYW5zKHJlcXVlc3QsIHVybCwgd3NJZCwgdHlwZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
