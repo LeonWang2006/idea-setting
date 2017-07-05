@@ -61,12 +61,9 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499216234913">
-        <mark key="'" line="267" column="18" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499218276027">
+        <mark key="'" line="116" column="0" />
         <mark key="[" line="627" column="104" />
-        <mark key="]" line="627" column="104" />
-        <mark key="." line="627" column="104" />
-        <mark key="^" line="628" column="53" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499161479103">
         <mark key="'" line="90" column="18" />
@@ -153,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="378" column="55" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="480" column="118" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="122" column="36" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="620" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -253,6 +249,7 @@
       <jump line="220" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="225" column="50" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="269" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="116" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -262,7 +259,7 @@
         <text>, example = &quot;'糟糕','较坏','一般','较好','愉悦'&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>留言</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gImZlZWwiLCB2YWx1ZSA9ICK98czsuaTX97jQvvUiLCBwYXJhbVR5cGUgPSAicXVlcnkiLGV4YW1wbGUgPSAiJ9TjuOInLCe9z7u1Jywn0ruw4ycsJ73PusMnLCfT5NTDJyIpCg==</text>
@@ -302,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>留言</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>留言</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
         <entry>Pattern</entry>
         <entry>fans</entry>
         <entry>gos</entry>
@@ -332,6 +328,7 @@
         <entry>我</entry>
         <entry>我申请</entry>
         <entry>save</entry>
+        <entry>留言</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
