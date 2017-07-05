@@ -45,12 +45,6 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1498471017793">
-        <mark key="'" line="82" column="5" />
-        <mark key="[" line="89" column="427" />
-        <mark key="]" line="89" column="427" />
-        <mark key="." line="89" column="427" />
-      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/TimeZone.java" timestamp="1498792660449">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="16" column="0" />
@@ -62,11 +56,12 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499177095030">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499215047522">
         <mark key="'" line="267" column="18" />
-        <mark key="[" line="677" column="0" />
-        <mark key="]" line="677" column="0" />
-        <mark key="." line="677" column="0" />
+        <mark key="[" line="628" column="77" />
+        <mark key="]" line="628" column="77" />
+        <mark key="." line="628" column="77" />
+        <mark key="^" line="628" column="53" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499161479103">
         <mark key="'" line="90" column="18" />
@@ -255,17 +250,17 @@
       <jump line="269" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>example = &quot;'糟糕','较坏','一般','较好','愉悦'&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>example = &quot;'糟糕','较坏','一般','较好','愉悦'&quot;</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJZHV0eS5zZXRMb2dEZXRhaWxJZCgwTCk7Cg==</text>
+        <text encoding="base64">CQlAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gImZlZWwiLCB2YWx1ZSA9ICK98czsuaTX97jQvvUiLCBwYXJhbVR5cGUgPSAicXVlcnkiLGV4YW1wbGUgPSAiJ9TjuOInLCe9z7u1Jywn0ruw4ycsJ73PusMnLCfT5NTDJyIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
