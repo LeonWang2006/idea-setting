@@ -67,8 +67,8 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499245560082">
-        <mark key="'" line="122" column="19" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499247366202">
+        <mark key="'" line="242" column="69" />
         <mark key="]" line="491" column="56" />
         <mark key="^" line="491" column="56" />
         <mark key="." line="491" column="56" />
@@ -80,7 +80,7 @@
         <mark key="." line="90" column="83" />
         <mark key="^" line="80" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498889467485">
+      <file name="/Dummy.txt" timestamp="1499247249473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -134,20 +134,20 @@
         <mark key="." line="40" column="37" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1499170610365">
-        <mark key="[" line="163" column="114" />
-        <mark key="]" line="163" column="114" />
-        <mark key="." line="163" column="114" />
-        <mark key="^" line="146" column="71" />
+        <mark key="[" line="140" column="114" />
+        <mark key="]" line="140" column="114" />
+        <mark key="." line="140" column="114" />
+        <mark key="^" line="123" column="71" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/GeoLocation.java" timestamp="1498792650637">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.java" timestamp="1499244950434">
-        <mark key="[" line="125" column="39" />
-        <mark key="]" line="125" column="39" />
-        <mark key="." line="125" column="39" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.java" timestamp="1499248068569">
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="12" />
+        <mark key="." line="88" column="12" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages.properties" timestamp="1499247164074">
         <mark key="[" line="33" column="38" />
@@ -181,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="563" column="29" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="436" column="13" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="596" column="9" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="43" column="36" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -281,58 +280,59 @@
       <jump line="534" column="37" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="233" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="122" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="242" column="69" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">ZXNwb25zZVdyYXBwZXI8TGlzdDxEdXR5Pj4=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">ZXNwb25zZVdyYXBwZXI8TGlzdDxEdXR5Pj4=</text>
       </register>
       <register name="/" type="4">
-        <text>comment</text>
+        <text>fix</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHdvc0hvc3QgPSBFbnZQYXJhbXNDb25maWcuZ2V0V29zSG9zdCgpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgR3NvbiBnc29uID0gbmV3IEdzb24oKTsKICAgICAgICAgICAgV29zUmVzcG9uc2U8TGlua2VkTGlzdDxEdXR5Pj4gZHV0eXMgPSBnc29uLmZyb21Kc29uKGR1dHlSZXNwb25zZSwgbmV3IFR5cGVUb2tlbjxXb3NSZXNwb25zZTxMaW5rZWRMaXN0PER1dHk+Pj4oKSB7fS5nZXRUeXBlKCkpOwogICAgICAgICAgICBpZiAoZHV0eXMuZ2V0U3RhdHVzKCkgIT0gMjAwKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUmVzdEV4Y2VwdGlvbihSZXN0U2VydmljZUVycm9yLlR5cGUuTk9fQ09OVEVOVCwgImVycm9yLm9yZy5ub2NvbnRlbnQiKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQltYWlsU2VuZGVyLnNlbmQobWVzc2FnZSk7Ly+3osvN08q8/go=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgIFN0cmluZyByZXN1bHQgPSByZXNwb25zZUVudGl0eS5nZXRCb2R5KCk7CgkJCWphdmEubGFuZy5yZWZsZWN0LlR5cGUganNvblR5cGUgPSBuZXcgVHlwZVRva2VuPFdvc1Jlc3BvbnNlPEJvb2xlYW4+PigpIHt9LmdldFR5cGUoKTsKCQkJV29zUmVzcG9uc2U8Qm9vbGVhbj4gcmVzcG9uc2UgPSBnc29uLmZyb21Kc29uKHJlc3VsdCwganNvblR5cGUpOw==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGdzb24uZnJvbUpzb24ocmVzdWx0LCkK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQkvKkBmb3JtYXR0ZXI6b2ZmKi8KCUBBcGlJbXBsaWNpdFBhcmFtcyh7CgkJQEFwaUltcGxpY2l0UGFyYW0ocmVxdWlyZWQgPSB0cnVlLCBuYW1lID0gImxvZ0lkIiwgdmFsdWUgPSAiyNXWvklEIiwgcGFyYW1UeXBlID0gInF1ZXJ5IiksCgkJQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJkZXRhaWxJZCIsIHZhbHVlID0gIsjV1r7P6sfpSUQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKCQlAQXBpSW1wbGljaXRQYXJhbShyZXF1aXJlZCA9IHRydWUsIG5hbWUgPSAiY29tbWVudCIsIHZhbHVlID0gIsjV1r7GwMLbxNrI3SIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCgl9KQoJLypAZm9ybWF0dGVyOm9uKi8=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQltYWlsU2VuZGVyLnNlbmQobWVzc2FnZSk7Ly+3osvN08q8/go=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgIFN0cmluZyByZXN1bHQgPSByZXNwb25zZUVudGl0eS5nZXRCb2R5KCk7CgkJCWphdmEubGFuZy5yZWZsZWN0LlR5cGUganNvblR5cGUgPSBuZXcgVHlwZVRva2VuPFdvc1Jlc3BvbnNlPEJvb2xlYW4+PigpIHt9LmdldFR5cGUoKTsKCQkJV29zUmVzcG9uc2U8Qm9vbGVhbj4gcmVzcG9uc2UgPSBnc29uLmZyb21Kc29uKHJlc3VsdCwganNvblR5cGUpOw==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIGdzb24uZnJvbUpzb24ocmVzdWx0LCkK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CQkvKkBmb3JtYXR0ZXI6b2ZmKi8KCUBBcGlJbXBsaWNpdFBhcmFtcyh7CgkJQEFwaUltcGxpY2l0UGFyYW0ocmVxdWlyZWQgPSB0cnVlLCBuYW1lID0gImxvZ0lkIiwgdmFsdWUgPSAiyNXWvklEIiwgcGFyYW1UeXBlID0gInF1ZXJ5IiksCgkJQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJkZXRhaWxJZCIsIHZhbHVlID0gIsjV1r7P6sfpSUQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKCQlAQXBpSW1wbGljaXRQYXJhbShyZXF1aXJlZCA9IHRydWUsIG5hbWUgPSAiY29tbWVudCIsIHZhbHVlID0gIsjV1r7GwMLbxNrI3SIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCgl9KQoJLypAZm9ybWF0dGVyOm9uKi8=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbWFwLmFkZCgiZGV0YWlsX2lkIiwgZGV0YWlsSWQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJU2V0PFN0cmluZz4ganNvblJlc3VsdCA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
+        <text encoding="base64">CQkJbWFwLmFkZCgiZGV0YWlsX2lkIiwgZGV0YWlsSWQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>comment</last-search>
+      <last-search>fix</last-search>
       <last-offset />
-      <last-pattern>comment</last-pattern>
+      <last-pattern>fix</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -340,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>seach</entry>
         <entry>search</entry>
         <entry>sea</entry>
         <entry>s</entry>
@@ -360,6 +359,7 @@
         <entry>\/map</entry>
         <entry>list</entry>
         <entry>comment</entry>
+        <entry>fix</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
