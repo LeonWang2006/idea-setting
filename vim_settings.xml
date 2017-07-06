@@ -67,11 +67,11 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499303585145">
-        <mark key="'" line="122" column="19" />
-        <mark key="]" line="491" column="56" />
-        <mark key="^" line="491" column="56" />
-        <mark key="." line="491" column="56" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499304773218">
+        <mark key="'" line="580" column="8" />
+        <mark key="]" line="490" column="56" />
+        <mark key="^" line="490" column="56" />
+        <mark key="." line="490" column="56" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499161479103">
         <mark key="'" line="90" column="18" />
@@ -181,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="596" column="9" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="43" column="36" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="108" column="9" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="118" column="44" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" />
@@ -281,6 +280,7 @@
       <jump line="242" column="69" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="715" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="122" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="581" column="8" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -290,7 +290,7 @@
         <text>DepWrapper</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHdvc0hvc3QgPSBFbnZQYXJhbXNDb25maWcuZ2V0V29zSG9zdCgpOwo=</text>
@@ -330,9 +330,9 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -340,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>search</entry>
         <entry>sea</entry>
         <entry>s</entry>
         <entry>日志留言</entry>
@@ -360,6 +359,7 @@
         <entry>comment</entry>
         <entry>fix</entry>
         <entry>list</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
