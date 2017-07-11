@@ -71,8 +71,8 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499675020773">
-        <mark key="'" line="232" column="15" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499742786988">
+        <mark key="'" line="80" column="4" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="43" />
         <mark key="^" line="228" column="50" />
@@ -177,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="42" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
       <jump line="54" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" />
       <jump line="90" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" />
       <jump line="687" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -277,6 +276,7 @@
       <jump line="118" column="8" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="232" column="15" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="99" column="238" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" />
+      <jump line="80" column="4" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -286,7 +286,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text>status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJbWFwLmFkZCgid3NfaWQiLCBlbXBsb3llZUlkKTsK</text>
@@ -326,9 +326,9 @@
       </register>
     </registers>
     <search>
-      <last-search>detail</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -336,7 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>我</entry>
         <entry>我申请</entry>
         <entry>留言</entry>
         <entry>关注</entry>
@@ -356,6 +355,7 @@
         <entry>comment</entry>
         <entry>list</entry>
         <entry>detail</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
