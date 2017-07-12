@@ -15,12 +15,12 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1499850863300">
-        <mark key="'" line="100" column="238" />
-        <mark key="[" line="53" column="71" />
-        <mark key="]" line="53" column="71" />
-        <mark key="^" line="113" column="47" />
-        <mark key="." line="53" column="71" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1499851567487">
+        <mark key="'" line="102" column="238" />
+        <mark key="[" line="79" column="29" />
+        <mark key="]" line="79" column="32" />
+        <mark key="^" line="79" column="32" />
+        <mark key="." line="79" column="32" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/RelatePersons.java" timestamp="1499224935305">
         <mark key="[" line="12" column="38" />
@@ -275,16 +275,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>math.BigInteger</text>
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>math.BigInteger</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCWxvZ0RldGFpbC5zZXREYXRlKGFwcFVzZXJMb2cuZ2V0RGF0ZSgpKTsK</text>
+      <register name="0" type="4">
+        <text>base64Credentials.split(&quot;:&quot;)[0]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
