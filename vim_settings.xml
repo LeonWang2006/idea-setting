@@ -71,12 +71,12 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499825645159">
-        <mark key="'" line="290" column="18" />
-        <mark key="[" line="632" column="23" />
-        <mark key="]" line="632" column="44" />
-        <mark key="^" line="632" column="44" />
-        <mark key="." line="632" column="44" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1499827367167">
+        <mark key="'" line="139" column="54" />
+        <mark key="[" line="144" column="53" />
+        <mark key="]" line="144" column="53" />
+        <mark key="^" line="75" column="50" />
+        <mark key="." line="144" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1499760925547">
         <mark key="[" line="0" column="0" />
@@ -172,15 +172,13 @@
         <mark key="." line="583" column="8" />
         <mark key="^" line="583" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1499228840952">
+      <file name="/fragment.java" timestamp="1499827535524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="37" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="125" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="699" column="51" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="205" column="51" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="156" column="47" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -220,7 +218,6 @@
       <jump line="456" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="526" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="533" column="37" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="121" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="324" column="15" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="528" column="180" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="201" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
@@ -279,16 +276,19 @@
       <jump line="241" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="246" column="50" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="290" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="75" column="50" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="121" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="139" column="54" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoaWthcmlDb25maWcuc2V0Q29ubmVjdGlvbkluaXRTcWwoIlNFVCBHTE9CQUwgZ3JvdXBfY29uY2F0X21heF9sZW4gPSAxMDI0MDAiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>replaceAll(&quot;[\s]&quot;, &quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>replaceAll(&quot;[\s]&quot;, &quot;&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBoaWthcmlDb25maWcuc2V0Q29ubmVjdGlvbkluaXRTcWwoIlNFVCBHTE9CQUwgZ3JvdXBfY29uY2F0X21heF9sZW4gPSAxMDI0MDAiKTsK</text>
@@ -328,9 +328,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -350,7 +350,6 @@
         <entry>log</entry>
         <entry>\/save</entry>
         <entry>comment</entry>
-        <entry>list</entry>
         <entry>detail</entry>
         <entry>status</entry>
         <entry>fans</entry>
@@ -358,6 +357,7 @@
         <entry>employeeIds</entry>
         <entry>filter</entry>
         <entry>save</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
