@@ -47,8 +47,8 @@
         <mark key="^" line="91" column="27" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppLogWrapper.java" timestamp="1499216321969">
-        <mark key="[" line="29" column="0" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppLogWrapper.java" timestamp="1500110470690">
+        <mark key="[" line="15" column="16" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="12" column="36" />
         <mark key="." line="29" column="0" />
@@ -81,12 +81,12 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500090340211">
-        <mark key="'" line="157" column="19" />
-        <mark key="[" line="271" column="308" />
-        <mark key="]" line="235" column="45" />
-        <mark key="^" line="235" column="45" />
-        <mark key="." line="235" column="45" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500110433186">
+        <mark key="'" line="154" column="19" />
+        <mark key="[" line="664" column="73" />
+        <mark key="]" line="232" column="45" />
+        <mark key="^" line="232" column="45" />
+        <mark key="." line="232" column="45" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499862366990">
         <mark key="'" line="97" column="18" />
@@ -95,7 +95,7 @@
         <mark key="." line="125" column="176" />
         <mark key="^" line="108" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499760925547">
+      <file name="/Dummy.txt" timestamp="1500110349122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -297,10 +297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>evaluate_count,view_count</text>
+        <text>增加数据校验与BUG修复</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>增加数据校验与BUG修复</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
