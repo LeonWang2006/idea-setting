@@ -64,6 +64,7 @@
         <mark key="." line="125" column="176" />
         <mark key="^" line="108" column="57" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.java" timestamp="1500271214386" />
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1499743563845">
         <mark key="[" line="39" column="38" />
         <mark key="]" line="39" column="38" />
@@ -148,12 +149,12 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500263852436">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500271175091">
         <mark key="'" line="289" column="18" />
         <mark key="[" line="628" column="63" />
-        <mark key="]" line="628" column="63" />
-        <mark key="^" line="626" column="105" />
-        <mark key="." line="628" column="63" />
+        <mark key="]" line="724" column="72" />
+        <mark key="^" line="724" column="72" />
+        <mark key="." line="724" column="72" />
       </file>
       <file name="/Dummy.txt" timestamp="1500262182133">
         <mark key="[" line="0" column="0" />
@@ -207,6 +208,9 @@
         <mark key="]" line="19" column="183" />
         <mark key="." line="19" column="183" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1500271184068">
+        <mark key="'" line="262" column="16" />
+      </file>
       <file name="/fragment.java" timestamp="1500261101184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -214,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="69" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="715" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="581" column="8" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="261" column="20" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -314,6 +317,7 @@
       <jump line="240" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="245" column="50" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="289" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="262" column="16" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -323,7 +327,7 @@
         <text>明日计划</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gInBsYW4iLCB2YWx1ZSA9ICLD98jVvMa7riIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
@@ -363,9 +367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -385,7 +389,6 @@
         <entry>employeeIds</entry>
         <entry>auth</entry>
         <entry>filter</entry>
-        <entry>detail</entry>
         <entry>fix-date</entry>
         <entry>sign</entry>
         <entry>contact</entry>
@@ -393,6 +396,7 @@
         <entry>fix</entry>
         <entry>list</entry>
         <entry>save</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
