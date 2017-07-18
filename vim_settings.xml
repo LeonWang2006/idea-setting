@@ -210,12 +210,12 @@
         <mark key="]" line="19" column="183" />
         <mark key="." line="19" column="183" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1500277657521">
-        <mark key="'" line="264" column="31" />
-        <mark key="[" line="523" column="64" />
-        <mark key="]" line="417" column="23" />
-        <mark key="^" line="417" column="23" />
-        <mark key="." line="417" column="23" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1500368206634">
+        <mark key="'" line="128" column="20" />
+        <mark key="[" line="174" column="20" />
+        <mark key="]" line="174" column="20" />
+        <mark key="^" line="174" column="49" />
+        <mark key="." line="174" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1500261101184">
         <mark key="[" line="0" column="0" />
@@ -224,9 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="15" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="528" column="180" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="201" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="281" column="15" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="282" column="66" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="284" column="23" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
@@ -324,16 +321,19 @@
       <jump line="263" column="29" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="264" column="31" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="619" column="21" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="344" column="48" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="93" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="128" column="20" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>明日计划</text>
+        <text>(BigDecimal)</text>
       </register>
       <register name="-" type="4">
-        <text>明日计划</text>
+        <text>(BigDecimal)</text>
       </register>
       <register name="/" type="4">
-        <text>person</text>
+        <text>auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gInBsYW4iLCB2YWx1ZSA9ICLD98jVvMa7riIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
@@ -373,9 +373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>person</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>person</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -391,7 +391,6 @@
         <entry>fans</entry>
         <entry>v1</entry>
         <entry>employeeIds</entry>
-        <entry>auth</entry>
         <entry>filter</entry>
         <entry>fix-date</entry>
         <entry>sign</entry>
@@ -399,10 +398,11 @@
         <entry>fix</entry>
         <entry>list</entry>
         <entry>save</entry>
-        <entry>detail</entry>
         <entry>contact</entry>
         <entry>getPeson</entry>
         <entry>person</entry>
+        <entry>detail</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
