@@ -213,12 +213,12 @@
         <mark key="]" line="19" column="183" />
         <mark key="." line="19" column="183" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1500380259088">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1500381720274">
         <mark key="'" line="143" column="23" />
-        <mark key="[" line="358" column="38" />
-        <mark key="]" line="358" column="38" />
-        <mark key="^" line="354" column="100" />
-        <mark key="." line="358" column="38" />
+        <mark key="[" line="356" column="67" />
+        <mark key="]" line="356" column="68" />
+        <mark key="^" line="356" column="68" />
+        <mark key="." line="356" column="68" />
       </file>
       <file name="/fragment.java" timestamp="1500261101184">
         <mark key="[" line="0" column="0" />
@@ -330,16 +330,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Avatar</text>
+        <text>wsId</text>
       </register>
       <register name="-" type="4">
-        <text>Avatar</text>
+        <text>wsId</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CUBBcGlPcGVyYXRpb24obm90ZXMgPSAiu/HIodPDu6fNt8/xIiwgdmFsdWUgPSAiu/HIodPDu6fNt8/xIikKCUBBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJ3c0lkIiwgdmFsdWUgPSAi08O7p7mkusUiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQoJQEdldE1hcHBpbmcoeyIvYXZhdGFycyJ9KQoJcHVibGljIFJlc3BvbnNlV3JhcHBlcjxTdHJpbmc+IGdldEF2YXRhcihAUGF0dGVybihyZWdleHAgPSBXU0lEKSBAUmVxdWVzdFBhcmFtKCJ3c0lkIikgU3RyaW5nIHdzSWQsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0KSB7CgoJCWxvZ2dlci5pbmZvKCJ7fSB7fSBHRVQgL3VzZXJzL2F2YXRhcnM/d3NJZD17fSBbu/HIodPDu6fNt8/xXSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlcXVlc3QuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSwgd3NJZCk7CgkJU3RyaW5nIGF2YXRhclJlc3VsdCA9IHRoaXMuYXBwUmVwb3NpdG9yeS5nZXRBdmF0YXIod3NJZCk7CgkJcmV0dXJuIChhdmF0YXJSZXN1bHQgIT0gbnVsbCAmJiAhYXZhdGFyUmVzdWx0LmlzRW1wdHkoKSkgPyBuZXcgUmVzcG9uc2VXcmFwcGVyPD4oYXZhdGFyUmVzdWx0KSA6IG5ldyBSZXNwb25zZVdyYXBwZXI8PigiX25vYXZhdGFyX3VzZXIuZ2lmIik7Cgl9Cg==</text>
+      <register name="0" type="4">
+        <text>获取目标用户关系</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNmID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsK</text>
