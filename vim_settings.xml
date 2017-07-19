@@ -213,12 +213,11 @@
         <mark key="]" line="19" column="183" />
         <mark key="." line="19" column="183" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1500430980537">
-        <mark key="'" line="120" column="46" />
-        <mark key="[" line="174" column="35" />
-        <mark key="]" line="174" column="35" />
-        <mark key="^" line="375" column="73" />
-        <mark key="." line="174" column="35" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1500432520690">
+        <mark key="'" line="117" column="46" />
+        <mark key="[" line="509" column="97" />
+        <mark key="]" line="509" column="97" />
+        <mark key="." line="509" column="97" />
       </file>
       <file name="/fragment.java" timestamp="1500430598453">
         <mark key="[" line="0" column="6" />
@@ -330,10 +329,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(BigInteger)</text>
+        <text>(&quot;wsId&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>(BigInteger)</text>
+        <text>(&quot;wsId&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>auth</text>
@@ -342,34 +341,34 @@
         <text>hrsHost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJTXVsdGlWYWx1ZU1hcDxTdHJpbmcsIFN0cmluZz4gbWFwID0gbmV3IExpbmtlZE11bHRpVmFsdWVNYXA8PigpOwo=</text>
+        <text encoding="base64">CQl0aGlzLmVtID0gZW07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJSHR0cEVudGl0eTxNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPj4gcmVzdFJlcXVlc3QgPSBuZXcgSHR0cEVudGl0eTw+KG1hcCwgaGVhZGVycyk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgRW50aXR5TWFuYWdlciBlbTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJaGVhZGVycy5zZXRDb250ZW50VHlwZShNZWRpYVR5cGUuQVBQTElDQVRJT05fRk9STV9VUkxFTkNPREVEKTsK</text>
+        <text encoding="base64">CQkJTXVsdGlWYWx1ZU1hcDxTdHJpbmcsIFN0cmluZz4gbWFwID0gbmV3IExpbmtlZE11bHRpVmFsdWVNYXA8PigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJSHR0cEhlYWRlcnMgaGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwo=</text>
+        <text encoding="base64">CQkJSHR0cEVudGl0eTxNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPj4gcmVzdFJlcXVlc3QgPSBuZXcgSHR0cEVudGl0eTw+KG1hcCwgaGVhZGVycyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJR3NvbiBnc29uID0gbmV3IEdzb24oKTsK</text>
+        <text encoding="base64">CQkJaGVhZGVycy5zZXRDb250ZW50VHlwZShNZWRpYVR5cGUuQVBQTElDQVRJT05fRk9STV9VUkxFTkNPREVEKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaGVhZGVycy5zZXRDb250ZW50VHlwZShNZWRpYVR5cGUuQVBQTElDQVRJT05fRk9STV9VUkxFTkNPREVEKTsKCQkJUmVzcG9uc2VFbnRpdHk8U3RyaW5nPiByZXNwb25zZSA9IHJlc3RUZW1wbGF0ZS5nZXRGb3JFbnRpdHkodXJsLCBTdHJpbmcuY2xhc3MpOwo=</text>
+        <text encoding="base64">CQkJSHR0cEhlYWRlcnMgaGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkJR3NvbiBnc29uID0gbmV3IEdzb24oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJSHR0cEVudGl0eTxNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPj4gcmVzdFJlcXVlc3QgPSBuZXcgSHR0cEVudGl0eTw+KG1hcCwgaGVhZGVycyk7Cg==</text>
+        <text encoding="base64">CQkJaGVhZGVycy5zZXRDb250ZW50VHlwZShNZWRpYVR5cGUuQVBQTElDQVRJT05fRk9STV9VUkxFTkNPREVEKTsKCQkJUmVzcG9uc2VFbnRpdHk8U3RyaW5nPiByZXNwb25zZSA9IHJlc3RUZW1wbGF0ZS5nZXRGb3JFbnRpdHkodXJsLCBTdHJpbmcuY2xhc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbWFwLmFkZCgidXNlcmlkX2xpc3QiLCBlbXBsb3llZUpzb24pOwo=</text>
+        <text encoding="base64">CQkJR3NvbiBnc29uID0gbmV3IEdzb24oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
