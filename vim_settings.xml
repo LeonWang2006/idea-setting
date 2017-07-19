@@ -101,12 +101,12 @@
         <mark key="^" line="231" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/application-dev.yml" timestamp="1499843796884" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500464392031">
-        <mark key="'" line="454" column="0" />
-        <mark key="[" line="485" column="131" />
-        <mark key="]" line="485" column="131" />
-        <mark key="^" line="486" column="43" />
-        <mark key="." line="485" column="131" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500467662891">
+        <mark key="'" line="243" column="20" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
+        <mark key="^" line="493" column="70" />
       </file>
       <file name="/Dummy.txt" timestamp="1500262182133">
         <mark key="[" line="0" column="0" />
@@ -138,8 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="26" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="208" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="268" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="745" column="40" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="239" column="27" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -236,60 +234,68 @@
       <jump line="136" column="54" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="138" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="139" column="31" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="158" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="465" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="158" column="23" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="249" column="43" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="243" column="20" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Collectors.toList()</text>
+        <text>/*			em.joinTransaction();
+			em.createNativeQuery(&quot;UPDATE app_user_logs SET read_ws_id = concat_ws(',',read_ws_id,?1),read_ws_name=concat_ws(',',read_ws_name,?2) WHERE log_id = ?3&quot;)
+			  .setParameter(1, wsId).setParameter(2, name).setParameter(3, id).executeUpdate();
+			em.clear();*/</text>
       </register>
       <register name="-" type="4">
-        <text>Collectors.toList()</text>
+        <text encoding="base64">ZmlsdGVyKHBlcnNvbiAtPiBwZXJzb24uZ2V0SygpLmVxdWFscyh3c0lkKSku</text>
       </register>
       <register name="/" type="4">
-        <text>get-relate-data</text>
+        <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXBlcnNvbnMuYWRkQWxsKHVuZGVybGluZ1BlcnNvbnMpOwo=</text>
+        <text encoding="base64">CQkJCXJlbGF0ZVBlcnNvbnMuZ2V0UGVyc29ucygpLnN0cmVhbSgpLmZpbHRlcihwZXJzb24gLT4gcGVyc29uLmdldEsoKS5lcXVhbHMod3NJZCkpLmZvckVhY2gocGVyc29uIC0+IGpzb25SZXN1bHQuYWRkQWxsKHBlcnNvbi5nZXRWKCkpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/*			em.joinTransaction();
+			em.createNativeQuery(&quot;UPDATE app_user_logs SET read_ws_id = concat_ws(',',read_ws_id,?1),read_ws_name=concat_ws(',',read_ws_name,?2) WHERE log_id = ?3&quot;)
+			  .setParameter(1, wsId).setParameter(2, name).setParameter(3, id).executeUpdate();
+			em.clear();*/</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkJCXBlcnNvbnMgPSBnZXRSZWxhdGVEYXRhKHR5cGUsIGxvZ1BhcmFtLmdldFdzSWQoKSwgcmVxdWVzdCk7Ci8qCQkJCWFwcFVzZXIgPSBhcHBVc2VyUmVwb3NpdG9yeS5maW5kQnlFbXBsb3llZUlkKGxvZ1BhcmFtLmdldFdzSWQoKSk7CgkJCQlpZiAoYXBwVXNlciAhPSBudWxsICYmIGFwcFVzZXIuZ2V0SHJUeXBlKCkuZXF1YWxzKCJIUkQiKSkgewoJCQkJCWhyYnBSZXN1bHQgPSBhcHBVc2VyUmVwb3NpdG9yeS5maW5kQnlIcmJwKGxvZ1BhcmFtLmdldFdzSWQoKSk7CgkJCQl9IGVsc2UgaWYgKGFwcFVzZXIgIT0gbnVsbCAmJiBhcHBVc2VyLmdldEhyVHlwZSgpLmVxdWFscygiSFJCUCIpKSB7CgkJCQkJaHJicFJlc3VsdCA9IGFwcFVzZXJSZXBvc2l0b3J5LmZpbmRCeUhyZChsb2dQYXJhbS5nZXRXc0lkKCkpOwoJCQkJfSBlbHNlIHsKCQkJCQl0aHJvdyBuZXcgUmVzdEV4Y2VwdGlvbihUeXBlLklOVEVSTkFMX1NFUlZFUl9FUlJPUiwgItPDu6fOtMXk1sNIUkJQudzPvbK/w8WjoSIpOwoJCQkJfQoJCQkJcGVyc29ucy5hZGRBbGwoaHJicFJlc3VsdCk7Ki8KCQkJCWJyZWFrOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY2FzZSAiaHJfcGVyc29ucyI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkvLwkJCQkJaHJicFJlc3VsdCA9IGhyc0xvZ1JlcG9zaXRvcnkuZ2V0UGVyc29uRm9ySHJkKGpzb25Xc0lkKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8JCQkJanNvblJlc3VsdC5hZGRBbGwocGVyc29uTGlzdC5zdHJlYW0oKS5tYXAocGVyc29uIC0+IHBlcnNvbi5nZXRWKCkpLmNvbGxlY3QoKSk7Ci8qCQkJCUxpc3Q8UmVsYXRlUGVyc29ucy5QZXJzb24+IHBlcnNvbkxpc3QgPSByZWxhdGVQZXJzb25zLmdldFBlcnNvbnMoKTsKCQkJCWZvciAoUmVsYXRlUGVyc29ucy5QZXJzb24gcGVyc29uIDogcGVyc29uTGlzdCkgewoJCQkJCWlmIChwZXJzb24uZ2V0SygpLmVxdWFscyh3c0lkKSkgewoJCQkJCQlqc29uUmVzdWx0LmFkZEFsbChwZXJzb24uZ2V0VigpKTsKCQkJCQl9CgkJCQl9Ki8=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkvLwkJCQkJU3RyaW5nIGpzb25Xc0lkID0gIltcIiIuY29uY2F0KGxvZ1BhcmFtLmdldFdzSWQoKSkuY29uY2F0KCJcIl0iKTsK</text>
+        <text encoding="base64">CQkJCX0qLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8vCQkJCWhyYnAgPSBocmJwUmVwb3NpdG9yeS5maW5kQnlIcmJwSWQobG9nUGFyYW0uZ2V0V3NJZCgpKTsK</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS8vCQkJCWhyYnAgPSBocmJwUmVwb3NpdG9yeS5maW5kQnlIcmJwSWQobG9nUGFyYW0uZ2V0V3NJZCgpKTsK</text>
+        <text encoding="base64">Ly8JCQkJanNvblJlc3VsdC5hZGRBbGwocGVyc29uTGlzdC5zdHJlYW0oKS5tYXAocGVyc29uIC0+IHBlcnNvbi5nZXRWKCkpLmNvbGxlY3QoKSk7Ci8qCQkJCUxpc3Q8UmVsYXRlUGVyc29ucy5QZXJzb24+IHBlcnNvbkxpc3QgPSByZWxhdGVQZXJzb25zLmdldFBlcnNvbnMoKTsKCQkJCWZvciAoUmVsYXRlUGVyc29ucy5QZXJzb24gcGVyc29uIDogcGVyc29uTGlzdCkgewoJCQkJCWlmIChwZXJzb24uZ2V0SygpLmVxdWFscyh3c0lkKSkgewoJCQkJCQlqc29uUmVzdWx0LmFkZEFsbChwZXJzb24uZ2V0VigpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkvLwkJCQkJaHJwYlJlc3VsdCA9IGhyc0xvZ1JlcG9zaXRvcnkuZ2V0UGVyc29uRm9ySHJkKGpzb25Xc0lkKTsK</text>
+        <text encoding="base64">CQlBcHBVc2VyIGFwcFVzZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkvLwkJCQkJU3RyaW5nIGpzb25Xc0lkID0gIltcIiIuY29uY2F0KGxvZ1BhcmFtLmdldFdzSWQoKSkuY29uY2F0KCJcIl0iKTsK</text>
+        <text encoding="base64">CQlMaXN0PFN0cmluZz4gaHJicFJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get-relate-data</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>get-relate-data</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -299,7 +305,6 @@
       <history-search>
         <entry>fix-date</entry>
         <entry>sign</entry>
-        <entry>status</entry>
         <entry>save</entry>
         <entry>getPeson</entry>
         <entry>person</entry>
@@ -317,6 +322,7 @@
         <entry>follow</entry>
         <entry>list</entry>
         <entry>get-relate-data</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
