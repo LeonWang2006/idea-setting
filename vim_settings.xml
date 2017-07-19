@@ -128,6 +128,7 @@
         <mark key="^" line="26" column="36" />
         <mark key="." line="27" column="19" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.java" timestamp="1500457926586" />
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/ProjectService.java" timestamp="1499949692902" />
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1500256378477">
         <mark key="[" line="132" column="8" />
@@ -160,8 +161,8 @@
         <mark key="." line="35" column="38" />
         <mark key="^" line="35" column="38" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500452022340">
-        <mark key="'" line="138" column="29" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500457839277">
+        <mark key="'" line="158" column="19" />
         <mark key="[" line="139" column="38" />
         <mark key="]" line="142" column="28" />
         <mark key="^" line="142" column="28" />
@@ -233,11 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="139" column="54" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="141" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="142" column="31" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="157" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="60" column="9" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="207" column="26" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="208" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -297,7 +293,6 @@
       <jump line="608" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="615" column="37" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="549" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="138" column="29" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="419" column="21" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="186" column="8" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="285" column="15" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
@@ -333,6 +328,12 @@
       <jump line="413" column="46" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="435" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="439" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="752" column="75" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="118" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="136" column="54" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="138" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="139" column="31" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="158" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -342,7 +343,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>follow</text>
+        <text>list</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TGlzdDxGb2xsb3c+</text>
@@ -382,9 +383,9 @@
       </register>
     </registers>
     <search>
-      <last-search>follow</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>follow</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -396,7 +397,6 @@
         <entry>fix-date</entry>
         <entry>sign</entry>
         <entry>status</entry>
-        <entry>list</entry>
         <entry>save</entry>
         <entry>getPeson</entry>
         <entry>person</entry>
@@ -412,6 +412,7 @@
         <entry>contacts</entry>
         <entry>auth</entry>
         <entry>follow</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
