@@ -213,12 +213,12 @@
         <mark key="]" line="19" column="183" />
         <mark key="." line="19" column="183" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1500381720274">
-        <mark key="'" line="143" column="23" />
-        <mark key="[" line="356" column="67" />
-        <mark key="]" line="356" column="68" />
-        <mark key="^" line="356" column="68" />
-        <mark key="." line="356" column="68" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1500425272053">
+        <mark key="'" line="370" column="34" />
+        <mark key="[" line="362" column="68" />
+        <mark key="]" line="362" column="68" />
+        <mark key="^" line="362" column="101" />
+        <mark key="." line="362" column="68" />
       </file>
       <file name="/fragment.java" timestamp="1500261101184">
         <mark key="[" line="0" column="0" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="66" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="284" column="23" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="397" column="15" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="398" column="37" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
@@ -327,49 +326,50 @@
       <jump line="93" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="128" column="20" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="143" column="23" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="370" column="34" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wsId</text>
+        <text>03100001</text>
       </register>
       <register name="-" type="4">
-        <text>wsId</text>
+        <text>03100001</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
       </register>
       <register name="0" type="4">
-        <text>获取目标用户关系</text>
+        <text>hrsHost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNmID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsK</text>
+        <text encoding="base64">CQlyZXR1cm4gKGF2YXRhclJlc3VsdCAhPSBudWxsICYmICFhdmF0YXJSZXN1bHQuaXNFbXB0eSgpKSA/IG5ldyBSZXNwb25zZVdyYXBwZXI8PihhdmF0YXJSZXN1bHQpIDogbmV3IFJlc3BvbnNlV3JhcHBlcjw+KCJfbm9hdmF0YXJfdXNlci5naWYiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdFtdIG5ld3MgOiBuZXdzTGlzdCkgewogICAgICAgICAgICBuZXdzWzRdID0gc2YuZm9ybWF0KG5ld3NbNF0pOwogICAgICAgICAgICBuZXdzWzVdID0gc2YuZm9ybWF0KG5ld3NbNV0pOwogICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlTdHJpbmcgYXZhdGFyUmVzdWx0ID0gdGhpcy5hcHBSZXBvc2l0b3J5LmdldEF2YXRhcih0YXJnZXRJZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30ge30gR0VUIC91c2Vycy9yZWxhdGlvbj90YXJnZXRJZD17fSBbu/HIocS/serTw7unudjPtV0iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCByZXF1ZXN0LmdldFVzZXJQcmluY2lwYWwoKS5nZXROYW1lKCksIHRhcmdldElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoZW1wbG95ZWVJZHMuc2l6ZSgpIDwgMCkgewoJCQl0aHJvdyBuZXcgUmVzdEV4Y2VwdGlvbihUeXBlLkJBRF9SRVFVRVNULCAiZXJyb3IudXNlci5mb2xsb3cubm9uZSIpOwoJCX0K</text>
+        <text encoding="base64">ICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IHNmID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdFtdIG5ld3MgOiBuZXdzTGlzdCkgewogICAgICAgICAgICBuZXdzWzRdID0gc2YuZm9ybWF0KG5ld3NbNF0pOwogICAgICAgICAgICBuZXdzWzVdID0gc2YuZm9ybWF0KG5ld3NbNV0pOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQlNYXRjaGVyIG1hdGNoZXI7CgkJZm9yIChTdHJpbmcgZW1wbG95ZWVJZCA6IGVtcGxveWVlSWRzKSB7CgkJCW1hdGNoZXIgPSBwYXR0ZXJuLm1hdGNoZXIoZW1wbG95ZWVJZCk7CgkJCWlmICghbWF0Y2hlci5tYXRjaGVzKCkpIHsKCQkJCWVtcGxveWVlSWRzLnJlbW92ZShlbXBsb3llZUlkKTsKCQkJfQoJCX0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlpZiAoZW1wbG95ZWVJZHMuc2l6ZSgpIDwgMCkgewoJCQl0aHJvdyBuZXcgUmVzdEV4Y2VwdGlvbihUeXBlLkJBRF9SRVFVRVNULCAiZXJyb3IudXNlci5mb2xsb3cubm9uZSIpOwoJCX0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQlJdGVyYXRvcjxTdHJpbmc+IGl0ID0gZW1wbG95ZWVJZHMuaXRlcmF0b3IoKTsKCQl3aGlsZShpdC5oYXNOZXh0KCkpewoJCQlTdHJpbmcgeCA9IGl0Lm5leHQoKTsKCQkJaWYoeC5lcXVhbHMoImRlbCIpKXsKCQkJCWl0LnJlbW92ZSgpOwoJCQl9CgkJfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbWF0Y2hlciA9IHBhdHRlcm4ubWF0Y2hlcihlbXBsb3llZUlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
