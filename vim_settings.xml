@@ -10,6 +10,12 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="52" column="0" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Duty.java" timestamp="1500553580343">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="22" column="28" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1499907408348">
         <mark key="'" line="102" column="238" />
         <mark key="[" line="79" column="29" />
@@ -95,12 +101,12 @@
         <mark key="^" line="231" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/application-dev.yml" timestamp="1499843796884" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500552660301">
-        <mark key="'" line="290" column="18" />
-        <mark key="[" line="676" column="0" />
-        <mark key="]" line="674" column="123" />
-        <mark key="." line="674" column="0" />
-        <mark key="^" line="676" column="16" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500554235567">
+        <mark key="'" line="291" column="18" />
+        <mark key="[" line="687" column="24" />
+        <mark key="]" line="687" column="171" />
+        <mark key="." line="687" column="171" />
+        <mark key="^" line="687" column="171" />
       </file>
       <file name="/Dummy.txt" timestamp="1500262182133">
         <mark key="[" line="0" column="0" />
@@ -240,35 +246,35 @@
       <jump line="290" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCVdvc1Jlc3BvbnNlPFN0cmluZz4gd29zUmVzcG9uc2UgPSBnc29uLmZyb21Kc29uKHJlc3VsdCwobmV3IFR5cGVUb2tlbjxXb3NSZXNwb25zZTxTdHJpbmc+Pigpe30pLmdldFR5cGUoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>reduce(&quot;&quot;,String::concat)</text>
       </register>
       <register name="-" type="4">
-        <text>.getStatus() == 200</text>
+        <text>reduce(&quot;&quot;,String::concat)</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
-      <register name="0" type="4">
-        <text>authorization = request.getHeader(&quot;Authorization&quot;);</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQlhcHBVc2VyTG9nLnNldEVtcGxveWVlSWQod3NJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCVdvc1Jlc3BvbnNlPFN0cmluZz4gd29zUmVzcG9uc2UgPSBnc29uLmZyb21Kc29uKHJlc3VsdCwobmV3IFR5cGVUb2tlbjxXb3NSZXNwb25zZTxTdHJpbmc+Pigpe30pLmdldFR5cGUoKSk7Cg==</text>
+        <text encoding="base64">CQkJCQlhcHBVc2VyTG9nLnNldAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWxvZ2dlci5pbmZvKCJ7fSBXT1O3tbvYIHt9IiwgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0SWQoKSwgcmVzdWx0KTsK</text>
+        <text encoding="base64">CQkJCVdvc1Jlc3BvbnNlPFN0cmluZz4gd29zUmVzcG9uc2UgPSBnc29uLmZyb21Kc29uKHJlc3VsdCwobmV3IFR5cGVUb2tlbjxXb3NSZXNwb25zZTxTdHJpbmc+Pigpe30pLmdldFR5cGUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJCWxvZ2dlci5pbmZvKCJ7fSBXT1O3tbvYIHt9IiwgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0SWQoKSwgcmVzdWx0KTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQlpZiAod3NJZCAhPSBudWxsICYmIGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CQl9IGVsc2UgewoJCQlyZXR1cm4gbnVsbDsKCQl9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
