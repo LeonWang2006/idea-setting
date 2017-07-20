@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.java" timestamp="1500550502942" />
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1500514819060">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="25" />
@@ -94,12 +95,12 @@
         <mark key="^" line="231" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/application-dev.yml" timestamp="1499843796884" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500543981440">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500550398831">
         <mark key="'" line="290" column="18" />
-        <mark key="[" line="619" column="101" />
-        <mark key="]" line="620" column="76" />
-        <mark key="." line="620" column="76" />
-        <mark key="^" line="620" column="76" />
+        <mark key="[" line="616" column="0" />
+        <mark key="]" line="616" column="0" />
+        <mark key="." line="616" column="0" />
+        <mark key="^" line="619" column="76" />
       </file>
       <file name="/Dummy.txt" timestamp="1500262182133">
         <mark key="[" line="0" column="0" />
@@ -239,8 +240,8 @@
       <jump line="290" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlpZiAod3NJZCAhPSBudWxsICYmIGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -252,13 +253,13 @@
         <text>authorization = request.getHeader(&quot;Authorization&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">CQlpZiAod3NJZCAhPSBudWxsICYmIGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQl9IGVsc2UgewoJCQlyZXR1cm4gbnVsbDsKCQl9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
@@ -273,13 +274,13 @@
         <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQkJCXByaXZhdGUgSW50ZWdlciBpc0FwcGx5OwoJQEpzb25JZ25vcmUKCXByaXZhdGUgSW50ZWdlciBpc0ZvbGxvdzsKCUBKc29uSWdub3JlCglwcml2YXRlIEludGVnZXIgaXNJbnZpdGU7CglASnNvbklnbm9yZQoJcHJpdmF0ZSBJbnRlZ2VyIGJlRm9sbG93OwoJQEpzb25JZ25vcmUKCXByaXZhdGUgSW50ZWdlciBsb2dDYW5WaWV3Ow==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aHJvdyBuZXcgUmVzdEV4Y2VwdGlvbihUeXBlLkFVVEhfRkFJTEVELCJlcnJvci51c2VyLnVuIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
