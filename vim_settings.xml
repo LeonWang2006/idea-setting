@@ -101,11 +101,11 @@
         <mark key="^" line="231" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/application-dev.yml" timestamp="1499843796884" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500554235567">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500555290671">
         <mark key="'" line="291" column="18" />
-        <mark key="[" line="687" column="24" />
-        <mark key="]" line="687" column="171" />
-        <mark key="." line="687" column="171" />
+        <mark key="[" line="687" column="29" />
+        <mark key="]" line="687" column="29" />
+        <mark key="." line="687" column="29" />
         <mark key="^" line="687" column="171" />
       </file>
       <file name="/Dummy.txt" timestamp="1500262182133">
@@ -247,10 +247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reduce(&quot;&quot;,String::concat)</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>reduce(&quot;&quot;,String::concat)</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
