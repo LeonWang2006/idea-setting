@@ -94,12 +94,12 @@
         <mark key="^" line="231" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/application-dev.yml" timestamp="1499843796884" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500535042708">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500537050180">
         <mark key="'" line="290" column="18" />
-        <mark key="[" line="128" column="86" />
-        <mark key="]" line="87" column="26" />
-        <mark key="." line="87" column="26" />
-        <mark key="^" line="87" column="26" />
+        <mark key="[" line="619" column="79" />
+        <mark key="]" line="619" column="79" />
+        <mark key="." line="619" column="79" />
+        <mark key="^" line="619" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1500262182133">
         <mark key="[" line="0" column="0" />
@@ -240,16 +240,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCWNvbnRhY3Quc2V0QmVGb2xsb3cocmVsYXRpb24uZ2V0QmVGb2xsb3coKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>authorization = request.getHeader(&quot;Authorization&quot;);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
