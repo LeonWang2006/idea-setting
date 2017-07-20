@@ -95,12 +95,12 @@
         <mark key="^" line="231" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/application-dev.yml" timestamp="1499843796884" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500550398831">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500552660301">
         <mark key="'" line="290" column="18" />
-        <mark key="[" line="616" column="0" />
-        <mark key="]" line="616" column="0" />
-        <mark key="." line="616" column="0" />
-        <mark key="^" line="619" column="76" />
+        <mark key="[" line="676" column="0" />
+        <mark key="]" line="674" column="123" />
+        <mark key="." line="674" column="0" />
+        <mark key="^" line="676" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1500262182133">
         <mark key="[" line="0" column="0" />
@@ -241,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAod3NJZCAhPSBudWxsICYmIGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">CQkJCVdvc1Jlc3BvbnNlPFN0cmluZz4gd29zUmVzcG9uc2UgPSBnc29uLmZyb21Kc29uKHJlc3VsdCwobmV3IFR5cGVUb2tlbjxXb3NSZXNwb25zZTxTdHJpbmc+Pigpe30pLmdldFR5cGUoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.getStatus() == 200</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -253,19 +253,19 @@
         <text>authorization = request.getHeader(&quot;Authorization&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAod3NJZCAhPSBudWxsICYmIGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">CQkJCVdvc1Jlc3BvbnNlPFN0cmluZz4gd29zUmVzcG9uc2UgPSBnc29uLmZyb21Kc29uKHJlc3VsdCwobmV3IFR5cGVUb2tlbjxXb3NSZXNwb25zZTxTdHJpbmc+Pigpe30pLmdldFR5cGUoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQl9IGVsc2UgewoJCQlyZXR1cm4gbnVsbDsKCQl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCWxvZ2dlci5pbmZvKCJ7fSBXT1O3tbvYIHt9IiwgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0SWQoKSwgcmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">CQlpZiAod3NJZCAhPSBudWxsICYmIGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CQl9IGVsc2UgewoJCQlyZXR1cm4gbnVsbDsKCQl9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
@@ -280,7 +280,7 @@
         <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBKc29uSWdub3JlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
