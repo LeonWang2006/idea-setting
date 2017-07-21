@@ -106,11 +106,12 @@
         <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/application-dev.yml" timestamp="1499843796884" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500628925915">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500631747706">
         <mark key="'" line="304" column="37" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="77" />
-        <mark key="." line="707" column="0" />
+        <mark key="[" line="187" column="53" />
+        <mark key="]" line="187" column="53" />
+        <mark key="^" line="187" column="54" />
+        <mark key="." line="187" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1500262182133">
         <mark key="[" line="0" column="0" />
@@ -148,7 +149,7 @@
         <mark key="^" line="478" column="87" />
         <mark key="." line="478" column="87" />
       </file>
-      <file name="/fragment.java" timestamp="1500618004406">
+      <file name="/fragment.java" timestamp="1500630936041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -257,11 +258,11 @@
       <jump line="478" column="87" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IFdPU7e1u9gge30iLCByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRJZCgpLCByZXN1bHQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>EmployeeId</text>
       </register>
       <register name="-" type="4">
-        <text>10000</text>
+        <text>EmployeeId</text>
       </register>
       <register name="/" type="4">
         <text>relation</text>
