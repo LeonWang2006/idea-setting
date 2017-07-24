@@ -51,6 +51,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1500901462343">
+        <mark key="'" line="164" column="19" />
+        <mark key="[" line="187" column="56" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1499862366990">
         <mark key="'" line="97" column="18" />
         <mark key="[" line="125" column="176" />
@@ -120,8 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="64" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
-      <jump line="424" column="15" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="425" column="37" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="426" column="39" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="431" column="77" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
@@ -220,6 +222,8 @@
       <jump line="290" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="598" column="4" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="293" column="15" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="630" column="88" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="164" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -229,7 +233,7 @@
         <text>443</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCWFwcFVzZXJMb2cuc2V0TG9nQ29udGVudChkdXR5LmdldExvZ0NvbnRlbnQoKS50b1N0cmluZygpKTsK</text>
@@ -269,9 +273,9 @@
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -297,8 +301,8 @@
         <entry>relation</entry>
         <entry>sign</entry>
         <entry>save</entry>
-        <entry>detail</entry>
         <entry>set</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
