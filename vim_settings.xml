@@ -61,9 +61,11 @@
         <mark key="^" line="48" column="42" />
         <mark key="." line="51" column="47" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1500945406545">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1500991212274">
         <mark key="'" line="168" column="0" />
-        <mark key="[" line="161" column="62" />
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="35" />
+        <mark key="." line="72" column="35" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1500942466887">
         <mark key="[" line="132" column="8" />
@@ -203,10 +205,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>用户名或密码错误</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>用户名或密码错误</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>\/auth</text>
