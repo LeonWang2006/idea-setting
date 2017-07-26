@@ -211,7 +211,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>\/auth</text>
+        <text>evalate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJaWYgKHVzZXJEYXRhLmdldEpvaW5EYXRlKCkgIT0gbnVsbCkgewo=</text>
@@ -251,9 +251,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\/auth</last-search>
+      <last-search>evalate</last-search>
       <last-offset />
-      <last-pattern>\/auth</last-pattern>
+      <last-pattern>evalate</last-pattern>
       <last-replace>fdNumber</last-replace>
       <last-substitute>number</last-substitute>
       <last-dir>1</last-dir>
@@ -261,7 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get-relate-data</entry>
         <entry>status</entry>
         <entry>author</entry>
         <entry>\/Contact</entry>
@@ -281,6 +280,7 @@
         <entry>auth</entry>
         <entry>sign</entry>
         <entry>\/auth</entry>
+        <entry>evalate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/priave static long //g</entry>
