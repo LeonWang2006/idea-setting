@@ -17,12 +17,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Duty.java" timestamp="1501557755169" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1501559599472">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1501568206009">
+        <mark key="'" line="126" column="87" />
+        <mark key="[" line="117" column="59" />
+        <mark key="]" line="134" column="106" />
+        <mark key="." line="134" column="106" />
+        <mark key="^" line="134" column="106" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1501559418341">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1501565651035">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
@@ -40,7 +42,7 @@
       <file name="/dummy.sql" timestamp="1501202778917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1501555634893">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1501567526026">
         <mark key="'" line="175" column="19" />
         <mark key="[" line="334" column="76" />
         <mark key="]" line="108" column="77" />
@@ -118,14 +120,13 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="168" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1501555587127">
+      <file name="/fragment.java" timestamp="1501568095488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="493" column="29" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="496" column="8" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="497" column="73" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="510" column="61" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
@@ -225,19 +226,20 @@
       <jump line="600" column="44" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="77" column="4" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="175" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="126" column="87" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXBhcmFtRXZhbHVhdGUuc3RyZWFtKCkuZmlsdGVyKHBhcmFtRXZhbHVhdGUxIC0+IHBhcmFtRXZhbHVhdGUxLmdldCkK</text>
+      <register name="&quot;" type="4">
+        <text>ModelAttribute</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>ModelAttribute</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCUFwcFVzZXJMb2cgbG9nID0gYXBwVXNlckxvZ1JlcG9zaXRvcnkuZ2V0TG9nQnlMb2dJZChwYXJhbUV2YWx1YXRlLmdldCgwKS5nZXRMb2dJZCgpKTsK</text>
+      <register name="0" type="4">
+        <text>logOptional.get()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCXBhcmFtRXZhbHVhdGUuc3RyZWFtKCkuZmlsdGVyKHBhcmFtRXZhbHVhdGUxIC0+IHBhcmFtRXZhbHVhdGUxLmdldCkK</text>
