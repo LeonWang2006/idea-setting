@@ -17,12 +17,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Duty.java" timestamp="1501557755169" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1501568206009">
-        <mark key="'" line="126" column="87" />
-        <mark key="[" line="117" column="59" />
-        <mark key="]" line="134" column="106" />
-        <mark key="." line="134" column="106" />
-        <mark key="^" line="134" column="106" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1501570006790">
+        <mark key="'" line="121" column="87" />
+        <mark key="[" line="100" column="64" />
+        <mark key="]" line="100" column="72" />
+        <mark key="." line="100" column="72" />
+        <mark key="^" line="100" column="72" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1501565651035">
         <mark key="[" line="107" column="0" />
@@ -230,46 +230,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ModelAttribute</text>
+        <text>wsId</text>
       </register>
       <register name="-" type="4">
-        <text>ModelAttribute</text>
+        <text>wsId</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
       </register>
       <register name="0" type="4">
-        <text>logOptional.get()</text>
+        <text>basicWsId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXBhcmFtRXZhbHVhdGUuc3RyZWFtKCkuZmlsdGVyKHBhcmFtRXZhbHVhdGUxIC0+IHBhcmFtRXZhbHVhdGUxLmdldCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYgKGJhc2ljV3NJZC5lcXVhbHMod3NJZCkpIHsKCQkJCXRocm93IG5ldyBSZXN0RXhjZXB0aW9uKFR5cGUuSU5URVJOQUxfU0VSVkVSX0VSUk9SLCAiZXJyb3IuZXZhbHVhdGUuc2FtZXVzZXIiKTsKCQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUxpc3Q8QXBwVXNlckxvZz4gZ2V0TG9nQnlMb2dJZChJbnRlZ2VyIGxvZ0lkKTsK</text>
+        <text encoding="base64">CQkJCXBhcmFtRXZhbHVhdGUuc3RyZWFtKCkuZmlsdGVyKHBhcmFtRXZhbHVhdGUxIC0+IHBhcmFtRXZhbHVhdGUxLmdldCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vu/HIodK7xqrI1da+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vu/HIocjV1r7P6sfpCglATmFtZWROYXRpdmVRdWVyeShuYW1lID0gIkFwcFVzZXJMb2cuZ2V0TG9nQnlMb2dJZCIsIHF1ZXJ5ID0gIlNFTEVDVCAqIEZST00gYGFwcF91c2VyX2xvZ3NgIFdIRVJFIGxvZ19pZCA9ID8gTElNSVQgMSIsIHJlc3VsdFNldE1hcHBpbmcgPSAiYXBwVXNlckxvZ01hcHBpbmciKQo=</text>
+        <text encoding="base64">CUxpc3Q8QXBwVXNlckxvZz4gZ2V0TG9nQnlMb2dJZChJbnRlZ2VyIGxvZ0lkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CS8vu/HIodK7xqrI1da+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKGR1dHkuZ2V0TG9nRGV0YWlsSWQoKSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">CS8vu/HIocjV1r7P6sfpCglATmFtZWROYXRpdmVRdWVyeShuYW1lID0gIkFwcFVzZXJMb2cuZ2V0TG9nQnlMb2dJZCIsIHF1ZXJ5ID0gIlNFTEVDVCAqIEZST00gYGFwcF91c2VyX2xvZ3NgIFdIRVJFIGxvZ19pZCA9ID8gTElNSVQgMSIsIHJlc3VsdFNldE1hcHBpbmcgPSAiYXBwVXNlckxvZ01hcHBpbmciKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJT3B0aW9uYWw8RHV0eT4gZHV0eU9wdGlvbmFsID0gT3B0aW9uYWwub2YoZHV0eSk7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYgKGR1dHkuZ2V0TG9nRGV0YWlsSWQoKSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
