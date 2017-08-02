@@ -33,6 +33,10 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/build.gradle" timestamp="1501678146076">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="17" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogResponse.java" timestamp="1500625322345">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -47,7 +51,7 @@
         <mark key="]" line="796" column="0" />
         <mark key="." line="796" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501643416020">
+      <file name="/Dummy.txt" timestamp="1501678626840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,6 +118,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="C:/gitRepository/krest/build.gradle" timestamp="1501678432107">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="10" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="32" column="10" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/NewsRepository.java" timestamp="1500261966757">
         <mark key="[" line="19" column="183" />
         <mark key="]" line="19" column="183" />
@@ -125,8 +135,8 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1501653725935">
-        <mark key="[" line="0" column="10" />
+      <file name="/fragment.java" timestamp="1501678626835">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -234,17 +244,17 @@
       <jump line="842" column="49" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>日志是否发送到微博</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gImV4cGVyaWVuY2VUb1dlaWJvIiwgdmFsdWUgPSAiyNXWvsrHt/G3osvNtb3OorKpIiwgcGFyYW1UeXBlID0gInF1ZXJ5IikK</text>
+        <text encoding="base64">ICAgIHBsdWdpbiA6ICJrb3RsaW4iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -253,28 +263,30 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCVJlc3BvbnNlV3JhcHBlcjxUaW1lWm9uZT4gdGltZXpvbmUgPSBtYXBTZXJ2aWNlLmdldFRpbWVab25lKGxhdGl0dWRlLCBsb25naXR1ZGUpOwoJCQkJaWYgKHRpbWV6b25lICE9IG51bGwpIHsKCQkJCQltYXAuYWRkKCJ0aW1lX3pvbmUiLCB0aW1lem9uZS5nZXREYXRhKCkuZ2V0VGltZXpvbmVJZCgpKTsKCQkJCX0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gInBsYW4iLCB2YWx1ZSA9ICLD98jVvMa7riIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlPcHRpb25hbDxTdHJpbmc+IGxOYW1lSW5DYXBzID0gbG9uZ2VzdC5tYXAoU3RyaW5nOjp0b1VwcGVyQ2FzZSk7Cg==</text>
+      <register name="3" type="4">
+        <text>plugin(&quot;kotlin-spring&quot;)
+plugin(&quot;kotlin-jpa&quot;)
+plugin(&quot;org.springframework.boot&quot;)</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQlTdHJlYW08U3RyaW5nPiBuYW1lcyA9IFN0cmVhbS5vZigiTGFtdXJ1ZHUiLCAiT2thbmJpIiwgIk9kdWR1d2EiKTsKCQlPcHRpb25hbDxTdHJpbmc+IGxvbmdlc3QgPSBuYW1lcyAuZmlsdGVyKG5hbWUgLT4gbmFtZS5zdGFydHNXaXRoKCJMIikpIC5maW5kRmlyc3QoKTs=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmFwcGx5IHBsdWdpbjogImtvdGxpbiI=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YXBwbHkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl1c2VyT3B0aW9uYWwubWFwKHVzZXItPnVzZXIuZ2V0Sm9pbkRhdGUoKSkub3JFbHNlKG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl1c2VyT3B0aW9uYWwuaWZQcmVzZW50KEFwcFVzZXI6OmdldEpvaW5EYXRlKTsK</text>
+        <text encoding="base64">ICAgIHZhbCBzcHJpbmdCb290VmVyc2lvbiA9ICIxLjUuNC5SRUxFQVNFIgogICAgdmFsIGtvdGxpblZlcnNpb24gPSAiMS4xLjMtMiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXBhcmFtRXZhbHVhdGUuc2V0SXNFbnRpcmV0eShsb2dJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3ByaW5nQm9vdFZlcnNpb24gPSAiMS41LjQuUkVMRUFTRSIKICAgICAgICB2YWwga290bGluVmVyc2lvbiA9ICIxLjEuMy0yIgo=</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
