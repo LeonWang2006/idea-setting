@@ -48,16 +48,16 @@
         <mark key="^" line="358" column="44" />
         <mark key="." line="358" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501641255729">
+      <file name="/Dummy.txt" timestamp="1501643416020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1501642245697">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="142" column="47" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1501644428475">
+        <mark key="[" line="99" column="68" />
+        <mark key="]" line="99" column="68" />
+        <mark key="." line="99" column="68" />
+        <mark key="^" line="141" column="8" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1501471581759">
         <mark key="[" line="32" column="0" />
@@ -121,7 +121,7 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="168" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1501635482010">
+      <file name="/fragment.java" timestamp="1501643416009">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -231,16 +231,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQkJU3RyaW5nIG5hbWUgPSBhcHBVc2VyUmVwb3NpdG9yeS5nZXROYW1lQnlFbXBsb3llZUlkKHdzSWQpOwoJCQlpbnQgYXBwUmVzdWx0ID0gamRiY1RlbXBsYXRlLnVwZGF0ZSgiVVBEQVRFIGFwcF91c2VyX2xvZ3MgU0VUIGV2YWx1YXRlX3dzX2lkID0gQ0FTRSBXSEVOIEZJTkRfSU5fU0VUKD8sIGV2YWx1YXRlX3dzX2lkKSA+IDAgVEhFTiBldmFsdWF0ZV93c19pZCBFTFNFIGNvbmNhdF93cygnLCcsIGV2YWx1YXRlX3dzX2lkICw/KSBFTkQsIGV2YWx1YXRlX3dzX25hbWUgPSBDQVNFIFdIRU4gRklORF9JTl9TRVQoPywgZXZhbHVhdGVfd3NfbmFtZSkgPiAwIFRIRU4gZXZhbHVhdGVfd3NfbmFtZSBFTFNFIGNvbmNhdF93cygnLCcsIGV2YWx1YXRlX3dzX25hbWUgLD8pIEVORCBXSEVSRSBsb2dfaWQgPSA/Iiwgd3NJZCwgd3NJZCwgbmFtZSwgbmFtZSwgbG9nSWQpOw==</text>
+        <text>@Valid</text>
       </register>
       <register name="-" type="4">
-        <text>logId</text>
+        <text>@Valid</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
-      <register name="0" type="4">
-        <text>userOptional</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJcGFyYW1FdmFsdWF0ZS5zZXRMb2dJZChsb2dJZCk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CQkJU3RyaW5nIG5hbWUgPSBhcHBVc2VyUmVwb3NpdG9yeS5nZXROYW1lQnlFbXBsb3llZUlkKHdzSWQpOwoJCQlpbnQgYXBwUmVzdWx0ID0gamRiY1RlbXBsYXRlLnVwZGF0ZSgiVVBEQVRFIGFwcF91c2VyX2xvZ3MgU0VUIGV2YWx1YXRlX3dzX2lkID0gQ0FTRSBXSEVOIEZJTkRfSU5fU0VUKD8sIGV2YWx1YXRlX3dzX2lkKSA+IDAgVEhFTiBldmFsdWF0ZV93c19pZCBFTFNFIGNvbmNhdF93cygnLCcsIGV2YWx1YXRlX3dzX2lkICw/KSBFTkQsIGV2YWx1YXRlX3dzX25hbWUgPSBDQVNFIFdIRU4gRklORF9JTl9TRVQoPywgZXZhbHVhdGVfd3NfbmFtZSkgPiAwIFRIRU4gZXZhbHVhdGVfd3NfbmFtZSBFTFNFIGNvbmNhdF93cygnLCcsIGV2YWx1YXRlX3dzX25hbWUgLD8pIEVORCBXSEVSRSBsb2dfaWQgPSA/Iiwgd3NJZCwgd3NJZCwgbmFtZSwgbmFtZSwgbG9nSWQpOw==</text>
