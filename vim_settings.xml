@@ -98,8 +98,8 @@
         <mark key="]" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1502098825954">
-        <mark key="'" line="239" column="70" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1502108067751">
+        <mark key="'" line="601" column="19" />
         <mark key="[" line="130" column="238" />
         <mark key="]" line="130" column="238" />
         <mark key="m" line="344" column="27" />
@@ -107,7 +107,7 @@
         <mark key="n" line="344" column="27" />
         <mark key="^" line="130" column="93" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502086701147">
+      <file name="/Dummy.txt" timestamp="1502107611671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -202,15 +202,19 @@
         <mark key="]" line="19" column="183" />
         <mark key="." line="19" column="183" />
       </file>
-      <file name="/fragment.java" timestamp="1501913103424">
-        <mark key="[" line="0" column="32" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1502108696559">
+        <mark key="[" line="336" column="62" />
+        <mark key="]" line="336" column="31" />
+        <mark key="^" line="336" column="31" />
+        <mark key="." line="336" column="31" />
+      </file>
+      <file name="/fragment.java" timestamp="1502108666113">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="102" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="103" column="85" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="135" column="4" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="176" column="68" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -309,16 +313,18 @@
       <jump line="418" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="432" column="73" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="239" column="70" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="516" column="76" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="601" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2F0dGVuZGFuY2UnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>正式发布版本版本号调整为2.0.0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>正式发布版本版本号调整为2.0.0</text>
       </register>
       <register name="/" type="4">
-        <text>pick</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30ge30gR0VUIC9sb2dzL2xpc3Q/d3NJZD17fSZwYWdlU2l6ZT17fSZwYWdlTnVtYmVyPXt9JmlzUmVhZD17fSZpc0V2YWx1YXRlPXt9JmVtcEdyYWRlPXt9IFu78cihyNXWvsHQse3K/b7dXSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlcXVlc3QuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSwgcGFyYW1Mb2cuZ2V0V3NJZCgpLCBwYXJhbUxvZy5nZXRQYWdlU2l6ZSgpLCBwYXJhbUxvZy5nZXRQYWdlTnVtYmVyKCksIGlzUmVhZCwgaXNFdmFsdWF0ZSwgZW1wR3JhZGUpOwo=</text>
@@ -358,9 +364,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pick</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>pick</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -386,8 +392,8 @@
         <entry>drawer</entry>
         <entry>save</entry>
         <entry>my</entry>
-        <entry>list</entry>
         <entry>pick</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
