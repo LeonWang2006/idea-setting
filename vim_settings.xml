@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/gitRepository/WOS_App/src/view/app/index.js" timestamp="1502087002204">
+        <mark key="'" line="121" column="27" />
+        <mark key="[" line="95" column="35" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.java" timestamp="1500983623875">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -19,16 +23,24 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
       </file>
+      <file name="C:/gitRepository/WOS_App/node_modules/react-native/Libraries/Components/DrawerAndroid/DrawerLayoutAndroid.android.js" timestamp="1502086797596" />
       <file name="C:/gitRepository/WOS_App/android/app/build.gradle" timestamp="1501849887737">
         <mark key="[" line="101" column="24" />
         <mark key="]" line="101" column="25" />
         <mark key="." line="101" column="25" />
+      </file>
+      <file name="C:/gitRepository/WOS_App/src/view/home/drawer.js" timestamp="1502086928331">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_App/src/component/filter/filter_bar/normal/index.js" timestamp="1501832376263">
         <mark key="[" line="137" column="34" />
         <mark key="]" line="137" column="34" />
         <mark key="." line="137" column="34" />
       </file>
+      <file name="C:/gitRepository/WOS_App/package.json" timestamp="1502086175886" />
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.java" timestamp="1501758637966">
         <mark key="[" line="121" column="37" />
         <mark key="]" line="127" column="52" />
@@ -65,7 +77,7 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" timestamp="1502084538606">
+      <file name="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" timestamp="1502086025271">
         <mark key="'" line="200" column="4" />
         <mark key="[" line="428" column="71" />
         <mark key="]" line="428" column="71" />
@@ -83,7 +95,7 @@
         <mark key="]" line="71" column="180" />
         <mark key="." line="71" column="180" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502073445868">
+      <file name="/Dummy.txt" timestamp="1502086701147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -121,6 +133,7 @@
         <mark key="^" line="25" column="48" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="C:/gitRepository/WOS_App/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/drawer/ReactDrawerLayoutManager.java" timestamp="1502086713747" />
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamEvaluate.java" timestamp="1501832964929">
         <mark key="[" line="34" column="32" />
         <mark key="]" line="13" column="0" />
@@ -184,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="697" column="16" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="698" column="16" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="700" column="20" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="702" column="16" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -284,58 +296,59 @@
       <jump line="167" column="4" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
       <jump line="179" column="21" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
       <jump line="190" column="4" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
+      <jump line="119" column="27" filename="C:/gitRepository/WOS_App/src/view/app/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>handle</text>
+        <text>drawer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlhcHBVc2VyTG9nLnNldFZpZXdDb3VudCgwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHVtZV90aGVtZSBmcm9tICcuLi8uLi8uLi8uLi8uLi90aGVtZS91bWUtdGhlbWUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmYgZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29uZi5qcycK</text>
+        <text encoding="base64">aW1wb3J0IHVtZV90aGVtZSBmcm9tICcuLi8uLi8uLi8uLi8uLi90aGVtZS91bWUtdGhlbWUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnRlbnQgZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tcG9uZW50L2xheW91dC9jb250ZW50Jwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbmYgZnJvbSAnLi4vLi4vLi4vLi4vLi4vLi4vY29uZi5qcycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlBcHBVc2VyTG9nIGxvZ3Jlc3VsdCA9IGFwcFVzZXJMb2dSZXBvc2l0b3J5LnNhdmUoYXBwVXNlckxvZyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnRlbnQgZnJvbSAnLi4vLi4vLi4vLi4vLi4vY29tcG9uZW50L2xheW91dC9jb250ZW50Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSIke2FwcGxpY2F0aW9uSWR9LnBlcm1pc3Npb24uSlBVU0hfTUVTU0FHRSIgLz4K</text>
+        <text encoding="base64">CQkJCQlBcHBVc2VyTG9nIGxvZ3Jlc3VsdCA9IGFwcFVzZXJMb2dSZXBvc2l0b3J5LnNhdmUoYXBwVXNlckxvZyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSIke2FwcGxpY2F0aW9uSWR9LnBlcm1pc3Npb24uSlBVU0hfTUVTU0FHRSIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLmpkYmNUZW1wbGF0ZSA9IGpkYmNUZW1wbGF0ZTsK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSIke2FwcGxpY2F0aW9uSWR9LnBlcm1pc3Npb24uSlBVU0hfTUVTU0FHRSIgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgSmRiY1RlbXBsYXRlIGpkYmNUZW1wbGF0ZTsK</text>
+        <text encoding="base64">CQl0aGlzLmpkYmNUZW1wbGF0ZSA9IGpkYmNUZW1wbGF0ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIHBhc3N3b3JkID0gYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiKVsxXTsK</text>
+        <text encoding="base64">CXByaXZhdGUgSmRiY1RlbXBsYXRlIGpkYmNUZW1wbGF0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>handle</last-search>
+      <last-search>drawer</last-search>
       <last-offset />
-      <last-pattern>handle</last-pattern>
+      <last-pattern>drawer</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userMap</entry>
         <entry>map</entry>
         <entry>param</entry>
         <entry>detial</entry>
@@ -363,6 +375,7 @@
         <entry>my</entry>
         <entry>handel</entry>
         <entry>handle</entry>
+        <entry>drawer</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
