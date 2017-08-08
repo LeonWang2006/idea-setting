@@ -200,7 +200,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1502108696559">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1502178375542">
+        <mark key="'" line="278" column="12" />
         <mark key="[" line="336" column="62" />
         <mark key="]" line="336" column="31" />
         <mark key="^" line="336" column="31" />
@@ -219,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="126" column="87" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" />
       <jump line="212" column="80" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="220" column="90" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -319,6 +319,7 @@
       <jump line="167" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="170" column="37" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="510" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="278" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -328,7 +329,7 @@
         <text>getData</text>
       </register>
       <register name="/" type="4">
-        <text>summit</text>
+        <text>auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG1lLmpoZW4ucmVhY3QuQmFkZ2VQYWNrYWdlOwo=</text>
@@ -368,9 +369,9 @@
       </register>
     </registers>
     <search>
-      <last-search>summit</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>summit</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -383,7 +384,6 @@
         <entry>0</entry>
         <entry>duty</entry>
         <entry>gson</entry>
-        <entry>auth</entry>
         <entry>\/auth</entry>
         <entry>fix-date</entry>
         <entry>content</entry>
@@ -398,6 +398,7 @@
         <entry>list</entry>
         <entry>save</entry>
         <entry>summit</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
