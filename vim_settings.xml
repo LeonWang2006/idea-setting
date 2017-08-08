@@ -8,12 +8,17 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1501806429839">
-        <mark key="[" line="18" column="13" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1502176083159">
+        <mark key="[" line="55" column="17" />
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
-      <file name="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" timestamp="1502159864112" />
+      <file name="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" timestamp="1502176414423" />
+      <file name="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" timestamp="1502177053799">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+      </file>
       <file name="C:/gitRepository/WOS_App/android/app/build.gradle" timestamp="1502171562253">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
@@ -48,7 +53,7 @@
       <file name="/Dummy.groovy" timestamp="1502154892972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1502163527709">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1502177290796">
         <mark key="[" line="266" column="57" />
         <mark key="]" line="266" column="55" />
         <mark key="^" line="266" column="55" />
@@ -100,14 +105,14 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1502162522525">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1502176722645">
         <mark key="'" line="510" column="0" />
-        <mark key="[" line="727" column="0" />
-        <mark key="]" line="727" column="77" />
+        <mark key="[" line="792" column="53" />
+        <mark key="]" line="792" column="53" />
         <mark key="m" line="344" column="27" />
-        <mark key="." line="611" column="132" />
+        <mark key="." line="792" column="53" />
         <mark key="n" line="344" column="27" />
-        <mark key="^" line="611" column="132" />
+        <mark key="^" line="792" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1502107611671">
         <mark key="[" line="0" column="0" />
@@ -316,56 +321,56 @@
       <jump line="510" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1hbmRyb2lkLWNhbGwnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>getData</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>getData</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>summit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG1lLmpoZW4ucmVhY3QuQmFkZ2VQYWNrYWdlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1hbmRyb2lkLWNhbGwnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJEYXRlOiB0aGlzLnN0YXRlLmRhdGUsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1hbmRyb2lkLWNhbGwnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1hbmRyb2lkLWNhbGwnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtYW5kcm9pZC1jYWxsJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWFuZHJvaWQtYmFkZ2UvY2FsbCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IENhbGxQYWNrYWdlKCksCg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1hbmRyb2lkLWNhbGwnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtYW5kcm9pZC1jYWxsJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWFuZHJvaWQtYmFkZ2UvY2FsbCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLndhbmdmbC5yZWFjdC5DYWxsUGFja2FnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENhbGxQYWNrYWdlKCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgU2hvcnRjdXRCYWRnZXIuYXBwbHlDb3VudChnZXRSZWFjdEFwcGxpY2F0aW9uQ29udGV4dCgpLCBudW1iZXIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG1lLndhbmdmbC5yZWFjdC5DYWxsUGFja2FnZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ21lLmxlb2xpbjpTaG9ydGN1dEJhZGdlcjoxLjEuMTdAYWFyJwo=</text>
+        <text encoding="base64">Ly8gICAgU2hvcnRjdXRCYWRnZXIuYXBwbHlDb3VudChnZXRSZWFjdEFwcGxpY2F0aW9uQ29udGV4dCgpLCBudW1iZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2F0dGVuZGFuY2UnLAo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ21lLmxlb2xpbjpTaG9ydGN1dEJhZGdlcjoxLjEuMTdAYWFyJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtcGhvbmUtY2FsbCI6ICJeMS4wLjMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2F0dGVuZGFuY2UnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>summit</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>summit</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -373,7 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>detial</entry>
         <entry>detail</entry>
         <entry>213,227s</entry>
         <entry>0</entry>
@@ -393,6 +397,7 @@
         <entry>fix</entry>
         <entry>list</entry>
         <entry>save</entry>
+        <entry>summit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
