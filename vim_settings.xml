@@ -86,6 +86,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Follow.java" timestamp="1502248331742" />
       <file name="C:/gitRepository/react-native-android-call/android/src/main/java/me/wangfl/react/BadgeModule.java" timestamp="1502154368785">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
@@ -95,12 +96,6 @@
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
-      </file>
-      <file name="C:/gitRepository/WOS_App/src/view/home/drawer.js" timestamp="1502086928331">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_App/src/component/filter/filter_bar/normal/index.js" timestamp="1501832376263">
         <mark key="[" line="137" column="34" />
@@ -150,25 +145,19 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_App/conf.js" timestamp="1502190251510" />
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1502246532005">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="670" column="0" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1502248416902">
+        <mark key="'" line="821" column="55" />
+        <mark key="[" line="669" column="17" />
         <mark key="m" line="361" column="27" />
-        <mark key="]" line="670" column="0" />
+        <mark key="]" line="669" column="17" />
         <mark key="n" line="361" column="27" />
-        <mark key="." line="670" column="0" />
-        <mark key="^" line="159" column="61" />
+        <mark key="." line="669" column="17" />
+        <mark key="^" line="665" column="59" />
       </file>
       <file name="/Dummy.txt" timestamp="1502240311759">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogRepository.java" timestamp="1502110072109">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="31" column="9" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogIds.java" timestamp="1501208113731">
         <mark key="[" line="17" column="23" />
@@ -212,16 +201,8 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="C:/gitRepository/react-native-android-call/android/src/main/java/me/wangfl/react/CallPackage.java" timestamp="1502155076835">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="48" />
-        <mark key="^" line="16" column="23" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="90" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="185" column="20" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="249" column="21" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="250" column="20" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="299" column="21" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -320,13 +301,15 @@
       <jump line="278" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="746" column="71" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="91" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="651" column="71" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="797" column="55" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>ws_id</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ws_id</text>
       </register>
       <register name="/" type="4">
         <text>follow</text>
@@ -379,8 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
-        <entry>duty</entry>
         <entry>gson</entry>
         <entry>\/auth</entry>
         <entry>fix-date</entry>
@@ -398,6 +379,8 @@
         <entry>auth</entry>
         <entry>list</entry>
         <entry>fowllow</entry>
+        <entry>postO</entry>
+        <entry>post</entry>
         <entry>follow</entry>
       </history-search>
       <history-cmd>
