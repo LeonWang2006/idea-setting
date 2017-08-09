@@ -128,11 +128,8 @@
       <file name="/Dummy.groovy" timestamp="1502154892972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1502177290796">
-        <mark key="[" line="266" column="57" />
-        <mark key="]" line="266" column="55" />
-        <mark key="^" line="266" column="55" />
-        <mark key="." line="266" column="55" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1502272911922">
+        <mark key="^" line="115" column="62" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1502262995433">
         <mark key="[" line="96" column="411" />
@@ -211,13 +208,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1502178375542">
-        <mark key="'" line="278" column="12" />
-        <mark key="[" line="336" column="62" />
-        <mark key="]" line="336" column="31" />
-        <mark key="^" line="336" column="31" />
-        <mark key="." line="336" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1502108666113">
         <mark key="[" line="0" column="0" />
@@ -329,48 +319,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修复榜单顺序；
-修复日志接口curDate参数重复</text>
+        <text encoding="base64">CgkJCS8vYmFzaWPJ7bfds+nIoQoJCQkvLwkJCVN0cmluZyBiYXNlNjRDcmVkZW50aWFscyA9IGF1dGhvcml6YXRpb24uc3Vic3RyaW5nKCJCYXNpYyIubGVuZ3RoKCkpLnRyaW0oKTsKCQkJLy8JCQliYXNlNjRDcmVkZW50aWFscyA9IG5ldyBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpOwoJCQkvLwkJCVN0cmluZyB3c0lkID0gYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiKVswXTs=</text>
       </register>
       <register name="-" type="4">
-        <text>prop.action.</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlMaXN0PEhyc0xvZ09wZXJhdGU+IGhyc0xvZ09wZXJhdGUgPSB0aGlzLm9wZXJhdGVSZXBvc2l0b3J5LmZpbmRCeUxvZ0lkKGxvZ0lkKTsK</text>
+      <register name="0" type="4">
+        <text>ApiImplicitParam</text>
       </register>
       <register name="1" type="4">
-        <text>修复榜单顺序；
-修复日志接口curDate参数重复</text>
+        <text encoding="base64">CgkJCS8vYmFzaWPJ7bfds+nIoQoJCQkvLwkJCVN0cmluZyBiYXNlNjRDcmVkZW50aWFscyA9IGF1dGhvcml6YXRpb24uc3Vic3RyaW5nKCJCYXNpYyIubGVuZ3RoKCkpLnRyaW0oKTsKCQkJLy8JCQliYXNlNjRDcmVkZW50aWFscyA9IG5ldyBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpOwoJCQkvLwkJCVN0cmluZyB3c0lkID0gYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiKVswXTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlMaXN0PEhyc0xvZ09wZXJhdGU+IGhyc0xvZ09wZXJhdGVOZXcgPSBocnNMb2dPcGVyYXRlLnN0cmVhbSgpIDsK</text>
+      <register name="2" type="4">
+        <text>修复榜单顺序；
+修复日志接口curDate参数重复</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vu/HIoc/uxL/I1da+tcRJRFMKCUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgaWQgRlJPTSB3c19hcHAuYXBwX3VzZXJfbG9ncyBXSEVSRSBsb2dfZGV0YWlsX3R5cGUgPSAnz+7Ev8jV1r4nIikKCUxpc3Q8T2JqZWN0PiBnZXRQcm9qZWN0SWRzKCk7Cg==</text>
+        <text encoding="base64">CQlMaXN0PEhyc0xvZ09wZXJhdGU+IGhyc0xvZ09wZXJhdGVOZXcgPSBocnNMb2dPcGVyYXRlLnN0cmVhbSgpIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlMCg==</text>
+        <text encoding="base64">CS8vu/HIoc/uxL/I1da+tcRJRFMKCUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgaWQgRlJPTSB3c19hcHAuYXBwX3VzZXJfbG9ncyBXSEVSRSBsb2dfZGV0YWlsX3R5cGUgPSAnz+7Ev8jV1r4nIikKCUxpc3Q8T2JqZWN0PiBnZXRQcm9qZWN0SWRzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLwkJCU9wdGlvbmFsPFN0cmluZz4gYXV0aG9yaXphdGlvbiA9IE9wdGlvbmFsLm9mTnVsbGFibGUocmVxdWVzdC5nZXRIZWFkZXIoIkF1dGhvcml6YXRpb24iKSk7Cg==</text>
+        <text encoding="base64">CQlMCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLwkJCU9wdGlvbmFsPFN0cmluZz4gYXV0aG9yaXphdGlvbiA9IE9wdGlvbmFsLm9mTnVsbGFibGUocmVxdWVzdC5nZXRIZWFkZXIoIkF1dGhvcml6YXRpb24iKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWlmIChudWxsICE9IGF1dGhvcml6YXRpb24gJiYgYXV0aG9yaXphdGlvbi5zdGFydHNXaXRoKCJCYXNpYyIpKSB7CgkJCQl9IGVsc2UgewoJCQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlwZXJzb25zID0gcmVxdWVzdEZvclBlcnNvbihwYXJhbUxvZywgcGVyc29ucywgcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">CQkJCWlmIChudWxsICE9IGF1dGhvcml6YXRpb24gJiYgYXV0aG9yaXphdGlvbi5zdGFydHNXaXRoKCJCYXNpYyIpKSB7CgkJCQl9IGVsc2UgewoJCQkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
