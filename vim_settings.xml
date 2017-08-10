@@ -13,8 +13,8 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
-      <file name="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" timestamp="1502328298858">
-        <mark key="'" line="6" column="10" />
+      <file name="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" timestamp="1502357777217">
+        <mark key="'" line="114" column="37" />
       </file>
       <file name="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" timestamp="1502177053799">
         <mark key="[" line="222" column="0" />
@@ -79,6 +79,7 @@
         <mark key="]" line="15" column="80" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="C:/gitRepository/WOS_App/src/view/home/share/index.js" timestamp="1502357238871" />
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/Contact.java" timestamp="1500516327061">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -160,10 +161,10 @@
         <mark key="." line="680" column="32" />
         <mark key="^" line="680" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502352619620">
+      <file name="/Dummy.txt" timestamp="1502357977221">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogRepository.java" timestamp="1502266621333">
         <mark key="[" line="32" column="0" />
@@ -207,11 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="70" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="425" column="65" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="431" column="65" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="436" column="68" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="452" column="65" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
       <jump line="464" column="65" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
       <jump line="85" column="13" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
       <jump line="116" column="4" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
@@ -307,59 +303,66 @@
       <jump line="8" column="55" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
       <jump line="6" column="10" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
       <jump line="136" column="8" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="12" column="11" filename="C:/gitRepository/WOS_App/src/view/home/share/index.js" />
+      <jump line="27" column="22" filename="C:/gitRepository/WOS_App/src/view/home/share/index.js" />
+      <jump line="28" column="31" filename="C:/gitRepository/WOS_App/src/view/home/share/index.js" />
+      <jump line="446" column="44" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
+      <jump line="154" column="37" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29hX3Byb2Nlc3MnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>屏蔽多语言切换
+调整榜单排序</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>follow</text>
+        <text>moment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29hX3Byb2Nlc3MnLAo=</text>
+      <register name="1" type="4">
+        <text>屏蔽多语言切换
+调整榜单排序</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ29hX3Byb2Nlc3MnLAo=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CgkJCS8vYmFzaWPJ7bfds+nIoQoJCQkvLwkJCVN0cmluZyBiYXNlNjRDcmVkZW50aWFscyA9IGF1dGhvcml6YXRpb24uc3Vic3RyaW5nKCJCYXNpYyIubGVuZ3RoKCkpLnRyaW0oKTsKCQkJLy8JCQliYXNlNjRDcmVkZW50aWFscyA9IG5ldyBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpOwoJCQkvLwkJCVN0cmluZyB3c0lkID0gYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiKVswXTs=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>修复榜单顺序；
 修复日志接口curDate参数重复</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlMaXN0PEhyc0xvZ09wZXJhdGU+IGhyc0xvZ09wZXJhdGVOZXcgPSBocnNMb2dPcGVyYXRlLnN0cmVhbSgpIDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CS8vu/HIoc/uxL/I1da+tcRJRFMKCUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgaWQgRlJPTSB3c19hcHAuYXBwX3VzZXJfbG9ncyBXSEVSRSBsb2dfZGV0YWlsX3R5cGUgPSAnz+7Ev8jV1r4nIikKCUxpc3Q8T2JqZWN0PiBnZXRQcm9qZWN0SWRzKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlMCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkvLwkJCU9wdGlvbmFsPFN0cmluZz4gYXV0aG9yaXphdGlvbiA9IE9wdGlvbmFsLm9mTnVsbGFibGUocmVxdWVzdC5nZXRIZWFkZXIoIkF1dGhvcml6YXRpb24iKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLwkJCU9wdGlvbmFsPFN0cmluZz4gYXV0aG9yaXphdGlvbiA9IE9wdGlvbmFsLm9mTnVsbGFibGUocmVxdWVzdC5nZXRIZWFkZXIoIkF1dGhvcml6YXRpb24iKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>follow</last-search>
+      <last-search>moment</last-search>
       <last-offset />
-      <last-pattern>follow</last-pattern>
+      <last-pattern>moment</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -367,7 +370,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drawer</entry>
         <entry>my</entry>
         <entry>pick</entry>
         <entry>\/save</entry>
@@ -385,8 +387,9 @@
         <entry>WosResponse</entry>
         <entry>list</entry>
         <entry>operate</entry>
-        <entry>moment</entry>
         <entry>follow</entry>
+        <entry>clear</entry>
+        <entry>moment</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
