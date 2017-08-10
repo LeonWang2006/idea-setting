@@ -119,8 +119,10 @@
       <file name="/Dummy.groovy" timestamp="1502154892972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1502272911922">
-        <mark key="^" line="115" column="62" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1502361927304">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1502277310045">
         <mark key="[" line="99" column="289" />
@@ -150,12 +152,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_App/conf.js" timestamp="1502344049040" />
+      <file name="C:/gitRepository/WOS_App/conf.js" timestamp="1502360988432" />
       <file name="/dummy.sql" timestamp="1502277262422">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1502333607282">
-        <mark key="'" line="136" column="8" />
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1502359952616">
+        <mark key="'" line="194" column="19" />
         <mark key="[" line="680" column="32" />
         <mark key="m" line="361" column="27" />
         <mark key="]" line="680" column="32" />
@@ -168,7 +170,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogRepository.java" timestamp="1502266621333">
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogRepository.java" timestamp="1502359975491">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -210,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="464" column="65" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="85" column="13" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
       <jump line="116" column="4" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
       <jump line="143" column="4" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
       <jump line="155" column="21" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
@@ -310,61 +310,60 @@
       <jump line="28" column="31" filename="C:/gitRepository/WOS_App/src/view/home/share/index.js" />
       <jump line="446" column="44" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
       <jump line="154" column="37" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
+      <jump line="116" column="32" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="194" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>屏蔽多语言切换
-调整榜单排序</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">QXBwVXNlckxvZyBzYXZlUmVzdWx0ID0g</text>
       </register>
       <register name="/" type="4">
-        <text>moment</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>屏蔽多语言切换
-调整榜单排序</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnCg==</text>
+        <text encoding="base64">CQkJQm9vbGVhbiBpbnNlcnRGbGFnID0gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29hX3Byb2Nlc3MnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgkJCS8vYmFzaWPJ7bfds+nIoQoJCQkvLwkJCVN0cmluZyBiYXNlNjRDcmVkZW50aWFscyA9IGF1dGhvcml6YXRpb24uc3Vic3RyaW5nKCJCYXNpYyIubGVuZ3RoKCkpLnRyaW0oKTsKCQkJLy8JCQliYXNlNjRDcmVkZW50aWFscyA9IG5ldyBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpOwoJCQkvLwkJCVN0cmluZyB3c0lkID0gYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiKVswXTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJQm9vbGVhbiBpbnNlcnRGbGFnID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>修复榜单顺序；
-修复日志接口curDate参数重复</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlMaXN0PEhyc0xvZ09wZXJhdGU+IGhyc0xvZ09wZXJhdGVOZXcgPSBocnNMb2dPcGVyYXRlLnN0cmVhbSgpIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CS8vu/HIoc/uxL/I1da+tcRJRFMKCUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgaWQgRlJPTSB3c19hcHAuYXBwX3VzZXJfbG9ncyBXSEVSRSBsb2dfZGV0YWlsX3R5cGUgPSAnz+7Ev8jV1r4nIikKCUxpc3Q8T2JqZWN0PiBnZXRQcm9qZWN0SWRzKCk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CQkJCQlpZiAoc2F2ZVJlc3VsdCAhPSBudWxsKSB7CgkJCQkJCWluc2VydEZsYWcgPSB0cnVlOwoJCQkJCX0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlMCg==</text>
+        <text encoding="base64">CQkJc2F2ZVJlc3VsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLwkJCU9wdGlvbmFsPFN0cmluZz4gYXV0aG9yaXphdGlvbiA9IE9wdGlvbmFsLm9mTnVsbGFibGUocmVxdWVzdC5nZXRIZWFkZXIoIkF1dGhvcml6YXRpb24iKSk7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>moment</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>moment</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -372,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>my</entry>
         <entry>pick</entry>
         <entry>\/save</entry>
         <entry>fix</entry>
@@ -387,11 +385,12 @@
         <entry>restTem</entry>
         <entry>header</entry>
         <entry>WosResponse</entry>
-        <entry>list</entry>
         <entry>operate</entry>
         <entry>follow</entry>
         <entry>clear</entry>
         <entry>moment</entry>
+        <entry>detail</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
