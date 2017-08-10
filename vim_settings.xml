@@ -102,10 +102,10 @@
         <mark key="]" line="137" column="34" />
         <mark key="." line="137" column="34" />
       </file>
-      <file name="C:/gitRepository/WOS_App/src/view/home/dynamic/billboard/reducer.js" timestamp="1502188788284">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="20" column="0" />
+      <file name="C:/gitRepository/WOS_App/src/view/home/dynamic/billboard/reducer.js" timestamp="1502352603780">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.java" timestamp="1501758637966">
         <mark key="[" line="121" column="37" />
@@ -160,8 +160,8 @@
         <mark key="." line="680" column="32" />
         <mark key="^" line="680" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502280236345">
-        <mark key="[" line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1502352619620">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
@@ -309,8 +309,8 @@
       <jump line="136" column="8" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ29hX3Byb2Nlc3MnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -321,36 +321,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgkJCS8vYmFzaWPJ7bfds+nIoQoJCQkvLwkJCVN0cmluZyBiYXNlNjRDcmVkZW50aWFscyA9IGF1dGhvcml6YXRpb24uc3Vic3RyaW5nKCJCYXNpYyIubGVuZ3RoKCkpLnRyaW0oKTsKCQkJLy8JCQliYXNlNjRDcmVkZW50aWFscyA9IG5ldyBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpOwoJCQkvLwkJCVN0cmluZyB3c0lkID0gYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiKVswXTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ29hX3Byb2Nlc3MnLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CgkJCS8vYmFzaWPJ7bfds+nIoQoJCQkvLwkJCVN0cmluZyBiYXNlNjRDcmVkZW50aWFscyA9IGF1dGhvcml6YXRpb24uc3Vic3RyaW5nKCJCYXNpYyIubGVuZ3RoKCkpLnRyaW0oKTsKCQkJLy8JCQliYXNlNjRDcmVkZW50aWFscyA9IG5ldyBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpOwoJCQkvLwkJCVN0cmluZyB3c0lkID0gYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiKVswXTs=</text>
+      </register>
+      <register name="3" type="4">
         <text>修复榜单顺序；
 修复日志接口curDate参数重复</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQlMaXN0PEhyc0xvZ09wZXJhdGU+IGhyc0xvZ09wZXJhdGVOZXcgPSBocnNMb2dPcGVyYXRlLnN0cmVhbSgpIDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CS8vu/HIoc/uxL/I1da+tcRJRFMKCUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgaWQgRlJPTSB3c19hcHAuYXBwX3VzZXJfbG9ncyBXSEVSRSBsb2dfZGV0YWlsX3R5cGUgPSAnz+7Ev8jV1r4nIikKCUxpc3Q8T2JqZWN0PiBnZXRQcm9qZWN0SWRzKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlMCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkvLwkJCU9wdGlvbmFsPFN0cmluZz4gYXV0aG9yaXphdGlvbiA9IE9wdGlvbmFsLm9mTnVsbGFibGUocmVxdWVzdC5nZXRIZWFkZXIoIkF1dGhvcml6YXRpb24iKSk7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLwkJCU9wdGlvbmFsPFN0cmluZz4gYXV0aG9yaXphdGlvbiA9IE9wdGlvbmFsLm9mTnVsbGFibGUocmVxdWVzdC5nZXRIZWFkZXIoIkF1dGhvcml6YXRpb24iKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWlmIChudWxsICE9IGF1dGhvcml6YXRpb24gJiYgYXV0aG9yaXphdGlvbi5zdGFydHNXaXRoKCJCYXNpYyIpKSB7CgkJCQl9IGVsc2UgewoJCQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
