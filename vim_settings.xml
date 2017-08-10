@@ -16,16 +16,21 @@
       <file name="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" timestamp="1502357777217">
         <mark key="'" line="114" column="37" />
       </file>
-      <file name="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" timestamp="1502177053799">
+      <file name="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" timestamp="1502372375770">
+        <mark key="'" line="581" column="30" />
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
         <mark key="." line="222" column="0" />
+      </file>
+      <file name="C:/gitRepository/WOS_App/src/view/home/diary/my_comment/index.js" timestamp="1502373062266">
+        <mark key="'" line="143" column="51" />
       </file>
       <file name="C:/gitRepository/WOS_App/android/app/build.gradle" timestamp="1502171562253">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
+      <file name="C:/gitRepository/WOS_App/doc/project_build/index" timestamp="1502372594003" />
       <file name="C:/gitRepository/WOS_App/package.json" timestamp="1502369999971">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -217,13 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="4" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="143" column="4" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="155" column="21" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="167" column="4" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="179" column="21" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="190" column="4" filename="C:/gitRepository/WOS_App/src/view/home/more/addressbook/personal_details/index.js" />
-      <jump line="119" column="27" filename="C:/gitRepository/WOS_App/src/view/app/index.js" />
       <jump line="133" column="55" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="343" column="27" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="349" column="50" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -317,46 +315,53 @@
       <jump line="154" column="37" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
       <jump line="116" column="32" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="194" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="142" column="51" filename="C:/gitRepository/WOS_App/src/view/home/diary/my_comment/index.js" />
+      <jump line="212" column="37" filename="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" />
+      <jump line="362" column="73" filename="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" />
+      <jump line="363" column="69" filename="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" />
+      <jump line="366" column="56" filename="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" />
+      <jump line="384" column="50" filename="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" />
+      <jump line="581" column="30" filename="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp3aW5kb3dTb2Z0SW5wdXRNb2RlPSJhZGp1c3RSZXNpemUiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8S2V5Ym9hcmRBd2FyZVNjcm9sbFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgICAgICAgICAgICAgICAgICA8VGV4dElucHV0IHN0eWxlPXtzdHlsZXMudGV4dElucHV0fSBwbGFjZWhvbGRlcj17J015IElucHV0J30vPgogICAgICAgICAgICAgICAgICAgIDwvS2V5Ym9hcmRBd2FyZVNjcm9sbFZpZXc+</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>Scro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp3aW5kb3dTb2Z0SW5wdXRNb2RlPSJhZGp1c3RSZXNpemUiCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8S2V5Ym9hcmRBd2FyZVNjcm9sbFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgICAgICAgICAgICAgICAgICA8VGV4dElucHV0IHN0eWxlPXtzdHlsZXMudGV4dElucHV0fSBwbGFjZWhvbGRlcj17J015IElucHV0J30vPgogICAgICAgICAgICAgICAgICAgIDwvS2V5Ym9hcmRBd2FyZVNjcm9sbFZpZXc+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgIm1vbWVudCI6ICJeMi4xOC4xIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp3aW5kb3dTb2Z0SW5wdXRNb2RlPSJhZGp1c3RSZXNpemUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJtb21lbnQiOiAiXjIuMTguMSIsCg==</text>
+        <text encoding="base64">Ly8gICAgIm1vbWVudCI6ICJeMi4xOC4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJtb21lbnQiOiAiXjIuMTguMSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJQm9vbGVhbiBpbnNlcnRGbGFnID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkJQm9vbGVhbiBpbnNlcnRGbGFnID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJQm9vbGVhbiBpbnNlcnRGbGFnID0gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -366,9 +371,9 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>Scro</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>Scro</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -376,9 +381,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pick</entry>
-        <entry>\/save</entry>
-        <entry>fix</entry>
         <entry>save</entry>
         <entry>summit</entry>
         <entry>auth</entry>
@@ -396,6 +398,9 @@
         <entry>moment</entry>
         <entry>detail</entry>
         <entry>list</entry>
+        <entry>Scorll</entry>
+        <entry>scroll</entry>
+        <entry>Scro</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
