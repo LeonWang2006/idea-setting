@@ -27,7 +27,8 @@
         <mark key="^" line="105" column="31" />
         <mark key="." line="105" column="31" />
       </file>
-      <file name="C:/gitRepository/WOS_App/package.json" timestamp="1502369999971">
+      <file name="C:/gitRepository/WOS_App/package.json" timestamp="1502414715423">
+        <mark key="'" line="71" column="14" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -225,8 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="55" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="343" column="27" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="349" column="50" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="370" column="28" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="387" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -325,6 +324,8 @@
       <jump line="366" column="56" filename="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" />
       <jump line="384" column="50" filename="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" />
       <jump line="581" column="30" filename="C:/gitRepository/WOS_App/src/view/home/more/field/diary/index.js" />
+      <jump line="47" column="29" filename="C:/gitRepository/WOS_App/package.json" />
+      <jump line="71" column="14" filename="C:/gitRepository/WOS_App/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,7 +335,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>Scro</text>
+        <text>moment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
@@ -374,9 +375,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Scro</last-search>
+      <last-search>moment</last-search>
       <last-offset />
-      <last-pattern>Scro</last-pattern>
+      <last-pattern>moment</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -398,12 +399,12 @@
         <entry>operate</entry>
         <entry>follow</entry>
         <entry>clear</entry>
-        <entry>moment</entry>
         <entry>detail</entry>
         <entry>list</entry>
         <entry>Scorll</entry>
         <entry>scroll</entry>
         <entry>Scro</entry>
+        <entry>moment</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
