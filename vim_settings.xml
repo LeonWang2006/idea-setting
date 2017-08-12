@@ -13,6 +13,11 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1502516635475">
+        <mark key="[" line="18" column="74" />
+        <mark key="]" line="18" column="75" />
+        <mark key="." line="18" column="75" />
+      </file>
       <file name="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" timestamp="1502357777217">
         <mark key="'" line="114" column="37" />
       </file>
@@ -115,7 +120,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="C:/gitRepository/WOS_App/conf.js" timestamp="1502441549087" />
       <file name="/dummy.sql" timestamp="1502277262422">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,7 +132,7 @@
         <mark key="." line="680" column="32" />
         <mark key="^" line="680" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502374473067">
+      <file name="/Dummy.txt" timestamp="1502516888573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -341,7 +345,7 @@
         <text>fans</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09Tt7W72CB7fSIsIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldElkKCksIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09T77+977+977+977+9IHt9IiwgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0SWQoKSwgcmVzdWx0KTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8S2V5Ym9hcmRBd2FyZVNjcm9sbFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgICAgICAgICAgICAgICAgICA8VGV4dElucHV0IHN0eWxlPXtzdHlsZXMudGV4dElucHV0fSBwbGFjZWhvbGRlcj17J015IElucHV0J30vPgogICAgICAgICAgICAgICAgICAgIDwvS2V5Ym9hcmRBd2FyZVNjcm9sbFZpZXc+</text>
@@ -505,5 +509,8 @@
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
