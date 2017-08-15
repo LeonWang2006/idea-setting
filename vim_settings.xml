@@ -209,6 +209,9 @@
       <file name="C:/gitRepository/WOS_App/src/view/home/me/info/avatar/index.js" timestamp="1501916065738">
         <mark key="[" line="171" column="22" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1502761905398">
+        <mark key="'" line="447" column="49" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/NewsRepository.java" timestamp="1500261966757">
         <mark key="[" line="19" column="183" />
         <mark key="]" line="19" column="183" />
@@ -233,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="27" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="345" column="18" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="350" column="50" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="371" column="28" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -333,6 +335,7 @@
       <jump line="555" column="114" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="568" column="51" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="608" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="447" column="49" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -342,7 +345,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>fans</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gV09T77+977+977+977+9IHt9IiwgcmVxdWVzdC5nZXRTZXNzaW9uKCkuZ2V0SWQoKSwgcmVzdWx0KTsK</text>
@@ -382,9 +385,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fans</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>fans</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -392,7 +395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postO</entry>
         <entry>post</entry>
         <entry>folow</entry>
         <entry>restTempl</entry>
@@ -412,6 +414,7 @@
         <entry>contacts</entry>
         <entry>follow</entry>
         <entry>fans</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
