@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1502846465659">
+        <mark key="'" line="265" column="32" />
+        <mark key="[" line="293" column="9" />
+        <mark key="]" line="294" column="23" />
+        <mark key="^" line="294" column="23" />
+        <mark key="." line="294" column="23" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.java" timestamp="1500983623875">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -15,16 +22,16 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1502845536232">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" timestamp="1502357777217">
         <mark key="'" line="114" column="37" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1502845373979">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1502846971296">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="120" column="8" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -68,10 +75,23 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" timestamp="1502846200668">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="126" column="6" />
+        <mark key="]" line="126" column="6" />
+        <mark key="^" line="126" column="6" />
+        <mark key="." line="126" column="6" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1501752840911">
         <mark key="[" line="39" column="35" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.java" timestamp="1502846930389">
+        <mark key="[" line="70" column="9" />
+        <mark key="]" line="70" column="22" />
+        <mark key="^" line="70" column="22" />
+        <mark key="." line="70" column="22" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MapService.java" timestamp="1501165033129">
         <mark key="[" line="65" column="0" />
@@ -260,14 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="12" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
-      <jump line="91" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="651" column="71" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="797" column="55" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="749" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="667" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="680" column="40" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="751" column="24" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="636" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="650" column="37" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="664" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -360,58 +372,66 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" />
       <jump line="158" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" />
+      <jump line="123" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" />
+      <jump line="93" column="1" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.java" />
+      <jump line="85" column="21" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
+      <jump line="249" column="32" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
+      <jump line="258" column="32" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhcHAyLjAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>flag</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>signout</text>
+        <text>buildAction</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2FuU2lnbiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhcHAyLjAK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lcyA9IHVzZXJTZXJ2aWNlLmdldFVzZXJOYW1lc01hcCgibmFtZSIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmdyb3VwICdjbi53b25kZXJzaGFyZScKdmVyc2lvbiAnMS45MicKZGVzY3JpcHRpb24gJ+WRmOW3peS5i+WutmFwaScKCmFwcGx5IHBsdWdpbjogJ2lkZWEnCmFwcGx5IHBsdWdpbjogJ2phdmEnCmFwcGx5IHBsdWdpbjogJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdCcKCnNvdXJjZUNvbXBhdGliaWxpdHkgPSAxLjgKdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAoKYnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZlbkxvY2FsKCkKLy8gICAgICAgIG1hdmVuQ2VudHJhbCgpCiAgICAgICAgamNlbnRlcigpCiAgICB9CiAgICBkZXBlbmRlbmNpZXMgewogICAgICAgIGNsYXNzcGF0aCgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LWdyYWRsZS1wbHVnaW46MS41LjMuUkVMRUFTRSIpCiAgICB9Cn0KCmFsbHByb2plY3RzIHsKICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgbWF2ZW5Mb2NhbCgpCiAgICAgICAgamNlbnRlcigpCiAgICB9Cn0KCmRlcGVuZGVuY2llcyB7CiAgICBkZWYgc3dhZ2dlcjJWZXJzaW9uID0gIjIuNi4xIgogICAgLy9zcHJpbmctYm9vdAogICAgY29tcGlsZSgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItd2ViIikKICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtcmVkaXMiKQogICAgY29tcGlsZSgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItZGF0YS1qcGEiKQogICAgY29tcGlsZSgib3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItc2VjdXJpdHkiKQoKICAgIGNvbXBpbGUoImNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5qYXhyczpqYWNrc29uLWpheHJzLWpzb24tcHJvdmlkZXI6Mi43LjMiKQoKICAgIC8v5pWw5o2u5bqT6amx5YqoCiAgICBjb21waWxlKCJteXNxbDpteXNxbC1jb25uZWN0b3ItamF2YTo2LjAuNSIpCiAgICBjb21waWxlKCJvcmcuanNvdXA6anNvdXA6MS45LjEiKQogICAgY29tcGlsZSBncm91cDogJ2NvbS5taWNyb3NvZnQuc3Fsc2VydmVyJywgbmFtZTogJ21zc3FsLWpkYmMnLCB2ZXJzaW9uOiAnNi4xLjUuanJlOC1wcmV2aWV3JwoKLy8gICAgY29tcGlsZSBncm91cDogJ2NvbS5hbGliYWJhJywgbmFtZTogJ2RydWlkJywgdmVyc2lvbjogJzEuMC4yOScKICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20uemF4eGVyJywgbmFtZTogJ0hpa2FyaUNQJywgdmVyc2lvbjogJzIuNi4xJwoKICAgIC8v5p6B5YWJ5o6o6YCBCiAgICBjb21waWxlKCJjbi5qcHVzaC5hcGk6anB1c2gtY2xpZW50OjMuMi4xMCIpCgogICAgLy/lhazlhbHlupMKICAgIGNvbXBpbGUoImNvbW1vbnMtbmV0OmNvbW1vbnMtbmV0OjMuNSIpCiAgICBjb21waWxlKCJjb21tb25zLWlvOmNvbW1vbnMtaW86Mi41IikKICAgIGNvbXBpbGUoIm9yZy5hcGFjaGUuY29tbW9uczpjb21tb25zLWVtYWlsOjEuNCIpCiAgICBjb21waWxlKCJjb20uZ29vZ2xlLmNvZGUuZ3Nvbjpnc29uOjIuOC4wIikKICAgIGNvbXBpbGUoImNvbW1vbnMtY29kZWM6Y29tbW9ucy1jb2RlYzoxLjEwIikKCiAgICAvLyBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUuY29tbW9ucy9jb21tb25zLWxhbmczCi8vICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuYXBhY2hlLmNvbW1vbnMnLCBuYW1lOiAnY29tbW9ucy1sYW5nMycsIHZlcnNpb246ICczLjUnCgovLyBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L2NvbS5zcXVhcmV1cC5va2h0dHAzL29raHR0cAogICAgY29tcGlsZSBncm91cDogJ2NvbS5zcXVhcmV1cC5va2h0dHAzJywgbmFtZTogJ29raHR0cCcsIHZlcnNpb246ICczLjYuMCcKCiAgICAvL+iHquWKqEFQSeaWh+ahowogICAgY29tcGlsZSgnaW8uc3ByaW5nZm94OnNwcmluZ2ZveC1zd2FnZ2VyMjonICsgc3dhZ2dlcjJWZXJzaW9uKQogICAgY29tcGlsZSgnaW8uc3ByaW5nZm94OnNwcmluZ2ZveC1zd2FnZ2VyLXVpOicgKyBzd2FnZ2VyMlZlcnNpb24pCgp9CgovKmphdmFkb2MgewogICAgdGl0bGUgIuWRmOW3peS5i+WutkFQaeaWh+ahoyIKICAgIHNvdXJjZSBmaWxlVHJlZShkaXI6ICdzcmMvbWFpbi9jbi93b25kZXJzaGFyZS9hcGknLCBleGNsdWRlczogWycqKi8vKmlnbm9yZSovLyoqJywgJyoqLy8qLmRhdGEqLy8qKiddKQogb3B0aW9ucy5lbmNvZGluZyAiVVRGLTgiCiB9Ki8KPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyU2VydmljZS5zZXRIcnNFbnRpdHlNYW5hZ2VyKGhyc0VudGl0eU1hbmFnZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECnNwcmluZzoKICBvdXRwdXQ6CiAgICBhbnNpOgogICAgICBlbmFibGVkOiBkZXRlY3QKICByZWRpczoKICAgIGRhdGFiYXNlOiAwCiAgICBob3N0OiAxOTIuMTY4LjEwLjIwCiAgICBwb3J0OiA2Mzc5CiAgICBwYXNzd29yZDogV3NyZWRpczYKICAgIHBvb2w6CiAgICAgIG1heC1hY3RpdmU6IDEwCiAgICAgIG1heC1pZGxlOiAxMAogICAgICBtYXgtd2FpdDogLTEKICAgICAgbWluLWlkbGU6IDAKICAgIHRpbWVvdXQ6IDAKICBqcGE6CiAgICBoaWJlcm5hdGU6CiAgICAgIG5hbWluZzoKICAgICAgICBzdHJhdGVneTogb3JnLnNwcmluZ2ZyYW1ld29yay5ib290Lm9ybS5qcGEuaGliZXJuYXRlLlNwcmluZ05hbWluZ1N0cmF0ZWd5CiAgICBzaG93LXNxbDogdHJ1ZQogIGRhdGFzb3VyY2U6CiMgICAgdHlwZTogb3JnLmFwYWNoZS50b21jYXQuamRiYy5wb29sLkRhdGFTb3VyY2UKIyAgICB0b21jYXQ6CiMgICAgICB2YWxpZGF0aW9uLXF1ZXJ5OiBTRUxFQ1QgMQojICAgICAgdGVzdC1vbi1ib3Jyb3c6IHRydWUKIyAgICAgIHRlc3Qtd2hpbGUtaWRsZTogdHJ1ZQojICAgICAgdGVzdC1vbi1jb25uZWN0OiB0cnVlCiMgICAgICBqbXgtZW5hYmxlZDogdHJ1ZQojICAgICAgdGltZS1iZXR3ZWVuLWV2aWN0aW9uLXJ1bnMtbWlsbGlzOiAxMDAwMAojICAgICAgbWF4LWFjdGl2ZTogNQojICAgIGhpa2FyaToKIyAgICAgIGNvbm5lY3Rpb24tdGVzdC1xdWVyeTogU0VMRUNUIDEKIyAgICAgIGNvbm5lY3Rpb24tdGltZW91dDogMTAwMDAKIyAgICAgIHZhbGlkYXRpb24tdGltZW91dDogMTAwMDAKIyAgICAgIGlkbGUtdGltZW91dDogMzAwMDAKIyAgICAgIG1heC1saWZldGltZTogMTAwMDAwCiMgICAgICBtYXhpbXVtLXBvb2wtc2l6ZTogNQogIG12YzoKICAgIHRocm93LWV4Y2VwdGlvbi1pZi1uby1oYW5kbGVyLWZvdW5kOiB0cnVlCiAgcmVzb3VyY2VzOgogICAgYWRkLW1hcHBpbmdzOiBmYWxzZQoKYXBwOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6bXlzcWw6Ly8xMC4xMC4xOC4xMzM6MzMwNi93c19hcHA/Y2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCZ6ZXJvRGF0ZVRpbWVCZWhhdmlvcj1jb252ZXJ0VG9OdWxsJmVtcHR5U3RyaW5nc0NvbnZlcnRUb1plcm89dHJ1ZQogICAgdXNlck5hbWU6IG9hX25ldwogICAgcGFzc3dvcmQ6IG9hX25ldzY0CiAgICBkcml2ZXJDbGFzc05hbWU6IGNvbS5teXNxbC5jai5qZGJjLkRyaXZlcgoKd3BzOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6bXlzcWw6Ly8xMC4xMC4xOC4xMzM6MzMwNi9vYV9uZXc/Y2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCZ6ZXJvRGF0ZVRpbWVCZWhhdmlvcj1jb252ZXJ0VG9OdWxsJmF1dG9SZWNvbm5lY3Q9dHJ1ZSZlbXB0eVN0cmluZ3NDb252ZXJ0VG9aZXJvPXRydWUKICAgIHVzZXJOYW1lOiBvYV9uZXcKICAgIHBhc3N3b3JkOiBvYV9uZXc2NAogICAgZHJpdmVyQ2xhc3NOYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKCmJsb2c6CiAgZGF0YXNvdXJjZToKICAgIHVybDogamRiYzpteXNxbDovLzEwLjEwLjE4LjEzMzozMzA2L3NoYXJldHJvbml4P2NoYXJhY3RlckVuY29kaW5nPXV0ZjgmemVyb0RhdGVUaW1lQmVoYXZpb3I9Y29udmVydFRvTnVsbCZhdXRvUmVjb25uZWN0PXRydWUmZW1wdHlTdHJpbmdzQ29udmVydFRvWmVybz10cnVlCiAgICB1c2VyTmFtZTogb2FfbmV3CiAgICBwYXNzd29yZDogb2FfbmV3NjQKICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCgpwb2ludDoKICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOm15c3FsOi8vMTAuMTAuMTguMTMzOjMzMDYvd3Nfc3RhZmZfc2NvcmU/Y2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCZ6ZXJvRGF0ZVRpbWVCZWhhdmlvcj1jb252ZXJ0VG9OdWxsJmF1dG9SZWNvbm5lY3Q9dHJ1ZSZlbXB0eVN0cmluZ3NDb252ZXJ0VG9aZXJvPXRydWUKICAgIHVzZXJOYW1lOiBvYV9uZXcKICAgIHBhc3N3b3JkOiBvYV9uZXc2NAogICAgZHJpdmVyQ2xhc3NOYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKCmhyOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6c3Fsc2VydmVyOi8vMTkyLjE2OC4xMC4xNjM6MTQzMztkYXRhYmFzZU5hbWU9ZWhydjgKICAgIHVzZXJOYW1lOiBla3B3b25kZXJzaGFyZXRlc3QKICAgIHBhc3N3b3JkOiBla3B3b25kZXJzaGFyZXRlc3QKICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm1pY3Jvc29mdC5zcWxzZXJ2ZXIuamRiYy5TUUxTZXJ2ZXJEcml2ZXIKCm9hOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6c3Fsc2VydmVyOi8vMTkyLjE2OC4xMC4xNjM6MTQzMztkYXRhYmFzZU5hbWU9ZWtwd29uZGVyc2hhcmV0ZXN0CiAgICB1c2VyTmFtZTogZWtwd29uZGVyc2hhcmV0ZXN0CiAgICBwYXNzd29yZDogZWtwd29uZGVyc2hhcmV0ZXN0CiAgICBkcml2ZXJDbGFzc05hbWU6IGNvbS5taWNyb3NvZnQuc3Fsc2VydmVyLmpkYmMuU1FMU2VydmVyRHJpdmVyCgpwcm9qZWN0OgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6bXlzcWw6Ly8xMC4xMC4xOC4xMzM6MzMwNi93c19wcm9qZWN0X21hbmFnZT9jaGFyYWN0ZXJFbmNvZGluZz11dGY4Jnplcm9EYXRlVGltZUJlaGF2aW9yPWNvbnZlcnRUb051bGwmYXV0b1JlY29ubmVjdD10cnVlJmVtcHR5U3RyaW5nc0NvbnZlcnRUb1plcm89dHJ1ZQogICAgdXNlck5hbWU6IG9hX25ldwogICAgcGFzc3dvcmQ6IG9hX25ldzY0CiAgICBkcml2ZXJDbGFzc05hbWU6IGNvbS5teXNxbC5jai5qZGJjLkRyaXZlcgoKamlyYToKICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOm15c3FsOi8vMTAuMTAuMTguMTMzOjMzMDYvamlyYV90ZXN0NjQ/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPVVURi04Jnplcm9EYXRlVGltZUJlaGF2aW9yPWNvbnZlcnRUb051bGwmYXV0b1JlY29ubmVjdD10cnVlCiAgICB1c2VyTmFtZTogd3NfZGV2CiAgICBwYXNzd29yZDogODZtaHZtbWhycwogICAgZHJpdmVyQ2xhc3NOYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKCmhyczoKICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOm15c3FsOi8vMTAuMTAuMTguMTMwOjMzMDYvd29zX2hycz9jaGFyYWN0ZXJFbmNvZGluZz11dGY4Jnplcm9EYXRlVGltZUJlaGF2aW9yPWNvbnZlcnRUb051bGwmYXV0b1JlY29ubmVjdD10cnVlJnVzZVNTTD1mYWxzZQogICAgdXNlck5hbWU6IHdzX3dvc190ZXN0CiAgICBwYXNzd29yZDogd29zdGVzdDEyMwogICAgZHJpdmVyQ2xhc3NOYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKCmNvbW1vbjoKICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOm15c3FsOi8vMTAuMTAuMTguMTMwOjMzMDYvd29zX2NvbW1vbj9jaGFyYWN0ZXJFbmNvZGluZz11dGY4Jnplcm9EYXRlVGltZUJlaGF2aW9yPWNvbnZlcnRUb051bGwmYXV0b1JlY29ubmVjdD10cnVlJnVzZVNTTD1mYWxzZQogICAgdXNlck5hbWU6IHdzX3dvc190ZXN0CiAgICBwYXNzd29yZDogd29zdGVzdDEyMwogICAgZHJpdmVyQ2xhc3NOYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKCm9nczoKICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOm15c3FsOi8vMTAuMTAuMTguMTMwOjMzMDYvd29zX29ncz9jaGFyYWN0ZXJFbmNvZGluZz11dGY4Jnplcm9EYXRlVGltZUJlaGF2aW9yPWNvbnZlcnRUb051bGwmYXV0b1JlY29ubmVjdD10cnVlJnVzZVNTTD1mYWxzZQogICAgdXNlck5hbWU6IHdzX3dvc190ZXN0CiAgICBwYXNzd29yZDogd29zdGVzdDEyMwogICAgZHJpdmVyQ2xhc3NOYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKCnNlcnZlcjoKICBwb3J0OiA0NDMKICBzc2w6CiAgICBlbmFibGVkOiB0cnVlCiAgICBrZXktcGFzc3dvcmQ6IFdvbmRlcl8jYXMyMDE3CiAgICBwcm90b2NvbDogVExTdjEuMgogICAga2V5LXN0b3JlOiBjbGFzc3BhdGg6d29uZGVyc2hhcmUuY24ua2V5c3RvcmUKICAgIGtleS1zdG9yZS1wYXNzd29yZDogV29uZGVyXyNhczIwMTcKCmxvZ2dpbmc6CiAgZmlsZTogc3ByaW5nLWJvb3QubG9nCiAgbGV2ZWw6CiAgICBjb206CiAgICAgIGFsaWJhYmE6CiAgICAgICAgZHJ1aWQ6IGRlYnVnCiAgICAgIHpheHhlcjoKICAgICAgICBoaWthcmk6IGRlYnVnCiAgICBvcmc6CiAgICAgIGFwYWNoZToKICAgICAgICB0b21jYXQ6CiAgICAgICAgICBqZGJjOgogICAgICAgICAgICBwb29sOgogICAgICAgICAgICAgIERhdGFTb3VyY2U6IGRlYnVnCiMgICAgdHJ1c3Qtc3RvcmU6IGNsYXNzcGF0aDpyZXN0X3dvbmRlcnNoYXJlX2NuLmprcwojICAgIHRydXN0LXN0b3JlLXBhc3N3b3JkOiBkcmFnb24KIyAgICBrZXktc3RvcmU6IGNsYXNzcGF0aDpyZXN0LndvbmRlcnNoYXJlLmNuLmprcwojICAgIGtleS1zdG9yZS1wYXNzd29yZDogV29uRGVyMjAxNgoKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3c1Jzc0xpc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhcHAyLjAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlra2trCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3c1Jzc1s2XSA9IHNmLmZvcm1hdChuZXdzUnNzWzZdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3c1Jzc1s1XSA9IHNmLmZvcm1hdChuZXdzUnNzWzVdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlNb2JpbGVBdXRoVXNlcnMgbW9iaWxlQXV0aFVzZXJzID0gdGhpcy5tb2JpbGVVc2Vyc1JlcG9zaXRvcnkuZmluZEJ5QmFkZ2Uod3NJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8S2V5Ym9hcmRBd2FyZVNjcm9sbFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgICAgICAgICAgICAgICAgICA8VGV4dElucHV0IHN0eWxlPXtzdHlsZXMudGV4dElucHV0fSBwbGFjZWhvbGRlcj17J015IElucHV0J30vPgogICAgICAgICAgICAgICAgICAgIDwvS2V5Ym9hcmRBd2FyZVNjcm9sbFZpZXc+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3NSc3NbM10gPSBuZXdzUnNzWzNdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp3aW5kb3dTb2Z0SW5wdXRNb2RlPSJhZGp1c3RSZXNpemUiCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdFtdIG5ld3NSc3MgOiBuZXdzUnNzTGlzdCkgewogICAgICAgICAgICBpZiAoKEJ5dGUpIG5ld3NSc3NbM10gPT0gNykgewogICAgICAgICAgICAgICAgbmV3c1Jzc1szXSA9ICIzNmtyIjsKICAgICAgICAgICAgfSBlbHNlIGlmICgoQnl0ZSkgbmV3c1Jzc1szXSA9PSAxMCkgewogICAgICAgICAgICAgICAgbmV3c1Jzc1szXSA9ICJpZmFuciI7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>signout</last-search>
+      <last-search>buildAction</last-search>
       <last-offset />
-      <last-pattern>signout</last-pattern>
+      <last-pattern>buildAction</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -419,7 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>folow</entry>
         <entry>restTempl</entry>
         <entry>restTem</entry>
         <entry>header</entry>
@@ -439,6 +458,7 @@
         <entry>fans</entry>
         <entry>save</entry>
         <entry>signout</entry>
+        <entry>buildAction</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private static long //g</entry>
