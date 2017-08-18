@@ -26,11 +26,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1503027145343">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="57" column="9" />
-        <mark key="]" line="57" column="10" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1503028171680">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="57" column="16" />
+        <mark key="]" line="57" column="16" />
+        <mark key="." line="57" column="16" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/.gitignore" timestamp="1502956720499">
         <mark key="[" line="19" column="0" />
@@ -285,6 +285,11 @@
         <mark key="]" line="123" column="40" />
         <mark key="." line="123" column="40" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/User.kt" timestamp="1503028791503">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/NewsRepository.java" timestamp="1500261966757">
         <mark key="[" line="19" column="183" />
         <mark key="]" line="19" column="183" />
@@ -405,10 +410,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZGFwOgogICAgdXJsczogCg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZ2l0aHViLmVkZHVtZWxlbmRlei5zYW1wbGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>myserver.example.com</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -417,34 +422,34 @@
         <text>kotlin-jpa</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZGFwOgogICAgdXJsczogCg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZ2l0aHViLmVkZHVtZWxlbmRlei5zYW1wbGU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZGFwOgogICAgdXJsczogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBQb3N0TWFwcGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CUBQb3N0TWFwcGluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAia290bGluLWpwYSIK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAia290bGluLXNwcmluZyIK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAia290bGluLWpwYSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjEuMy0yJwo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAia290bGluLXNwcmluZyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjEuMy0yJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgewovLyAgICBwbHVnaW4oImtvdGxpbi1zcHJpbmciKQovLyAgICBwbHVnaW4oImtvdGxpbi1qcGEiKQogICAgcGx1Z2luKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QiKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
