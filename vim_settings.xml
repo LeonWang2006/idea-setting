@@ -26,7 +26,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1503028171680">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1503034906751">
         <mark key="'" line="166" column="0" />
         <mark key="[" line="57" column="16" />
         <mark key="]" line="57" column="16" />
@@ -89,12 +89,18 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.kt.java" timestamp="1503034612633">
+        <mark key="[" line="47" column="46" />
+        <mark key="]" line="47" column="46" />
+        <mark key="." line="47" column="46" />
+        <mark key="^" line="57" column="51" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1502974449835">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.java" timestamp="1502947823136">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.java" timestamp="1503030694832">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
@@ -104,6 +110,12 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.kt" timestamp="1503035584408">
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="55" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="21" column="55" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1502874256546">
         <mark key="[" line="51" column="0" />
@@ -167,6 +179,12 @@
         <mark key="]" line="30" column="171" />
         <mark key="." line="30" column="171" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceJpaConfig.java" timestamp="1503031025239">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="52" column="43" />
+        <mark key="." line="32" column="17" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1502874309857">
         <mark key="'" line="208" column="71" />
         <mark key="[" line="55" column="12" />
@@ -214,6 +232,7 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.java" timestamp="1503031042711" />
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1502277310045">
         <mark key="[" line="99" column="289" />
         <mark key="]" line="99" column="289" />
@@ -265,10 +284,10 @@
         <mark key="]" line="26" column="177" />
         <mark key="." line="26" column="177" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503026954031">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503035704541">
+        <mark key="[" line="14" column="86" />
+        <mark key="]" line="14" column="87" />
+        <mark key="." line="14" column="87" />
       </file>
       <file name="C:/gitRepository/WOS_App/src/view/home/diary/manager/filter_bar/index.js" timestamp="1502098505943">
         <mark key="[" line="79" column="20" />
@@ -300,7 +319,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1502874205983">
+      <file name="/fragment.java" timestamp="1503034274785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
@@ -409,47 +428,47 @@
       <jump line="92" column="10" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZ2l0aHViLmVkZHVtZWxlbmRlei5zYW1wbGU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>= ResponseWrapper(&quot;User(id=$id, name=admin, password=123)&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>myserver.example.com</text>
+        <text>= ResponseWrapper(&quot;User(id=$id, name=admin, password=123)&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
       <register name="0" type="4">
-        <text>kotlin-jpa</text>
+        <text>LdapContextSource</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZ2l0aHViLmVkZHVtZWxlbmRlei5zYW1wbGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZGFwOgogICAgdXJsczogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBQb3N0TWFwcGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAia290bGluLWpwYSIK</text>
+        <text encoding="base64">CUBWYWx1ZSgiJHtzcHJpbmcubGRhcC5iYXNlfSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAia290bGluLXNwcmluZyIK</text>
+        <text encoding="base64">CUBWYWx1ZSgiJHtzcHJpbmcubGRhcC5wYXNzd29yZH0iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjEuMy0yJwo=</text>
+        <text encoding="base64">CUBWYWx1ZSgiJHtzcHJpbmcubGRhcC51c2VyTmFtZX0iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CUBWYWx1ZSgiJHtzcHJpbmcubGRhcC51cmxzfSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
