@@ -20,11 +20,12 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1502974217921">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1503037217971">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="33" column="15" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1503034906751">
         <mark key="'" line="166" column="0" />
@@ -128,11 +129,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/NewsPojo.java" timestamp="1502949213031">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1502282788579">
         <mark key="[" line="73" column="12" />
         <mark key="]" line="73" column="12" />
@@ -148,11 +144,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="80" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/JiraDataSourceJpaConfig.java" timestamp="1502947885239">
-        <mark key="[" line="26" column="174" />
-        <mark key="]" line="26" column="174" />
-        <mark key="." line="26" column="174" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrDataSourceJpaConfig.java" timestamp="1502947867992">
         <mark key="[" line="26" column="168" />
@@ -284,10 +275,10 @@
         <mark key="]" line="26" column="177" />
         <mark key="." line="26" column="177" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503035704541">
-        <mark key="[" line="14" column="86" />
-        <mark key="]" line="14" column="87" />
-        <mark key="." line="14" column="87" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503036493796">
+        <mark key="[" line="15" column="86" />
+        <mark key="]" line="15" column="87" />
+        <mark key="." line="15" column="87" />
       </file>
       <file name="C:/gitRepository/WOS_App/src/view/home/diary/manager/filter_bar/index.js" timestamp="1502098505943">
         <mark key="[" line="79" column="20" />
@@ -429,16 +420,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>= ResponseWrapper(&quot;User(id=$id, name=admin, password=123)&quot;)</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>= ResponseWrapper(&quot;User(id=$id, name=admin, password=123)&quot;)</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
-      <register name="0" type="4">
-        <text>LdapContextSource</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBsdWdpbigiaWRlYSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
