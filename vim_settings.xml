@@ -27,7 +27,13 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="48" column="63" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1503034906751">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Repository.kt" timestamp="1503367266911">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1503367776668">
         <mark key="'" line="166" column="0" />
         <mark key="[" line="57" column="16" />
         <mark key="]" line="57" column="16" />
@@ -112,11 +118,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.kt" timestamp="1503363798481">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="12" column="46" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.kt" timestamp="1503367834103">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="29" column="37" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1502874256546">
         <mark key="[" line="51" column="0" />
@@ -165,7 +171,7 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrsDataSourceJpaConfig.java" timestamp="1502947878264">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrsDataSourceJpaConfig.java" timestamp="1503367645759">
         <mark key="[" line="30" column="171" />
         <mark key="]" line="30" column="171" />
         <mark key="." line="30" column="171" />
@@ -183,10 +189,10 @@
         <mark key="." line="55" column="23" />
         <mark key="^" line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/LdapRepository.kt" timestamp="1503363958043">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/LdapRepository.kt" timestamp="1503366843179">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/CommonDataSourceJpaConfig.java" timestamp="1502947859430">
         <mark key="[" line="28" column="180" />
@@ -319,6 +325,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" timestamp="1503367164863">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="/fragment.java" timestamp="1503034274785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -429,46 +441,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkubGRhcC5QZXJzb25SZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGVyc29uUmVwb3NpdG9yeSA=</text>
+        <text>userName</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLW1haWwiKQo=</text>
+        <text encoding="base64">CQlsZGFwQ29udGV4dFNvdXJjZS5zZXRVcmwodXJsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkubGRhcC5QZXJzb25SZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CXZhbCB1cmwgPSAibGRhcDovLzEwLjExLjE5LjExMTozODkiCgl2YWwgdXNlck5hbWUgPSAiYWRtaW4zIgoJdmFsIHBhc3N3b3JkID0gIkhlbGwwNzg5IgoJdmFsIGJhc2UgPSAiT1U95LiH5YW056eR5oqALERDPXBvYyxEQz13cyIKCglAQmVhbgoJZnVuIGNvbnRleHRTb3VyY2VUYXJnZXQoKTogQ29udGV4dFNvdXJjZSB7CgoJCXZhbCBsZGFwQ29udGV4dFNvdXJjZSA9IExkYXBDb250ZXh0U291cmNlKCkKCgkJbGRhcENvbnRleHRTb3VyY2Uuc2V0VXJsKHVybCkKCQlsZGFwQ29udGV4dFNvdXJjZS5zZXRCYXNlKGJhc2UpCgkJbGRhcENvbnRleHRTb3VyY2UudXNlckRuID0gdXNlck5hbWUKCQlsZGFwQ29udGV4dFNvdXJjZS5wYXNzd29yZCA9IHBhc3N3b3JkCgoJCXJldHVybiBsZGFwQ29udGV4dFNvdXJjZQoKCX0KCglAQmVhbgoJZnVuIGxkYXBUZW1wbGF0ZSgpOiBMZGFwVGVtcGxhdGUgewoJCXJldHVybiBMZGFwVGVtcGxhdGUoY29udGV4dFNvdXJjZVRhcmdldCgpKQoJfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
+        <text encoding="base64">CUBWYWx1ZSgiXCR7aHJzLmRhdGFzb3VyY2UucGFzc3dvcmR9IikgcHJpdmF0ZSB2YWwgcGFzc3dvcmQ6IFN0cmluZz8gPSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
+        <text encoding="base64">CQlsZGFwQ29udGV4dFNvdXJjZS5zZXRBdXRoZW50aWNhdGlvblN0cmF0ZWd5KHVybCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
+        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkucG9qby5SZWxhdGVQZXJzb25zLlBlcnNvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
+        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkubGRhcC5QZXJzb25SZXBvc2l0b3J5Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlsZGFwVGVtcGxhdGUKCQl2YWwgcGFzc3dvcmRBdHRyaWJ1dGUgPSAidXNlclBhc3N3b3JkIgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CXZhbCB1cmwgPSAibGRhcDovLzEwLjExLjE5LjExMTozODkiCgl2YWwgdXNlck5hbWUgPSAiYWRtaW4zIgoJdmFsIHBhc3N3b3JkID0gIkhlbGwwNzg5IgoJdmFsIGJhc2UgPSAiT1U95LiH5YW056eR5oqALERDPXBvYyxEQz13cyIKCglAQmVhbgoJZnVuIGNvbnRleHRTb3VyY2VUYXJnZXQoKTogQ29udGV4dFNvdXJjZSB7CgoJCXZhbCBsZGFwQ29udGV4dFNvdXJjZSA9IExkYXBDb250ZXh0U291cmNlKCkKCgkJbGRhcENvbnRleHRTb3VyY2Uuc2V0VXJsKHVybCkKCQlsZGFwQ29udGV4dFNvdXJjZS5zZXRCYXNlKGJhc2UpCgkJbGRhcENvbnRleHRTb3VyY2UudXNlckRuID0gdXNlck5hbWUKCQlsZGFwQ29udGV4dFNvdXJjZS5wYXNzd29yZCA9IHBhc3N3b3JkCgoJCXJldHVybiBsZGFwQ29udGV4dFNvdXJjZQoKCX0KCglAQmVhbgoJZnVuIGxkYXBUZW1wbGF0ZSgpOiBMZGFwVGVtcGxhdGUgewoJCXJldHVybiBMZGFwVGVtcGxhdGUoY29udGV4dFNvdXJjZVRhcmdldCgpKQoJfQ==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlAQXV0b3dpcmVkCgkJdmFyIGxkYXBUZW1wbGF0ZTogTGRhcFRlbXBsYXRlCg==</text>
+        <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
