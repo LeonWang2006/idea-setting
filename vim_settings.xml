@@ -323,11 +323,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" timestamp="1503367164863">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="31" />
-        <mark key="^" line="9" column="31" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" timestamp="1503370164559">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="16" column="60" />
+        <mark key="." line="16" column="60" />
+        <mark key="^" line="16" column="60" />
       </file>
       <file name="/fragment.java" timestamp="1503034274785">
         <mark key="[" line="0" column="0" />
@@ -438,11 +438,11 @@
       <jump line="92" column="10" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dn</text>
       </register>
       <register name="-" type="4">
-        <text>userName</text>
+        <text>dn</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -457,28 +457,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vc3ByaW5nIGxkYXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcmsubGRhcDpzcHJpbmctbGRhcC1jb3JlOjIuMy4xLlJFTEVBU0UnCg==</text>
+        <text encoding="base64">ICAgIC8vc3ByaW5nIGxkYXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcmsubGRhcDpzcHJpbmctbGRhcC1jb3JlOjIuMy4xLlJFTEVBU0UnCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBWYWx1ZSgiXCR7aHJzLmRhdGFzb3VyY2UucGFzc3dvcmR9IikgcHJpdmF0ZSB2YWwgcGFzc3dvcmQ6IFN0cmluZz8gPSBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsZGFwQ29udGV4dFNvdXJjZS5zZXRBdXRoZW50aWNhdGlvblN0cmF0ZWd5KHVybCkK</text>
+        <text encoding="base64">CUBWYWx1ZSgiXCR7aHJzLmRhdGFzb3VyY2UucGFzc3dvcmR9IikgcHJpdmF0ZSB2YWwgcGFzc3dvcmQ6IFN0cmluZz8gPSBudWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkucG9qby5SZWxhdGVQZXJzb25zLlBlcnNvbgo=</text>
+        <text encoding="base64">CQlsZGFwQ29udGV4dFNvdXJjZS5zZXRBdXRoZW50aWNhdGlvblN0cmF0ZWd5KHVybCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkubGRhcC5QZXJzb25SZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkucG9qby5SZWxhdGVQZXJzb25zLlBlcnNvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
