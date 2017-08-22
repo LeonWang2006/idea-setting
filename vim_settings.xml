@@ -112,11 +112,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.kt" timestamp="1503321172669">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.kt" timestamp="1503363798481">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="12" column="46" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1502874256546">
         <mark key="[" line="51" column="0" />
@@ -183,6 +183,11 @@
         <mark key="." line="55" column="23" />
         <mark key="^" line="55" column="23" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/LdapRepository.kt" timestamp="1503363958043">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/CommonDataSourceJpaConfig.java" timestamp="1502947859430">
         <mark key="[" line="28" column="180" />
         <mark key="]" line="28" column="180" />
@@ -218,6 +223,7 @@
         <mark key="]" line="127" column="52" />
         <mark key="." line="127" column="52" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-ldap/1.0.6.RELEASE/9f70ec8f9091317354e9ad8eba04de1af35e1fbf/spring-data-ldap-1.0.6.RELEASE-sources.jar!/org/springframework/data/ldap/repository/LdapRepository.java" timestamp="1503364321802" />
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1502361927304">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -277,10 +283,10 @@
         <mark key="]" line="26" column="177" />
         <mark key="." line="26" column="177" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503321265070">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503363981480">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="17" />
       </file>
       <file name="C:/gitRepository/WOS_App/src/view/home/diary/manager/filter_bar/index.js" timestamp="1502098505943">
@@ -422,11 +428,11 @@
       <jump line="92" column="10" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TXlTZXJ2aWNlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkubGRhcC5QZXJzb25SZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TXlTZXJ2aWNlIA==</text>
+        <text encoding="base64">UGVyc29uUmVwb3NpdG9yeSA=</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -434,14 +440,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLW1haWwiKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CXZhbCB1cmwgPSAibGRhcDovLzEwLjExLjE5LjExMTozODkiCgl2YWwgdXNlck5hbWUgPSAiYWRtaW4zIgoJdmFsIHBhc3N3b3JkID0gIkhlbGwwNzg5IgoJdmFsIGJhc2UgPSAiT1U95LiH5YW056eR5oqALERDPXBvYyxEQz13cyIKCglAQmVhbgoJZnVuIGNvbnRleHRTb3VyY2VUYXJnZXQoKTogQ29udGV4dFNvdXJjZSB7CgoJCXZhbCBsZGFwQ29udGV4dFNvdXJjZSA9IExkYXBDb250ZXh0U291cmNlKCkKCgkJbGRhcENvbnRleHRTb3VyY2Uuc2V0VXJsKHVybCkKCQlsZGFwQ29udGV4dFNvdXJjZS5zZXRCYXNlKGJhc2UpCgkJbGRhcENvbnRleHRTb3VyY2UudXNlckRuID0gdXNlck5hbWUKCQlsZGFwQ29udGV4dFNvdXJjZS5wYXNzd29yZCA9IHBhc3N3b3JkCgoJCXJldHVybiBsZGFwQ29udGV4dFNvdXJjZQoKCX0KCglAQmVhbgoJZnVuIGxkYXBUZW1wbGF0ZSgpOiBMZGFwVGVtcGxhdGUgewoJCXJldHVybiBMZGFwVGVtcGxhdGUoY29udGV4dFNvdXJjZVRhcmdldCgpKQoJfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkubGRhcC5QZXJzb25SZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CXZhbCB1cmwgPSAibGRhcDovLzEwLjExLjE5LjExMTozODkiCgl2YWwgdXNlck5hbWUgPSAiYWRtaW4zIgoJdmFsIHBhc3N3b3JkID0gIkhlbGwwNzg5IgoJdmFsIGJhc2UgPSAiT1U95LiH5YW056eR5oqALERDPXBvYyxEQz13cyIKCglAQmVhbgoJZnVuIGNvbnRleHRTb3VyY2VUYXJnZXQoKTogQ29udGV4dFNvdXJjZSB7CgoJCXZhbCBsZGFwQ29udGV4dFNvdXJjZSA9IExkYXBDb250ZXh0U291cmNlKCkKCgkJbGRhcENvbnRleHRTb3VyY2Uuc2V0VXJsKHVybCkKCQlsZGFwQ29udGV4dFNvdXJjZS5zZXRCYXNlKGJhc2UpCgkJbGRhcENvbnRleHRTb3VyY2UudXNlckRuID0gdXNlck5hbWUKCQlsZGFwQ29udGV4dFNvdXJjZS5wYXNzd29yZCA9IHBhc3N3b3JkCgoJCXJldHVybiBsZGFwQ29udGV4dFNvdXJjZQoKCX0KCglAQmVhbgoJZnVuIGxkYXBUZW1wbGF0ZSgpOiBMZGFwVGVtcGxhdGUgewoJCXJldHVybiBMZGFwVGVtcGxhdGUoY29udGV4dFNvdXJjZVRhcmdldCgpKQoJfQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
@@ -453,16 +459,16 @@
         <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsZGFwVGVtcGxhdGUKCQl2YWwgcGFzc3dvcmRBdHRyaWJ1dGUgPSAidXNlclBhc3N3b3JkIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlsZGFwVGVtcGxhdGUKCQl2YWwgcGFzc3dvcmRBdHRyaWJ1dGUgPSAidXNlclBhc3N3b3JkIgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlAQXV0b3dpcmVkCgkJdmFyIGxkYXBUZW1wbGF0ZTogTGRhcFRlbXBsYXRlCg==</text>
+        <text encoding="base64">CQlsZGFwVGVtcGxhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlAQXV0b3dpcmVkCgkJdmFyIGxkYXBUZW1wbGF0ZTogTGRhcFRlbXBsYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>213,227s/0/null/g</text>
