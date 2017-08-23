@@ -291,11 +291,11 @@
         <mark key="]" line="26" column="177" />
         <mark key="." line="26" column="177" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503457056718">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="44" column="21" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503494540854">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="43" column="43" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="C:/gitRepository/WOS_App/src/view/home/diary/manager/filter_bar/index.js" timestamp="1502098505943">
         <mark key="[" line="79" column="20" />
@@ -452,47 +452,47 @@
       <jump line="37" column="57" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ldap 可辨识名称</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ldap 可辨识名称</text>
+        <text>: String</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
       </register>
-      <register name="0" type="4">
-        <text>身份证</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQl2YWwgcmVzdWx0ID0gbGRhcFRlbXBsYXRlLmZpbmRPbmUocXVlcnkoKS53aGVyZSgiY24iKS5gaXNgKCLnjovpo57pvpkiKSwgUGVyc29uOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAibGRhcCBETiIsIG5vdGVzID0gImxkYXAg5Y+v6L6o6K+G5ZCN56ewIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAibGRhcCBETiIsIG5vdGVzID0gImxkYXAg5Y+v6L6o6K+G5ZCN56ewIikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAibGRhcCBETiIsIG5vdGVzID0gImxkYXAg5Y+v6L6o6K+G5ZCN56ewIikK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgkvLyBObyBAQXR0cmlidXRlIGFubm90YXRpb24gbWVhbnMgdGhpcyB3aWxsIGJlIGJvdW5kIHRvIHRoZSBMREFQIGF0dHJpYnV0ZQoJLy8gd2l0aCB0aGUgc2FtZSB2YWx1ZQoJLy8JdmFsIGZpcnN0TmFtZTogU3RyaW5nPyA9IG51bGw=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CUBHZXRNYXBwaW5nKCIvaGVsbG8iKQoJZnVuIGhlbGxvS290bGluKCk6IFN0cmluZyB7CgkJcmV0dXJuICJoZWxsbyB3b3JsZCIKCX0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQl2YWwgcGVyc29uID0gUGVyc29uKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAibGRhcCBETiIsIG5vdGVzID0gImxkYXAg5Y+v6L6o6K+G5ZCN56ewIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAibGRhcCBETiIsIG5vdGVzID0gImxkYXAg5Y+v6L6o6K+G5ZCN56ewIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAibGRhcCBETiIsIG5vdGVzID0gImxkYXAg5Y+v6L6o6K+G5ZCN56ewIikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/private/public/g</text>
