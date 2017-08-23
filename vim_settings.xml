@@ -336,12 +336,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" timestamp="1503489622971">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" timestamp="1503493137404">
         <mark key="'" line="39" column="57" />
-        <mark key="[" line="93" column="44" />
-        <mark key="]" line="93" column="46" />
-        <mark key="^" line="93" column="31" />
-        <mark key="." line="93" column="44" />
+        <mark key="[" line="86" column="45" />
+        <mark key="]" line="86" column="48" />
+        <mark key="^" line="86" column="32" />
+        <mark key="." line="86" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1503034274785">
         <mark key="[" line="0" column="0" />
@@ -462,7 +462,7 @@
         <text>private</text>
       </register>
       <register name="0" type="4">
-        <text>名字</text>
+        <text>身份证</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAibGRhcCBETiIsIG5vdGVzID0gImxkYXAg5Y+v6L6o6K+G5ZCN56ewIikK</text>
@@ -474,13 +474,13 @@
         <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAibGRhcCBETiIsIG5vdGVzID0gImxkYXAg5Y+v6L6o6K+G5ZCN56ewIikK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAibGRhcCBETiIsIG5vdGVzID0gImxkYXAg5Y+v6L6o6K+G5ZCN56ewIikK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgkvLyBObyBAQXR0cmlidXRlIGFubm90YXRpb24gbWVhbnMgdGhpcyB3aWxsIGJlIGJvdW5kIHRvIHRoZSBMREFQIGF0dHJpYnV0ZQoJLy8gd2l0aCB0aGUgc2FtZSB2YWx1ZQoJLy8JdmFsIGZpcnN0TmFtZTogU3RyaW5nPyA9IG51bGw=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
