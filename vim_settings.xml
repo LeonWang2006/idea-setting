@@ -336,12 +336,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" timestamp="1503565662455">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" timestamp="1503566342259">
         <mark key="'" line="38" column="57" />
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="69" column="19" />
-        <mark key="." line="69" column="19" />
-        <mark key="^" line="69" column="19" />
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+        <mark key="^" line="62" column="33" />
       </file>
       <file name="/fragment.java" timestamp="1503034274785">
         <mark key="[" line="0" column="0" />
@@ -453,16 +453,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Grade</text>
+        <text>实际用来存用户状态</text>
       </register>
       <register name="-" type="4">
-        <text>Grade</text>
+        <text>实际用来存用户状态</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
       </register>
       <register name="0" type="4">
-        <text>员工类型</text>
+        <text>员工状态</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsubGRhcC5vZG0uYW5ub3RhdGlvbnMuQXR0cmlidXRlCg==</text>
