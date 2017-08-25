@@ -104,7 +104,7 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="/dummy.sql" timestamp="1503625608147">
+      <file name="/dummy.sql" timestamp="1503631160816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1503579463405">
@@ -139,11 +139,11 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1503623218160">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1503631321368">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="16" />
         <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+        <mark key="." line="34" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -250,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>hrs</text>
