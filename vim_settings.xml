@@ -26,6 +26,12 @@
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.java" timestamp="1503660646379">
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="20" />
+        <mark key="." line="58" column="20" />
+        <mark key="^" line="58" column="26" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1503621145884">
         <mark key="'" line="26" column="27" />
         <mark key="[" line="7" column="27" />
@@ -179,7 +185,7 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Log.java" timestamp="1503400611406" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1503652016677" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1503661161712" />
       <file name="C:/gitRepository/react-native-android-call/android/src/main/java/me/wangfl/react/BadgeModule.java" timestamp="1502154368785">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
@@ -308,7 +314,7 @@
         <mark key="^" line="43" column="43" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10f1622e-1b0e-46b6-9c7e-6a06c6f39cee/console.sql" timestamp="1503655139587">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10f1622e-1b0e-46b6-9c7e-6a06c6f39cee/console.sql" timestamp="1503661050053">
         <mark key="[" line="0" column="516" />
         <mark key="]" line="0" column="537" />
         <mark key="." line="0" column="537" />
@@ -329,7 +335,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogRepository.java" timestamp="1503581345026" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogRepository.java" timestamp="1503661016471">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="20" column="117" />
+        <mark key="." line="20" column="117" />
+        <mark key="^" line="20" column="117" />
+      </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.java" timestamp="1501653734218">
         <mark key="[" line="123" column="40" />
         <mark key="]" line="123" column="40" />
@@ -340,8 +351,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503579592931">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503660907849">
         <mark key="'" line="193" column="0" />
+        <mark key="[" line="454" column="110" />
+        <mark key="]" line="454" column="155" />
+        <mark key="^" line="454" column="155" />
+        <mark key="." line="454" column="155" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/NewsRepository.java" timestamp="1500261966757">
         <mark key="[" line="19" column="183" />
@@ -474,37 +489,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>readSet</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>readSet</text>
       </register>
       <register name="/" type="4">
         <text>hrs</text>
       </register>
       <register name="0" type="4">
-        <text>experience</text>
+        <text>特别关注</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ck9SREVSIEJZCiAgbG9nX2lkLAogIGRldGFpbF9pZCwKICBldmFsdWF0ZV9pZA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CWtrCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDQVNUKFRSSU0oQk9USCAnIicgRlJPTSBKU09OX0VYVFJBQ1QobHN0YXQubG9nX2luZm8sICckLmNvdW50JykpIEFTIFNJR05FRCkgQVMgd29yZF9jb3VudCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBMRUZUIEpPSU4gaHJzX2FyZWNvcmQgcmVjb3JkIE9OICgKICB1LmVtcGxveWVlX2lkID0gcmVjb3JkLndzX2lkCiAgQU5EIERBVEVfRk9STUFUKGxvZy5sb2dfZGF0ZSwgJyVZLSVtLSVkJykgPSByZWNvcmQudGVybQogICk=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3RhcnREYXRlKCkgewogICAgICAgIHJldHVybiBzdGFydERhdGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U3RhcnREYXRlKFN0cmluZyBzdGFydERhdGUpIHsKICAgICAgICB0aGlzLnN0YXJ0RGF0ZSA9IHN0YXJ0RGF0ZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEVuZERhdGUoKSB7CiAgICAgICAgcmV0dXJuIGVuZERhdGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RW5kRGF0ZShTdHJpbmcgZW5kRGF0ZSkgewogICAgICAgIHRoaXMuZW5kRGF0ZSA9IGVuZERhdGU7CiAgICB9</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBBTllfVkFMVUUgKAogICAgICAoCiAgICAgICAgQ0FTRQogICAgICAgIFdIRU4gcmVjb3JkLmNhcmQzIDw+ICcnIFRIRU4KICAgICAgICAgIENPTkNBVCgKICAgICAgICAgICAgICByZWNvcmQuVGVybSwKICAgICAgICAgICAgICAnICcsCiAgICAgICAgICAgICAgcmVjb3JkLmNhcmQzCiAgICAgICAgICApCiAgICAgICAgRUxTRQogICAgICAgICAgQ09OQ0FUKAogICAgICAgICAgICAgIHJlY29yZC5UZXJtLAogICAgICAgICAgICAgICcgJywKICAgICAgICAgICAgICByZWNvcmQuY2FyZDEKICAgICAgICAgICkKICAgICAgICBFTkQKICAgICAgKQogICkgQVMgJ3NpZ25pbicsCiAgQU5ZX1ZBTFVFICgKICAgICAgKAogICAgICAgIENBU0UKICAgICAgICBXSEVOIHJlY29yZC5jYXJkNCA8PiAnJyBUSEVOCiAgICAgICAgICBDT05DQVQoCiAgICAgICAgICAgICAgcmVjb3JkLlRlcm0sCiAgICAgICAgICAgICAgJyAnLAogICAgICAgICAgICAgIHJlY29yZC5jYXJkNAogICAgICAgICAgKQogICAgICAgIEVMU0UKICAgICAgICAgIENPTkNBVCgKICAgICAgICAgICAgICByZWNvcmQuVGVybSwKICAgICAgICAgICAgICAnICcsCiAgICAgICAgICAgICAgcmVjb3JkLmNhcmQyCiAgICAgICAgICApCiAgICAgICAgRU5ECiAgICAgICkKICApIEFTICdzaWdub3V0Jyw=</text>
+        <text encoding="base64">Ck9SREVSIEJZCiAgbG9nX2lkLAogIGRldGFpbF9pZCwKICBldmFsdWF0ZV9pZA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDQVNUKFRSSU0oQk9USCAnIicgRlJPTSBKU09OX0VYVFJBQ1QobHN0YXQubG9nX2luZm8sICckLmNvdW50JykpIEFTIFNJR05FRCkgQVMgd29yZF9jb3VudCwK</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">ICBMRUZUIEpPSU4gaHJzX2FyZWNvcmQgcmVjb3JkIE9OICgKICB1LmVtcGxveWVlX2lkID0gcmVjb3JkLndzX2lkCiAgQU5EIERBVEVfRk9STUFUKGxvZy5sb2dfZGF0ZSwgJyVZLSVtLSVkJykgPSByZWNvcmQudGVybQogICk=</text>
