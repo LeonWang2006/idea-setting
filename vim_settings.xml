@@ -13,6 +13,13 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1503457008389">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="66" />
+        <mark key="]" line="48" column="68" />
+        <mark key="^" line="53" column="75" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.java" timestamp="1503660646379">
         <mark key="[" line="58" column="20" />
         <mark key="]" line="58" column="20" />
@@ -305,11 +312,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503714293310">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503715082209">
         <mark key="'" line="165" column="37" />
-        <mark key="[" line="496" column="0" />
-        <mark key="]" line="496" column="0" />
-        <mark key="." line="496" column="0" />
+        <mark key="[" line="485" column="51" />
+        <mark key="]" line="485" column="54" />
+        <mark key="." line="485" column="51" />
+        <mark key="^" line="485" column="50" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/NewsRepository.java" timestamp="1500261966757">
         <mark key="[" line="19" column="183" />
@@ -442,10 +450,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQkJSXRlcmF0b3IgaXQgPSByZXN1bHQuaXRlcmF0b3IoKTsKCQkJd2hpbGUoaXQuaGFzTmV4dCgpKSB7CgkJCQlNYXAgbG9nTWFwPSAoTWFwKSBpdC5uZXh0KCk7CgkJCQlpZiAobG9nTWFwLmdldCgibG9nQ29udGVudCIpID09IG51bGwpIHsKCQkJCQljb250aW51ZTsKCQkJCX0KCQkJCVN0cmluZyBjb250ZW50ID0gbG9nTWFwLmdldCgibG9nQ29udGVudCIpLnRvU3RyaW5nKCkucmVwbGFjZSgiXFxuIiwgIiIpLnJlcGxhY2UoIlxcdCIsICIiKS5yZXBsYWNlQWxsKCJbXFxzXSIsICIiKTsKCgkJCQkvL+WIpOaWrei2heWHuk1ZU1FMIEdST1VQX0NPTkNBVCDovrnnlYznmoTmg4XlhrUKCQkJCWlmICghbG9nTWFwLmdldCgibG9nQ29udGVudCIpLnRvU3RyaW5nKCkuc3Vic3RyaW5nKGxvZ01hcC5nZXQoImxvZ0NvbnRlbnQiKS50b1N0cmluZygpLmxlbmd0aCgpIC0gMSkuZXF1YWxzKCJdIikpIHsKCQkJCQljb250ZW50ID0gY29udGVudC5zdWJzdHJpbmcoMiwgY29udGVudC5sZW5ndGgoKSk7CgkJCQl9IGVsc2UgewoJCQkJCWNvbnRlbnQgPSBjb250ZW50LnN1YnN0cmluZygyLCBjb250ZW50Lmxlbmd0aCgpIC0gMik7CgkJCQl9CgoJCQkJLy8JCQkJY29udGVudCA9IEh0bWxVdGlscy5odG1sRXNjYXBlKGNvbnRlbnQpOwoJCQkJLy8JCQkJY29udGVudCA9ICJbXCIiLmNvbmNhdChjb250ZW50KS5jb25jYXQoIlwiXSIpCgkJCQlsb2dNYXAuZ2V0KCJsb2dDb250ZW50IikgPSBjb250ZW50OwoKCQkJfQ==</text>
+        <text>&quot;,&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>&quot;,&quot;</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
