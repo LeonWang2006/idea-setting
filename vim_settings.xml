@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1503752757936">
+        <mark key="'" line="540" column="75" />
+        <mark key="[" line="712" column="12" />
+        <mark key="]" line="712" column="12" />
+        <mark key="." line="712" column="12" />
+        <mark key="^" line="727" column="69" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1503457008389">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="66" />
@@ -32,13 +39,13 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogList.java" timestamp="1503735355091">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogList.java" timestamp="1503751360360">
         <mark key="[" line="206" column="0" />
         <mark key="]" line="206" column="0" />
         <mark key="^" line="37" column="29" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.java" timestamp="1503713161951">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.java" timestamp="1503754477421">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
@@ -62,34 +69,40 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Log.java" timestamp="1503400611406" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1503744036137">
-        <mark key="[" line="55" column="55" />
-        <mark key="]" line="55" column="55" />
-        <mark key="." line="55" column="55" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1503750500967">
+        <mark key="[" line="211" column="12" />
+        <mark key="]" line="211" column="12" />
+        <mark key="." line="211" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrsDataSourceJpaConfig.java" timestamp="1503395982418">
-        <mark key="[" line="30" column="171" />
-        <mark key="]" line="30" column="171" />
-        <mark key="." line="30" column="171" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrsDataSourceJpaConfig.java" timestamp="1503754507186">
+        <mark key="[" line="73" column="5" />
+        <mark key="]" line="31" column="171" />
+        <mark key="." line="31" column="171" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1503743010937">
-        <mark key="[" line="186" column="113" />
-        <mark key="]" line="186" column="112" />
-        <mark key="^" line="186" column="112" />
-        <mark key="." line="186" column="112" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1503751048466">
+        <mark key="[" line="280" column="135" />
+        <mark key="]" line="280" column="135" />
+        <mark key="." line="280" column="135" />
+        <mark key="^" line="280" column="77" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateCovertor.java" timestamp="1503743551235" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503717509687" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503753668383" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateCoverter.java" timestamp="1503743584333" />
-      <file name="/a.sql" timestamp="1503739552150">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console_1.sql" timestamp="1503754055632">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+      </file>
+      <file name="/a.sql" timestamp="1503750413735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-ldap/1.0.6.RELEASE/9f70ec8f9091317354e9ad8eba04de1af35e1fbf/spring-data-ldap-1.0.6.RELEASE-sources.jar!/org/springframework/data/ldap/repository/LdapRepository.java" timestamp="1503405156680" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1503401961110" />
-      <file name="/dummy.sql" timestamp="1503742348490">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1503752741533" />
+      <file name="/dummy.sql" timestamp="1503753660883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateTimeConverter.java" timestamp="1503743912147">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateTimeConverter.java" timestamp="1503749870542">
         <mark key="[" line="10" column="83" />
       </file>
       <file name="/Dummy.txt" timestamp="1503662357919">
@@ -124,25 +137,25 @@
         <mark key="]" line="20" column="72" />
         <mark key="." line="20" column="72" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamEvaluate.java" timestamp="1503743028880">
-        <mark key="[" line="37" column="63" />
-        <mark key="]" line="37" column="67" />
-        <mark key="." line="37" column="63" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamEvaluate.java" timestamp="1503748900199">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
         <mark key="^" line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503744097395">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="209" column="54" />
-        <mark key="]" line="203" column="88" />
-        <mark key="." line="203" column="88" />
-        <mark key="^" line="203" column="88" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503755346713">
+        <mark key="'" line="679" column="0" />
+        <mark key="[" line="684" column="35" />
+        <mark key="]" line="684" column="33" />
+        <mark key="." line="684" column="33" />
+        <mark key="^" line="684" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1503743033175">
+      <file name="/fragment.java" timestamp="1503754879400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1503733095546">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1503753285466">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -150,12 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="468" column="0" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
-      <jump line="505" column="23" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
-      <jump line="239" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
-      <jump line="243" column="38" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
-      <jump line="335" column="32" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
-      <jump line="415" column="95" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="423" column="113" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="469" column="92" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="470" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
@@ -194,7 +201,6 @@
       <jump line="21" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" />
       <jump line="588" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="37" column="57" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" />
-      <jump line="193" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="26" column="27" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" />
       <jump line="480" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="625" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -223,7 +229,6 @@
       <jump line="165" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="397" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="697" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="458" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="628" column="84" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="704" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="714" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -233,7 +238,6 @@
       <jump line="708" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="711" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="444" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="465" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="347" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="648" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="537" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -250,58 +254,67 @@
       <jump line="189" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="192" column="44" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="154" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="187" column="133" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" />
+      <jump line="243" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="465" column="396" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="540" column="75" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
+      <jump line="61" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="190" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="193" column="44" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="458" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="677" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QENvbnZlcnRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>map.get(&quot;users&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>map.get(&quot;users&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>details</text>
+        <text>\/ids</text>
       </register>
-      <register name="0" type="4">
-        <text>操作记录数</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQl0aGlzLmpkYmNUZW1wbGF0ZSA9IGpkYmNUZW1wbGF0ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbnZlcnRlcgo=</text>
+        <text encoding="base64">CQkJZ3Nvbi4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZ3Nvbi5uKG1hcC5nZXQoInVzZXJzIiksU3RyaW5nLmNsYXNzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWFwLmdldCgidXNlcnMiKS50b1N0cmluZygpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQkJLyoJcHJpdmF0ZSBJbnRlZ2VyIGxvZ0lkOwoJcHJpdmF0ZSBTdHJpbmcgZW1wbG95ZWVJZDsKCXByaXZhdGUgU3RyaW5nIG5hbWU7Cglwcml2YXRlIFN0cmluZyBqb2JDbmFtZTsKCXByaXZhdGUgU3RyaW5nIGF2YXRhcjsKCXByaXZhdGUgU3RyaW5nIGxvZ0NvbnRlbnQ7Cglwcml2YXRlIEludGVnZXIgaXNSZWFkOwoJcHJpdmF0ZSBJbnRlZ2VyIGlzRXZhbHVhdGU7Cglwcml2YXRlIEludGVnZXIgZXZhbHVhdGVTdGF0OwoJcHJpdmF0ZSBTdHJpbmcgZGF0ZTsKCglAQXBpTW9kZWxQcm9wZXJ0eShuYW1lID0gIuivhOS7t+asoeaVsCIsIG5vdGVzID0gIuivhOS7t+asoeaVsCIpCglwcml2YXRlIEludGVnZXIgZXZhbHVhdGVDb3VudDsKCglAQXBpTW9kZWxQcm9wZXJ0eShuYW1lID0gIuaTjeS9nOasoeaVsCIsIG5vdGVzID0gIuaTjeS9nOasoeaVsCIpCglwcml2YXRlIEJpZ0ludGVnZXIgb3BlcmF0ZUNvdW50OwoKCXByaXZhdGUgSW50ZWdlciB3b3JkQ291bnQ7Cglwcml2YXRlIFN0cmluZyBmZWVsOyov</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBUUklNKEJPVEggJyInIEZST00gQ0FTVChKU09OX0VYVFJBQ1QoYXR0LnVzZXJzKSBBUyBDSEFSKSkgQVMgZXZhbHVhdGVfd3NfbmFtZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCUludGVnZXIgZXZhbHVhdGVTdGF0ID0gbG9nT3B0aW9uYWwubWFwKEFwcFVzZXJMb2c6OmdldEV2YWx1YXRlU3RhdCkub3JFbHNlKDApOwo=</text>
+        <text encoding="base64">CQkJR3NvbiBnc29uID0gbmV3IEdzb24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CS8qCgkqIAkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJsb2dfaWQiLCB0eXBlID0gSW50ZWdlci5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJkZXRhaWxfaWQiLCB0eXBlID0gSW50ZWdlci5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJldmFsdWF0ZV9pZCIsIHR5cGUgPSBJbnRlZ2VyLmNsYXNzKSwKCQkJQENvbHVtblJlc3VsdChuYW1lID0gImVtcGxveWVlX2lkIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJuYW1lIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJncmFkZSIsIHR5cGUgPSBTdHJpbmcuY2xhc3MpLAoJCQlAQ29sdW1uUmVzdWx0KG5hbWUgPSAiam9iX2NuYW1lIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJkZXBfY25uYW1lIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJlbWFpbCIsIHR5cGUgPSBTdHJpbmcuY2xhc3MpLAoJCQlAQ29sdW1uUmVzdWx0KG5hbWUgPSAic2lnbmluIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJzaWdub3V0IiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJldmFsdWF0ZV93c19pZCIsIHR5cGUgPSBTdHJpbmcuY2xhc3MpLAoJCQlAQ29sdW1uUmVzdWx0KG5hbWUgPSAiZXZhbHVhdGVfd3NfbmFtZSIsIHR5cGUgPSBTdHJpbmcuY2xhc3MpLAoJCQlAQ29sdW1uUmVzdWx0KG5hbWUgPSAiZXZhbHVhdGVfdmFsdWUiLCB0eXBlID0gSW50ZWdlci5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJldmFsdWF0ZV9zdGF0IiwgdHlwZSA9IEludGVnZXIuY2xhc3MpLAoJCQlAQ29sdW1uUmVzdWx0KG5hbWUgPSAiaXNfZW50aXJldHkiLCB0eXBlID0gSW50ZWdlci5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJldmFsdWF0ZV9udW0iLCB0eXBlID0gSW50ZWdlci5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJldmFsdWF0ZV90aW1lIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJyZWxhdGVfcmVzcF9pZCIsIHR5cGUgPSBJbnRlZ2VyLmNsYXNzKSwKCQkJQENvbHVtblJlc3VsdChuYW1lID0gInJlbGF0ZV9yZXNwX2N1cl9kZXNjIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJyZWxhdGVfcmVzcF93ZWlnaHQiLCB0eXBlID0gSW50ZWdlci5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJsb2dfZGV0YWlsX3R5cGUiLCB0eXBlID0gU3RyaW5nLmNsYXNzKSwKCQkJQENvbHVtblJlc3VsdChuYW1lID0gImxvZ19jb250ZW50IiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJleHBlcmllbmNlIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJzdWdnZXN0aW9uIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJwbGFuIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJmZWVsIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJjb21tZW50IiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJyZWFkX3dzX2lkIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJyZWFkX3dzX25hbWUiLCB0eXBlID0gU3RyaW5nLmNsYXNzKSwKCQkJQENvbHVtblJlc3VsdChuYW1lID0gImRhdGUiLCB0eXBlID0gU3RyaW5nLmNsYXNzKSwKCQkJQENvbHVtblJlc3VsdChuYW1lID0gImNyZWF0ZV90aW1lIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJldmFsdWF0ZV9jb3VudCIsIHR5cGUgPSBJbnRlZ2VyLmNsYXNzKSwKCQkJQENvbHVtblJlc3VsdChuYW1lID0gIndvcmRfY291bnQiLCB0eXBlID0gSW50ZWdlci5jbGFzcyksCgkJCUBDb2x1bW5SZXN1bHQobmFtZSA9ICJldmFsdWF0ZV9jb21tZW50X2NvdW50IiwgdHlwZSA9IEludGVnZXIuY2xhc3MpLAoJCQlAQ29sdW1uUmVzdWx0KG5hbWUgPSAidmlld19jb3VudCIsIHR5cGUgPSBJbnRlZ2VyLmNsYXNzKSwKCQkJQENvbHVtblJlc3VsdChuYW1lID0gIm9wZXJhdGVfY291bnQiLCB0eXBlID0gSW50ZWdlci5jbGFzcyksKi8=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CQlTdHJpbmcgYXV0aG9yaXphdGlvbiA9IHJlcXVlc3QuZ2V0SGVhZGVyKCJBdXRob3JpemF0aW9uIik7CgkJaWYgKG51bGwgIT0gYXV0aG9yaXphdGlvbiAmJiBhdXRob3JpemF0aW9uLnN0YXJ0c1dpdGgoIkJhc2ljIikpIHsKCQkJU3RyaW5nIGJhc2U2NENyZWRlbnRpYWxzID0gYXV0aG9yaXphdGlvbi5zdWJzdHJpbmcoIkJhc2ljIi5sZW5ndGgoKSkudHJpbSgpOwoJCQliYXNlNjRDcmVkZW50aWFscyA9IG5ldyBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpOwoJCQlSZXN0VGVtcGxhdGUgcmVzdFRlbXBsYXRlID0gdGhpcy5yZXN0VGVtcGxhdGVCdWlsZGVyLmJhc2ljQXV0aG9yaXphdGlvbihiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIpWzBdLCBiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIpWzFdKS5idWlsZCgpOwoJCQlNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPiBtYXAgPSBuZXcgTGlua2VkTXVsdGlWYWx1ZU1hcDw+KCk7CgkJCUdzb24gZ3NvbiA9IG5ldyBHc29uKCk7CgkJCW1hcC5hZGQoIndzX2lkIiwgd3NJZCk7CgkJCUh0dHBIZWFkZXJzIGhlYWRlcnMgPSBuZXcgSHR0cEhlYWRlcnMoKTsKCQkJaGVhZGVycy5zZXRDb250ZW50VHlwZShNZWRpYVR5cGUuQVBQTElDQVRJT05fRk9STV9VUkxFTkNPREVEKTsKCQkJSHR0cEVudGl0eTxNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPj4gcmVzdFJlcXVlc3QgPSBuZXcgSHR0cEVudGl0eTw+KG1hcCwgaGVhZGVycyk7CgkJCVJlc3BvbnNlRW50aXR5PFN0cmluZz4gcmVzcG9uc2UgPSByZXN0VGVtcGxhdGUucG9zdEZvckVudGl0eSh1cmwsIHJlc3RSZXF1ZXN0LCBTdHJpbmcuY2xhc3MpOwoJCQlyZXR1cm4gcmVzcG9uc2UuZ2V0Qm9keSgpOwoJCX0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSVICg==</text>
+        <text encoding="base64">CQkJbWFwLmFkZCgidXNlcmlkX2xpc3QiLCBlbXBsb3llZUpzb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
       </register>
     </registers>
     <search>
-      <last-search>details</last-search>
+      <last-search>\/ids</last-search>
       <last-offset />
-      <last-pattern>details</last-pattern>
+      <last-pattern>\/ids</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -326,9 +339,9 @@
         <entry>list</entry>
         <entry>spec_array</entry>
         <entry>like</entry>
+        <entry>details</entry>
         <entry>\/list</entry>
         <entry>\/ids</entry>
-        <entry>details</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
