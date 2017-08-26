@@ -312,11 +312,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503718475251">
-        <mark key="'" line="195" column="36" />
-        <mark key="[" line="495" column="98" />
-        <mark key="]" line="495" column="98" />
-        <mark key="." line="495" column="98" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503719649912">
+        <mark key="'" line="697" column="23" />
+        <mark key="[" line="701" column="50" />
+        <mark key="]" line="701" column="50" />
+        <mark key="." line="701" column="50" />
         <mark key="^" line="490" column="43" />
       </file>
       <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/NewsRepository.java" timestamp="1500261966757">
@@ -347,8 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="51" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="838" column="19" filename="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="344" column="17" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
       <jump line="8" column="55" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
       <jump line="6" column="10" filename="C:/gitRepository/WOS_App/src/view/home/diary/diary_content/index.js" />
@@ -447,16 +445,18 @@
       <jump line="165" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="192" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="195" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="397" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="697" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>\/list</text>
+        <text>\/ids</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJaWYgKG9yZGVyQnkuY29udGFpbnMoImV4cGVyaWVuY2UiKSl7CgkJCQlvcmRlckJ5ID0gb3JkZXJCeS5yZXBsYWNlKCJleHBlcmllbmNlIiwiTEVOR1RIKGV4cGVyaWVuY2UpIik7CgkJCX0K</text>
@@ -496,9 +496,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\/list</last-search>
+      <last-search>\/ids</last-search>
       <last-offset />
-      <last-pattern>\/list</last-pattern>
+      <last-pattern>\/ids</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -506,7 +506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clear</entry>
         <entry>detail</entry>
         <entry>Scorll</entry>
         <entry>scroll</entry>
@@ -526,6 +525,7 @@
         <entry>filter</entry>
         <entry>list</entry>
         <entry>\/list</entry>
+        <entry>\/ids</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = &quot;/=/g</entry>
