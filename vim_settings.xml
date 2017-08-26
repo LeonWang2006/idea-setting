@@ -86,7 +86,7 @@
         <mark key="^" line="280" column="77" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateCovertor.java" timestamp="1503743551235" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503753668383" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503756376369" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateCoverter.java" timestamp="1503743584333" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console_1.sql" timestamp="1503754055632">
         <mark key="[" line="16" column="32" />
@@ -99,13 +99,13 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-ldap/1.0.6.RELEASE/9f70ec8f9091317354e9ad8eba04de1af35e1fbf/spring-data-ldap-1.0.6.RELEASE-sources.jar!/org/springframework/data/ldap/repository/LdapRepository.java" timestamp="1503405156680" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1503752741533" />
-      <file name="/dummy.sql" timestamp="1503753660883">
+      <file name="/dummy.sql" timestamp="1503756370129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateTimeConverter.java" timestamp="1503749870542">
         <mark key="[" line="10" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503662357919">
+      <file name="/Dummy.txt" timestamp="1503756046386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,6 +114,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogIds.java" timestamp="1503756084039">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="37" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="36" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503575391233">
         <mark key="[" line="41" column="0" />
@@ -143,14 +149,13 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503755346713">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503756235572">
         <mark key="'" line="679" column="0" />
-        <mark key="[" line="684" column="35" />
-        <mark key="]" line="684" column="33" />
-        <mark key="." line="684" column="33" />
-        <mark key="^" line="684" column="46" />
+        <mark key="[" line="692" column="0" />
+        <mark key="]" line="692" column="0" />
+        <mark key="." line="692" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1503754879400">
+      <file name="/fragment.java" timestamp="1503756046389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
@@ -265,47 +270,47 @@
       <jump line="677" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>map.get(&quot;users&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>map.get(&quot;users&quot;)</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>\/ids</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0aGlzLmpkYmNUZW1wbGF0ZSA9IGpkYmNUZW1wbGF0ZTsK</text>
+        <text encoding="base64">CQl0aGlzLmlzRXZhbHVhdGUgPSBpc0V2YWx1YXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZ3Nvbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZ3Nvbi5uKG1hcC5nZXQoInVzZXJzIiksU3RyaW5nLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJbWFwLmdldCgidXNlcnMiKS50b1N0cmluZygpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQkJCWxpc3QuZm9yRWFjaChzIC0+IHsKCgkJCQl9KTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBUUklNKEJPVEggJyInIEZST00gQ0FTVChKU09OX0VYVFJBQ1QoYXR0LnVzZXJzKSBBUyBDSEFSKSkgQVMgZXZhbHVhdGVfd3NfbmFtZSwK</text>
+        <text encoding="base64">CQkJCX0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJR3NvbiBnc29uID0gbmV3IEdzb24oKTsK</text>
+        <text encoding="base64">CQkJCQlsb2dJZHMuc2V0RGF0ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQkJCXJlc3VsdC5maWx0ZXIoKWZvckVhY2gobG9nSWRzIC0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQlTdHJpbmcgYXV0aG9yaXphdGlvbiA9IHJlcXVlc3QuZ2V0SGVhZGVyKCJBdXRob3JpemF0aW9uIik7CgkJaWYgKG51bGwgIT0gYXV0aG9yaXphdGlvbiAmJiBhdXRob3JpemF0aW9uLnN0YXJ0c1dpdGgoIkJhc2ljIikpIHsKCQkJU3RyaW5nIGJhc2U2NENyZWRlbnRpYWxzID0gYXV0aG9yaXphdGlvbi5zdWJzdHJpbmcoIkJhc2ljIi5sZW5ndGgoKSkudHJpbSgpOwoJCQliYXNlNjRDcmVkZW50aWFscyA9IG5ldyBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpOwoJCQlSZXN0VGVtcGxhdGUgcmVzdFRlbXBsYXRlID0gdGhpcy5yZXN0VGVtcGxhdGVCdWlsZGVyLmJhc2ljQXV0aG9yaXphdGlvbihiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIpWzBdLCBiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIpWzFdKS5idWlsZCgpOwoJCQlNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPiBtYXAgPSBuZXcgTGlua2VkTXVsdGlWYWx1ZU1hcDw+KCk7CgkJCUdzb24gZ3NvbiA9IG5ldyBHc29uKCk7CgkJCW1hcC5hZGQoIndzX2lkIiwgd3NJZCk7CgkJCUh0dHBIZWFkZXJzIGhlYWRlcnMgPSBuZXcgSHR0cEhlYWRlcnMoKTsKCQkJaGVhZGVycy5zZXRDb250ZW50VHlwZShNZWRpYVR5cGUuQVBQTElDQVRJT05fRk9STV9VUkxFTkNPREVEKTsKCQkJSHR0cEVudGl0eTxNdWx0aVZhbHVlTWFwPFN0cmluZywgU3RyaW5nPj4gcmVzdFJlcXVlc3QgPSBuZXcgSHR0cEVudGl0eTw+KG1hcCwgaGVhZGVycyk7CgkJCVJlc3BvbnNlRW50aXR5PFN0cmluZz4gcmVzcG9uc2UgPSByZXN0VGVtcGxhdGUucG9zdEZvckVudGl0eSh1cmwsIHJlc3RSZXF1ZXN0LCBTdHJpbmcuY2xhc3MpOwoJCQlyZXR1cm4gcmVzcG9uc2UuZ2V0Qm9keSgpOwoJCX0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJU3RyaW5nIGZhdm9yaXRlSnNvbiA9IG1hcC5nZXQoInVzZXJzIikudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbWFwLmFkZCgidXNlcmlkX2xpc3QiLCBlbXBsb3llZUpzb24pOwo=</text>
+        <text encoding="base64">CQkJamF2YS5sYW5nLnJlZmxlY3QuVHlwZSBsaXN0VHlwZSA9IG5ldyBUeXBlVG9rZW48TGlzdDxTdHJpbmc+PigpIHt9LmdldFR5cGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
