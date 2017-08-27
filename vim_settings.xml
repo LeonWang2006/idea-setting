@@ -208,8 +208,8 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503803867144">
-        <mark key="'" line="195" column="36" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503804959371">
+        <mark key="'" line="408" column="15" />
         <mark key="[" line="1000" column="12" />
         <mark key="]" line="857" column="55" />
         <mark key="." line="857" column="55" />
@@ -234,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" />
       <jump line="196" column="71" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" />
       <jump line="158" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" />
@@ -334,6 +333,7 @@
       <jump line="139" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="192" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="195" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="408" column="15" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -343,7 +343,7 @@
         <text>.host()</text>
       </register>
       <register name="/" type="4">
-        <text>\/list</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcGVyc29ucy5yZW1vdmUocGFyYW1Mb2cuZ2V0V3NJZCgpKTsKCQkJcGFyYW1Mb2cuc2V0RGVwKCIgQU5EIGxvZy5lbXBsb3llZV9pZCBJTiAoJyIuY29uY2F0KFN0cmluZ1V0aWxzLmpvaW4ocGVyc29ucywgc3ApKS5jb25jYXQoIicpIikucmVwbGFjZSgiLCIsICInLCciKSk7Cg==</text>
@@ -383,9 +383,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\/list</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>\/list</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -400,7 +400,6 @@
         <entry>private</entry>
         <entry>hrs</entry>
         <entry>filter</entry>
-        <entry>list</entry>
         <entry>spec_array</entry>
         <entry>like</entry>
         <entry>details</entry>
@@ -413,6 +412,7 @@
         <entry>build</entry>
         <entry>buildSq</entry>
         <entry>\/list</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
