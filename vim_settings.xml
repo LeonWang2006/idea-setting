@@ -81,6 +81,11 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="57" column="51" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1503816640120">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.java" timestamp="1503754477421">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="34" column="0" />
@@ -340,7 +345,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2cuc2V0T3JkZXJCeShvcmRlckJ5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -352,53 +357,34 @@
         <text encoding="base64">CQlTdHJpbmcgdXJsID0gaHJzSG9zdC5jb25jYXQoImF0dGVudGlvbi9hZGQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2cuc2V0T3JkZXJCeShvcmRlckJ5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCW1hcC5hZGQoImxpc3Rfc3R5bGUiLCB0eXBlKTsKCQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8Pihsb2dMaXN0V3JhcHBlcik7Cg==</text>
+        <text encoding="base64">CQkJbWFwLmFkZCgibGlzdF9zdHlsZSIsIHR5cGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXJlc3VsdC5hZGQoY291bnQpOwo=</text>
+        <text encoding="base64">CQkJcGFyYW1Mb2cuc2V0T3JkZXJCeShvcmRlckJ5KTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8Pihsb2dMaXN0V3JhcHBlcik7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/*			for (LogList log : result) {
-
-
-				if (log.getLogContent() == null) {
-					continue;
-				}
-
-				String content = log.getLogContent().replace(&quot;\\n&quot;, &quot;&quot;).replace(&quot;\\t&quot;, &quot;&quot;).replaceAll(&quot;[\\s]&quot;, &quot;&quot;);
-
-				//判断超出MYSQL GROUP_CONCAT 边界的情况
-				if (!log.getLogContent().substring(log.getLogContent().length() - 1).equals(&quot;]&quot;)) {
-					content = content.substring(2, content.length());
-				} else {
-					content = content.substring(2, content.length() - 2);
-				}
-
-				//				content = HtmlUtils.htmlEscape(content);
-				//				content = &quot;[\&quot;&quot;.concat(content).concat(&quot;\&quot;]&quot;)
-				log.setLogContent(content);
-			}*/</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCXJlc3VsdC5hZGQoY291bnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJTG9nTGlzdFdyYXBwZXIgbG9nTGlzdFdyYXBwZXIgPSBuZXcgTG9nTGlzdFdyYXBwZXIoY291bnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBuZXcgUmVzcG9uc2VXcmFwcGVyPD4oSW50ZWdlci52YWx1ZU9mKHVuUmVhZFJlc3VsdC5nZXQoImNvdW50IikudG9TdHJpbmcoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
