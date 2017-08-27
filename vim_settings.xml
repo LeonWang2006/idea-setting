@@ -216,12 +216,12 @@
         <mark key="." line="55" column="38" />
         <mark key="^" line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503818064647">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503820820252">
         <mark key="'" line="467" column="126" />
-        <mark key="[" line="1025" column="43" />
-        <mark key="]" line="1026" column="41" />
-        <mark key="^" line="469" column="19" />
-        <mark key="." line="1026" column="0" />
+        <mark key="[" line="656" column="35" />
+        <mark key="]" line="656" column="35" />
+        <mark key="^" line="656" column="35" />
+        <mark key="." line="656" column="35" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" timestamp="1503578841100">
         <mark key="'" line="38" column="57" />
@@ -229,7 +229,7 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1503756046389">
+      <file name="/fragment.java" timestamp="1503820708336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
@@ -344,11 +344,11 @@
       <jump line="467" column="126" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>((Person) resultList.get(0))</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>((Person) resultList.get(0))</text>
       </register>
       <register name="/" type="4">
         <text>\/list</text>
@@ -357,34 +357,34 @@
         <text encoding="base64">CQlTdHJpbmcgdXJsID0gaHJzSG9zdC5jb25jYXQoImF0dGVudGlvbi9hZGQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXBlcnNvbnMuYWRkQWxsKCgoUGVyc29uKSByZXN1bHRMaXN0LmdldCgwKSkuZ2V0VigpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCW1hcC5hZGQoImxpc3Rfc3R5bGUiLCB0eXBlKTsKCQkJfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGVsc2UgewoKCQkJLy/pu5jorqTmmK/nlKjmiLfnmoTmiYDmnInpg6jpl6jnmoTnm7TmjqXkuIvlsZ4KCQkJcGVyc29ucyA9IGdldFJlbGF0ZURhdGEoImFsbF91bmRlcmxpbmdfcGVyc29ucyIsIHBhcmFtTG9nLmdldFdzSWQoKSwgcmVxdWVzdCk7CgkJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbWFwLmFkZCgibGlzdF9zdHlsZSIsIHR5cGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2cuc2V0T3JkZXJCeShvcmRlckJ5KTsK</text>
+        <text encoding="base64">CQkJCW1hcC5hZGQoImxpc3Rfc3R5bGUiLCB0eXBlKTsKCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWFwLmFkZCgibGlzdF9zdHlsZSIsIHR5cGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8Pihsb2dMaXN0V3JhcHBlcik7Cg==</text>
+        <text encoding="base64">CQkJcGFyYW1Mb2cuc2V0T3JkZXJCeShvcmRlckJ5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXJlc3VsdC5hZGQoY291bnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8Pihsb2dMaXN0V3JhcHBlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXJlc3VsdC5hZGQoY291bnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
