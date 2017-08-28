@@ -207,8 +207,8 @@
         <mark key="." line="55" column="38" />
         <mark key="^" line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503913638433">
-        <mark key="'" line="1015" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503917799760">
+        <mark key="'" line="410" column="15" />
         <mark key="[" line="483" column="53" />
         <mark key="]" line="358" column="55" />
         <mark key="." line="358" column="55" />
@@ -221,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="367" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="388" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="21" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" />
@@ -321,6 +320,7 @@
       <jump line="440" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="455" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="1015" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="410" column="15" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -330,7 +330,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>my</text>
+        <text>details</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlhcHBVc2VyTG9nLnNldERhdGUobG9nT3B0aW9uYWwubWFwKEFwcFVzZXJMb2c6OmdldERhdGUpLm9yRWxzZShudWxsKSk7Cg==</text>
@@ -370,9 +370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>my</last-search>
+      <last-search>details</last-search>
       <last-offset />
-      <last-pattern>my</last-pattern>
+      <last-pattern>details</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -397,9 +397,9 @@
         <entry>count</entry>
         <entry>filter</entry>
         <entry>\/list</entry>
-        <entry>details</entry>
         <entry>list</entry>
         <entry>my</entry>
+        <entry>details</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
