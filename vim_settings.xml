@@ -53,7 +53,7 @@
         <mark key="^" line="63" column="30" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Log.java" timestamp="1503400611406" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1503904952812">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1503913826543">
         <mark key="[" line="106" column="212" />
         <mark key="]" line="106" column="212" />
         <mark key="^" line="112" column="163" />
@@ -64,7 +64,7 @@
         <mark key="]" line="31" column="171" />
         <mark key="." line="31" column="171" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1503885672551">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1503913301909">
         <mark key="[" line="122" column="107" />
         <mark key="]" line="122" column="107" />
         <mark key="." line="122" column="107" />
@@ -168,7 +168,7 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateCoverter.java" timestamp="1503743584333" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-ldap/1.0.6.RELEASE/9f70ec8f9091317354e9ad8eba04de1af35e1fbf/spring-data-ldap-1.0.6.RELEASE-sources.jar!/org/springframework/data/ldap/repository/LdapRepository.java" timestamp="1503405156680" />
-      <file name="/dummy.sql" timestamp="1503911655704">
+      <file name="/dummy.sql" timestamp="1503913864242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateTimeConverter.java" timestamp="1503749870542">
@@ -207,8 +207,8 @@
         <mark key="." line="55" column="38" />
         <mark key="^" line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503910612974">
-        <mark key="'" line="358" column="55" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503913638433">
+        <mark key="'" line="1015" column="0" />
         <mark key="[" line="483" column="53" />
         <mark key="]" line="358" column="55" />
         <mark key="." line="358" column="55" />
@@ -221,9 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="92" column="10" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" />
-      <jump line="122" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="362" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="367" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="388" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -321,6 +318,9 @@
       <jump line="194" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="197" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="358" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="440" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="455" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="1015" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -330,7 +330,7 @@
         <text>COUNT</text>
       </register>
       <register name="/" type="4">
-        <text>details</text>
+        <text>my</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlhcHBVc2VyTG9nLnNldERhdGUobG9nT3B0aW9uYWwubWFwKEFwcFVzZXJMb2c6OmdldERhdGUpLm9yRWxzZShudWxsKSk7Cg==</text>
@@ -370,9 +370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>details</last-search>
+      <last-search>my</last-search>
       <last-offset />
-      <last-pattern>details</last-pattern>
+      <last-pattern>my</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -380,7 +380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>signout</entry>
         <entry>buildAction</entry>
         <entry>status</entry>
         <entry>private</entry>
@@ -398,8 +397,9 @@
         <entry>count</entry>
         <entry>filter</entry>
         <entry>\/list</entry>
-        <entry>list</entry>
         <entry>details</entry>
+        <entry>list</entry>
+        <entry>my</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
