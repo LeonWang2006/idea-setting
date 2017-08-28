@@ -182,7 +182,7 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateCoverter.java" timestamp="1503743584333" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-ldap/1.0.6.RELEASE/9f70ec8f9091317354e9ad8eba04de1af35e1fbf/spring-data-ldap-1.0.6.RELEASE-sources.jar!/org/springframework/data/ldap/repository/LdapRepository.java" timestamp="1503405156680" />
-      <file name="/dummy.sql" timestamp="1503919459180">
+      <file name="/dummy.sql" timestamp="1503920468361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateTimeConverter.java" timestamp="1503749870542">
@@ -216,8 +216,8 @@
         <mark key="." line="55" column="38" />
         <mark key="^" line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503919671668">
-        <mark key="'" line="363" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503920427957">
+        <mark key="'" line="393" column="51" />
         <mark key="[" line="712" column="0" />
         <mark key="]" line="712" column="0" />
         <mark key="." line="712" column="0" />
@@ -229,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" />
       <jump line="588" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="37" column="57" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" />
       <jump line="26" column="27" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" />
@@ -329,6 +328,7 @@
       <jump line="410" column="15" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="331" column="66" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="363" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="393" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -338,7 +338,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>details</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlhcHBVc2VyTG9nLnNldERhdGUobG9nT3B0aW9uYWwubWFwKEFwcFVzZXJMb2c6OmdldERhdGUpLm9yRWxzZShudWxsKSk7Cg==</text>
@@ -378,9 +378,9 @@
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>details</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>details</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -405,9 +405,9 @@
         <entry>\/list</entry>
         <entry>list</entry>
         <entry>my</entry>
-        <entry>details</entry>
         <entry>ids</entry>
         <entry>status</entry>
+        <entry>details</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
