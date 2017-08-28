@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1503457008389">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="66" />
+        <mark key="]" line="48" column="68" />
+        <mark key="^" line="53" column="75" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ldap/spring-ldap-core/2.3.1.RELEASE/7abfec0de014f0cac4fe0ecde31abc13ac8928f2/spring-ldap-core-2.3.1.RELEASE-sources.jar!/org/springframework/ldap/core/support/AbstractContextSource.java" timestamp="1503391771273" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/RelatePersons.java" timestamp="1503730522878">
         <mark key="[" line="12" column="107" />
@@ -90,12 +97,6 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1503893254236" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Person.kt" timestamp="1503578841100">
-        <mark key="'" line="38" column="57" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1503753285466">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -113,12 +114,6 @@
         <mark key="]" line="56" column="22" />
         <mark key="." line="56" column="22" />
         <mark key="^" line="58" column="26" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1503802767277">
-        <mark key="'" line="26" column="27" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1503834026462">
         <mark key="[" line="59" column="45" />
@@ -190,11 +185,12 @@
         <mark key="." line="55" column="38" />
         <mark key="^" line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503893789000">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1503896240532">
         <mark key="'" line="197" column="37" />
-        <mark key="[" line="469" column="98" />
-        <mark key="]" line="494" column="0" />
-        <mark key="." line="494" column="0" />
+        <mark key="[" line="483" column="53" />
+        <mark key="]" line="483" column="53" />
+        <mark key="." line="483" column="53" />
+        <mark key="^" line="483" column="109" />
       </file>
       <file name="/fragment.java" timestamp="1503893647992">
         <mark key="[" line="0" column="0" />
@@ -306,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Date</text>
+        <text>replace(&quot;\\n&quot;, &quot;&quot;).replace(&quot;\\t&quot;, &quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>replace(&quot;\\n&quot;, &quot;&quot;).replace(&quot;\\t&quot;, &quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
