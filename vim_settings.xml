@@ -46,6 +46,12 @@
         <mark key="^" line="63" column="30" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Log.java" timestamp="1503400611406" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1503904952812">
+        <mark key="[" line="106" column="212" />
+        <mark key="]" line="106" column="212" />
+        <mark key="^" line="112" column="163" />
+        <mark key="." line="106" column="212" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrsDataSourceJpaConfig.java" timestamp="1503754507186">
         <mark key="[" line="73" column="5" />
         <mark key="]" line="31" column="171" />
@@ -174,7 +180,7 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogRepository.java" timestamp="1503757173322">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLogRepository.java" timestamp="1503904904305">
         <mark key="[" line="20" column="72" />
         <mark key="]" line="20" column="72" />
         <mark key="." line="20" column="72" />
@@ -302,10 +308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>replace(&quot;\\n&quot;, &quot;&quot;).replace(&quot;\\t&quot;, &quot;&quot;)</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>replace(&quot;\\n&quot;, &quot;&quot;).replace(&quot;\\t&quot;, &quot;&quot;)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
