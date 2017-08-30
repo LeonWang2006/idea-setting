@@ -421,12 +421,12 @@
         <mark key="." line="55" column="38" />
         <mark key="^" line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1504079757961">
-        <mark key="'" line="197" column="36" />
-        <mark key="[" line="1064" column="46" />
-        <mark key="]" line="1064" column="46" />
-        <mark key="^" line="1068" column="57" />
-        <mark key="." line="1064" column="16" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" timestamp="1504080502276">
+        <mark key="'" line="249" column="100" />
+        <mark key="[" line="680" column="529" />
+        <mark key="]" line="680" column="529" />
+        <mark key="^" line="1058" column="0" />
+        <mark key="." line="680" column="529" />
       </file>
       <file name="C:/gitRepository/WOS_App/android/settings.gradle" timestamp="1502171551449">
         <mark key="[" line="4" column="0" />
@@ -440,9 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="504" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="361" column="15" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="456" column="49" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="444" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="347" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="648" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -540,16 +537,19 @@
       <jump line="141" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="194" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="197" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="1058" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="1098" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
+      <jump line="249" column="100" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>orderBy.contains(&quot;experience&quot;)</text>
+        <text encoding="base64">ICsgIiBsb2cuZGF0ZSBERVNDLCBsb2cubG9nX2lkIERFU0Mi</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0ZSA+PSAnMjAxNy0wOC0yOScg</text>
+        <text encoding="base64">ICsgIiBsb2cuZGF0ZSBERVNDLCBsb2cubG9nX2lkIERFU0Mi</text>
       </register>
       <register name="/" type="4">
-        <text>\/list</text>
+        <text>ids</text>
       </register>
       <register name="0" type="4">
         <text>orderBy.contains(&quot;experience&quot;)</text>
@@ -589,9 +589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\/list</last-search>
+      <last-search>ids</last-search>
       <last-offset />
-      <last-pattern>\/list</last-pattern>
+      <last-pattern>ids</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -604,11 +604,9 @@
         <entry>total</entry>
         <entry>buildSq</entry>
         <entry>count</entry>
-        <entry>ids</entry>
         <entry>status</entry>
         <entry>my</entry>
         <entry>fillt</entry>
-        <entry>details</entry>
         <entry>det</entry>
         <entry>filter</entry>
         <entry>detail</entry>
@@ -619,6 +617,8 @@
         <entry>lidy</entry>
         <entry>list</entry>
         <entry>\/list</entry>
+        <entry>details</entry>
+        <entry>ids</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
