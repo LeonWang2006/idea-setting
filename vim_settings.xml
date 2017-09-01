@@ -8,20 +8,6 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1503909534427">
-        <mark key="'" line="540" column="75" />
-        <mark key="[" line="708" column="47" />
-        <mark key="]" line="708" column="47" />
-        <mark key="." line="708" column="47" />
-        <mark key="^" line="700" column="56" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1503457008389">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="66" />
-        <mark key="]" line="48" column="68" />
-        <mark key="^" line="53" column="75" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/.gitignore" timestamp="1502956720499">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -324,10 +310,11 @@
         <mark key="^" line="54" column="298" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1503816640120">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1504229054098">
+        <mark key="[" line="141" column="19" />
+        <mark key="]" line="141" column="21" />
+        <mark key="." line="141" column="21" />
+        <mark key="^" line="141" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console_2.sql" timestamp="1503909322729">
         <mark key="[" line="0" column="0" />
@@ -549,11 +536,11 @@
       <jump line="495" column="56" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlhcHBVc2VyTG9nLnNldEV2YWx1YXRlSWQoMCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wos</text>
       </register>
       <register name="-" type="4">
-        <text>Count</text>
+        <text>wos</text>
       </register>
       <register name="/" type="4">
         <text>\/ids</text>
