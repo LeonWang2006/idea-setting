@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1503909534427">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1504485218883">
         <mark key="'" line="540" column="75" />
-        <mark key="[" line="708" column="47" />
-        <mark key="]" line="708" column="47" />
-        <mark key="." line="708" column="47" />
-        <mark key="^" line="700" column="56" />
+        <mark key="[" line="700" column="52" />
+        <mark key="]" line="700" column="53" />
+        <mark key="." line="700" column="53" />
+        <mark key="^" line="700" column="53" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1504274863446">
         <mark key="'" line="0" column="0" />
@@ -30,6 +30,12 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.kt.java" timestamp="1503034612633">
+        <mark key="[" line="47" column="46" />
+        <mark key="]" line="47" column="46" />
+        <mark key="." line="47" column="46" />
+        <mark key="^" line="57" column="51" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.java" timestamp="1503840247079" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.java" timestamp="1503754477421">
         <mark key="[" line="33" column="50" />
@@ -49,6 +55,12 @@
         <mark key="." line="63" column="30" />
         <mark key="^" line="63" column="30" />
       </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1502282788579">
+        <mark key="[" line="73" column="12" />
+        <mark key="]" line="73" column="12" />
+        <mark key="^" line="77" column="88" />
+        <mark key="." line="73" column="12" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Log.java" timestamp="1503400611406" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1503999535023">
         <mark key="[" line="81" column="0" />
@@ -60,6 +72,12 @@
         <mark key="[" line="73" column="5" />
         <mark key="]" line="31" column="171" />
         <mark key="." line="31" column="171" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceJpaConfig.java" timestamp="1503031025239">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="52" column="43" />
+        <mark key="." line="32" column="17" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.java" timestamp="1504179772385">
         <mark key="[" line="272" column="0" />
@@ -138,6 +156,12 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="54" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Repository.kt" timestamp="1503381702504">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="20" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.java" timestamp="1504275300556">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="56" column="22" />
@@ -149,6 +173,12 @@
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
         <mark key="^" line="139" column="8" />
+      </file>
+      <file name="C:/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1502265969472">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogList.java" timestamp="1503999288301">
         <mark key="[" line="70" column="0" />
@@ -173,12 +203,21 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1504280910072">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.java" timestamp="1504484091068">
         <mark key="[" line="179" column="152" />
+        <mark key="]" line="173" column="57" />
+        <mark key="^" line="173" column="57" />
+        <mark key="." line="173" column="57" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.java" timestamp="1503840305717" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateCoverter.java" timestamp="1503743584333" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-ldap/1.0.6.RELEASE/9f70ec8f9091317354e9ad8eba04de1af35e1fbf/spring-data-ldap-1.0.6.RELEASE-sources.jar!/org/springframework/data/ldap/repository/LdapRepository.java" timestamp="1503405156680" />
+      <file name="C:/gitRepository/WOS_App/android/app/src/main/AndroidManifest.xml" timestamp="1502439370580">
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="44" column="41" />
+        <mark key="^" line="44" column="41" />
+        <mark key="." line="44" column="41" />
+      </file>
       <file name="/dummy.sql" timestamp="1504278947863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -330,16 +369,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>败</text>
+        <text>丝</text>
       </register>
       <register name="-" type="4">
-        <text>败</text>
+        <text>丝</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IFJlc3BvbnNlV3JhcHBlcjw+KHRpbWVab25lKTsK</text>
+      <register name="0" type="4">
+        <text>添加收藏选择列表</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQl0aHJvdyBuZXcgUmVzdEV4Y2VwdGlvbihSZXN0U2VydmljZUVycm9yLlR5cGUuQkFEX1JFUVVFU1QsICJlcnJvci5iYWRyZXF1ZXN0Iik7Cg==</text>
