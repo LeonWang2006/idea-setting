@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.java" timestamp="1504526349667">
+        <mark key="[" line="89" column="45" />
+        <mark key="]" line="89" column="45" />
+        <mark key="." line="89" column="45" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" timestamp="1504508612870">
         <mark key="'" line="502" column="60" />
         <mark key="[" line="84" column="5" />
@@ -21,12 +26,12 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="54" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1504514497767">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1504525582379">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="74" />
-        <mark key="]" line="18" column="75" />
-        <mark key="^" line="53" column="75" />
-        <mark key="." line="18" column="75" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="84" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/Repository.kt" timestamp="1503381702504">
         <mark key="[" line="5" column="10" />
@@ -56,6 +61,9 @@
         <mark key="]" line="18" column="10" />
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="11" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/RestApplication.kt" timestamp="1504526044185">
+        <mark key="^" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MyService.kt" timestamp="1503408640476">
         <mark key="[" line="17" column="15" />
@@ -92,12 +100,6 @@
         <mark key="]" line="29" column="34" />
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.java" timestamp="1504244227298">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="35" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="42" column="31" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogDetail.java" timestamp="1503741978911">
         <mark key="[" line="63" column="19" />
@@ -172,7 +174,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504504542668">
+      <file name="/Dummy.txt" timestamp="1504524987500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -358,11 +360,11 @@
       <jump line="469" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cm9vdFByb2plY3QuYnVpbGRGaWxlTmFtZSA9ICdidWlsZC5ncmFkbGUua3RzJwo=</text>
+      <register name="&quot;" type="4">
+        <text>getWosHost</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getWosHost</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
@@ -371,34 +373,34 @@
         <text encoding="base64">CQkJU3RyaW5nIHBlcnNvbnMgPSBTdHJpbmcuam9pbigiJywnIiwgZmF2b3JpdGVQZXJzb25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm9vdFByb2plY3QuYnVpbGRGaWxlTmFtZSA9ICdidWlsZC5ncmFkbGUua3RzJwo=</text>
+        <text encoding="base64">CUBKdm1TdGF0aWMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdHJpbmcgcGVyc29uczsK</text>
+        <text encoding="base64">CUBKdm1TdGF0aWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAi5oyH5a6a55So5oi35bel5Y+3Iix2YWx1ZSA9KQo=</text>
+        <text encoding="base64">QEVuYWJsZUFzeW5jCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8PihyZXN1bHQpOwo=</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGgoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1ncmFkbGUtcGx1Z2luOjEuNS42LlJFTEVBU0UiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgKHJlc3VsdC5zaXplKCkgPiAwKSB7Cg==</text>
+        <text encoding="base64">cm9vdFByb2plY3QuYnVpbGRGaWxlTmFtZSA9ICdidWlsZC5ncmFkbGUua3RzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlMaXN0PFN0cmluZz4gcm93cyA9IEFycmF5cy5hc0xpc3QoY29udGFjdHMuZ2V0Q29udGFjdHMoKS5zcGxpdCgiLCIpKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgcGVyc29uczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAi5oyH5a6a55So5oi35bel5Y+3Iix2YWx1ZSA9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnRhY3RzID0gdGhpcy5hcHBSZXBvc2l0b3J5LmZpbmRCeUJhZGdlKHdzSWQpOwo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8PihyZXN1bHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
