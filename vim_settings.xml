@@ -59,11 +59,12 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1504613659265">
-        <mark key="'" line="129" column="8" />
-        <mark key="[" line="160" column="45" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1504615316515">
+        <mark key="'" line="159" column="37" />
+        <mark key="[" line="167" column="660" />
+        <mark key="]" line="167" column="660" />
+        <mark key="^" line="167" column="654" />
+        <mark key="." line="167" column="660" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1504608759190">
         <mark key="[" line="52" column="45" />
@@ -276,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="84" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="145" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="358" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="440" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -376,13 +376,14 @@
       <jump line="82" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
       <jump line="109" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
       <jump line="129" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
+      <jump line="159" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlwYXJhbS5ldmFsdWF0ZVdzSWQ/LmxldCB7IGFyci5hZGQoaXQpIH0K</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>evaluateId</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -391,36 +392,71 @@
         <text encoding="base64">CQkJCQlhcnIuYWRkKHBhcmFtLmV2YWx1YXRlSWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlwYXJhbS5ldmFsdWF0ZVdzSWQ/LmxldCB7IGFyci5hZGQoaXQpIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQlhcHBVc2VyTG9nCg==</text>
+      <register name="2" type="4">
+        <text>/*					appUserLog.evaluateId = param.evaluateId
+					appUserLog.evaluateWsId = param.evaluateWsId
+					appUserLog.evaluateWsName = param.evaluateWsName
+					appUserLog.evaluateValue = param.evaluateValue
+					appUserLog.evaluateStat = param.evaluateStat
+					appUserLog.evaluateNum = param.evaluateNum
+					appUserLog.evaluateTime = param.evaluateTime
+					appUserLog.isEntirety = param.isEntirety
+					appUserLog.logId = param.logId
+					appUserLog.evaluateId = param.evaluateId
+					appUserLog.detailId = log.detailId
+					appUserLog.employeeId = log.employeeId
+					appUserLog.name = log.name
+					appUserLog.email = log.email
+					appUserLog.grade = log.grade
+					appUserLog.depCnname = log.depCnname
+					appUserLog.jobCname = log.jobCname
+					appUserLog.signin = log.signin
+					appUserLog.signout = log.signout
+					appUserLog.feel = log.feel
+					appUserLog.date = log.date
+					appUserLog.createTime = log.createTime
+					appUserLog.suggestion = log.suggestion
+					appUserLog.experience = log.experience
+					appUserLog.plan = log.plan
+					appUserLog.relateRespId = log.relateRespId
+					appUserLog.relateRespCurDesc = log.relateRespCurDesc
+					appUserLog.relateRespWeight = log.relateRespWeight
+					appUserLog.logDetailType = log.logDetailType
+					appUserLog.logContent = log.logContent
+					appUserLog.operateCount = log.operateCount
+					appUserLog.readWsId = log.readWsId
+					appUserLog.readWsName = log.readWsName
+					appUserLog.evaluateCount = log.evaluateCount
+					appUserLog.operateCount = log.operateCount
+					appUserLog.evaluateCommentCount = log.evaluateCommentCount
+					appUserLog.viewCount = log.viewCount
+					appUserLog.wordCount = log.wordCount*/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8JCQl2YWwgbG9nTGlzdCA9IGFwcFVzZXJMb2dSZXBvc2l0b3J5LmdldERldGFpbChwYXJhbUV2YWx1YXRlTGlzdFswXS5sb2dJZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>@Entity
-@JsonAutoDetect
-@Table(name = &quot;app_user_logs&quot;)</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8JCQkJCWFwcFVzZXJMb2dSZXBvc2l0b3J5LnNhdmUoYXBwVXNlckxvZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlqZGJjVGVtcGxhdGUuZXgK</text>
+        <text encoding="base64">CQkJCQkvL2pkYmNUZW1wbGF0ZS5iYXRjaFVwZGF0ZSgiSU5TRVJUIElOVE8gY3VzdG9tZXJzKGZpcnN0X25hbWUsIGxhc3RfbmFtZSkgVkFMVUVTICg/LD8pIiwgc3BsaXRVcE5hbWVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxhdGVpbml0IHZhciBhcHBVc2VyTG9nUmVwb3NpdG9yeTogQXBwVXNlckxvZ1JlcG9zaXRvcnkK</text>
+        <text encoding="base64">CQkJCQlhcnIuYWRkKHBhcmFtLmV2YWx1YXRlV3NJZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aGlzLmFwcFVzZXJMb2dSZXBvc2l0b3J5ID0gYXBwVXNlckxvZ1JlcG9zaXRvcnkK</text>
+        <text encoding="base64">CQkJCQlhcnIuYWRkKHBhcmFtLmV2YWx1YXRlSWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkuYXBwLkFwcFVzZXJMb2dSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">CQkJCQlwYXJhbS5ldmFsdWF0ZVdzSWQ/LmxldCB7IGFyci5hZGQoaXQpIH0K</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
