@@ -204,11 +204,17 @@
         <mark key="." line="32" column="86" />
         <mark key="^" line="32" column="86" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504595766044">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504598064416">
         <mark key="[" line="211" column="33" />
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
         <mark key="^" line="210" column="70" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1504598633124">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1504148806482">
         <mark key="[" line="18" column="630" />
@@ -345,64 +351,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXZhbCBvcGVyYXRlQ291bnQgPSBsb2dPcHRpb25hbC5tYXA8SW50PihGdW5jdGlvbjxBcHBVc2VyTG9nLCBJbnQ+IHsgaXQuZ2V0T3BlcmF0ZUNvdW50KCkgfSkub3JFbHNlKDApCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9nT3B0aW9uYWwubWFwPEludD4oRnVuY3Rpb248QXBwVXNlckxvZywgSW50PiB7IGl0LmdldEV2YWx1YXRlQ29tbWVudENvdW50KCkgfSkub3JFbHNlKDAp</text>
+        <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text encoding="base64">XDxudWxsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJU3RyaW5nIHBlcnNvbnMgPSBTdHJpbmcuam9pbigiJywnIiwgZmF2b3JpdGVQZXJzb25zKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCXZhbCBvcGVyYXRlQ291bnQgPSBsb2dPcHRpb25hbC5tYXA8SW50PihGdW5jdGlvbjxBcHBVc2VyTG9nLCBJbnQ+IHsgaXQuZ2V0T3BlcmF0ZUNvdW50KCkgfSkub3JFbHNlKDApCg==</text>
+      <register name="1" type="4">
+        <text>null
+	var name: String</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJvcGVyYXRlX2NvdW50IikK</text>
+        <text encoding="base64">CQkJCXZhbCBvcGVyYXRlQ291bnQgPSBsb2dPcHRpb25hbC5tYXA8SW50PihGdW5jdGlvbjxBcHBVc2VyTG9nLCBJbnQ+IHsgaXQuZ2V0T3BlcmF0ZUNvdW50KCkgfSkub3JFbHNlKDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJ2aWV3X2NvdW50IikK</text>
+        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJvcGVyYXRlX2NvdW50IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJldmFsdWF0ZV9jb21tZW50X2NvdW50IikK</text>
+        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJ2aWV3X2NvdW50IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJ3b3JkX2NvdW50IikK</text>
+        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJldmFsdWF0ZV9jb21tZW50X2NvdW50IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJldmFsdWF0ZV9jb3VudCIpCg==</text>
+        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJ3b3JkX2NvdW50IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJjcmVhdGVfdGltZSIpCg==</text>
+        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJldmFsdWF0ZV9jb3VudCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJyZWFkX3dzX25hbWUiKQo=</text>
+        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJjcmVhdGVfdGltZSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJyZWFkX3dzX2lkIikK</text>
+        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJyZWFkX3dzX25hbWUiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search encoding="base64">XDxudWxsXD4=</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern encoding="base64">XDxudWxsXD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry>status</entry>
         <entry>my</entry>
         <entry>fillt</entry>
@@ -422,6 +428,7 @@
         <entry>\/cocact</entry>
         <entry>\Concat</entry>
         <entry>list</entry>
+        <entry encoding="base64">XDxudWxsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
