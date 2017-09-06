@@ -28,7 +28,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.java" timestamp="1504608567563">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.java" timestamp="1504681857118">
         <mark key="[" line="38" column="33" />
         <mark key="]" line="38" column="34" />
         <mark key="." line="38" column="34" />
@@ -40,7 +40,7 @@
         <mark key="." line="144" column="75" />
         <mark key="^" line="144" column="75" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1504616460670">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.java" timestamp="1504681463285">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
@@ -84,10 +84,10 @@
       <file name="/a.sql" timestamp="1504657691370">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1504676317427">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="12" />
-        <mark key="." line="28" column="12" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1504681512234">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
       </file>
       <file name="/dummy.sql" timestamp="1504679020002">
         <mark key="[" line="0" column="0" />
@@ -242,11 +242,11 @@
       <jump line="431" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgU3RyaW5nIERBVEUgPSAiWzEtMl1bMC05XXszfS1bMC05XXsyfS1bMC05XXsyfSI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\/my</text>
