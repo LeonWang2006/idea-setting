@@ -31,10 +31,8 @@
         <mark key="]" line="27" column="21" />
         <mark key="." line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1504669211345">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/OaDataSourceJpaConfig.kt" timestamp="1504706071446">
+        <mark key="[" line="49" column="5" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/LdRepository.kt" timestamp="1503407717250">
         <mark key="[" line="2" column="0" />
@@ -47,7 +45,7 @@
         <mark key="." line="139" column="8" />
         <mark key="^" line="139" column="8" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1504696282115">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1504705922560">
         <mark key="[" line="47" column="31" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -70,20 +68,15 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1504696995511">
-        <mark key="'" line="153" column="37" />
-        <mark key="[" line="56" column="57" />
-        <mark key="]" line="56" column="57" />
-        <mark key="." line="56" column="57" />
-        <mark key="^" line="141" column="75" />
-      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/RestApplication.kt" timestamp="1504668983694" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/UserExtRepository.java" timestamp="1504688008652" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MyService.kt" timestamp="1503408640476">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.kt" timestamp="1504701081142">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.kt" timestamp="1504704941242">
         <mark key="[" line="73" column="5" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MapService.kt" timestamp="1504696008546">
@@ -103,6 +96,7 @@
         <mark key="^" line="54" column="298" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppRepository.kt" timestamp="1504685373007" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.kt.java" timestamp="1503034612633">
         <mark key="[" line="47" column="46" />
         <mark key="]" line="47" column="46" />
@@ -119,7 +113,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1504690949864">
+      <file name="/fragment.kt" timestamp="1504705422326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/LdapDataSourceConfiguration.kt" timestamp="1503387329076">
@@ -128,8 +122,14 @@
         <mark key="^" line="29" column="34" />
         <mark key="." line="29" column="34" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/WpsDataSourceJpaConfig.kt" timestamp="1504701427432">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/WpsDataSourceJpaConfig.kt" timestamp="1504706065383">
         <mark key="[" line="74" column="5" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1504706238670">
+        <mark key="[" line="84" column="35" />
+        <mark key="]" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="45" column="26" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/NewsPojo.java" timestamp="1504698908375">
         <mark key="[" line="2" column="0" />
@@ -141,12 +141,6 @@
         <mark key="]" line="73" column="12" />
         <mark key="^" line="77" column="88" />
         <mark key="." line="73" column="12" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.java" timestamp="1504608558613">
-        <mark key="[" line="65" column="38" />
-        <mark key="]" line="65" column="43" />
-        <mark key="." line="65" column="43" />
-        <mark key="^" line="65" column="43" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.java" timestamp="1504582271654">
         <mark key="[" line="80" column="0" />
@@ -160,16 +154,11 @@
         <mark key="^" line="52" column="43" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.kt" timestamp="1504695574020">
-        <mark key="[" line="106" column="26" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="4" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1504696968028">
-        <mark key="[" line="56" column="56" />
-        <mark key="]" line="56" column="56" />
-        <mark key="." line="56" column="56" />
-        <mark key="^" line="56" column="56" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1504705577903">
+        <mark key="'" line="574" column="37" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1504678351195">
         <mark key="[" line="42" column="8" />
@@ -183,8 +172,8 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="270" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1504685464909">
-        <mark key="[" line="23" column="66" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1504703891331">
+        <mark key="[" line="24" column="60" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
@@ -206,6 +195,9 @@
         <mark key="]" line="16" column="32" />
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
+      </file>
+      <file name="/a.sql" timestamp="1504657691370">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1504684241691">
         <mark key="[" line="29" column="20" />
@@ -250,6 +242,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="36" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrsDataSourceJpaConfig.kt" timestamp="1504705029837" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LdapService.kt" timestamp="1503575391233">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -278,18 +271,8 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504700930941">
-        <mark key="'" line="437" column="4" />
-        <mark key="[" line="261" column="70" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1504611720209">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="21" column="18" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504706186231">
+        <mark key="'" line="454" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1504148806482">
         <mark key="[" line="18" column="630" />
@@ -316,11 +299,14 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1504676648003">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1504702792785">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="4" />
         <mark key="^" line="17" column="45" />
         <mark key="." line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserInfo.java" timestamp="1504691287909">
+        <mark key="[" line="22" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_1.sql" timestamp="1503911677448">
         <mark key="[" line="2" column="2" />
@@ -330,17 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="66" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="363" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="393" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="344" column="57" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="213" column="1026" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="104" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="170" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="769" column="73" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="219" column="40" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="160" column="65" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="300" column="43" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="234" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="182" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="151" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -430,58 +405,69 @@
       <jump line="123" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="127" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="431" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="152" column="42" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="347" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="359" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="406" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="411" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="90" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="457" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="461" column="40" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="573" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="577" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="437" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>? = null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXByaXZhdGUgdmFsIFdTSUQgPSAiWzAtOV17OH0iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>? = null</text>
+        <text encoding="base64">bGF0ZWluaXQg</text>
       </register>
       <register name="/" type="4">
-        <text>\/my</text>
+        <text>下属</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXVzZXJJbmZvLmF2Z0hvdXJzID0gdXNlckhyLmdldCgwKS5nZXQoImF2Z0hvdXJzIikgYXMgQmlnRGVjaW1hbD8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCXZhbCByZXN1bHQ6IE5ld3M/ID0gdGhpcy5uZXdzUmVwb3NpdG9yeS5maW5kQnlJZChpZCkK</text>
+        <text encoding="base64">CXByaXZhdGUgdmFsIFdTSUQgPSAiWzAtOV17OH0iCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkvKioKCQkgKiAJdmFyIHRpdGxlOiBTdHJpbmc/ID0gbnVsbAoJCXZhciBjYXRlZ29yeUlkOiBTdHJpbmc/ID0gbnVsbAoJCXZhciBjb250ZW50OiBTdHJpbmc/ID0gbnVsbAoJCXZhciBjcmVhdGVkOiBTdHJpbmc/ID0gbnVsbAoJCXZhciByZWxlYXNlRGF0ZTogU3RyaW5nPyA9IG51bGwKCQl2YXIgb3ZlcmR1ZTogU3RyaW5nPyA9IG51bGwKCQl2YXIgdXBkYXRlZDogU3RyaW5nPyA9IG51bGwKCQl2YXIgY3JlYXRvcjogU3RyaW5nPyA9IG51bGwKCQl2YXIgaGl0czogU3RyaW5nPyA9IG51bGwKCQl2YXIgbmV3c1N0YXR1czogU3RyaW5nPyA9IG51bGwKCQl2YXIgc3RhdHVzOiBTdHJpbmc/ID0gbnVsbAoJCXZhbCBpZDogU3RyaW5nPyA9IG51bGwKCQkgKi8=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgU3RyaW5nIERBVEUgPSAiWzEtMl1bMC05XXszfS1bMC05XXsyfS1bMC05XXsyfSI7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cgl2YXIgb3ZlcmR1ZTogU3RyaW5nPyA9IG51bGwKCXZhciB1cGRhdGVkOiBTdHJpbmc/ID0gbnVsbAoJdmFyIGNyZWF0b3I6IFN0cmluZz8gPSBudWxsCgl2YXIgaGl0czogU3RyaW5nPyA9IG51bGwKCXZhciBuZXdzU3RhdHVzOiBTdHJpbmc/ID0gbnVsbAoJdmFyIHN0YXR1czogU3RyaW5nPyA9IG51bGw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CS8vICAgIEBDYWNoZWFibGUoY2FjaGVOYW1lcyA9ICJ3b3JrZmxvd3NDYWNoZSIsIGNhY2hlTWFuYWdlciA9ICJjYWNoZU1hbmFnZXIxTSIsIGtleUdlbmVyYXRvciA9ICJhcGlNZXRob2RQYXJhbSIsIHVubGVzcyA9ICIjcmVzdWx0PT1udWxsIikK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CXZhciBjYXRlZ29yeUlkOiBTdHJpbmc/ID0gbnVsbAoJdmFyIGNvbnRlbnQ6IFN0cmluZz8gPSBudWxsCgl2YXIgY3JlYXRlZDogU3RyaW5nPyA9IG51bGwKCXZhciByZWxlYXNlRGF0ZTogU3RyaW5nPyA9IG51bGw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkvLwkJdGhyb3cgbmV3IFJlc3RFeGNlcHRpb24oUmVzdFNlcnZpY2VFcnJvci5UeXBlLk5PX0NPTlRFTlQsICJlcnJvci5vYS5ub2NvbnRlbnQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciB0aXRsZTogU3RyaW5nPyA9IG51bGwK</text>
+        <text encoding="base64">CS8vQENhY2hlYWJsZShjYWNoZU5hbWVzID0gIndvcmtmbG93c0NhY2hlIiwgY2FjaGVNYW5hZ2VyID0gImNhY2hlTWFuYWdlcjFNIiwga2V5R2VuZXJhdG9yID0gImFwaU1ldGhvZFBhcmFtIiwgdW5sZXNzID0gIiNyZXN1bHQ9PW51bGwiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhbCBpZDogU3RyaW5nPyA9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWNvbXBhbmlvbiBvYmplY3QgewoJCXByaXZhdGUgY29uc3QgdmFsIHNlcmlhbFZlcnNpb25VSUQgPSAxTAoJfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LyoJQEFwaU9wZXJhdGlvbihub3RlcyA9ICLojrflj5bmjIflrprnn6Xor4bmlofmoaPnsbvliKvnmoTmiYDmnInlrZDnsbvliKsiLCB2YWx1ZSA9ICLojrflj5bmjIflrprnn6Xor4bmlofmoaPnsbvliKvnmoTmiYDmnInlrZDnsbvliKsiKQoJQEFwaUltcGxpY2l0UGFyYW1zKHtAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gImNhdGVnb3J5IiwgdmFsdWUgPSAi57G75YirSUQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKX0pCglAR2V0TWFwcGluZygiL2RvY3MvY2F0ZWdvcmllcyIpCglwdWJsaWMgUmVzcG9uc2VXcmFwcGVyPExpc3Q8T2JqZWN0Pj4gZ2V0Q2F0ZWdvcnkoCgkJQFJlcXVlc3RQYXJhbSgiY2F0ZWdvcnkiKQoJCQlTdHJpbmcgY2F0ZWdvcnkpIHRocm93cyBSZXN0RXhjZXB0aW9uIHsKCgkJU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CgkJc2IuYXBwZW5kKCJTRUxFQ1QgZmRfaWQsQ29udmVydChudmFyY2hhcigyMDApLGZkX25hbWUpZmRfbmFtZSBGUk9NIGttX2RvY190ZW1wbGF0ZSIpOwoJCWlmIChudWxsICE9IGNhdGVnb3J5KSB7CgkJCXNiLmFwcGVuZCgiIFdIRVJFIGZkX3BhcmVudF9pZD0nIikuYXBwZW5kKGNhdGVnb3J5KS5hcHBlbmQoIiciKTsKCQl9CgkJc2IuYXBwZW5kKCIgT1JERVIgQlkgZmRfb3JkZXIiKTsKCQlMaXN0PE9iamVjdD4gcmVzdWx0TGlzdCA9IGVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoc2IudG9TdHJpbmcoKSkuZ2V0UmVzdWx0TGlzdCgpOwoJCWlmIChyZXN1bHRMaXN0LnNpemUoKSA+IDApIHsKCQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8PihyZXN1bHRMaXN0KTsKCQl9CgoJCXRocm93IG5ldyBSZXN0RXhjZXB0aW9uKFJlc3RTZXJ2aWNlRXJyb3IuVHlwZS5OT19DT05URU5ULCAiZXJyb3IuZG9jLm5vY29udGVudCIpOwoJfSovCgovKglAQXBpT3BlcmF0aW9uKG5vdGVzID0gIuiOt+WPluefpeivhuaWh+aho+WIl+ihqO+8iOm7mOiupOi/lOWbnjE15p2h77yJIiwgdmFsdWUgPSAi6I635Y+W55+l6K+G5paH5qGj5YiX6KGo77yI6buY6K6k6L+U5ZueMTXmnaHvvIkiKQoJQEFwaUltcGxpY2l0UGFyYW1zKHtAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gImNhdGVnb3J5IiwgdmFsdWUgPSAi57G75YirSUQiLCBwYXJhbVR5cGUgPSAicXVlcnkiKX0pCglAR2V0TWFwcGluZygiL2RvY3MiKQoJcHVibGljIFJlc3BvbnNlV3JhcHBlcjxMaXN0PE9iamVjdD4+IGdldFJ1bGVzKAoJCUBSZXF1ZXN0UGFyYW0oImNhdGVnb3J5IikKCQkJU3RyaW5nIGNhdGVnb3J5KSB0aHJvd3MgUmVzdEV4Y2VwdGlvbiB7CgoJCUxpc3Q8T2JqZWN0PiByZXN1bHRMaXN0ID0gZW50aXR5TWFuYWdlcgoJCQkuY3JlYXRlTmF0aXZlUXVlcnkoIlNFTEVDVCBUT1AgMTUgYS5mZF9pZCxhLmZkX3RlbXBsYXRlX2lkLGMuZmRfcGFyZW50X2lkLCBDb252ZXJ0KG52YXJjaGFyKDIwMCksYy5mZF9uYW1lKSBhcyBjYXRlZ29yeU5hbWUsIENvbnZlcnQobnZhcmNoYXIoMjAwKSxhLmRvY19zdWJqZWN0KSBhcyBkb2Nfc3ViamVjdCwgQ29udmVydCh2YXJjaGFyKDEwKSxhLmRvY19wdWJsaXNoX3RpbWUsMTIwKSBhcyBkb2NfcHVibGlzaF9kYXRlLCBDb252ZXJ0KHZhcmNoYXIoMTkpLGEuZG9jX3B1Ymxpc2hfdGltZSwxMjApIGFzIGRvY19wdWJsaXNoX3RpbWUgZnJvbSBrbV9kb2Nfa25vd2xlZGdlIGEgSW5uZXIgSm9pbiAoU0VMRUNUIGRvY19zdWJqZWN0LE1heChkb2NfcHVibGlzaF90aW1lKWFzIGRvY19wdWJsaXNoX3RpbWUgRlJPTSBrbV9kb2Nfa25vd2xlZGdlIFdIRVJFIGRvY19zdGF0dXM9MzAgR3JvdXAgYnkgZG9jX3N1YmplY3QpYiBvbiBhLmRvY19zdWJqZWN0PWIuZG9jX3N1YmplY3QgYW5kIGEuZG9jX3B1Ymxpc2hfdGltZT1iLmRvY19wdWJsaXNoX3RpbWUgSW5uZXIgSm9pbiAoc2VsZWN0IGZkX2lkLGZkX3BhcmVudF9pZCwgZmRfbmFtZSBmcm9tIGttX2RvY190ZW1wbGF0ZSB3aGVyZSBmZF9wYXJlbnRfaWQ9JyIgKyBjYXRlZ29yeSArICInIEFORCAoZmRfbmFtZT1OJ+a1geeoiycgT1IgZmRfbmFtZT0n5Yi25bqmJykpIGMgb24gYS5mZF90ZW1wbGF0ZV9pZD1jLmZkX2lkIFdIRVJFIGEuZG9jX3N0YXR1cz0zMCBBTkQgYS5kb2NfaXNfbmV3X3ZlcnNpb249MSBPUkRFUiBCWSBhLmRvY19wdWJsaXNoX3RpbWUgREVTQyIpCgkJCS5nZXRSZXN1bHRMaXN0KCk7CgoJCWlmIChyZXN1bHRMaXN0LnNpemUoKSA+IDApIHsKCQkJcmV0dXJuIG5ldyBSZXNwb25zZVdyYXBwZXI8PihyZXN1bHRMaXN0KTsKCQl9CgkJdGhyb3cgbmV3IFJlc3RFeGNlcHRpb24oUmVzdFNlcnZpY2VFcnJvci5UeXBlLk5PX0NPTlRFTlQsICJlcnJvci5kb2Mubm9jb250ZW50Iik7Cgl9Ki8=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CXZhciB0aXRsZTogU3RyaW5nPyA9IG51bGwKCXZhciBjYXRlZ29yeUlkOiBTdHJpbmc/ID0gbnVsbAoJdmFyIGNvbnRlbnQ6IFN0cmluZz8gPSBudWxsCgl2YXIgY3JlYXRlZDogU3RyaW5nPyA9IG51bGwKCXZhciByZWxlYXNlRGF0ZTogU3RyaW5nPyA9IG51bGwKCXZhciBvdmVyZHVlOiBTdHJpbmc/ID0gbnVsbAoJdmFyIHVwZGF0ZWQ6IFN0cmluZz8gPSBudWxsCgl2YXIgY3JlYXRvcjogU3RyaW5nPyA9IG51bGwKCXZhciBoaXRzOiBTdHJpbmc/ID0gbnVsbAoJdmFyIG5ld3NTdGF0dXM6IFN0cmluZz8gPSBudWxsCgl2YXIgc3RhdHVzOiBTdHJpbmc/ID0gbnVsbAoJdmFsIGlkOiBTdHJpbmc/ID0gbnVsbA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
       </register>
     </registers>
     <search>
-      <last-search>\/my</last-search>
+      <last-search>下属</last-search>
       <last-offset />
-      <last-pattern>\/my</last-pattern>
+      <last-pattern>下属</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -489,10 +475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>det</entry>
-        <entry>filter</entry>
-        <entry>detail</entry>
-        <entry>buildSql</entry>
         <entry>logList</entry>
         <entry>LogList</entry>
         <entry>lidy</entry>
@@ -507,8 +489,12 @@
         <entry encoding="base64">XDxudWxsXD4=</entry>
         <entry>av</entry>
         <entry>save</entry>
-        <entry>\/list</entry>
         <entry>\/my</entry>
+        <entry>\/list</entry>
+        <entry>\/search</entry>
+        <entry>search</entry>
+        <entry>select</entry>
+        <entry>下属</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
