@@ -206,11 +206,12 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504777681182">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504778550921">
         <mark key="'" line="143" column="37" />
-        <mark key="[" line="653" column="56" />
-        <mark key="]" line="653" column="56" />
-        <mark key="." line="653" column="56" />
+        <mark key="[" line="675" column="44" />
+        <mark key="]" line="669" column="80" />
+        <mark key="." line="669" column="60" />
+        <mark key="^" line="669" column="59" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1504756014382">
         <mark key="'" line="14" column="6" />
@@ -364,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot; + StringUtils.join(persons, sp) + &quot;</text>
+        <text>paramLogBuild.isRead</text>
       </register>
       <register name="-" type="4">
-        <text>&quot; + StringUtils.join(persons, sp) + &quot;</text>
+        <text>paramLogBuild.isRead</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
