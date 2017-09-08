@@ -114,11 +114,11 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1504842591233">
-        <mark key="[" line="174" column="8" />
-        <mark key="]" line="174" column="57" />
-        <mark key="^" line="174" column="57" />
-        <mark key="." line="174" column="57" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1504849005101">
+        <mark key="[" line="71" column="27" />
+        <mark key="]" line="72" column="4" />
+        <mark key="^" line="72" column="4" />
+        <mark key="." line="72" column="4" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/OaToDo.kt" timestamp="1504749580839">
         <mark key="[" line="8" column="19" />
@@ -168,7 +168,7 @@
         <mark key="]" line="65" column="42" />
         <mark key="." line="65" column="42" />
       </file>
-      <file name="/a.sql" timestamp="1504842945230">
+      <file name="/a.sql" timestamp="1504850005780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
@@ -186,7 +186,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1504842889351">
+      <file name="/dummy.sql" timestamp="1504849724290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -231,7 +231,7 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504843264487">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504848471005">
         <mark key="'" line="795" column="0" />
         <mark key="[" line="813" column="0" />
         <mark key="]" line="795" column="0" />
@@ -382,11 +382,11 @@
       <jump line="795" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YXIgbXNnID0gbXNnCg==</text>
+      <register name="&quot;" type="4">
+        <text>Env.hrsHost</text>
       </register>
       <register name="-" type="4">
-        <text>.equals(&quot;&quot;)</text>
+        <text>Env.hrsHost</text>
       </register>
       <register name="/" type="4">
         <text>fix</text>
