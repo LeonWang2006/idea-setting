@@ -120,10 +120,11 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1504861224292">
-        <mark key="[" line="244" column="50" />
-        <mark key="]" line="244" column="50" />
-        <mark key="." line="244" column="50" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1504863931881">
+        <mark key="[" line="295" column="23" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
+        <mark key="^" line="302" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/OaToDo.kt" timestamp="1504749580839">
         <mark key="[" line="8" column="19" />
@@ -389,10 +390,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>页码</text>
+        <text>@Pattern(regexp = &quot;(0|1)&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>页码</text>
+        <text>@Pattern(regexp = &quot;(0|1)&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>gson</text>
