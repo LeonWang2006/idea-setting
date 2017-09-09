@@ -240,8 +240,8 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504953713322">
-        <mark key="'" line="322" column="8" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504970343110">
+        <mark key="'" line="523" column="62" />
         <mark key="[" line="327" column="0" />
         <mark key="]" line="327" column="165" />
         <mark key="." line="327" column="108" />
@@ -292,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="735" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="498" column="60" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.java" />
       <jump line="91" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="138" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -392,6 +391,7 @@
       <jump line="282" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="287" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="322" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="523" column="62" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -401,7 +401,7 @@
         <text>Int</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>fix-date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IHt9IFBPU1QgL2xvZ3MvY29tbWVudHM/bG9nSWQ9e30mY29tbWVudD17fSZkZXRhaWxJZD17fSBb5pel5b+X55WZ6KiAXSIsIHJlcXVlc3Quc2Vzc2lvbi5pZCwgcmVxdWVzdC51c2VyUHJpbmNpcGFsLm5hbWUsIGxvZ0lkLCBjb21tZW50LCBkZXRhaWxJZCkK</text>
@@ -441,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>fix-date</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>fix-date</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>av</entry>
         <entry>\/my</entry>
         <entry>\/search</entry>
         <entry>search</entry>
@@ -471,6 +470,7 @@
         <entry>filter</entry>
         <entry>comment</entry>
         <entry>save</entry>
+        <entry>fix-date</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
