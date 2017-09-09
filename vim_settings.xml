@@ -120,10 +120,11 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1504942297203">
-        <mark key="[" line="252" column="305" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1504943964702">
+        <mark key="[" line="252" column="260" />
+        <mark key="]" line="252" column="260" />
+        <mark key="." line="252" column="260" />
+        <mark key="^" line="252" column="265" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/OaToDo.kt" timestamp="1504749580839">
         <mark key="[" line="8" column="19" />
@@ -240,7 +241,7 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504942281779">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504943627838">
         <mark key="'" line="258" column="36" />
         <mark key="[" line="327" column="0" />
         <mark key="]" line="327" column="165" />
@@ -394,11 +395,11 @@
       <jump line="258" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygi6K+35rGCd29zIHt9Iiwgc2IudG9TdHJpbmcoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>Env.WSID</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>Env.WSID</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
