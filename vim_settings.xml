@@ -90,7 +90,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1504918781947">
+      <file name="/fragment.kt" timestamp="1504921903720">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
@@ -238,11 +238,12 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504920126095">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504922176673">
         <mark key="'" line="322" column="8" />
-        <mark key="[" line="808" column="57" />
-        <mark key="]" line="808" column="0" />
-        <mark key="." line="808" column="0" />
+        <mark key="[" line="807" column="99" />
+        <mark key="]" line="807" column="99" />
+        <mark key="." line="807" column="99" />
+        <mark key="^" line="807" column="103" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogListWrapper.kt" timestamp="1504771975512">
         <mark key="[" line="3" column="0" />
@@ -388,11 +389,11 @@
       <jump line="322" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlpZiAoY29udGVudExpc3QubCkK</text>
+      <register name="&quot;" type="4">
+        <text>split(&quot;,&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>split(&quot;,&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>content</text>
