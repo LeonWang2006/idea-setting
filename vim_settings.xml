@@ -195,7 +195,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1505114505557">
+      <file name="/dummy.sql" timestamp="1505138238640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -230,6 +230,12 @@
         <mark key="]" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10f1622e-1b0e-46b6-9c7e-6a06c6f39cee/console.sql" timestamp="1505138562813">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1504701507533">
         <mark key="[" line="37" column="15" />
         <mark key="]" line="51" column="0" />
@@ -241,12 +247,12 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1504973396562">
-        <mark key="'" line="322" column="8" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1505139438539">
+        <mark key="'" line="484" column="23" />
         <mark key="[" line="534" column="57" />
-        <mark key="]" line="607" column="0" />
-        <mark key="." line="607" column="0" />
-        <mark key="^" line="606" column="0" />
+        <mark key="]" line="484" column="23" />
+        <mark key="." line="484" column="23" />
+        <mark key="^" line="484" column="23" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogListWrapper.kt" timestamp="1504771975512">
         <mark key="[" line="3" column="0" />
@@ -293,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="152" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="155" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="167" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -393,16 +398,17 @@
       <jump line="322" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="154" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="158" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="484" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBWZXJzaW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>avatar</text>
+        <text>my</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IHt9IFBPU1QgL2xvZ3MvY29tbWVudHM/bG9nSWQ9e30mY29tbWVudD17fSZkZXRhaWxJZD17fSBb5pel5b+X55WZ6KiAXSIsIHJlcXVlc3Quc2Vzc2lvbi5pZCwgcmVxdWVzdC51c2VyUHJpbmNpcGFsLm5hbWUsIGxvZ0lkLCBjb21tZW50LCBkZXRhaWxJZCkK</text>
@@ -442,9 +448,9 @@
       </register>
     </registers>
     <search>
-      <last-search>avatar</last-search>
+      <last-search>my</last-search>
       <last-offset />
-      <last-pattern>avatar</last-pattern>
+      <last-pattern>my</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +458,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/search</entry>
         <entry>search</entry>
         <entry>select</entry>
         <entry>下属</entry>
@@ -472,6 +477,7 @@
         <entry>fix-date</entry>
         <entry>save</entry>
         <entry>avatar</entry>
+        <entry>my</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
