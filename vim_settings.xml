@@ -137,8 +137,8 @@
         <mark key="^" line="74" column="138" />
         <mark key="." line="103" column="35" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1504790368601">
-        <mark key="'" line="565" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1505092467793">
+        <mark key="'" line="158" column="39" />
         <mark key="[" line="699" column="296" />
         <mark key="]" line="730" column="276" />
         <mark key="." line="730" column="276" />
@@ -292,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
-      <jump line="138" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="141" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="152" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="155" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -392,6 +390,8 @@
       <jump line="282" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="287" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="322" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="154" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="158" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -401,7 +401,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>avatar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IHt9IFBPU1QgL2xvZ3MvY29tbWVudHM/bG9nSWQ9e30mY29tbWVudD17fSZkZXRhaWxJZD17fSBb5pel5b+X55WZ6KiAXSIsIHJlcXVlc3Quc2Vzc2lvbi5pZCwgcmVxdWVzdC51c2VyUHJpbmNpcGFsLm5hbWUsIGxvZ0lkLCBjb21tZW50LCBkZXRhaWxJZCkK</text>
@@ -441,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>avatar</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>avatar</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/my</entry>
         <entry>\/search</entry>
         <entry>search</entry>
         <entry>select</entry>
@@ -471,6 +470,7 @@
         <entry>comment</entry>
         <entry>fix-date</entry>
         <entry>save</entry>
+        <entry>avatar</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
