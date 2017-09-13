@@ -200,7 +200,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1505307222542">
+      <file name="/dummy.sql" timestamp="1505308307355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -241,18 +241,19 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1505305440707">
-        <mark key="[" line="64" column="281" />
-        <mark key="]" line="64" column="281" />
-        <mark key="." line="64" column="281" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1505308421899">
+        <mark key="[" line="133" column="288" />
+        <mark key="]" line="133" column="288" />
+        <mark key="." line="133" column="288" />
+        <mark key="^" line="133" column="288" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.java" timestamp="1504669322707">
         <mark key="[" line="305" column="0" />
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1505294109369">
-        <mark key="'" line="847" column="104" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1505308461460">
+        <mark key="'" line="173" column="167" />
         <mark key="[" line="374" column="467" />
         <mark key="]" line="374" column="475" />
         <mark key="." line="374" column="475" />
@@ -314,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="188" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="194" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
       <jump line="197" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.java" />
@@ -414,16 +414,17 @@
       <jump line="484" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="435" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="807" column="104" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="173" column="167" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>creator</text>
+        <text>redate</text>
       </register>
       <register name="-" type="4">
-        <text>creator</text>
+        <text>redate</text>
       </register>
       <register name="/" type="4">
-        <text>unread</text>
+        <text>\/list</text>
       </register>
       <register name="0" type="4">
         <text>unReadResult</text>
@@ -463,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unread</last-search>
+      <last-search>\/list</last-search>
       <last-offset />
-      <last-pattern>unread</last-pattern>
+      <last-pattern>\/list</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -484,7 +485,6 @@
         <entry>logs</entry>
         <entry>content</entry>
         <entry>list</entry>
-        <entry>\/list</entry>
         <entry>filter</entry>
         <entry>comment</entry>
         <entry>fix-date</entry>
@@ -493,6 +493,7 @@
         <entry>my</entry>
         <entry>detail</entry>
         <entry>unread</entry>
+        <entry>\/list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
