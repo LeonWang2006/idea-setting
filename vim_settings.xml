@@ -52,11 +52,11 @@
         <mark key="." line="0" column="244" />
         <mark key="^" line="0" column="223" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1505180340097">
-        <mark key="[" line="4" column="176" />
-        <mark key="]" line="4" column="175" />
-        <mark key="." line="4" column="175" />
-        <mark key="^" line="4" column="175" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1505264474339">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/LogCount.kt" timestamp="1504766250073">
         <mark key="[" line="2" column="35" />
@@ -198,7 +198,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1505263042390">
+      <file name="/dummy.sql" timestamp="1505265374994">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -404,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isRead</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>isRead</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
