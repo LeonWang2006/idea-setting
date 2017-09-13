@@ -80,11 +80,11 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Message.kt" timestamp="1504964419703">
-        <mark key="[" line="4" column="139" />
-        <mark key="]" line="4" column="139" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Message.kt" timestamp="1505264182662">
+        <mark key="[" line="4" column="68" />
+        <mark key="]" line="4" column="68" />
         <mark key="^" line="4" column="4" />
-        <mark key="." line="4" column="139" />
+        <mark key="." line="4" column="68" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.java" timestamp="1504676718496">
         <mark key="[" line="127" column="0" />
@@ -129,6 +129,7 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1505264243165" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/OaToDo.kt" timestamp="1504749580839">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="25" column="7" />
@@ -238,7 +239,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1504701507533">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1505264344779">
         <mark key="[" line="37" column="15" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -403,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>isRead</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>isRead</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
