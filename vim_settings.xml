@@ -52,10 +52,8 @@
         <mark key="." line="0" column="244" />
         <mark key="^" line="0" column="223" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1505284194015">
-        <mark key="[" line="10" column="69" />
-        <mark key="]" line="10" column="69" />
-        <mark key="." line="10" column="69" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1505289067540">
+        <mark key="[" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/LogCount.kt" timestamp="1504766250073">
         <mark key="[" line="2" column="35" />
@@ -237,10 +235,10 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1505285576596">
-        <mark key="[" line="127" column="31" />
-        <mark key="]" line="127" column="31" />
-        <mark key="." line="127" column="31" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1505289076438">
+        <mark key="[" line="111" column="47" />
+        <mark key="]" line="111" column="47" />
+        <mark key="." line="111" column="47" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.java" timestamp="1504669322707">
         <mark key="[" line="305" column="0" />
@@ -413,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text>@RequestParam pageNumber: Int = 0, @RequestParam pageSize: Int = 10</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>@RequestParam pageNumber: Int = 0, @RequestParam pageSize: Int = 10</text>
       </register>
       <register name="/" type="4">
         <text>unread</text>
