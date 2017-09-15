@@ -28,10 +28,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserRank.kt" timestamp="1505453496623">
-        <mark key="[" line="4" column="116" />
-        <mark key="]" line="4" column="143" />
-        <mark key="." line="4" column="143" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserRank.kt" timestamp="1505458374513">
+        <mark key="[" line="4" column="164" />
+        <mark key="]" line="4" column="164" />
+        <mark key="." line="4" column="164" />
         <mark key="^" line="4" column="143" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1505319044579">
@@ -85,7 +85,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1505315969630">
+      <file name="/fragment.kt" timestamp="1505457997588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
@@ -113,17 +113,18 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1505457394793" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1505291749908">
         <mark key="'" line="447" column="0" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505453605065">
-        <mark key="[" line="153" column="118" />
-        <mark key="]" line="153" column="115" />
-        <mark key="." line="153" column="115" />
-        <mark key="^" line="153" column="115" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505462101221">
+        <mark key="[" line="161" column="315" />
+        <mark key="]" line="158" column="48" />
+        <mark key="." line="158" column="48" />
+        <mark key="^" line="158" column="48" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/News.kt" timestamp="1505304015547">
         <mark key="[" line="9" column="167" />
@@ -176,7 +177,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1505453315476">
+      <file name="/dummy.sql" timestamp="1505459260916">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -253,10 +254,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1505446662336">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1505461044954">
+        <mark key="[" line="0" column="363" />
+        <mark key="]" line="0" column="362" />
+        <mark key="." line="0" column="362" />
+        <mark key="^" line="0" column="362" />
       </file>
     </filemarks>
     <jumps>
@@ -363,54 +365,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rs?.getInt()</text>
+        <text>date</text>
       </register>
       <register name="-" type="4">
-        <text>rs?.getInt()</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text>\/list</text>
       </register>
-      <register name="0" type="4">
-        <text>员工出勤排名</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJdmFsIHNxbCA9ICJTRUxFQ1QgYS5yYW5rLCBhLndzX2lkLCBhLm5hbWUsIGEucmF0aW9fdmFsdWUsIGEuZGF0ZSBGUk9NIChTRUxFQ1Qgd3NfaWQsIG5hbWUsIHJhdGlvX3ZhbHVlLCBAcHJldiA6PSBAY3VyciwgQGN1cnIgOj0gcmF0aW9fdmFsdWUsIEByYW5rIDo9IElGKEBwcmV2ID0gQGN1cnIsIEByYW5rLCBAcmFuayArIDEpIEFTIHJhbmssIGRhdGUgRlJPTSBocnNfdG9wbGlzdF90aGlydHlfZGF5c19hcHAsIChTRUxFQ1QgQHByZXYgOj0gTlVMTCwgQGN1cnIgOj0gTlVMTCwgQHJhbmsgOj0gMCkgYiBXSEVSRSBsaXN0X3N0eWxlID0gJ2pvYl9sb2cnIE9SREVSIEJZIHJhdGlvX3ZhbHVlIERFU0MpIGEgV0hFUkUgd3NfaWQgPSAnJHdzSWQnIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCQl2YWwgdXJsID0gSFJTX0hPU1QgKyAidG9wbGlzdC9kb2xpa2UiCg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQludWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCX0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">CQkJCWlmIChycyAhPSBudWxsKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>SELECT
-  @row := @row + 1 AS row,
-  date
-FROM hrs_toplist_thirty_days_history_app, (SELECT @row := 0) b
-WHERE list_style = 'job_log'
-GROUP BY date;</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJdmFsIHNxbCA9ICJTRUxFQ1QgYS5yYW5rLCBhLndzX2lkLCBhLm5hbWUsIGEucmF0aW9fdmFsdWUsIGRhdGUgRlJPTSAoU0VMRUNUIGMud3NfaWQsIGMubmFtZSwgYy5yYXRpb192YWx1ZSwgQHByZXYgOj0gQGN1cnIsIEBjdXJyIDo9IGMucmF0aW9fdmFsdWUsIEByYW5rIDo9IElGKEBwcmV2ID0gQGN1cnIsIEByYW5rLCBAcmFuayArIDEpIEFTIHJhbmssIGMuZGF0ZSBGUk9NIChTRUxFQ1QgKiBGUk9NIGhyc190b3BsaXN0X3RoaXJ0eV9kYXlzX2FwcCBXSEVSRSBsaXN0X3N0eWxlID0gJ2pvYl9sb2cnIE9SREVSIEJZIGRhdGUpIGMsIChTRUxFQ1QgQHByZXYgOj0gTlVMTCwgQGN1cnIgOj0gTlVMTCwgQHJhbmsgOj0gMCkgYiBPUkRFUiBCWSByYXRpb192YWx1ZSBERVNDKSBhIFdIRVJFIHdzX2lkID0gJyR3c0lkJyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAidHlwZSIsIHZhbHVlID0gIuamnOWNleexu+WeiyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIsIGV4YW1wbGUgPSAiYXR0ZW5kYW5jZVvlh7rli6RdO2pvYl9ldmFsdWF0ZVvor4Tku7ddO2pvYl9sb2db5pel5b+XXTtvYV9wcm9jZXNzW09B5aSE55CGXTtvYV90aW1lW09B5pWI546HXTt3ZWlib1vlvq7ljZpdO3Byb2plY3Rb6aG555uuXSIpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiY3VycmVudEVtcGxveWVlSWQiLCB2YWx1ZSA9ICLngrnotZ7kurrlkZjlt6Xlj7ciLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>(SELECT create_time
-                                                          FROM hrs_toplist_thirty_days_history_app
-                                                          ORDER BY create_time DESC
-                                                          LIMIT 1)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CkBwcmV2IDo9IE5VTEwsCkBjdXJyIDo9IE5VTEws</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
