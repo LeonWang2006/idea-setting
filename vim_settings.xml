@@ -28,6 +28,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserRank.kt" timestamp="1505453496623">
+        <mark key="[" line="4" column="116" />
+        <mark key="]" line="4" column="143" />
+        <mark key="." line="4" column="143" />
+        <mark key="^" line="4" column="143" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1505319044579">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
@@ -113,10 +119,11 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505447293101">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505453605065">
+        <mark key="[" line="153" column="118" />
+        <mark key="]" line="153" column="115" />
+        <mark key="." line="153" column="115" />
+        <mark key="^" line="153" column="115" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/News.kt" timestamp="1505304015547">
         <mark key="[" line="9" column="167" />
@@ -169,7 +176,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1505447740933">
+      <file name="/dummy.sql" timestamp="1505453315476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -355,11 +362,11 @@
       <jump line="143" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JCQl2YWwgdXJsID0gSFJTX0hPU1QgKyAidG9wbGlzdC9kb2xpa2UiCg==</text>
+      <register name="&quot;" type="4">
+        <text>rs?.getInt()</text>
       </register>
       <register name="-" type="4">
-        <text>09080661</text>
+        <text>rs?.getInt()</text>
       </register>
       <register name="/" type="4">
         <text>\/list</text>
