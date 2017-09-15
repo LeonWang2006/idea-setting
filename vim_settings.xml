@@ -220,8 +220,8 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1505493693580">
-        <mark key="'" line="664" column="8" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1505495177758">
+        <mark key="'" line="372" column="14" />
         <mark key="[" line="471" column="28" />
         <mark key="]" line="471" column="28" />
         <mark key="^" line="463" column="56" />
@@ -246,15 +246,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1505494773292">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1505495705976">
         <mark key="^" line="0" column="362" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="45" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
       <jump line="196" column="41" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
       <jump line="222" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
       <jump line="293" column="41" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
@@ -354,6 +350,7 @@
       <jump line="643" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="193" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="608" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="372" column="14" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -363,7 +360,7 @@
         <text>坏</text>
       </register>
       <register name="/" type="4">
-        <text>contact</text>
+        <text>fix</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJdmFsIFJFR0VYMjUgPSAiIiJb5Zyo57uZXSguKz8p55qEPyIiIi50b1JlZ2V4KCkK</text>
@@ -403,9 +400,9 @@
       </register>
     </registers>
     <search>
-      <last-search>contact</last-search>
+      <last-search>fix</last-search>
       <last-offset />
-      <last-pattern>contact</last-pattern>
+      <last-pattern>fix</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -414,7 +411,6 @@
     <history>
       <history-search>
         <entry>countSql</entry>
-        <entry>fix</entry>
         <entry>gson</entry>
         <entry>logs</entry>
         <entry>content</entry>
@@ -433,6 +429,7 @@
         <entry>concat</entry>
         <entry>Concat</entry>
         <entry>contact</entry>
+        <entry>fix</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
