@@ -114,10 +114,10 @@
         <mark key="." line="9" column="187" />
         <mark key="^" line="9" column="166" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1505368502946">
-        <mark key="[" line="26" column="312" />
-        <mark key="]" line="26" column="51" />
-        <mark key="." line="26" column="51" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1505438215056">
+        <mark key="[" line="26" column="315" />
+        <mark key="]" line="26" column="316" />
+        <mark key="." line="26" column="316" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
@@ -130,7 +130,7 @@
         <mark key="^" line="67" column="250" />
         <mark key="." line="60" column="64" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505319544345">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505438707004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -158,7 +158,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1505434674071">
+      <file name="/dummy.sql" timestamp="1505438522335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -235,7 +235,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1505437261132">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1505438080639">
         <mark key="[" line="74" column="57" />
         <mark key="]" line="74" column="16" />
         <mark key="." line="74" column="16" />
@@ -346,13 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(SELECT create_time
-                                                          FROM hrs_toplist_thirty_days_history_app
-                                                          ORDER BY create_time DESC
-                                                          LIMIT 1)</text>
+        <text>ˀ</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>ˀ</text>
       </register>
       <register name="/" type="4">
         <text>\/list</text>
