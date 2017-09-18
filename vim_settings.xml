@@ -126,10 +126,10 @@
         <mark key="." line="608" column="4" />
         <mark key="^" line="608" column="4" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505736086680">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505737390102">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/News.kt" timestamp="1505304015547">
         <mark key="[" line="9" column="167" />
@@ -180,7 +180,7 @@
         <mark key="." line="29" column="20" />
       </file>
       <file name="src:table:/928a8b7b/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/wos_hrs.hrs_toplist_thirty_days_app" timestamp="1505468217149" />
-      <file name="/dummy.sql" timestamp="1505733632155">
+      <file name="/dummy.sql" timestamp="1505736942876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -372,7 +372,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Timestamp</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>mood</text>
@@ -387,29 +387,29 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkvL3ZhbCB6b25lVGltZTogWm9uZWREYXRlVGltZSA9IFpvbmVkRGF0ZVRpbWUub2YobGFzdERhdGVSZXN1bHQudG9Mb2NhbERhdGVUaW1lKCksIFpvbmVJZC5vZigiQXNpYS9TaGFuZ2hhaSIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQl2YWwgZGF0ZSA9IGxhc3REYXRlUmVzdWx0LnRvTG9jYWxEYXRlVGltZSgpLgo=</text>
+        <text encoding="base64">CQkJCXZhbCB1c2VyUmFuazogVXNlclJhbmsgPSByZXN1bHRbMF0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkvL3ZhbCB6b25lVGltZTogWm9uZWREYXRlVGltZSA9IFpvbmVkRGF0ZVRpbWUub2YobGFzdERhdGVSZXN1bHQudG9Mb2NhbERhdGVUaW1lKCksIFpvbmVJZC5vZigiQXNpYS9TaGFuZ2hhaSIpKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>SELECT any_value(ws_id),date
-FROM hrs_toplist_thirty_days_app GROUP BY date, ws_id;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQl2YWwgZGF0ZSA9IGxhc3REYXRlUmVzdWx0LnRvTG9jYWxEYXRlVGltZSgpLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYXRpb192YWx1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lLAo=</text>
+      <register name="9" type="4">
+        <text>SELECT any_value(ws_id),date
+FROM hrs_toplist_thirty_days_app GROUP BY date, ws_id;</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
