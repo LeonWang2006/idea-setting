@@ -264,8 +264,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1505721003671">
-        <mark key="^" line="0" column="362" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1505721559192">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="32" />
+        <mark key="^" line="26" column="33" />
+        <mark key="." line="26" column="32" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1505497741784" />
     </filemarks>
@@ -373,10 +376,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>evaluate</text>
+        <text>DESC</text>
       </register>
       <register name="-" type="4">
-        <text>evaluate</text>
+        <text>DESC</text>
       </register>
       <register name="/" type="4">
         <text>mood</text>
