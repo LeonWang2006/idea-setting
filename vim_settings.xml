@@ -136,10 +136,11 @@
         <mark key="." line="608" column="4" />
         <mark key="^" line="608" column="4" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505894081525">
-        <mark key="[" line="240" column="13" />
-        <mark key="]" line="240" column="13" />
-        <mark key="." line="240" column="13" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505894791861">
+        <mark key="[" line="242" column="12" />
+        <mark key="]" line="251" column="141" />
+        <mark key="." line="251" column="141" />
+        <mark key="^" line="251" column="141" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/News.kt" timestamp="1505304015547">
         <mark key="[" line="9" column="167" />
@@ -192,7 +193,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1505890661551">
+      <file name="/dummy.sql" timestamp="1505894956502">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -238,12 +239,12 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1505888385397">
-        <mark key="'" line="145" column="273" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1505895094825">
+        <mark key="'" line="470" column="28" />
         <mark key="[" line="163" column="185" />
-        <mark key="]" line="140" column="30" />
-        <mark key="." line="140" column="30" />
-        <mark key="^" line="140" column="30" />
+        <mark key="]" line="470" column="28" />
+        <mark key="." line="470" column="28" />
+        <mark key="^" line="470" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1504930732149">
         <mark key="[" line="18" column="7060" />
@@ -277,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="431" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="152" column="42" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="347" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -377,16 +377,17 @@
       <jump line="404" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="127" column="537" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="145" column="273" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="470" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsc2UgewoJCQkJUmVzcG9uc2VXcmFwcGVyPFVzZXJSYW5rPihudWxsKQoJCQl9</text>
+        <text>rs?.getInt(&quot;oldIndirectRank&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>lastRank</text>
+        <text>rs?.getInt(&quot;oldIndirectRank&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text>mood</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJcmVzdWx0UmFuay5vbGRJbmRpcmVjdFJhbms9IGxhc3RSYW5rCg==</text>
@@ -426,9 +427,9 @@
       </register>
     </registers>
     <search>
-      <last-search>detail</last-search>
+      <last-search>mood</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
+      <last-pattern>mood</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -452,10 +453,10 @@
         <entry>Concat</entry>
         <entry>contact</entry>
         <entry>fix</entry>
-        <entry>mood</entry>
         <entry>comment</entry>
         <entry>list</entry>
         <entry>detail</entry>
+        <entry>mood</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
