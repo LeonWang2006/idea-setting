@@ -58,9 +58,6 @@
         <mark key="." line="0" column="242" />
         <mark key="^" line="0" column="223" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1505289067540">
-        <mark key="[" line="0" column="7" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/853cdd49-bf1e-42ff-9b7c-ade5fee32d3a/console.sql" timestamp="1505271589306">
         <mark key="[" line="9" column="117" />
         <mark key="]" line="9" column="117" />
@@ -107,9 +104,6 @@
         <mark key="[" line="72" column="16" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/README.md" timestamp="1505176981491">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogListWrapper.java" timestamp="1504771899157">
         <mark key="[" line="6" column="20" />
@@ -176,7 +170,7 @@
         <mark key="]" line="65" column="42" />
         <mark key="." line="65" column="42" />
       </file>
-      <file name="/a.sql" timestamp="1505916938600">
+      <file name="/a.sql" timestamp="1505917598903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
@@ -194,7 +188,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1505916414801">
+      <file name="/dummy.sql" timestamp="1505917862900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -251,9 +245,6 @@
         <mark key="]" line="163" column="1028" />
         <mark key="." line="163" column="1028" />
         <mark key="^" line="470" column="28" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1504930732149">
-        <mark key="[" line="18" column="7060" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/NewsPojo.kt" timestamp="1505303564609">
         <mark key="[" line="10" column="48" />
@@ -387,10 +378,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hrbpId</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>hrbpId</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
