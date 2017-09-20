@@ -66,11 +66,11 @@
         <mark key="]" line="9" column="117" />
         <mark key="." line="9" column="117" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1505906449988">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1505910415560">
         <mark key="'" line="221" column="35" />
-        <mark key="[" line="189" column="371" />
-        <mark key="]" line="139" column="1013" />
-        <mark key="." line="139" column="1013" />
+        <mark key="[" line="189" column="694" />
+        <mark key="]" line="189" column="694" />
+        <mark key="." line="189" column="694" />
         <mark key="^" line="139" column="1013" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/HrsRepository.kt" timestamp="1504768655394">
@@ -138,7 +138,7 @@
         <mark key="." line="98" column="33" />
         <mark key="^" line="98" column="33" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505900398642">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505911149073">
         <mark key="[" line="229" column="27" />
         <mark key="]" line="229" column="27" />
         <mark key="." line="229" column="27" />
@@ -194,7 +194,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1505906588900">
+      <file name="/dummy.sql" timestamp="1505911245028">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -387,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>read_ws_name</text>
+        <text>hrbpId</text>
       </register>
       <register name="-" type="4">
-        <text>read_ws_name</text>
+        <text>hrbpId</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
