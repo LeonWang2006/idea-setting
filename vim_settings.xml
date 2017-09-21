@@ -51,13 +51,6 @@
         <mark key="]" line="9" column="117" />
         <mark key="." line="9" column="117" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1505914229908">
-        <mark key="'" line="221" column="35" />
-        <mark key="[" line="189" column="694" />
-        <mark key="]" line="189" column="694" />
-        <mark key="." line="189" column="694" />
-        <mark key="^" line="139" column="1013" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/HrsRepository.kt" timestamp="1504768655394">
         <mark key="[" line="13" column="55" />
         <mark key="]" line="13" column="55" />
@@ -145,6 +138,11 @@
         <mark key="]" line="65" column="42" />
         <mark key="." line="65" column="42" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveList.kt" timestamp="1505991782591">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="/a.sql" timestamp="1505917598903">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,7 +166,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1505969301315">
+      <file name="/dummy.sql" timestamp="1505991473248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -225,9 +223,9 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1505969462484">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1505991916303">
         <mark key="'" line="144" column="37" />
-        <mark key="[" line="380" column="42" />
+        <mark key="[" line="512" column="5" />
         <mark key="]" line="380" column="42" />
         <mark key="." line="380" column="42" />
         <mark key="^" line="380" column="45" />
@@ -356,11 +354,11 @@
       <jump line="144" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{var wsId: String?, var name: String?,}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyByczogUmVzdWx0U2V0PywgXzogSW50IC0+IE5ld3NQb2pvKHJzPy5nZXRMb25nKCJpZCIpLCBycz8uZ2V0U3RyaW5nKCJ0aXRsZSIpLCBycz8uZ2V0U3RyaW5nKCJEZXBDTmFtZSIpLCBycz8uZ2V0U3RyaW5nKCJyZWRhdGUiKSwgcnM/LmdldFN0cmluZygiZGF0ZXRpbWUiKSwgcnM/LmdldEludCgiaXNfcmVhZCIpLCAwKSB9</text>
+        <text>{var wsId: String?, var name: String?,}</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
