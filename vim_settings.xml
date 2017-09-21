@@ -168,7 +168,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1505997628702">
+      <file name="/dummy.sql" timestamp="1506002218005">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -208,10 +208,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1506000548448">
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1506001951566">
+        <mark key="[" line="198" column="37" />
+        <mark key="]" line="198" column="37" />
+        <mark key="." line="198" column="37" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogList.kt" timestamp="1505964904958">
         <mark key="[" line="8" column="0" />
@@ -355,11 +355,11 @@
       <jump line="64" column="13" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>unReadResult</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>postFor</text>
@@ -368,34 +368,34 @@
         <text encoding="base64">CUBBdXRvd2lyZWQgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgcmVzdFRlbXBsYXRlQnVpbGRlcjogUmVzdFRlbXBsYXRlQnVpbGRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoLmV2YWx1YXRlX251bSArIDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBldmFsdWF0ZV9udW0sCiAgcC5yZWxhdGVfcmVzcF9jdXJfZGVzYyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgcmVsYXRlX3Jlc3BfY3VyX2Rlc2MsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLwkJdmFsIHVuUmVhZFJlc3VsdDogSW50ID0gd3BzamRiY1RlbXBsYXRlLnVwZGF0ZSh1blJlYWRTcWwpCg==</text>
+        <text encoding="base64">ICBwLnJlbGF0ZV9yZXNwX2lkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyByZWxhdGVfcmVzcF9pZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLwkJdmFsIHVuUmVhZFNxbCA9ICJVUERBVEUgbmV3c19mb3JjZXJlYWRfbG9nIFNFVCBpc19yZWFkID0gMSBXSEVSRSB3c19pZCA9ICckd3NJZCcgQU5EIG5ld3NfaWQgPSAkbmV3SWQiCg==</text>
+        <text encoding="base64">ICBoLmNyZWF0ZV90aW1lICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBldmFsdWF0ZV90aW0sCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CWZ1biBnZXRDb25kaXRpb24oZGF0ZTogU3RyaW5nKTogU3RyaW5nIHsKCQl2YWwgY29uZGl0aW9uID0gIm4ucmVkYXRlID49ICckZGF0ZScgQU5EIG4ucmVkYXRlICE9IFwiMDAwMC0wMC0wMFwiIgoJCXJldHVybiBjb25kaXRpb24KCX0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvLwkJdmFsIHVuUmVhZFJlc3VsdDogSW50ID0gd3BzamRiY1RlbXBsYXRlLnVwZGF0ZSh1blJlYWRTcWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmFsIHJlc3BvbnNlID0gcmVzdFRlbXBsYXRlLnBvc3RGb3JFbnRpdHkodXJsLCByZXN0UmVxdWVzdCwgU3RyaW5nOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">CQkvLwkJdmFsIHVuUmVhZFNxbCA9ICJVUERBVEUgbmV3c19mb3JjZXJlYWRfbG9nIFNFVCBpc19yZWFkID0gMSBXSEVSRSB3c19pZCA9ICckd3NJZCcgQU5EIG5ld3NfaWQgPSAkbmV3SWQiCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJLy8naHR0cDovL3dvc2FwcC53b25kZXJzaGFyZS5jbi9yZXN0L3YxL21lc3NhZ2Uvc2V0LXN0YXR1cz9ub3RpZnlJZD0yMTIyJwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CWZ1biBnZXRDb25kaXRpb24oZGF0ZTogU3RyaW5nKTogU3RyaW5nIHsKCQl2YWwgY29uZGl0aW9uID0gIm4ucmVkYXRlID49ICckZGF0ZScgQU5EIG4ucmVkYXRlICE9IFwiMDAwMC0wMC0wMFwiIgoJCXJldHVybiBjb25kaXRpb24KCX0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdmFsIHJlc3BvbnNlID0gcmVzdFRlbXBsYXRlLnBvc3RGb3JFbnRpdHkodXJsLCByZXN0UmVxdWVzdCwgU3RyaW5nOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
