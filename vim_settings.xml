@@ -251,11 +251,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1506003014832">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console.sql" timestamp="1506005467400">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="15" />
         <mark key="^" line="0" column="107" />
-        <mark key="." line="7" column="4" />
+        <mark key="." line="28" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -362,10 +362,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>birthday</text>
+        <text>toDate</text>
       </register>
       <register name="-" type="4">
-        <text>birthday</text>
+        <text>toDate</text>
       </register>
       <register name="/" type="4">
         <text>postFor</text>
