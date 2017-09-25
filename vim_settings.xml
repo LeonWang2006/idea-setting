@@ -149,10 +149,10 @@
         <mark key="^" line="284" column="85" />
         <mark key="." line="498" column="85" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506104570895">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506342923195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1504695241505">
         <mark key="[" line="65" column="42" />
@@ -184,7 +184,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1506325429808">
+      <file name="/dummy.sql" timestamp="1506342895312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -387,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n.user = '03100003' AND u.action IN (6,12,13,18,19,20,22,23,25) ORDER BY u.create_at</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>n.user = '03100003' AND u.action IN (6,12,13,18,19,20,22,23,25) ORDER BY u.create_at</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>gson</text>
