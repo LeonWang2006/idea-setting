@@ -51,6 +51,12 @@
         <mark key="]" line="0" column="95" />
         <mark key="." line="0" column="95" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1506326254897">
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="18" column="70" />
+        <mark key="." line="18" column="70" />
+        <mark key="^" line="18" column="70" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveWork.kt" timestamp="1506008959404">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -128,6 +134,7 @@
         <mark key="]" line="229" column="27" />
         <mark key="." line="229" column="27" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1506325346885" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -174,7 +181,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1506301076494">
+      <file name="/dummy.sql" timestamp="1506325429808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -376,11 +383,11 @@
       <jump line="65" column="73" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n.user = '03100003' AND u.action IN (6,12,13,18,19,20,22,23,25) ORDER BY u.create_at</text>
       </register>
       <register name="-" type="4">
-        <text>(log.indirect LIKE '%${paramLog.wsId}%' OR log.report_to = '${paramLog.wsId}')</text>
+        <text>n.user = '03100003' AND u.action IN (6,12,13,18,19,20,22,23,25) ORDER BY u.create_at</text>
       </register>
       <register name="/" type="4">
         <text>gson</text>
