@@ -149,11 +149,11 @@
         <mark key="^" line="284" column="85" />
         <mark key="." line="498" column="85" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1506398487386">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1506399864738">
+        <mark key="[" line="42" column="301" />
+        <mark key="]" line="46" column="0" />
         <mark key="^" line="42" column="67" />
-        <mark key="." line="43" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506342923195">
         <mark key="[" line="0" column="0" />
@@ -257,11 +257,11 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506398452657">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506399776690">
         <mark key="'" line="361" column="28" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
+        <mark key="[" line="455" column="32" />
+        <mark key="]" line="455" column="32" />
+        <mark key="." line="455" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1506300525590">
         <mark key="[" line="0" column="563" />
@@ -392,11 +392,11 @@
       <jump line="360" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>wsId = wsId</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>wsId = wsId</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
