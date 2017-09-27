@@ -91,7 +91,7 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppRepository.kt" timestamp="1506514755943" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppRepository.kt" timestamp="1506517565391" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Message.kt" timestamp="1505489131043">
         <mark key="[" line="4" column="243" />
         <mark key="]" line="4" column="244" />
@@ -184,7 +184,7 @@
         <mark key="^" line="42" column="67" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506473662421">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506517640654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -219,12 +219,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1506499507644">
+      <file name="/dummy.sql" timestamp="1506517636652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppContacts.java" timestamp="1505480819961">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppContacts.java" timestamp="1506517577969">
         <mark key="[" line="24" column="65" />
         <mark key="]" line="24" column="34" />
         <mark key="." line="24" column="34" />
@@ -265,6 +265,9 @@
         <mark key="]" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10f1622e-1b0e-46b6-9c7e-6a06c6f39cee/console.sql" timestamp="1506517594417">
+        <mark key="[" line="0" column="303" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1506080838411">
         <mark key="[" line="217" column="35" />
         <mark key="]" line="217" column="33" />
@@ -282,8 +285,8 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506502793664">
-        <mark key="'" line="283" column="31" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506518259537">
+        <mark key="'" line="723" column="19" />
         <mark key="[" line="941" column="0" />
         <mark key="]" line="941" column="0" />
         <mark key="." line="941" column="0" />
@@ -317,12 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="435" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="807" column="104" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="173" column="167" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="82" column="164" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="562" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="118" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="122" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="139" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="728" column="83" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -417,6 +414,12 @@
       <jump line="761" column="49" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="236" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="241" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="82" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="84" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="90" column="253" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="278" column="91" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="316" column="253" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="723" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -426,7 +429,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>\/contact</text>
+        <text>auto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJYXBwVXBkYXRlUGFja2FnZS52ZXJzaW9uT2xkID0gdmVyc2lvbiAK</text>
@@ -466,9 +469,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\/contact</last-search>
+      <last-search>auto</last-search>
       <last-offset />
-      <last-pattern>\/contact</last-pattern>
+      <last-pattern>auto</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -476,15 +479,10 @@
     </search>
     <history>
       <history-search>
-        <entry>Concat</entry>
-        <entry>fix</entry>
-        <entry>comment</entry>
-        <entry>mood</entry>
         <entry>form</entry>
         <entry>from</entry>
         <entry>postFor</entry>
         <entry>gson</entry>
-        <entry>build</entry>
         <entry>save</entry>
         <entry>log</entry>
         <entry>detail</entry>
@@ -496,6 +494,11 @@
         <entry>select</entry>
         <entry>contact</entry>
         <entry>\/contact</entry>
+        <entry>buildsql</entry>
+        <entry>buildSql</entry>
+        <entry>bild</entry>
+        <entry>build</entry>
+        <entry>auto</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
