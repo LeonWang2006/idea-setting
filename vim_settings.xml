@@ -143,7 +143,7 @@
         <mark key="." line="98" column="33" />
         <mark key="^" line="98" column="33" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppUpdatePackage.kt" timestamp="1506502035381">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppUpdatePackage.kt" timestamp="1506502824006">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505958596549">
@@ -168,11 +168,11 @@
         <mark key="^" line="284" column="85" />
         <mark key="." line="498" column="85" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1506500754240">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="24" column="17" />
-        <mark key="." line="23" column="18" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1506502881146">
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="50" />
+        <mark key="^" line="33" column="50" />
+        <mark key="." line="33" column="50" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1506414031226">
         <mark key="[" line="42" column="301" />
@@ -278,7 +278,7 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506500702720">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506502793664">
         <mark key="'" line="283" column="31" />
         <mark key="[" line="941" column="0" />
         <mark key="]" line="941" column="0" />
@@ -416,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logs</text>
+        <text>Env.appUpdatePackage</text>
       </register>
       <register name="-" type="4">
-        <text>logs</text>
+        <text>Env.appUpdatePackage</text>
       </register>
       <register name="/" type="4">
         <text>filte</text>
