@@ -264,9 +264,9 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506481011348">
-        <mark key="'" line="945" column="19" />
-        <mark key="[" line="252" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506492691363">
+        <mark key="'" line="283" column="31" />
+        <mark key="[" line="943" column="12" />
         <mark key="]" line="252" column="0" />
         <mark key="." line="252" column="0" />
       </file>
@@ -298,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="790" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="801" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="824" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="528" column="47" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -398,6 +397,7 @@
       <jump line="925" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="937" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="939" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="283" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -407,7 +407,7 @@
         <text>操作记录数</text>
       </register>
       <register name="/" type="4">
-        <text>details</text>
+        <text>filte</text>
       </register>
       <register name="0" type="4">
         <text>是否收藏</text>
@@ -447,9 +447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>details</last-search>
+      <last-search>filte</last-search>
       <last-offset />
-      <last-pattern>details</last-pattern>
+      <last-pattern>filte</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -457,7 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>my</entry>
         <entry>unread</entry>
         <entry>\/list</entry>
         <entry>\/mood</entry>
@@ -477,6 +476,7 @@
         <entry>detail</entry>
         <entry>list</entry>
         <entry>details</entry>
+        <entry>filte</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
