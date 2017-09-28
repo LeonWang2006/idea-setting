@@ -287,11 +287,11 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506581103793">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506582900576">
         <mark key="'" line="820" column="8" />
-        <mark key="[" line="941" column="0" />
-        <mark key="]" line="941" column="0" />
-        <mark key="." line="941" column="0" />
+        <mark key="[" line="934" column="23" />
+        <mark key="]" line="934" column="23" />
+        <mark key="." line="934" column="23" />
         <mark key="^" line="942" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1506300525590">
@@ -424,11 +424,11 @@
       <jump line="820" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>get(0)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>get(0)</text>
       </register>
       <register name="/" type="4">
         <text>auto</text>
