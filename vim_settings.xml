@@ -145,11 +145,12 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppUpdatePackage.kt" timestamp="1506502824006">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1506579414175">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1506592587234">
         <mark key="'" line="241" column="37" />
-        <mark key="[" line="354" column="52" />
-        <mark key="]" line="347" column="0" />
-        <mark key="." line="347" column="0" />
+        <mark key="[" line="454" column="54" />
+        <mark key="]" line="454" column="61" />
+        <mark key="." line="454" column="61" />
+        <mark key="^" line="454" column="61" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505958596549">
         <mark key="[" line="229" column="27" />
@@ -425,10 +426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8080</text>
+        <text>wsId</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>wsId</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
@@ -437,7 +438,7 @@
         <text encoding="base64">CQkJCQkJCXZhbCBjdXI6IEludCA9ICBpZiAobzEuZW1wbG95ZWVJZCAhPSBudWxsKSBvMS5lbXBsb3llZUlkLnRvU3RyaW5nKCkudG9JbnQoKSBlbHNlIDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJjb2xsZWN0aW9uIiwgdmFsdWUgPSAi6KKr5pS26JeP55So5oi35bel5Y+3IiwgcGFyYW1UeXBlID0gInF1ZXJ5IikK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -445,28 +446,28 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CQkJLy/ojrflj5ZMSVNU5YaF6YOobG9nSWTpm4blkIgKCQkJLy8JCQl2YWwgaWRzID0gbGlzdC5tYXAgeyBpdC5sb2dJZCB9LnRvU2V0KCkKCQkJLy8JCQl2YWwgaWRzID0gbGlzdC5zdHJlYW0oKS5tYXA8SW50PihGdW5jdGlvbjxMb2dMaXN0LCBJbnQ+IHsgaXQuZ2V0TG9nSWQoKSB9KS5jb2xsZWN0PFNldDxJbnQ+LCBBbnk+KENvbGxlY3RvcnMudG9TZXQoKSkKCgkJCS8vdG9kbyDojrflj5bmnIDmlrDmk43kvZzorrDlvZUKCQkJLy8JCQl2YWwgaWRzU3RyID0gaWRzLmpvaW5Ub1N0cmluZygiJywnIikKCQkJLy8JCQl2YWwgY291bnRTcWwgPSAiU0VMRUNUIGxvZ19pZCwgQ09VTlQobG9nX2lkKSBBUyBvcGVyYXRlX3RpbWUsc3VtKGlmKHR5cGUgPTEsMSwwKSkgQVMgdmlld190aW1lIEZST00gYGhyc19sb2dfb3BlcmF0ZWAgV0hFUkUgbG9nX2lkIElOICgnJGlkc1N0cicpIEdST1VQIEJZIGxvZ19pZCIKCgkJCS8vCQkJdmFsIGNvdW50TGlzdDogTGlzdDxMb2dDb3VudD4/ID0gaHJzSmRiY1RlbXBsYXRlLnF1ZXJ5KGNvdW50U3FsKSB7IHJzOiBSZXN1bHRTZXQ/LCBfOiBJbnQgLT4gTG9nQ291bnQocnM/LmdldExvbmcoImxvZ19pZCIpLCBycz8uZ2V0TG9uZygib3BlcmF0ZV90aW1lIiksIHJzPy5nZXRMb25nKCJ2aWV3X3RpbWUiKSkgfQoJCQkvLwkJCXZhbCBjb3VudExpc3Q6IExpc3Q8TG9nQ291bnQ+PyA9IG9wZXJhdGVSZXBvc2l0b3J5LmdldENvdW50KGlkcyk=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
+        <text encoding="base64">CQkJLy/ojrflj5ZMSVNU5YaF6YOobG9nSWTpm4blkIgKCQkJLy8JCQl2YWwgaWRzID0gbGlzdC5tYXAgeyBpdC5sb2dJZCB9LnRvU2V0KCkKCQkJLy8JCQl2YWwgaWRzID0gbGlzdC5zdHJlYW0oKS5tYXA8SW50PihGdW5jdGlvbjxMb2dMaXN0LCBJbnQ+IHsgaXQuZ2V0TG9nSWQoKSB9KS5jb2xsZWN0PFNldDxJbnQ+LCBBbnk+KENvbGxlY3RvcnMudG9TZXQoKSkKCgkJCS8vdG9kbyDojrflj5bmnIDmlrDmk43kvZzorrDlvZUKCQkJLy8JCQl2YWwgaWRzU3RyID0gaWRzLmpvaW5Ub1N0cmluZygiJywnIikKCQkJLy8JCQl2YWwgY291bnRTcWwgPSAiU0VMRUNUIGxvZ19pZCwgQ09VTlQobG9nX2lkKSBBUyBvcGVyYXRlX3RpbWUsc3VtKGlmKHR5cGUgPTEsMSwwKSkgQVMgdmlld190aW1lIEZST00gYGhyc19sb2dfb3BlcmF0ZWAgV0hFUkUgbG9nX2lkIElOICgnJGlkc1N0cicpIEdST1VQIEJZIGxvZ19pZCIKCgkJCS8vCQkJdmFsIGNvdW50TGlzdDogTGlzdDxMb2dDb3VudD4/ID0gaHJzSmRiY1RlbXBsYXRlLnF1ZXJ5KGNvdW50U3FsKSB7IHJzOiBSZXN1bHRTZXQ/LCBfOiBJbnQgLT4gTG9nQ291bnQocnM/LmdldExvbmcoImxvZ19pZCIpLCBycz8uZ2V0TG9uZygib3BlcmF0ZV90aW1lIiksIHJzPy5nZXRMb25nKCJ2aWV3X3RpbWUiKSkgfQoJCQkvLwkJCXZhbCBjb3VudExpc3Q6IExpc3Q8TG9nQ291bnQ+PyA9IG9wZXJhdGVSZXBvc2l0b3J5LmdldENvdW50KGlkcyk=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>/*							val cur: Int = if (o1.employeeId != null) o1.employeeId.toString().toInt() else 0
 							val next: Int = if (o2.employeeId != null) o2.employeeId.toString().toInt() else 0
 							next -cur*/</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJCWN1ciAtIG5leHQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkJCW5leHQgLSBjdXIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCW8xLmVtcGxveWVlSWQ/LnRvSW50KCk/Lm9yKDApLmNvbXBhcmVUbyhvMi5lbXBsb3llZUlkPy50b0ludCgpPy5vcigwKSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJd3NJZHMuaW5kZXhPZihvMi5lbXBsb3llZUlkKS5jb21wYXJlVG8od3NJZHMuaW5kZXhPZihvMS5lbXBsb3llZUlkKSkK</text>
+        <text encoding="base64">CQkJCQkJCW8xLmVtcGxveWVlSWQ/LnRvSW50KCk/Lm9yKDApLmNvbXBhcmVUbyhvMi5lbXBsb3llZUlkPy50b0ludCgpPy5vcigwKSkK</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
