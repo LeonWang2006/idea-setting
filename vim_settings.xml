@@ -146,11 +146,12 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppUpdatePackage.kt" timestamp="1506502824006">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1506565378329">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1506567379262">
         <mark key="'" line="241" column="37" />
-        <mark key="[" line="338" column="0" />
-        <mark key="]" line="338" column="0" />
-        <mark key="." line="338" column="0" />
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="344" column="0" />
+        <mark key="^" line="330" column="50" />
+        <mark key="." line="344" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505958596549">
         <mark key="[" line="229" column="27" />
@@ -422,11 +423,11 @@
       <jump line="820" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQkJCQkJCWlmIChvMi5hZ2UgPT0gbzEuYWdlKSB7CgkJCQkJCQkJbzEubmFtZS5jb21wYXJlVG8obzIubmFtZSkKCQkJCQkJCX0gZWxzZSB7CgkJCQkJCQkJbzIuYWdlIC0gbzEuYWdlCgkJCQkJCQl9</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">b3JkZXJzICA=</text>
       </register>
       <register name="/" type="4">
         <text>auto</text>
@@ -434,8 +435,8 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJdmFsIHJlZ2V4MjAgPSAiIiLor4Tku7fkuoYoLis/KeeahCIiIi50b1JlZ2V4KCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQkJCQkJCWlmIChvMi5hZ2UgPT0gbzEuYWdlKSB7CgkJCQkJCQkJbzEubmFtZS5jb21wYXJlVG8obzIubmFtZSkKCQkJCQkJCX0gZWxzZSB7CgkJCQkJCQkJbzIuYWdlIC0gbzEuYWdlCgkJCQkJCQl9</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -443,40 +444,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQkJCXZhbCBjMTogQ29tcGFyYXRvcjxDb250YWN0PiA9IENvbXBhcmF0b3IgeyBvMSwgbzIgLT4KCgkJCQkJaWYgKG8yLmFnZSA9PSBvMS5hZ2UpIHsKCQkJCQkJbzEubmFtZS5jb21wYXJlVG8obzIubmFtZSkKCQkJCQl9IGVsc2UgewoJCQkJCQlvMi5hZ2UgLSBvMS5hZ2UKCQkJCQl9CgkJCQl9CgoJCQkJcmVzdWx0LnNvcnRlZFdpdGgoYzEp</text>
       </register>
-      <register name="4" type="4">
-        <text>/*				if (msg.action in arrayOf(6, 22)) {
-
-					val matchResult = REGEX6.find(msg.content)
-					if (matchResult != null) {
-						msg.name = matchResult.groupValues[1]
-					}
-				}
-
-				if (msg.action in arrayOf(25)) {
-
-					val matchResult = REGEX25.find(msg.content)
-					if (matchResult != null) {
-						msg.name = matchResult.groupValues[1]
-					}
-				}*/</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJdmFsIHJlZ2V4MjAgPSAiIiLor4Tku7fkuoYoLis/KeeahCIiIi50b1JlZ2V4KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXZhbCBvcmRlcnM6IExpc3Q8U3RyaW5nPiA9IAo=</text>
+        <text encoding="base64">CQkJCXZhbCBvcmRlcnMgID0gYXBwSmRiY1RlbXBsYXRlLnF1ZXJ5Rm9yTWFwKHVzZXJTcWwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIEFQUOaVsOaNruacjeWKoQogKgogKiBAYXV0aG9yIFdhbmdmbAogKiBAdmVyc2lvbiAyMDE3LzkvMjcKICovCkBBcGkodmFsdWUgPSAiQVBQ5pWw5o2u5pyN5YqhIiwgZGVzY3JpcHRpb24gPSAiQVBQ5pWw5o2u5pyN5YqhIikKQEpzb25JbmNsdWRlKEpzb25JbmNsdWRlLkluY2x1ZGUuTk9OX05VTEwpCkBWYWxpZGF0ZWQKQFJlc3RDb250cm9sbGVyCkBSZXF1ZXN0TWFwcGluZygiLyIpCmNsYXNzIEFwcFNlcnZpY2UgewoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbWFwLmFkZCgibm90X2hhdmVfdG9kYXkiLCBub3RIYXZlVG9kYXkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbWFwLmFkZCgiY3VyX251bSIsIGRheXNTdHIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
