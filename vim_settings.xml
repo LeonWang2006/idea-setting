@@ -146,11 +146,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppUpdatePackage.kt" timestamp="1506502824006">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1506561542390">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1506565378329">
         <mark key="'" line="241" column="37" />
-        <mark key="[" line="321" column="39" />
-        <mark key="]" line="321" column="39" />
-        <mark key="." line="321" column="0" />
+        <mark key="[" line="338" column="0" />
+        <mark key="]" line="338" column="0" />
+        <mark key="." line="338" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505958596549">
         <mark key="[" line="229" column="27" />
@@ -186,11 +186,6 @@
         <mark key="^" line="42" column="67" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506561660787">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1504695241505">
         <mark key="[" line="65" column="42" />
         <mark key="]" line="65" column="42" />
@@ -224,7 +219,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1506563257455">
+      <file name="/dummy.sql" timestamp="1506565031443">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -270,8 +265,8 @@
         <mark key="]" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10f1622e-1b0e-46b6-9c7e-6a06c6f39cee/console.sql" timestamp="1506517594417">
-        <mark key="[" line="0" column="303" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/10f1622e-1b0e-46b6-9c7e-6a06c6f39cee/console.sql" timestamp="1506565045728">
+        <mark key="[" line="0" column="404" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1506080838411">
         <mark key="[" line="217" column="35" />
@@ -290,7 +285,7 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506561531793">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506565332168">
         <mark key="'" line="820" column="8" />
         <mark key="[" line="941" column="0" />
         <mark key="]" line="941" column="0" />
@@ -445,7 +440,13 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>/*				if (msg.action in arrayOf(6, 22)) {
 
 					val matchResult = REGEX6.find(msg.content)
@@ -462,26 +463,20 @@
 					}
 				}*/</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJdmFsIHJlZ2V4MjAgPSAiIiLor4Tku7fkuoYoLis/KeeahCIiIi50b1JlZ2V4KCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCXZhbCBvcmRlcnM6IExpc3Q8U3RyaW5nPiA9IAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LyoqCiAqIEFQUOaVsOaNruacjeWKoQogKgogKiBAYXV0aG9yIFdhbmdmbAogKiBAdmVyc2lvbiAyMDE3LzkvMjcKICovCkBBcGkodmFsdWUgPSAiQVBQ5pWw5o2u5pyN5YqhIiwgZGVzY3JpcHRpb24gPSAiQVBQ5pWw5o2u5pyN5YqhIikKQEpzb25JbmNsdWRlKEpzb25JbmNsdWRlLkluY2x1ZGUuTk9OX05VTEwpCkBWYWxpZGF0ZWQKQFJlc3RDb250cm9sbGVyCkBSZXF1ZXN0TWFwcGluZygiLyIpCmNsYXNzIEFwcFNlcnZpY2UgewoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJbWFwLmFkZCgibm90X2hhdmVfdG9kYXkiLCBub3RIYXZlVG9kYXkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJbWFwLmFkZCgiY3VyX251bSIsIGRheXNTdHIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJdmFsIGZpeFVybCA9IHRoaXMuaHJzSG9zdCArICJsb2cvaGFzLXdyaXRlLWxvZyIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YWwgdXJsID0gIiR7RW52Lndwc0hvc3R9aW5kZXgucGhwP21vZHVsZT1hamF4JmFjdGlvbj1jb21tb25TZW5kVG9XZWlib1xuIiArICJcbiIgKyAicG9zdFxuIiArICJiYWRnZT0xMzA0MTg5MSZtc2c95Ye55Ye4XG4iCg==</text>
+        <text encoding="base64">CQkJbWFwLmFkZCgiY3VyX251bSIsIGRheXNTdHIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
