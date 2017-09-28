@@ -287,12 +287,12 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506585171813">
-        <mark key="'" line="820" column="8" />
-        <mark key="[" line="934" column="23" />
-        <mark key="]" line="934" column="23" />
-        <mark key="." line="934" column="23" />
-        <mark key="^" line="942" column="23" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506586633308">
+        <mark key="'" line="353" column="12" />
+        <mark key="[" line="900" column="0" />
+        <mark key="]" line="900" column="0" />
+        <mark key="." line="900" column="0" />
+        <mark key="^" line="901" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1506300525590">
         <mark key="[" line="0" column="563" />
@@ -322,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="728" column="83" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="739" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="741" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -422,16 +421,17 @@
       <jump line="316" column="253" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="723" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="820" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="353" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>log_id = 43260</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>log_id = 43260</text>
       </register>
       <register name="/" type="4">
-        <text>auto</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCXZhbCBjdXI6IEludCA9ICBpZiAobzEuZW1wbG95ZWVJZCAhPSBudWxsKSBvMS5lbXBsb3llZUlkLnRvU3RyaW5nKCkudG9JbnQoKSBlbHNlIDAK</text>
@@ -442,40 +442,40 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CQkJLy/ojrflj5ZMSVNU5YaF6YOobG9nSWTpm4blkIgKCQkJLy8JCQl2YWwgaWRzID0gbGlzdC5tYXAgeyBpdC5sb2dJZCB9LnRvU2V0KCkKCQkJLy8JCQl2YWwgaWRzID0gbGlzdC5zdHJlYW0oKS5tYXA8SW50PihGdW5jdGlvbjxMb2dMaXN0LCBJbnQ+IHsgaXQuZ2V0TG9nSWQoKSB9KS5jb2xsZWN0PFNldDxJbnQ+LCBBbnk+KENvbGxlY3RvcnMudG9TZXQoKSkKCgkJCS8vdG9kbyDojrflj5bmnIDmlrDmk43kvZzorrDlvZUKCQkJLy8JCQl2YWwgaWRzU3RyID0gaWRzLmpvaW5Ub1N0cmluZygiJywnIikKCQkJLy8JCQl2YWwgY291bnRTcWwgPSAiU0VMRUNUIGxvZ19pZCwgQ09VTlQobG9nX2lkKSBBUyBvcGVyYXRlX3RpbWUsc3VtKGlmKHR5cGUgPTEsMSwwKSkgQVMgdmlld190aW1lIEZST00gYGhyc19sb2dfb3BlcmF0ZWAgV0hFUkUgbG9nX2lkIElOICgnJGlkc1N0cicpIEdST1VQIEJZIGxvZ19pZCIKCgkJCS8vCQkJdmFsIGNvdW50TGlzdDogTGlzdDxMb2dDb3VudD4/ID0gaHJzSmRiY1RlbXBsYXRlLnF1ZXJ5KGNvdW50U3FsKSB7IHJzOiBSZXN1bHRTZXQ/LCBfOiBJbnQgLT4gTG9nQ291bnQocnM/LmdldExvbmcoImxvZ19pZCIpLCBycz8uZ2V0TG9uZygib3BlcmF0ZV90aW1lIiksIHJzPy5nZXRMb25nKCJ2aWV3X3RpbWUiKSkgfQoJCQkvLwkJCXZhbCBjb3VudExpc3Q6IExpc3Q8TG9nQ291bnQ+PyA9IG9wZXJhdGVSZXBvc2l0b3J5LmdldENvdW50KGlkcyk=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>/*							val cur: Int = if (o1.employeeId != null) o1.employeeId.toString().toInt() else 0
 							val next: Int = if (o2.employeeId != null) o2.employeeId.toString().toInt() else 0
 							next -cur*/</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJCWN1ciAtIG5leHQK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJCW5leHQgLSBjdXIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkJCW8xLmVtcGxveWVlSWQ/LnRvSW50KCk/Lm9yKDApLmNvbXBhcmVUbyhvMi5lbXBsb3llZUlkPy50b0ludCgpPy5vcigwKSkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCQkJCQkJd3NJZHMuaW5kZXhPZihvMi5lbXBsb3llZUlkKS5jb21wYXJlVG8od3NJZHMuaW5kZXhPZihvMS5lbXBsb3llZUlkKSkK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQkJCQkJCWlmIChvMi5hZ2UgPT0gbzEuYWdlKSB7CgkJCQkJCQkJbzEubmFtZS5jb21wYXJlVG8obzIubmFtZSkKCQkJCQkJCX0gZWxzZSB7CgkJCQkJCQkJbzIuYWdlIC0gbzEuYWdlCgkJCQkJCQl9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQkJCXZhbCBjMTogQ29tcGFyYXRvcjxDb250YWN0PiA9IENvbXBhcmF0b3IgeyBvMSwgbzIgLT4KCgkJCQkJaWYgKG8yLmFnZSA9PSBvMS5hZ2UpIHsKCQkJCQkJbzEubmFtZS5jb21wYXJlVG8obzIubmFtZSkKCQkJCQl9IGVsc2UgewoJCQkJCQlvMi5hZ2UgLSBvMS5hZ2UKCQkJCQl9CgkJCQl9CgoJCQkJcmVzdWx0LnNvcnRlZFdpdGgoYzEp</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
       </register>
     </registers>
     <search>
-      <last-search>auto</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>auto</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -490,7 +490,6 @@
         <entry>save</entry>
         <entry>log</entry>
         <entry>detail</entry>
-        <entry>list</entry>
         <entry>details</entry>
         <entry>filte</entry>
         <entry>search</entry>
@@ -503,6 +502,7 @@
         <entry>bild</entry>
         <entry>build</entry>
         <entry>auto</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
