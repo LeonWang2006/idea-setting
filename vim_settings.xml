@@ -145,12 +145,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppUpdatePackage.kt" timestamp="1506502824006">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1506678386981">
-        <mark key="'" line="387" column="46" />
-        <mark key="[" line="476" column="0" />
-        <mark key="]" line="476" column="44" />
-        <mark key="." line="476" column="0" />
-        <mark key="^" line="474" column="99" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1506687605274">
+        <mark key="'" line="191" column="25" />
+        <mark key="[" line="858" column="455" />
+        <mark key="]" line="285" column="84" />
+        <mark key="." line="285" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1505958596549">
         <mark key="[" line="229" column="27" />
@@ -225,20 +224,20 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1506677913352">
+      <file name="/dummy.sql" timestamp="1506687587412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppContacts.java" timestamp="1506517577969">
-        <mark key="[" line="24" column="65" />
-        <mark key="]" line="24" column="34" />
-        <mark key="." line="24" column="34" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppContacts.java" timestamp="1506687403108">
+        <mark key="[" line="25" column="70" />
+        <mark key="]" line="27" column="70" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/Contact.kt" timestamp="1506645963517">
-        <mark key="[" line="6" column="342" />
-        <mark key="]" line="6" column="325" />
-        <mark key="." line="6" column="325" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/Contact.kt" timestamp="1506687275071">
+        <mark key="[" line="6" column="368" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveUser.kt" timestamp="1506083067978">
         <mark key="[" line="3" column="8" />
@@ -326,9 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="757" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="643" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="193" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="608" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="372" column="14" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="604" column="32" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -395,7 +391,6 @@
       <jump line="939" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="283" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="53" column="63" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="188" column="52" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="611" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="615" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="699" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -426,46 +421,50 @@
       <jump line="334" column="88" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="239" column="125" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="387" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="57" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="188" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="189" column="59" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="191" column="25" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcih0cnVlKQo=</text>
+        <text encoding="base64">CQkJCWNvbnRhY3QuY29udGFjdFJlbGF0aW9uID0gdXNlckNvbnRhY3RbMF1bInJlbGF0aW9uX3NlbGYiXSBhcyBTdHJpbmc/Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>03100001</text>
+        <text encoding="base64">UGhvbmUg</text>
       </register>
       <register name="/" type="4">
-        <text>favori</text>
+        <text>contact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcih0cnVlKQo=</text>
+        <text encoding="base64">CQkJCWNvbnRhY3QuY29udGFjdFBob25lID0gdXNlckNvbnRhY3RbMF1bInJlbGF0aW9uX3Bob25lIl0gYXMgU3RyaW5nPwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcih0cnVlKQo=</text>
+        <text encoding="base64">CQkJCWNvbnRhY3QuY29udGFjdFJlbGF0aW9uID0gdXNlckNvbnRhY3RbMF1bInJlbGF0aW9uX3NlbGYiXSBhcyBTdHJpbmc/Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQl2YWwgYmFkZ2VzID0gTGlua2VkSGFzaFNldDxTdHJpbmc+KCkKLy8JCWJhZGdlcy5hZGQoY29sbGVjdGlvbikKCQl2YWwgY29udGFjdHM6IEFwcENvbnRhY3RzCgkJY29udGFjdHMgPSB0aGlzLmFwcFJlcG9zaXRvcnkuZmluZEJ5QmFkZ2Uod3NJZCkKCQlpZiAobnVsbCAhPSBjb250YWN0cy5jb250YWN0cykgewoJCQl2YWwgcm93cyA9IEFycmF5cy5hc0xpc3QoKmNvbnRhY3RzLmNvbnRhY3RzLnNwbGl0KCIsIi50b1JlZ2V4KCkpLmRyb3BMYXN0V2hpbGUgeyBpdC5pc0VtcHR5KCkgfS50b1R5cGVkQXJyYXkoKSkKCQkJYmFkZ2VzLmFkZEFsbChyb3dzKQoJCQljb250YWN0cy5jb250YWN0cyA9IGJhZGdlcy5qb2luVG9TdHJpbmcoIiwiKQoJCQlhcHBSZXBvc2l0b3J5LnNhdmVBbmRGbHVzaChjb250YWN0cykKCQl9IGVsc2UgewoJCQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKGphdmEubGFuZy5Cb29sZWFuLkZBTFNFKQoJCX0KCgkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihqYXZhLmxhbmcuQm9vbGVhbi5UUlVFKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCWNvbnRhY3QuY29udGFjdE5hbWUgPSB1c2VyQ29udGFjdFswXVsicmVsYXRpb25fbmFtZSJdIGFzIFN0cmluZz8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJYXBwSmRiY1RlbXBsYXRlLnF1ZXJ5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdmFsIHJlc3RUZW1wbGF0ZSA9IHRoaXMucmVzdFRlbXBsYXRlQnVpbGRlci5iYXNpY0F1dGhvcml6YXRpb24oYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiLnRvUmVnZXgoKSkuZHJvcExhc3RXaGlsZSB7IGl0LmlzRW1wdHkoKSB9LnRvVHlwZWRBcnJheSgpWzBdLCBiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIudG9SZWdleCgpKS5kcm9wTGFzdFdoaWxlIHsgaXQuaXNFbXB0eSgpIH0udG9UeXBlZEFycmF5KClbMV0pLmJ1aWxkKCkK</text>
+        <text encoding="base64">CQkJCQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcih0cnVlKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJjb2xsZWN0aW9uIiwgdmFsdWUgPSAi6KKr5pS26JeP55So5oi35bel5Y+3IiwgcGFyYW1UeXBlID0gInF1ZXJ5IikK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CQl2YWwgYmFkZ2VzID0gTGlua2VkSGFzaFNldDxTdHJpbmc+KCkKLy8JCWJhZGdlcy5hZGQoY29sbGVjdGlvbikKCQl2YWwgY29udGFjdHM6IEFwcENvbnRhY3RzCgkJY29udGFjdHMgPSB0aGlzLmFwcFJlcG9zaXRvcnkuZmluZEJ5QmFkZ2Uod3NJZCkKCQlpZiAobnVsbCAhPSBjb250YWN0cy5jb250YWN0cykgewoJCQl2YWwgcm93cyA9IEFycmF5cy5hc0xpc3QoKmNvbnRhY3RzLmNvbnRhY3RzLnNwbGl0KCIsIi50b1JlZ2V4KCkpLmRyb3BMYXN0V2hpbGUgeyBpdC5pc0VtcHR5KCkgfS50b1R5cGVkQXJyYXkoKSkKCQkJYmFkZ2VzLmFkZEFsbChyb3dzKQoJCQljb250YWN0cy5jb250YWN0cyA9IGJhZGdlcy5qb2luVG9TdHJpbmcoIiwiKQoJCQlhcHBSZXBvc2l0b3J5LnNhdmVBbmRGbHVzaChjb250YWN0cykKCQl9IGVsc2UgewoJCQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKGphdmEubGFuZy5Cb29sZWFuLkZBTFNFKQoJCX0KCgkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihqYXZhLmxhbmcuQm9vbGVhbi5UUlVFKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYXBwSmRiY1RlbXBsYXRlLnF1ZXJ5KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdmFsIHJlc3RUZW1wbGF0ZSA9IHRoaXMucmVzdFRlbXBsYXRlQnVpbGRlci5iYXNpY0F1dGhvcml6YXRpb24oYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiLnRvUmVnZXgoKSkuZHJvcExhc3RXaGlsZSB7IGl0LmlzRW1wdHkoKSB9LnRvVHlwZWRBcnJheSgpWzBdLCBiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIudG9SZWdleCgpKS5kcm9wTGFzdFdoaWxlIHsgaXQuaXNFbXB0eSgpIH0udG9UeXBlZEFycmF5KClbMV0pLmJ1aWxkKCkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQkJLy/ojrflj5ZMSVNU5YaF6YOobG9nSWTpm4blkIgKCQkJLy8JCQl2YWwgaWRzID0gbGlzdC5tYXAgeyBpdC5sb2dJZCB9LnRvU2V0KCkKCQkJLy8JCQl2YWwgaWRzID0gbGlzdC5zdHJlYW0oKS5tYXA8SW50PihGdW5jdGlvbjxMb2dMaXN0LCBJbnQ+IHsgaXQuZ2V0TG9nSWQoKSB9KS5jb2xsZWN0PFNldDxJbnQ+LCBBbnk+KENvbGxlY3RvcnMudG9TZXQoKSkKCgkJCS8vdG9kbyDojrflj5bmnIDmlrDmk43kvZzorrDlvZUKCQkJLy8JCQl2YWwgaWRzU3RyID0gaWRzLmpvaW5Ub1N0cmluZygiJywnIikKCQkJLy8JCQl2YWwgY291bnRTcWwgPSAiU0VMRUNUIGxvZ19pZCwgQ09VTlQobG9nX2lkKSBBUyBvcGVyYXRlX3RpbWUsc3VtKGlmKHR5cGUgPTEsMSwwKSkgQVMgdmlld190aW1lIEZST00gYGhyc19sb2dfb3BlcmF0ZWAgV0hFUkUgbG9nX2lkIElOICgnJGlkc1N0cicpIEdST1VQIEJZIGxvZ19pZCIKCgkJCS8vCQkJdmFsIGNvdW50TGlzdDogTGlzdDxMb2dDb3VudD4/ID0gaHJzSmRiY1RlbXBsYXRlLnF1ZXJ5KGNvdW50U3FsKSB7IHJzOiBSZXN1bHRTZXQ/LCBfOiBJbnQgLT4gTG9nQ291bnQocnM/LmdldExvbmcoImxvZ19pZCIpLCBycz8uZ2V0TG9uZygib3BlcmF0ZV90aW1lIiksIHJzPy5nZXRMb25nKCJ2aWV3X3RpbWUiKSkgfQoJCQkvLwkJCXZhbCBjb3VudExpc3Q6IExpc3Q8TG9nQ291bnQ+PyA9IG9wZXJhdGVSZXBvc2l0b3J5LmdldENvdW50KGlkcyk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJjb2xsZWN0aW9uIiwgdmFsdWUgPSAi6KKr5pS26JeP55So5oi35bel5Y+3IiwgcGFyYW1UeXBlID0gInF1ZXJ5IikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -475,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search>favori</last-search>
+      <last-search>contact</last-search>
       <last-offset />
-      <last-pattern>favori</last-pattern>
+      <last-pattern>contact</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -502,9 +501,9 @@
         <entry>list</entry>
         <entry>fix-date</entry>
         <entry>details</entry>
-        <entry>contact</entry>
         <entry>contactPhone</entry>
         <entry>favori</entry>
+        <entry>contact</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
