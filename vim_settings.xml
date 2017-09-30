@@ -303,9 +303,9 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506691542186">
-        <mark key="'" line="77" column="4" />
-        <mark key="[" line="258" column="61" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506744040416">
+        <mark key="'" line="659" column="23" />
+        <mark key="[" line="793" column="53" />
         <mark key="]" line="258" column="61" />
         <mark key="." line="258" column="61" />
       </file>
@@ -332,9 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="772" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="776" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="780" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="363" column="893" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="366" column="493" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="401" column="592" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -432,6 +429,9 @@
       <jump line="330" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="331" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="332" column="44" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="301" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="322" column="253" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="659" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -441,7 +441,7 @@
         <text>RestServiceError</text>
       </register>
       <register name="/" type="4">
-        <text>recent</text>
+        <text>auto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWNvbnRhY3QuY29udGFjdFBob25lID0gdXNlckNvbnRhY3RbMF1bInJlbGF0aW9uX3Bob25lIl0gYXMgU3RyaW5nPwo=</text>
@@ -481,9 +481,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recent</last-search>
+      <last-search>auto</last-search>
       <last-offset />
-      <last-pattern>recent</last-pattern>
+      <last-pattern>auto</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -502,8 +502,6 @@
         <entry>buildsql</entry>
         <entry>buildSql</entry>
         <entry>bild</entry>
-        <entry>build</entry>
-        <entry>auto</entry>
         <entry>list</entry>
         <entry>fix-date</entry>
         <entry>details</entry>
@@ -511,6 +509,8 @@
         <entry>favori</entry>
         <entry>contact</entry>
         <entry>recent</entry>
+        <entry>build</entry>
+        <entry>auto</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
