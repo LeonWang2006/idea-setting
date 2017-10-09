@@ -14,7 +14,7 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="116" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1506731640681">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1507510794917">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="32" />
@@ -41,7 +41,7 @@
         <mark key="^" line="21" column="186" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1506761111601">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1507510774149">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
@@ -121,6 +121,9 @@
         <mark key="[" line="72" column="16" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/my/UserService.class" timestamp="1507510846198">
+        <mark key="'" line="608" column="23" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogListWrapper.java" timestamp="1504771899157">
         <mark key="[" line="6" column="20" />
@@ -233,7 +236,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1507510139956">
+      <file name="/dummy.sql" timestamp="1507510906354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -334,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="893" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="366" column="493" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="401" column="592" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="467" column="45" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -434,6 +436,7 @@
       <jump line="301" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="322" column="253" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="659" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="608" column="23" filename="$USER_HOME$/my/UserService.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -443,7 +446,7 @@
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>auto</text>
+        <text>avatar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWNvbnRhY3QuY29udGFjdFBob25lID0gdXNlckNvbnRhY3RbMF1bInJlbGF0aW9uX3Bob25lIl0gYXMgU3RyaW5nPwo=</text>
@@ -483,9 +486,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auto</last-search>
+      <last-search>avatar</last-search>
       <last-offset />
-      <last-pattern>auto</last-pattern>
+      <last-pattern>avatar</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -493,7 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
         <entry>log</entry>
         <entry>detail</entry>
         <entry>filte</entry>
@@ -513,6 +515,7 @@
         <entry>recent</entry>
         <entry>build</entry>
         <entry>auto</entry>
+        <entry>avatar</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bar/oa/g</entry>
