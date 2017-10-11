@@ -236,7 +236,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1507642807835">
+      <file name="/dummy.sql" timestamp="1507685535634">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -308,11 +308,11 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1506749853827">
-        <mark key="'" line="659" column="23" />
-        <mark key="[" line="793" column="53" />
-        <mark key="]" line="258" column="61" />
-        <mark key="." line="258" column="61" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1507685571089">
+        <mark key="'" line="663" column="23" />
+        <mark key="[" line="653" column="0" />
+        <mark key="]" line="651" column="0" />
+        <mark key="." line="651" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e03810c-b47c-4933-840f-4b4d4e6b06f2/console.sql" timestamp="1505296528850">
         <mark key="[" line="9" column="117" />
@@ -439,8 +439,8 @@
       <jump line="669" column="64" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -452,34 +452,34 @@
         <text>查询用户工号</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkJLy/lm7rlrprmjpLluo8KCQkJLyoqCgkJCSAqIAkJQ29tcGFyYXRvcjxDcmV3UmFuaz4gY29tcGFyYXRvciA9IG5ldyBDb21wYXJhdG9yPENyZXdSYW5rPigpIHsKCQkJTGlzdDxTdHJpbmc+IG9yZGVycyA9IEFycmF5cy5hc0xpc3QoIuWuouiIsee7j+eQhiIsICLkuZjliqHplb8iLCAi5aS0562J6Iix5LmY5Yqh5ZGYIiwi6KeB5Lmg5LmY5Yqh6ZW/IiwgIuS5mOWKoeWRmCIsIuS5mOWKoeWtpuWRmCIpOwoJCQlPcmRlcmluZzxTdHJpbmc+IGNhYmluT3JkZXIgPSBPcmRlcmluZy5leHBsaWNpdChvcmRlcnMpOwoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIGludCBjb21wYXJlKENyZXdSYW5rIG8xLCBDcmV3UmFuayBvMikgewoJCQlpZihvcmRlcnMuY29udGFpbnMobzEuZ2V0UmFua1NkKCkpICYmIG9yZGVycy5jb250YWlucyhvMi5nZXRSYW5rU2QoKSkgKXsKCQkJcmV0dXJuIGNhYmluT3JkZXIubnVsbHNGaXJzdCgpLmNvbXBhcmUobzEuZ2V0UmFua1NkKCksIG8yLmdldFJhbmtTZCgpKTsKCQkJfWVsc2UKCQkJcmV0dXJuIDE7CgkJCX0KCQkJfTsqLw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlpZiAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CQkJLy/lm7rlrprmjpLluo8KCQkJLyoqCgkJCSAqIAkJQ29tcGFyYXRvcjxDcmV3UmFuaz4gY29tcGFyYXRvciA9IG5ldyBDb21wYXJhdG9yPENyZXdSYW5rPigpIHsKCQkJTGlzdDxTdHJpbmc+IG9yZGVycyA9IEFycmF5cy5hc0xpc3QoIuWuouiIsee7j+eQhiIsICLkuZjliqHplb8iLCAi5aS0562J6Iix5LmY5Yqh5ZGYIiwi6KeB5Lmg5LmY5Yqh6ZW/IiwgIuS5mOWKoeWRmCIsIuS5mOWKoeWtpuWRmCIpOwoJCQlPcmRlcmluZzxTdHJpbmc+IGNhYmluT3JkZXIgPSBPcmRlcmluZy5leHBsaWNpdChvcmRlcnMpOwoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIGludCBjb21wYXJlKENyZXdSYW5rIG8xLCBDcmV3UmFuayBvMikgewoJCQlpZihvcmRlcnMuY29udGFpbnMobzEuZ2V0UmFua1NkKCkpICYmIG9yZGVycy5jb250YWlucyhvMi5nZXRSYW5rU2QoKSkgKXsKCQkJcmV0dXJuIGNhYmluT3JkZXIubnVsbHNGaXJzdCgpLmNvbXBhcmUobzEuZ2V0UmFua1NkKCksIG8yLmdldFJhbmtTZCgpKTsKCQkJfWVsc2UKCQkJcmV0dXJuIDE7CgkJCX0KCQkJfTsqLw==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CUBFeGNlcHRpb25IYW5kbGVyKEh0dHBNZWRpYVR5cGVOb3RBY2NlcHRhYmxlRXhjZXB0aW9uOjpjbGFzcykKCUBSZXNwb25zZUJvZHkKCWZ1biBoYW5kbGVFeGNlcHRpb24yKGV4OiBIdHRwTWVkaWFUeXBlTm90QWNjZXB0YWJsZUV4Y2VwdGlvbiwgcmVxdWVzdDogSHR0cFNlcnZsZXRSZXF1ZXN0KTogUmVzcG9uc2VXcmFwcGVyPFN0cmluZz8+IHsKCgkJTE9HR0VSLmVycm9yKCJFUlJPUiAtIOaNleiOtyBSZXN0RXhjZXB0aW9uIOW8guW4uO+8jOinpuWPkeeUqOaIt++8mnt977yMSVDvvJp7fe+8jCBTZXNzaW9uSWTvvJp7fe+8jOmUmeivr+S/oeaBr++8mnt9IiwgcmVxdWVzdC51c2VyUHJpbmNpcGFsLm5hbWUsIHJlcXVlc3QucmVtb3RlQWRkciwgcmVxdWVzdC5zZXNzaW9uLmlkLCBleC5tZXNzYWdlKQoJCXJldHVybiBSZXNwb25zZVdyYXBwZXIobnVsbCkKCX0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlmYXZvcml0ZVBlcnNvbnMuZmlsdGVyIHsgaXQgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQlpZiAoZmF2b3JpdGVQZXJzb25zKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CUBFeGNlcHRpb25IYW5kbGVyKEh0dHBNZWRpYVR5cGVOb3RBY2NlcHRhYmxlRXhjZXB0aW9uOjpjbGFzcykKCUBSZXNwb25zZUJvZHkKCWZ1biBoYW5kbGVFeGNlcHRpb24yKGV4OiBIdHRwTWVkaWFUeXBlTm90QWNjZXB0YWJsZUV4Y2VwdGlvbiwgcmVxdWVzdDogSHR0cFNlcnZsZXRSZXF1ZXN0KTogUmVzcG9uc2VXcmFwcGVyPFN0cmluZz8+IHsKCgkJTE9HR0VSLmVycm9yKCJFUlJPUiAtIOaNleiOtyBSZXN0RXhjZXB0aW9uIOW8guW4uO+8jOinpuWPkeeUqOaIt++8mnt977yMSVDvvJp7fe+8jCBTZXNzaW9uSWTvvJp7fe+8jOmUmeivr+S/oeaBr++8mnt9IiwgcmVxdWVzdC51c2VyUHJpbmNpcGFsLm5hbWUsIHJlcXVlc3QucmVtb3RlQWRkciwgcmVxdWVzdC5zZXNzaW9uLmlkLCBleC5tZXNzYWdlKQoJCXJldHVybiBSZXNwb25zZVdyYXBwZXIobnVsbCkKCX0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlmYXZvcml0ZVBlcnNvbnMuZmlsdGVyIHsgaXQgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlpZiAoZmF2b3JpdGVQZXJzb25zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>/\/list</text>
