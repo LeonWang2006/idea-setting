@@ -97,7 +97,7 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AttendanceWrapper.kt" timestamp="1507881460730">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AttendanceWrapper.kt" timestamp="1507883138712">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="40" />
@@ -163,10 +163,12 @@
         <mark key="^" line="275" column="51" />
         <mark key="." line="308" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1507879028718">
-        <mark key="[" line="277" column="32" />
-        <mark key="]" line="277" column="32" />
-        <mark key="." line="277" column="32" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1507883635590">
+        <mark key="'" line="272" column="72" />
+        <mark key="[" line="310" column="321" />
+        <mark key="]" line="310" column="321" />
+        <mark key="." line="310" column="321" />
+        <mark key="^" line="260" column="107" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_OGS/controllers/BaseDataController.php" timestamp="1506657368073">
         <mark key="[" line="24" column="24" />
@@ -354,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="907" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="910" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="911" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="922" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -454,13 +455,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Attendance.kt" />
       <jump line="16" column="56" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Attendance.kt" />
       <jump line="5" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Attendance.kt" />
+      <jump line="272" column="72" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LogList</text>
+        <text>${paramLogBuild.pageSize}</text>
       </register>
       <register name="-" type="4">
-        <text>LogList</text>
+        <text>${paramLogBuild.pageSize}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IFN0cmluZz8=</text>
