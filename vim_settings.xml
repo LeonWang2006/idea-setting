@@ -156,12 +156,12 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppUpdatePackage.kt" timestamp="1506502824006">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1507888964072">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1507900625756">
         <mark key="'" line="272" column="72" />
-        <mark key="[" line="310" column="321" />
-        <mark key="]" line="310" column="321" />
-        <mark key="." line="310" column="321" />
-        <mark key="^" line="260" column="107" />
+        <mark key="[" line="312" column="868" />
+        <mark key="]" line="312" column="868" />
+        <mark key="." line="312" column="868" />
+        <mark key="^" line="312" column="825" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_OGS/controllers/BaseDataController.php" timestamp="1506657368073">
         <mark key="[" line="24" column="24" />
@@ -239,7 +239,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1507879101599">
+      <file name="/dummy.sql" timestamp="1507900658283">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -321,7 +321,7 @@
         <mark key="." line="778" column="18" />
         <mark key="^" line="782" column="19" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Attendance.kt" timestamp="1507802919762">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Attendance.kt" timestamp="1507900644127">
         <mark key="'" line="5" column="4" />
         <mark key="[" line="4" column="119" />
         <mark key="]" line="4" column="119" />
@@ -453,11 +453,11 @@
       <jump line="17" column="744" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/oa/NotifyTodoRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>outside_times</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>outside_times</text>
       </register>
       <register name="/" type="4">
         <text>g</text>
