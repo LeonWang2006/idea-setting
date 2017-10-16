@@ -314,12 +314,11 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1508147040919">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1508160577248">
         <mark key="'" line="401" column="619" />
-        <mark key="[" line="717" column="39" />
-        <mark key="]" line="778" column="18" />
-        <mark key="." line="778" column="18" />
-        <mark key="^" line="782" column="19" />
+        <mark key="[" line="872" column="38" />
+        <mark key="]" line="872" column="38" />
+        <mark key="." line="872" column="38" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/Attendance.kt" timestamp="1507900644127">
         <mark key="'" line="5" column="4" />
@@ -454,10 +453,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>date = '2017-10-15' or date = '2017-10-16'</text>
+        <text encoding="base64">IEFORCBsb2cuZW1wbG95ZWVfaWQgPSAnJHtwYXJhbUxvZy50YXJnZXRJZH0n</text>
       </register>
       <register name="-" type="4">
-        <text>date = '2017-10-15' or date = '2017-10-16'</text>
+        <text encoding="base64">IEFORCBsb2cuZW1wbG95ZWVfaWQgPSAnJHtwYXJhbUxvZy50YXJnZXRJZH0n</text>
       </register>
       <register name="/" type="4">
         <text>mood</text>
@@ -466,7 +465,7 @@
         <text encoding="base64">VVBEQVRFIGFwcF91c2VyX2xvZ3MgU0VUIGZlZWwgPSAn57Of57OVJyBXSEVSRSBkYXRlID0gJzIwMTctMTAtMTUnIG9yIGRhdGUgPSAnMjAxNy0xMC0xNic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5tb29kID0gIiIK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -475,25 +474,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5pbmRpcmVjdCBMSUtFICclJHtwYXJhbUxvZy53c0lkfSUnIE9SIGxvZy5yZXBvcnRfdG8gPSAnJHtwYXJhbUxvZy53c0lkfScpIikK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5pbmRpcmVjdCBMSUtFICclJHtwYXJhbUxvZy53c0lkfSUnIE9SIGxvZy5yZXBvcnRfdG8gPSAnJHtwYXJhbUxvZy53c0lkfScpIikK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHBhcmFtTG9nQnVpbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSIxIiAtPiAiIgo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIHBhcmFtTG9nQnVpbGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJIiBBTkQgSUYoZmluZF9pbl9zZXQoJyR7cGFyYW1Mb2dCdWlsZC53c0lkfScsR1JPVVBfQ09OQ0FUKGxvZy5ldmFsdWF0ZV93c19pZCkpID4gMCwxLDApID0gJHtwYXJhbUxvZ0J1aWxkLmV2YWx1YXRlfSIK</text>
+        <text encoding="base64">CQkJCSIxIiAtPiAiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQkJIiBBTkQgSUYoZmluZF9pbl9zZXQoJyR7cGFyYW1Mb2dCdWlsZC53c0lkfScsR1JPVVBfQ09OQ0FUKGxvZy5ldmFsdWF0ZV93c19pZCkpID4gMCwxLDApID0gJHtwYXJhbUxvZ0J1aWxkLmV2YWx1YXRlfSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5zdGFydERhdGUgPSAiIgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/ String?//g</text>
