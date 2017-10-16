@@ -184,7 +184,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/ArchivesService.kt" timestamp="1507887640547">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/ArchivesService.kt" timestamp="1508124397420">
         <mark key="[" line="369" column="0" />
         <mark key="]" line="369" column="0" />
         <mark key="." line="369" column="0" />
@@ -455,7 +455,7 @@
         <text>8080</text>
       </register>
       <register name="/" type="4">
-        <text>g</text>
+        <text>user-info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQloaWthcmlDb25maWcuY29ubmVjdGlvbkluaXRTcWwgPSAiU0VUIFNFU1NJT04gV0FJVF9USU1FT1VUPTI4ODAwIgo=</text>
@@ -495,9 +495,9 @@
       </register>
     </registers>
     <search>
-      <last-search>g</last-search>
+      <last-search>user-info</last-search>
       <last-offset />
-      <last-pattern>g</last-pattern>
+      <last-pattern>user-info</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IFN0cmluZz8=</last-substitute>
       <last-dir>1</last-dir>
@@ -505,8 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buildSql</entry>
-        <entry>bild</entry>
         <entry>list</entry>
         <entry>fix-date</entry>
         <entry>details</entry>
@@ -525,6 +523,8 @@
         <entry encoding="base64">IFN0cmluZz8=</entry>
         <entry>G</entry>
         <entry>g</entry>
+        <entry>names</entry>
+        <entry>user-info</entry>
       </history-search>
       <history-cmd>
         <entry>%s/date/fd_date/g</entry>
