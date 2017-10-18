@@ -125,6 +125,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/README.md" timestamp="1508289620267">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="24" column="1" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogListWrapper.java" timestamp="1504771899157">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="20" />
@@ -257,7 +263,7 @@
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508243839629">
+      <file name="/Dummy.txt" timestamp="1508289674961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -460,11 +466,11 @@
       <jump line="438" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mood</text>
@@ -473,35 +479,34 @@
         <text encoding="base64">VVBEQVRFIGFwcF91c2VyX2xvZ3MgU0VUIGZlZWwgPSAn57Of57OVJyBXSEVSRSBkYXRlID0gJzIwMTctMTAtMTUnIG9yIGRhdGUgPSAnMjAxNy0xMC0xNic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>1. Basic 身份认证 用户名：工号 密码：员工之家密码md5
-1. 在线文档，仅测试环境开放 https://rest.wondershare.cn:8080/swagger-ui.html</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PiogMTkyLjE2OC4xMC43MyBjb2RlcHVzaC53b25kZXJzaGFyZS5jbiDlhoXnvZHlkozlhaznvZHorr/pl64K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyDkuIflhbTnp5HmioAgUkVTVCBTRVJWRVIK</text>
+        <text encoding="base64">ICAgICAgIHNoOiBjZCAvZGF0YS93d3cvdmhvc3RzL3Jlcy53b25kZXJzaGFyZS5jbi9odHRwZG9jcy9jb2RlLXB1c2gtc2VydmVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBrb3RsaW4K</text>
+        <text encoding="base64">ICAgICAgIHNoOiBub2h1cCAuL2Jpbi93d3cgPiBjb2RlcHVzaC5sb2cgJgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PiogMTAuMTAuMTguMTM2IGFwaS53b25kZXJzaGFlci5jbiDlhoXnvZHorr/pl64K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcml2YXRlIGNvbnN0IHZhbCBzZXJpYWxWZXJzaW9uVUlEID0gMUwK</text>
+        <text encoding="base64">ICAgICAgIHNoOiBjZCAvZGF0YS93d3cvdmhvc3RzL3Jlcy53b25kZXJzaGFyZS5jbi9odHRwZG9jcy9hcHBTZXJ2ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>s/ String?//g</text>
