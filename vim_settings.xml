@@ -30,6 +30,7 @@
         <mark key="]" line="143" column="10" />
         <mark key="." line="143" column="10" />
       </file>
+      <file name="$USER_HOME$/res/Hrs_stat_job_evaluate.java" timestamp="1508391717393" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/ldap/LdRepository.kt" timestamp="1503407717250">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -90,6 +91,11 @@
         <mark key="]" line="48" column="70" />
         <mark key="." line="48" column="70" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/logEvaluate.kt" timestamp="1508391811276">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MapService.kt" timestamp="1504854724437">
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
@@ -136,6 +142,13 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/LogEvaluate.kt" timestamp="1508392499899">
+        <mark key="'" line="12" column="16" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="19" column="17" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1504751758287">
         <mark key="[" line="0" column="697" />
         <mark key="]" line="0" column="697" />
@@ -167,7 +180,7 @@
         <mark key="^" line="275" column="51" />
         <mark key="." line="308" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1508382830090">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1508391582020">
         <mark key="'" line="272" column="72" />
         <mark key="[" line="288" column="27" />
         <mark key="]" line="288" column="27" />
@@ -250,7 +263,7 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1508228492312">
+      <file name="/dummy.sql" timestamp="1508391603729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -371,8 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="443" column="13" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="444" column="13" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="445" column="13" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="446" column="73" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -471,66 +482,67 @@
       <jump line="401" column="619" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="438" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="480" column="73" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="3" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/LogEvaluate.kt" />
+      <jump line="11" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/LogEvaluate.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>attendance</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>attendance</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>avatar</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VVBEQVRFIGFwcF91c2VyX2xvZ3MgU0VUIGZlZWwgPSAn57Of57OVJyBXSEVSRSBkYXRlID0gJzIwMTctMTAtMTUnIG9yIGRhdGUgPSAnMjAxNy0xMC0xNic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20ubXkuZGIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PiogMTkyLjE2OC4xMC43MyBjb2RlcHVzaC53b25kZXJzaGFyZS5jbiDlhoXnvZHlkozlhaznvZHorr/pl64K</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIHNoOiBjZCAvZGF0YS93d3cvdmhvc3RzL3Jlcy53b25kZXJzaGFyZS5jbi9odHRwZG9jcy9jb2RlLXB1c2gtc2VydmVyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHNoOiBub2h1cCAuL2Jpbi93d3cgPiBjb2RlcHVzaC5sb2cgJgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PiogMTAuMTAuMTguMTM2IGFwaS53b25kZXJzaGFlci5jbiDlhoXnvZHorr/pl64K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PiogMTkyLjE2OC4xMC43MyBjb2RlcHVzaC53b25kZXJzaGFyZS5jbiDlhoXnvZHlkozlhaznvZHorr/pl64K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIHNoOiBjZCAvZGF0YS93d3cvdmhvc3RzL3Jlcy53b25kZXJzaGFyZS5jbi9odHRwZG9jcy9jb2RlLXB1c2gtc2VydmVyCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIHNoOiBub2h1cCAuL2Jpbi93d3cgPiBjb2RlcHVzaC5sb2cgJgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHNoOiBjZCAvZGF0YS93d3cvdmhvc3RzL3Jlcy53b25kZXJzaGFyZS5jbi9odHRwZG9jcy9hcHBTZXJ2ZXIK</text>
+        <text encoding="base64">PiogMTAuMTAuMTguMTM2IGFwaS53b25kZXJzaGFlci5jbiDlhoXnvZHorr/pl64K</text>
       </register>
       <register name=":" type="4">
-        <text>s/ String?//g</text>
+        <text>%s/null/null,/g</text>
       </register>
     </registers>
     <search>
-      <last-search>avatar</last-search>
+      <last-search>null</last-search>
       <last-offset />
-      <last-pattern>avatar</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">IFN0cmluZz8=</last-substitute>
+      <last-pattern>null</last-pattern>
+      <last-replace>null,</last-replace>
+      <last-substitute>null</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fix-date</entry>
         <entry>details</entry>
         <entry>contactPhone</entry>
         <entry>favori</entry>
@@ -540,7 +552,6 @@
         <entry>auto</entry>
         <entry>关注</entry>
         <entry>private</entry>
-        <entry>null</entry>
         <entry encoding="base64">ID0gbnVsbA==</entry>
         <entry encoding="base64">dmFyIA==</entry>
         <entry encoding="base64">IFN0cmluZz8=</entry>
@@ -550,6 +561,8 @@
         <entry>user-info</entry>
         <entry>mood</entry>
         <entry>avatar</entry>
+        <entry>%s</entry>
+        <entry>null</entry>
       </history-search>
       <history-cmd>
         <entry>%s/date/fd_date/g</entry>
@@ -567,11 +580,11 @@
         <entry>/\/list</entry>
         <entry>s/private//g</entry>
         <entry>%s/private//g</entry>
-        <entry>%s/null/null,/g</entry>
         <entry>%s/ = null//g</entry>
         <entry>%s/var //</entry>
         <entry>s/var //g</entry>
         <entry>s/ String?//g</entry>
+        <entry>%s/null/null,/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
