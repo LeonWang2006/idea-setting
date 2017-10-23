@@ -234,7 +234,7 @@
         <mark key="]" line="65" column="42" />
         <mark key="." line="65" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508573807235">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508761292050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -262,12 +262,12 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" timestamp="1508573557668">
-        <mark key="[" line="8" column="213" />
-        <mark key="]" line="8" column="213" />
-        <mark key="." line="8" column="213" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" timestamp="1508761102890">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1508753092967">
+      <file name="/dummy.sql" timestamp="1508761296709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -491,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8080</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>evaluate</text>
@@ -502,20 +502,27 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQl2YXIgbG9nRGV0YWlsVHlwZVN0cjogU3RyaW5nPyA9IG51bGwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZW1wbG95ZWVfaWQgPSAnMDMxMDAwMDMnCg==</text>
+      <register name="1" type="4">
+        <text>SELECT
+  log.log_id,
+  log.employee_id,
+  log.`name`,
+  log.job_cname,
+  user.avatar,
+  GROUP_CONCAT(log.log_content, '') AS log_content,
+  IF(</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZmluZF9pbl9zZXQoJzAzMTAwMDAxJywgbG9nLnJlYWRfd3NfaWQpID4gMCwgMSwgMCkgQVMgaXNfcmVhZCwgSUYgKGZpbmRfaW5fc2V0KCcwMzEwMDAwMScsIEdST1VQX0NPTkNBVChsb2cuZXZhbHVhdGVfd3NfaWQpKSA+IDAsIDEsIDApIEFTIGlzX2V2YWx1YXRlLCBsb2cuZXZhbHVhdGVfc3RhdCwgREFURSwgZGF0ZV9mb3JtYXQobG9nLmNyZWF0ZV90aW1lLCAnJVktJW0tJWQgJUg6JWk6JXMnKSBBUyBjcmVhdGVfdGltZSwgbG9nLmV2YWx1YXRlX2NvdW50LCBMRU5HVEgobG9nLnN1Z2dlc3Rpb24pIEFTIHN1Z2dlc3Rpb25fY291bnQsIExFTkdUSChsb2cuZXhwZXJpZW5jZSkgQVMgZXhwZXJpZW5jZV9jb3VudCwgbG9nLm9wZXJhdGVfY291bnQsIGxvZy52aWV3X2NvdW50LCBsb2cud29yZF9jb3VudCwgbG9nLmZlZWwgRlJPTSBgYXBwX3VzZXJfbG9nc2AgbG9nIExFRlQgSk9JTiBhcHBfdXNlciBgdXNlcmAgT04gKGxvZy5lbXBsb3llZV9pZD1gdXNlcmAuZW1wbG95ZWVfaWQpIFdIRVJFIGxvZy5sb2dfaWQgPiAwIEFORCBsb2cuZW1wbG95ZWVfaWQgPSAnMTIwODE2ODUnIEFORCAobG9nLmluZGlyZWN0IExJS0UgJyUwMzEwMDAwMSUnIE9SIGxvZy5yZXBvcnRfdG8gPSAnMDMxMDAwMDEnKSBHUk9VUCBCWSBsb2cubG9nX2lkIEhBVklORyAxID0gMSBPUkRFUiBCWSBjcmVhdGVfdGltZSBERVNDLCBsb2cubG9nX2lkIERFU0MgTElNSVQgMCwgMTAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
+        <text encoding="base64">ZW1wbG95ZWVfaWQgPSAnMDMxMDAwMDMnCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
@@ -527,10 +534,10 @@
         <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MDMxMDAwMDMsMDMxMDAwMDEK</text>
+        <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MDMxMDAwMDMsMDMxMDAwMDEK</text>
+        <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/null/null,/g</text>
