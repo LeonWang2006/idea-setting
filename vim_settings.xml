@@ -69,7 +69,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1506651618752">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1508739875971">
+        <mark key="'" line="61" column="4" />
         <mark key="[" line="151" column="518" />
         <mark key="]" line="233" column="0" />
         <mark key="." line="233" column="0" />
@@ -265,7 +266,7 @@
         <mark key="]" line="8" column="213" />
         <mark key="." line="8" column="213" />
       </file>
-      <file name="/dummy.sql" timestamp="1508723955576">
+      <file name="/dummy.sql" timestamp="1508740471456">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -343,7 +344,7 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1508723294573">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1508740204929">
         <mark key="'" line="438" column="18" />
         <mark key="[" line="993" column="1" />
         <mark key="]" line="981" column="48" />
@@ -386,7 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="937" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="939" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="283" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="53" column="63" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -486,28 +486,29 @@
       <jump line="361" column="526" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="363" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="365" column="128" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
+      <jump line="61" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>employee_id = '09080661'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW1wbG95ZWVfaWQgPSAnMDMxMDAwMDMnCg==</text>
       </register>
       <register name="-" type="4">
         <text>employee_id = '09080661'</text>
       </register>
       <register name="/" type="4">
-        <text>rank</text>
+        <text>evaluate</text>
       </register>
       <register name="0" type="4">
         <text>logEvaluate</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZW1wbG95ZWVfaWQgPSAnMDMxMDAwMDMnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
@@ -522,7 +523,7 @@
         <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MDMxMDAwMDMsMDMxMDAwMDEK</text>
+        <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">MDMxMDAwMDMsMDMxMDAwMDEK</text>
@@ -535,9 +536,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rank</last-search>
+      <last-search>evaluate</last-search>
       <last-offset />
-      <last-pattern>rank</last-pattern>
+      <last-pattern>evaluate</last-pattern>
       <last-replace>null,</last-replace>
       <last-substitute>null</last-substitute>
       <last-dir>1</last-dir>
@@ -545,7 +546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contactPhone</entry>
         <entry>favori</entry>
         <entry>contact</entry>
         <entry>recent</entry>
@@ -565,6 +565,7 @@
         <entry>%s</entry>
         <entry>null</entry>
         <entry>rank</entry>
+        <entry>evaluate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/date/fd_date/g</entry>
