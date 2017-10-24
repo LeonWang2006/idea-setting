@@ -223,11 +223,11 @@
         <mark key="^" line="36" column="38" />
         <mark key="." line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1508412085637">
-        <mark key="[" line="50" column="123" />
-        <mark key="]" line="46" column="88" />
-        <mark key="^" line="46" column="88" />
-        <mark key="." line="46" column="88" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1508810832709">
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="48" column="64" />
+        <mark key="^" line="48" column="33" />
+        <mark key="." line="48" column="64" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1506584615141">
         <mark key="[" line="65" column="42" />
@@ -490,25 +490,31 @@
       <jump line="61" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAxNDk0ODAsCg==</text>
+      <register name="&quot;" type="4">
+        <text>logEvaluate</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>logEvaluate</text>
       </register>
       <register name="/" type="4">
         <text>evaluate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQl2YXIgbG9nRGV0YWlsVHlwZVN0cjogU3RyaW5nPyA9IG51bGwK</text>
+      <register name="0" type="4">
+        <text>人员范围</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAxNDk0ODAsCg==</text>
+        <text encoding="base64">CeS6uuWRmOiMg+WbtAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CeS6uuWRmOiMg+WbtAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAxNDk0ODAsCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>SELECT
   log.log_id,
   log.employee_id,
@@ -518,20 +524,14 @@
   GROUP_CONCAT(log.log_content, '') AS log_content,
   IF(</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZmluZF9pbl9zZXQoJzAzMTAwMDAxJywgbG9nLnJlYWRfd3NfaWQpID4gMCwgMSwgMCkgQVMgaXNfcmVhZCwgSUYgKGZpbmRfaW5fc2V0KCcwMzEwMDAwMScsIEdST1VQX0NPTkNBVChsb2cuZXZhbHVhdGVfd3NfaWQpKSA+IDAsIDEsIDApIEFTIGlzX2V2YWx1YXRlLCBsb2cuZXZhbHVhdGVfc3RhdCwgREFURSwgZGF0ZV9mb3JtYXQobG9nLmNyZWF0ZV90aW1lLCAnJVktJW0tJWQgJUg6JWk6JXMnKSBBUyBjcmVhdGVfdGltZSwgbG9nLmV2YWx1YXRlX2NvdW50LCBMRU5HVEgobG9nLnN1Z2dlc3Rpb24pIEFTIHN1Z2dlc3Rpb25fY291bnQsIExFTkdUSChsb2cuZXhwZXJpZW5jZSkgQVMgZXhwZXJpZW5jZV9jb3VudCwgbG9nLm9wZXJhdGVfY291bnQsIGxvZy52aWV3X2NvdW50LCBsb2cud29yZF9jb3VudCwgbG9nLmZlZWwgRlJPTSBgYXBwX3VzZXJfbG9nc2AgbG9nIExFRlQgSk9JTiBhcHBfdXNlciBgdXNlcmAgT04gKGxvZy5lbXBsb3llZV9pZD1gdXNlcmAuZW1wbG95ZWVfaWQpIFdIRVJFIGxvZy5sb2dfaWQgPiAwIEFORCBsb2cuZW1wbG95ZWVfaWQgPSAnMTIwODE2ODUnIEFORCAobG9nLmluZGlyZWN0IExJS0UgJyUwMzEwMDAwMSUnIE9SIGxvZy5yZXBvcnRfdG8gPSAnMDMxMDAwMDEnKSBHUk9VUCBCWSBsb2cubG9nX2lkIEhBVklORyAxID0gMSBPUkRFUiBCWSBjcmVhdGVfdGltZSBERVNDLCBsb2cubG9nX2lkIERFU0MgTElNSVQgMCwgMTAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZW1wbG95ZWVfaWQgPSAnMDMxMDAwMDMnCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">6ZmI5rGf5rGfLOWQtOWkquWFtQo=</text>
