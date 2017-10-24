@@ -234,7 +234,7 @@
         <mark key="]" line="65" column="42" />
         <mark key="." line="65" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508762109768">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508837275674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -267,7 +267,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1508767344282">
+      <file name="/dummy.sql" timestamp="1508837468774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -344,16 +344,17 @@
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1508831851803">
-        <mark key="'" line="438" column="18" />
-        <mark key="[" line="391" column="35" />
-        <mark key="]" line="391" column="35" />
-        <mark key="." line="391" column="35" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1508839038135">
+        <mark key="'" line="348" column="37" />
+        <mark key="[" line="758" column="147" />
+        <mark key="]" line="758" column="147" />
+        <mark key="." line="758" column="147" />
+        <mark key="^" line="758" column="147" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1508721834612">
-        <mark key="[" line="0" column="920" />
-        <mark key="]" line="0" column="921" />
-        <mark key="." line="0" column="921" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1508837762097">
+        <mark key="[" line="0" column="70" />
+        <mark key="]" line="0" column="70" />
+        <mark key="." line="0" column="70" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/NewsPojo.kt" timestamp="1508226715100">
         <mark key="[" line="6" column="158" />
@@ -386,18 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="939" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="283" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="53" column="63" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="611" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="615" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="699" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="703" column="42" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="495" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="499" column="44" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="609" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="731" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="732" column="45" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="733" column="33" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="734" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="735" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -486,62 +475,72 @@
       <jump line="363" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="365" column="128" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="61" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
+      <jump line="520" column="63" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="558" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="962" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="964" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="968" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="996" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="117" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="121" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="138" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="142" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="344" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="348" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-
-}</text>
+        <text>indirect</text>
       </register>
       <register name="-" type="4">
-        <text>-WOS[hrs-employee/get-relate-data?data_fields]</text>
+        <text>indirect</text>
       </register>
       <register name="/" type="4">
-        <text>evaluate</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5pbmRpcmVjdCBMSUtFICclJHtwYXJhbUxvZy53c0lkfSUnIE9SIGxvZy5yZXBvcnRfdG8gPSAnJHtwYXJhbUxvZy53c0lkfScpIikK</text>
+        <text encoding="base64">CQkJCSJocmQiIC0+ICgiIEFORCAobG9nLmluZGlyZWN0IExJS0UgJyUke3BhcmFtTG9nLndzSWR9JScgT1IgbG9nLnJlcG9ydF90byA9ICcke3BhcmFtTG9nLndzSWR9JykiKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">U0VMRUNUIGxvZy5sb2dfaWQsIGxvZy5lbXBsb3llZV9pZCwgbG9nLmBuYW1lYCwgbG9nLmpvYl9jbmFtZSwgdXNlci5hdmF0YXIsIEdST1VQX0NPTkNBVChsb2cubG9nX2NvbnRlbnQsJycpIEFTIGxvZ19jb250ZW50LCBJRihmaW5kX2luX3NldCgnMDMxMDAwMDMnLGxvZy5yZWFkX3dzX2lkKSA+IDAsMSwwKSBBUyBpc19yZWFkLCBJRihmaW5kX2luX3NldCgnMDMxMDAwMDMnLEdST1VQX0NPTkNBVChsb2cuZXZhbHVhdGVfd3NfaWQpKSA+IDAsMSwwKSBBUyBpc19ldmFsdWF0ZSwgbG9nLmV2YWx1YXRlX3N0YXQsIGRhdGUsIGRhdGVfZm9ybWF0KGxvZy5jcmVhdGVfdGltZSwnJVktJW0tJWQgJUg6JWk6JXMnKSBBUyBjcmVhdGVfdGltZSwgbG9nLmV2YWx1YXRlX2NvdW50LExFTkdUSChsb2cuc3VnZ2VzdGlvbikgQVMgc3VnZ2VzdGlvbl9jb3VudCxMRU5HVEgobG9nLmV4cGVyaWVuY2UpIEFTIGV4cGVyaWVuY2VfY291bnQsbG9nLm9wZXJhdGVfY291bnQsbG9nLnZpZXdfY291bnQsbG9nLndvcmRfY291bnQsbG9nLmZlZWwgRlJPTSBgYXBwX3VzZXJfbG9nc2AgbG9nIExFRlQgSk9JTiBhcHBfdXNlciBgdXNlcmAgT04gKGxvZy5lbXBsb3llZV9pZD1gdXNlcmAuZW1wbG95ZWVfaWQpIFdIRVJFIGxvZy5sb2dfaWQgPiAwICBBTkQgKGxvZy5pbmRpcmVjdCBMSUtFICclMDMxMDAwMDMlJyBPUiBsb2cucmVwb3J0X3RvID0gJzAzMTAwMDAzJykgQU5EIGRhdGUgPj0gJzIwMTctMTAtMDEnIEFORCBkYXRlPD0gJzIwMTctMTAtMjMnIEdST1VQIEJZIGxvZy5sb2dfaWQgSEFWSU5HIDEgPSAxICBBTkQgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDAzJyxHUk9VUF9DT05DQVQobG9nLmV2YWx1YXRlX3dzX2lkKSkgPiAwLDEsMCkgPSAwIE9SREVSIEJZIGlzX3JlYWQgYXNjLGNyZWF0ZV90aW1lIGRlc2MsZXZhbHVhdGVfY291bnQgZGVzYyxMRU5HVEgoc3VnZ2VzdGlvbikgZGVzYyxMRU5HVEgoZXhwZXJpZW5jZSkgZGVzYyx3b3JkX2NvdW50IGRlc2MsICBsb2cubG9nX2lkIGRlc2MgTElNSVQgMCwxMAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5pbmRpcmVjdCBMSUtFICclJHtwYXJhbUxvZy53c0lkfSUnIE9SIGxvZy5yZXBvcnRfdG8gPSAnJHtwYXJhbUxvZy53c0lkfScpIikK</text>
+      </register>
+      <register name="4" type="4">
+        <text>{
+
+}</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ci8qCWluaXQgewoJCXRoaXMuZXZhbHVhdGVDb3VudCA9IGlmIChldmFsdWF0ZUNvdW50ICE9IG51bGwpIGV2YWx1YXRlQ291bnQgZWxzZSAwCgkJdGhpcy52aWV3Q291bnQgPSBpZiAob3BlcmF0ZUNvdW50ICE9IG51bGwpIG9wZXJhdGVDb3VudCBlbHNlIDAKCQl0aGlzLnN1Z2dlc3Rpb25Db3VudCA9IGlmIChzdWdnZXN0aW9uQ291bnQgIT0gbnVsbCkgc3VnZ2VzdGlvbkNvdW50IGVsc2UgMAoJCXRoaXMuZXhwZXJpZW5jZUNvdW50ID0gaWYgKGV4cGVyaWVuY2VDb3VudCAhPSBudWxsKSBleHBlcmllbmNlQ291bnQgZWxzZSAwCgkJdGhpcy5ldmFsdWF0ZVN0YXQgPSBpZiAoZXZhbHVhdGVTdGF0ICE9IG51bGwpIGV2YWx1YXRlU3RhdCBlbHNlIDAKCX0qLw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5pbmRpcmVjdCBMSUtFICclJHtwYXJhbUxvZy53c0lkfSUnIE9SIGxvZy5yZXBvcnRfdG8gPSAnJHtwYXJhbUxvZy53c0lkfScpIEFORCBsb2cuZW1wbG95ZWVfaWQgSU4gKCcke3BlcnNvbnMuam9pblRvU3RyaW5nKCInLCciKX0nKSIpCgkJCS8v5Y+W5Ye655So5oi35omA6YCJ6YOo6Zeo5Lq65ZGYCgkJCXZhbCBwZXJzb25zU2V0ID0gcmVxdWVzdEZvclBlcnNvbihwYXJhbUxvZ0J1aWxkLCByZXF1ZXN0KQoJCQlwZXJzb25zLmFkZEFsbChwZXJzb25zU2V0KQoJCQlwZXJzb25zLnJlbW92ZShwYXJhbUxvZ0J1aWxkLndzSWQpCgoJCQlpZiAocGVyc29ucy5pc05vdEVtcHR5KCkpIHsKCQkJfSBlbHNlIHsKCQkJCXBhcmFtTG9nQnVpbGQuZGVwID0gIiBBTkQgMSA9IDIgIgoJCQl9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCXBhcmFtTG9nQnVpbGQuZGVwID0gKCIgQU5EIChsb2cuaW5kaXJlY3QgTElLRSAnJSR7cGFyYW1Mb2cud3NJZH0lJyBPUiBsb2cucmVwb3J0X3RvID0gJyR7cGFyYW1Mb2cud3NJZH0nKSBBTkQgbG9nLmVtcGxveWVlX2lkIElOICgnJHtwZXJzb25zLmpvaW5Ub1N0cmluZygiJywnIil9JykiKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CeS6uuWRmOiMg+WbtAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CeS6uuWRmOiMg+WbtAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAxNDk0ODAsCg==</text>
+        <text encoding="base64">CQkJCXBhcmFtTG9nQnVpbGQuZGVwID0gKCIgQU5EIChsb2cuaW5kaXJlY3QgTElLRSAnJSR7cGFyYW1Mb2cud3NJZH0lJyBPUiBsb2cucmVwb3J0X3RvID0gJyR7cGFyYW1Mb2cud3NJZH0nKSBBTkQgbG9nLmVtcGxveWVlX2lkIElOICgnJHtwZXJzb25zLmpvaW5Ub1N0cmluZygiJywnIil9JykiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/null/null,/g</text>
       </register>
     </registers>
     <search>
-      <last-search>evaluate</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>evaluate</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>null,</last-replace>
       <last-substitute>null</last-substitute>
       <last-dir>1</last-dir>
@@ -549,7 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>favori</entry>
         <entry>contact</entry>
         <entry>recent</entry>
         <entry>build</entry>
@@ -569,6 +567,7 @@
         <entry>null</entry>
         <entry>rank</entry>
         <entry>evaluate</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/date/fd_date/g</entry>
