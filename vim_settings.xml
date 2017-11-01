@@ -34,14 +34,10 @@
         <mark key="." line="139" column="8" />
         <mark key="^" line="139" column="8" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1509517814989">
-        <mark key="[" line="202" column="45" />
-        <mark key="]" line="202" column="43" />
-        <mark key="." line="202" column="43" />
-        <mark key="^" line="202" column="43" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/853cdd49-bf1e-42ff-9b7c-ade5fee32d3a/console.sql" timestamp="1508225919579">
-        <mark key="[" line="0" column="352" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1509520912251">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveWork.kt" timestamp="1506008959404">
         <mark key="[" line="3" column="0" />
@@ -137,9 +133,6 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppUpdatePackage.kt" timestamp="1506502824006">
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1508750178695">
         <mark key="'" line="480" column="73" />
         <mark key="[" line="204" column="69" />
@@ -153,9 +146,6 @@
         <mark key="]" line="498" column="36" />
         <mark key="^" line="498" column="36" />
         <mark key="." line="498" column="36" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_OGS/controllers/BaseDataController.php" timestamp="1506657368073">
-        <mark key="[" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
@@ -187,9 +177,6 @@
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
-      </file>
-      <file name="/a.sql" timestamp="1508913215226">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
         <mark key="[" line="0" column="22" />
@@ -236,9 +223,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6490ec48-96a7-4f2c-b7e1-33e3f81f1e2e/console.sql" timestamp="1508165028755">
-        <mark key="[" line="0" column="841" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/LocalDateConverter.java" timestamp="1503743892461">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -276,14 +260,14 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.java" timestamp="1504669322707">
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1509517657846">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1509520315361">
         <mark key="'" line="313" column="8" />
-        <mark key="[" line="760" column="81" />
-        <mark key="]" line="760" column="44" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="66" />
         <mark key="." line="760" column="44" />
         <mark key="^" line="760" column="44" />
       </file>
@@ -297,6 +281,12 @@
         <mark key="]" line="6" column="159" />
         <mark key="^" line="6" column="125" />
         <mark key="." line="6" column="159" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1509519632924">
+        <mark key="[" line="338" column="12" />
+        <mark key="]" line="338" column="12" />
+        <mark key="." line="338" column="12" />
+        <mark key="^" line="330" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1508935160909">
         <mark key="[" line="0" column="0" />
@@ -418,47 +408,47 @@
       <jump line="4" column="3" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogManage.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>longitude</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>longitude</text>
+        <text>-WOS[sign/app-signout]</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl2YWwgdXJsID0gSFJTX0hPU1QgKyAic2lnbi9pbmRleCIK</text>
+        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IFdPU+i/lOWbniB7fSIsIHJlcXVlc3Quc2Vzc2lvbi5pZCwgcmVzdWx0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdmFsIHVybCA9IEhSU19IT1NUICsgImxvZy9oYXMtd3JpdGUtbG9nIgo=</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJsb25naXR1ZGUiLCB2YWx1ZSA9ICLnuqzluqYiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CW92ZXJyaWRlIGZ1biBhZGRDb3JzTWFwcGluZ3MocmVnaXN0cnk6IENvcnNSZWdpc3RyeT8pIHsKCQlyZWdpc3RyeSEhLmFkZE1hcHBpbmcoIi9ncmVldGluZy1qYXZhY29uZmlnIikuYWxsb3dlZE9yaWdpbnMoImh0dHA6Ly9sb2NhbGhvc3Q6OTAwMCIpCgl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJzPy5nZXREb3VibGUoImV2YWx1YXRlX3Njb3JlIikK</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAgICAgICAgICAgICAgICBycz8uZ2V0RG91YmxlKCIzZGF5c19yYXRlIikK</text>
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAgICAgICAgICAgICAgICBycz8uZ2V0RG91YmxlKCIxZGF5c19yYXRlIiksCg==</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAgICAgICAgICAgICAgICBycz8uZ2V0RG91YmxlKCJjb21tZW50X3JhdGUiKSwK</text>
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/;/,/g</text>
