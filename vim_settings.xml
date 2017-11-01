@@ -34,10 +34,11 @@
         <mark key="." line="139" column="8" />
         <mark key="^" line="139" column="8" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1508399718429">
-        <mark key="[" line="99" column="69" />
-        <mark key="]" line="179" column="18" />
-        <mark key="." line="179" column="18" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1509515837380">
+        <mark key="[" line="195" column="35" />
+        <mark key="]" line="195" column="35" />
+        <mark key="." line="195" column="35" />
+        <mark key="^" line="195" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/853cdd49-bf1e-42ff-9b7c-ade5fee32d3a/console.sql" timestamp="1508225919579">
         <mark key="[" line="0" column="352" />
@@ -210,7 +211,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1509501521849">
+      <file name="/dummy.sql" timestamp="1509515569099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -313,7 +314,6 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1508899141059" />
     </filemarks>
     <jumps>
       <jump line="275" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -418,11 +418,11 @@
       <jump line="4" column="3" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogManage.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
