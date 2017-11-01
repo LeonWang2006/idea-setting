@@ -34,10 +34,11 @@
         <mark key="." line="139" column="8" />
         <mark key="^" line="139" column="8" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1509537388923">
-        <mark key="[" line="193" column="78" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1509540892333">
+        <mark key="[" line="105" column="53" />
+        <mark key="]" line="42" column="56" />
+        <mark key="." line="42" column="56" />
+        <mark key="^" line="41" column="38" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveWork.kt" timestamp="1506008959404">
         <mark key="[" line="3" column="0" />
@@ -288,10 +289,10 @@
         <mark key="^" line="6" column="125" />
         <mark key="." line="6" column="159" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1509539822454">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1509540853026">
+        <mark key="[" line="327" column="0" />
+        <mark key="]" line="327" column="0" />
+        <mark key="." line="327" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1508935160909">
         <mark key="[" line="0" column="0" />
@@ -413,17 +414,17 @@
       <jump line="4" column="3" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogManage.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QEF1dG93aXJlZCBsYXRlaW5pdCA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IFdPU+i/lOWbniB7fSIsIHJlcXVlc3Quc2Vzc2lvbi5pZCwgcmVzdWx0KQo=</text>
+        <text encoding="base64">CXByaXZhdGUgdmFsIG1vYmlsZVVzZXJzUmVwb3NpdG9yeTogTW9iaWxlVXNlcnNSZXBvc2l0b3J5LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
@@ -432,28 +433,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YWwgcmVzdFRlbXBsYXRlQnVpbGRlcjogUmVzdFRlbXBsYXRlQnVpbGRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgcmVzdFRlbXBsYXRlQnVpbGRlcjogUmVzdFRlbXBsYXRlQnVpbGRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgcmVzdFRlbXBsYXRlQnVpbGRlcjogUmVzdFRlbXBsYXRlQnVpbGRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aGlzLnJlc3RUZW1wbGF0ZUJ1aWxkZXIgPSByZWRpc0NhY2hlU2VydmljZQo=</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBQb3N0Q29uc3RydWN0CWluaXQgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/;/,/g</text>
