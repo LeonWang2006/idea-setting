@@ -41,6 +41,13 @@
         <mark key="." line="192" column="21" />
         <mark key="^" line="192" column="21" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserInfo.kt" timestamp="1509602629379">
+        <mark key="'" line="9" column="27" />
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveWork.kt" timestamp="1506008959404">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -135,12 +142,12 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1509594000796">
-        <mark key="'" line="480" column="73" />
-        <mark key="[" line="204" column="69" />
-        <mark key="]" line="308" column="0" />
-        <mark key="^" line="275" column="51" />
-        <mark key="." line="308" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1509602109329">
+        <mark key="'" line="485" column="73" />
+        <mark key="[" line="183" column="48" />
+        <mark key="]" line="183" column="48" />
+        <mark key="^" line="182" column="75" />
+        <mark key="." line="184" column="36" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1509350061345">
         <mark key="'" line="153" column="34" />
@@ -186,6 +193,7 @@
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatAttendance.kt" timestamp="1509603112357" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="22" />
@@ -311,9 +319,9 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1508899141059" />
     </filemarks>
     <jumps>
-      <jump line="326" column="54" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="330" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="331" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="332" column="44" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -413,19 +421,20 @@
       <jump line="20" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogManage.kt" />
       <jump line="4" column="3" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogManage.kt" />
       <jump line="192" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" />
+      <jump line="9" column="27" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserInfo.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>APPLICATION_FORM_URLENCODED</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>APPLICATION_FORM_URLENCODED</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgdmFsIG1vYmlsZVVzZXJzUmVwb3NpdG9yeTogTW9iaWxlVXNlcnNSZXBvc2l0b3J5LAo=</text>
+        <text encoding="base64">CQkJCXVzZXJJbmZvLmxhdGVUaW1lcyA9IHVzZXJBbmFseXRpY3NbMF1bImxhdGVyVGltZXMiXSBhcyBMb25nPwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
@@ -458,21 +467,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/;/,/g</text>
+        <text>%s/ = null//g</text>
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search encoding="base64">ID0gbnVsbA==</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-pattern encoding="base64">ID0gbnVsbA==</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">ID0gbnVsbA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">dmFyIA==</entry>
         <entry encoding="base64">IFN0cmluZz8=</entry>
         <entry>G</entry>
         <entry>g</entry>
@@ -481,7 +489,6 @@
         <entry>mood</entry>
         <entry>avatar</entry>
         <entry>%s</entry>
-        <entry>null</entry>
         <entry>rank</entry>
         <entry>evaluate</entry>
         <entry>save</entry>
@@ -492,6 +499,8 @@
         <entry encoding="base64">RG91YmxlIA==</entry>
         <entry>;</entry>
         <entry>list</entry>
+        <entry>null</entry>
+        <entry encoding="base64">ID0gbnVsbA==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4=</entry>
@@ -504,16 +513,16 @@
         <entry>/\/list</entry>
         <entry>s/private//g</entry>
         <entry>%s/private//g</entry>
-        <entry>%s/ = null//g</entry>
         <entry>%s/var //</entry>
         <entry>s/var //g</entry>
         <entry>s/ String?//g</entry>
-        <entry>%s/null/null,/g</entry>
         <entry>%s/private //g</entry>
         <entry>%s/String //g</entry>
         <entry>%s/Long //g</entry>
         <entry>%s/Double //g</entry>
         <entry>%s/;/,/g</entry>
+        <entry>%s/null/null,/g</entry>
+        <entry>%s/ = null//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
