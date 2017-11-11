@@ -168,7 +168,7 @@
         <mark key="^" line="182" column="75" />
         <mark key="." line="184" column="60" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1510037440158">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1510392523113">
         <mark key="'" line="486" column="34" />
         <mark key="[" line="613" column="42" />
         <mark key="]" line="613" column="42" />
@@ -191,10 +191,11 @@
         <mark key="]" line="369" column="0" />
         <mark key="." line="369" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1510324481041">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="27" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1510392949213">
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+        <mark key="^" line="36" column="47" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1508934868579">
         <mark key="[" line="46" column="86" />
@@ -202,7 +203,7 @@
         <mark key="^" line="48" column="33" />
         <mark key="." line="48" column="64" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1510302755115">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1510392216827">
         <mark key="'" line="185" column="0" />
         <mark key="[" line="63" column="67" />
         <mark key="]" line="63" column="67" />
@@ -259,7 +260,7 @@
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509610534150">
+      <file name="/Dummy.txt" timestamp="1510392516043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -454,16 +455,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>443</text>
+        <text>${objectMapper.writeValueAsString(appUpdatePackage)}</text>
       </register>
       <register name="-" type="4">
-        <text>443</text>
+        <text>${objectMapper.writeValueAsString(appUpdatePackage)}</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IFdPU+i/lOWbniB7fSIsIHJlcXVlc3Quc2Vzc2lvbi5pZCwgcmVzcG9uc2UuYm9keSkK</text>
+      <register name="0" type="4">
+        <text>update-check</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
