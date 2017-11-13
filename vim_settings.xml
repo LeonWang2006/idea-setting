@@ -161,14 +161,14 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1509608039275">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1510540329183">
         <mark key="'" line="485" column="73" />
         <mark key="[" line="184" column="59" />
         <mark key="]" line="184" column="60" />
         <mark key="^" line="182" column="75" />
         <mark key="." line="184" column="60" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1510392523113">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1510540273941">
         <mark key="'" line="486" column="34" />
         <mark key="[" line="613" column="42" />
         <mark key="]" line="613" column="42" />
@@ -191,11 +191,11 @@
         <mark key="]" line="369" column="0" />
         <mark key="." line="369" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1510392949213">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1510539926448">
         <mark key="[" line="54" column="29" />
-        <mark key="]" line="54" column="29" />
-        <mark key="." line="54" column="29" />
-        <mark key="^" line="36" column="47" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="33" column="16" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1508934868579">
         <mark key="[" line="46" column="86" />
@@ -240,7 +240,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1510391217545">
+      <file name="/dummy.sql" timestamp="1510540487632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -454,8 +454,8 @@
       <jump line="100" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${objectMapper.writeValueAsString(appUpdatePackage)}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d3NfaWQgPSAwOTA4MDY2MQo=</text>
       </register>
       <register name="-" type="4">
         <text>${objectMapper.writeValueAsString(appUpdatePackage)}</text>
@@ -467,34 +467,34 @@
         <text>update-check</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d3NfaWQgPSAwOTA4MDY2MQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcmVzdFRlbXBsYXRlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IHt9IEdFVCAvbG9ncy9leGlzdD93c0lkPXt9JmRhdGU9e30gW+ajgOafpeaYr+WQpuacieWGmeaXpeW/l10iLCByZXF1ZXN0LnNlc3Npb24uaWQsIHJlcXVlc3QudXNlclByaW5jaXBhbC5uYW1lLCB3c0lkLCBkYXRlKQo=</text>
+        <text encoding="base64">CQkJcmVzdFRlbXBsYXRlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJago=</text>
+        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInt9IHt9IEdFVCAvbG9ncy9leGlzdD93c0lkPXt9JmRhdGU9e30gW+ajgOafpeaYr+WQpuacieWGmeaXpeW/l10iLCByZXF1ZXN0LnNlc3Npb24uaWQsIHJlcXVlc3QudXNlclByaW5jaXBhbC5uYW1lLCB3c0lkLCBkYXRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWQ9MjMxODgK</text>
+        <text encoding="base64">CQkJago=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmFsIHJlZ2V4MTkgPSAiIiLor4Tku7fkuoYoLis/KeeahCIiIi50b1JlZ2V4KCkK</text>
+        <text encoding="base64">aWQ9MjMxODgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdmFsIHJlZ2V4NiA9ICIiIuWcqCguKz8p55qEIiIiLnRvUmVnZXgoKQo=</text>
+        <text encoding="base64">CQkJdmFsIHJlZ2V4MTkgPSAiIiLor4Tku7fkuoYoLis/KeeahCIiIi50b1JlZ2V4KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdmFsIHJlZ2V4MCA9ICIiIuivhOS7t+S6higuKz8p55qEIiIiLnRvUmVnZXgoKQo=</text>
+        <text encoding="base64">CQkJdmFsIHJlZ2V4NiA9ICIiIuWcqCguKz8p55qEIiIiLnRvUmVnZXgoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbWFwLmFkZCgid3NfaWQiLCB3c0lkKQo=</text>
+        <text encoding="base64">CQkJdmFsIHJlZ2V4MCA9ICIiIuivhOS7t+S6higuKz8p55qEIiIiLnRvUmVnZXgoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ = null/,/g</text>
