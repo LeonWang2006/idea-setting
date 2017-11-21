@@ -151,12 +151,12 @@
         <mark key="^" line="182" column="75" />
         <mark key="." line="184" column="60" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1510540273941">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1511252480973">
         <mark key="'" line="486" column="34" />
-        <mark key="[" line="613" column="42" />
-        <mark key="]" line="613" column="42" />
-        <mark key="." line="613" column="42" />
-        <mark key="^" line="613" column="41" />
+        <mark key="[" line="929" column="54" />
+        <mark key="]" line="929" column="54" />
+        <mark key="." line="929" column="54" />
+        <mark key="^" line="929" column="22" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/HrsLogOperate.kt" timestamp="1511231203114">
         <mark key="'" line="2" column="25" />
@@ -427,11 +427,11 @@
       <jump line="4" column="25" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/HrsLogOperate.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
+      <register name="&quot;" type="4">
+        <text>log.position_role</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>log.position_role</text>
       </register>
       <register name="/" type="4">
         <text>? = null</text>
@@ -440,34 +440,34 @@
         <text encoding="base64">CQkJCWFwcFVwZGF0ZVBhY2thZ2UgPSAiaHR0cHM6Ly9yZXN0LndvbmRlcnNoYXJlLmNuOjgwODAvaW5kZXguaHRtbCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
+        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5leHRQYXJhbSA9ICIgQU5EIGxvZy5wb3NpdGlvbl9yb2xlID0gJ00nIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQlpZiAoZXh0UGFyYW0/LmlzTm90RW1wdHkoKSl7CgoJCX0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJjcmVhdGVfdGltZSIpCg==</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJ3c19uYW1lIikK</text>
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJ3c19pZCIpCg==</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJsb2dfZGF0ZSIpCg==</text>
+        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJjcmVhdGVfdGltZSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJsb2dfaWQiKQo=</text>
+        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJ3c19uYW1lIikK</text>
       </register>
       <register name=":" type="4">
         <text>%,s/? = null/,/g</text>
