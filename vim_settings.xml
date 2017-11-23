@@ -192,7 +192,7 @@
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="/a.sql" timestamp="1511420655914">
+      <file name="/a.sql" timestamp="1511439606306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
@@ -218,7 +218,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1511419783094">
+      <file name="/dummy.sql" timestamp="1511439457299">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -279,9 +279,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1511267167080">
-        <mark key="'" line="530" column="31" />
-        <mark key="[" line="56" column="40" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1511439965327">
+        <mark key="'" line="808" column="37" />
+        <mark key="[" line="855" column="83" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="0" />
@@ -320,7 +320,6 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1511264240409" />
     </filemarks>
     <jumps>
-      <jump line="871" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="875" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="883" column="38" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="893" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -420,6 +419,7 @@
       <jump line="507" column="517" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="529" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="62" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="808" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -429,7 +429,7 @@
         <text>TINYTEX</text>
       </register>
       <register name="/" type="4">
-        <text>userMap</text>
+        <text>operate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJaW1hZ2U/LmxldCB7IG1hcC5hZGQoImltYWdlIiwgaW1hZ2UpIH0K</text>
@@ -469,9 +469,9 @@
       </register>
     </registers>
     <search>
-      <last-search>userMap</last-search>
+      <last-search>operate</last-search>
       <last-offset />
-      <last-pattern>userMap</last-pattern>
+      <last-pattern>operate</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>? = null</last-substitute>
       <last-dir>1</last-dir>
@@ -497,8 +497,8 @@
         <entry>logger</entry>
         <entry>? = null</entry>
         <entry>avatar</entry>
-        <entry>operate</entry>
         <entry>userMap</entry>
+        <entry>operate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private/public/g</entry>
