@@ -193,7 +193,7 @@
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="/a.sql" timestamp="1511439606306">
+      <file name="/a.sql" timestamp="1511748643568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
@@ -219,7 +219,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1511491818168">
+      <file name="/dummy.sql" timestamp="1511748656338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -423,11 +423,11 @@
       <jump line="1039" column="168" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5ldmFsdWF0ZU9yQ29tbWVudCA9ICIgQU5EIChsb2cuZXZhbHVhdGVfY291bnQgPiAwIE9SIExFTkdUSChsb2cuY29tbWVudCkgPiAwKSIK</text>
+      <register name="&quot;" type="4">
+        <text>VARCHAR(255)</text>
       </register>
       <register name="-" type="4">
-        <text>subordinate</text>
+        <text>VARCHAR(255)</text>
       </register>
       <register name="/" type="4">
         <text>evaluateOr</text>
