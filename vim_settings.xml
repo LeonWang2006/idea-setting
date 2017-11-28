@@ -39,10 +39,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1511364630458">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1511861104798">
         <mark key="[" line="139" column="8" />
-        <mark key="]" line="139" column="10" />
-        <mark key="." line="139" column="10" />
+        <mark key="]" line="139" column="8" />
+        <mark key="." line="139" column="8" />
         <mark key="^" line="139" column="10" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1510559576885">
@@ -181,7 +181,7 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="74" column="64" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1510192915040">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1511860732812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -215,7 +215,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" timestamp="1511749903649">
         <mark key="[" line="13" column="74" />
       </file>
-      <file name="/dummy.sql" timestamp="1511838578419">
+      <file name="/dummy.sql" timestamp="1511861284851">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -276,8 +276,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1511840096881">
-        <mark key="'" line="1039" column="168" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1511861254221">
+        <mark key="'" line="924" column="12" />
         <mark key="[" line="1219" column="110" />
         <mark key="]" line="1219" column="111" />
         <mark key="." line="1219" column="111" />
@@ -315,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="44" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="448" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="449" column="32" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="450" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
@@ -415,16 +414,17 @@
       <jump line="410" column="103" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="458" column="265" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1039" column="168" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="924" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>evaluateOr</text>
+        <text>detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5ldmFsdWF0ZU9yQ29tbWVudCA9ICIiCg==</text>
@@ -464,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>evaluateOr</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>evaluateOr</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>? = null</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry>null</entry>
         <entry>userInfo</entry>
         <entry>private</entry>
@@ -494,6 +493,7 @@
         <entry>targetI</entry>
         <entry>build</entry>
         <entry>evaluateOr</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>s/spec_array/feel/g</entry>
