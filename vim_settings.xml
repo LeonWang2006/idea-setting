@@ -117,10 +117,11 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.kt" timestamp="1511267780121">
-        <mark key="[" line="45" column="85" />
-        <mark key="]" line="45" column="85" />
-        <mark key="." line="45" column="85" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.kt" timestamp="1512373863193">
+        <mark key="[" line="132" column="51" />
+        <mark key="]" line="132" column="49" />
+        <mark key="." line="132" column="49" />
+        <mark key="^" line="132" column="49" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogEvaluate.kt" timestamp="1509349125523">
         <mark key="[" line="19" column="23" />
@@ -133,8 +134,8 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1511496195070">
-        <mark key="'" line="619" column="4" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1512373015462">
+        <mark key="'" line="847" column="51" />
         <mark key="[" line="775" column="35" />
         <mark key="]" line="675" column="0" />
         <mark key="." line="675" column="0" />
@@ -223,7 +224,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" timestamp="1511749903649">
         <mark key="[" line="13" column="74" />
       </file>
-      <file name="/dummy.sql" timestamp="1512011477622">
+      <file name="/dummy.sql" timestamp="1512372883032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -284,8 +285,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1511861254221">
-        <mark key="'" line="924" column="12" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1512373173203">
+        <mark key="'" line="146" column="441" />
         <mark key="[" line="1219" column="110" />
         <mark key="]" line="1219" column="111" />
         <mark key="." line="1219" column="111" />
@@ -323,11 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="38" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
-      <jump line="107" column="33" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
-      <jump line="114" column="161" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
-      <jump line="116" column="191" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
-      <jump line="128" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogManage.kt" />
       <jump line="20" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogManage.kt" />
       <jump line="4" column="3" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogManage.kt" />
@@ -391,7 +387,6 @@
       <jump line="1280" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1284" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1314" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="127" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="136" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="183" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="190" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -423,58 +418,64 @@
       <jump line="142" column="41" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" />
       <jump line="48" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" />
       <jump line="56" column="41" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" />
+      <jump line="847" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
+      <jump line="682" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="96" column="49" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="127" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="133" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="146" column="441" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8JCQltYXAuYWRkKCJjb250ZW50IiwgY29udGVudCkK</text>
+        <text encoding="base64">CQkJbWFwLmFkZCgicm91dGVfYWRkcmVzcyIsICIvbWFuYWdlL2FkZC1ldmFsdWF0ZSIpCgkJCW1hcC5hZGQoInJvdXRlX2FkZHJlc3MiLCAiL21hbmFnZS9hZGQtZXZhbHVhdGUiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5ldmFsdWF0ZU9yQ29tbWVudCA9ICIiCg==</text>
+        <text encoding="base64">CQkJbWFwLmFkZCgicm91dGVfYWRkcmVzcyIsICIvbWFuYWdlL2FkZC1ldmFsdWF0ZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8JCQltYXAuYWRkKCJjb250ZW50IiwgY29udGVudCkK</text>
+        <text encoding="base64">CQkJbWFwLmFkZCgicm91dGVfYWRkcmVzcyIsICIvbWFuYWdlL2FkZC1ldmFsdWF0ZSIpCgkJCW1hcC5hZGQoInJvdXRlX2FkZHJlc3MiLCAiL21hbmFnZS9hZGQtZXZhbHVhdGUiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8JCQltYXAuYWRkKCJ0eXBlIiwgdHlwZSkK</text>
+        <text encoding="base64">CQkJLy8JCQltYXAuYWRkKCJjb250ZW50IiwgY29udGVudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8JCQltYXAuYWRkKCJ3c19pZCIsIHdzSWQpCg==</text>
+        <text encoding="base64">CQkJLy8JCQltYXAuYWRkKCJ0eXBlIiwgdHlwZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29udGVudAo=</text>
+        <text encoding="base64">CQkJLy8JCQltYXAuYWRkKCJ3c19pZCIsIHdzSWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJdHlwZSwK</text>
+        <text encoding="base64">CQkJY29udGVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJd3NJZCwK</text>
+        <text encoding="base64">CQkJdHlwZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiY29udGVudCIsIHZhbHVlID0gIumps+WbnueQhueUsSIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
+        <text encoding="base64">CQkJd3NJZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAidHlwZSIsIHZhbHVlID0gIuaYr+WQpuWQjOaEj+S/ruaUuTEu5ZCM5oSP77ybMi7pqbPlm54iLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwK</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiY29udGVudCIsIHZhbHVlID0gIumps+WbnueQhueUsSIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAid3NJZCIsIHZhbHVlID0gIueUqOaIt+W3peWPtyIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAidHlwZSIsIHZhbHVlID0gIuaYr+WQpuWQjOaEj+S/ruaUuTEu5ZCM5oSP77ybMi7pqbPlm54iLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>? = null</last-substitute>
       <last-dir>1</last-dir>
@@ -482,7 +483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userInfo</entry>
         <entry>private</entry>
         <entry encoding="base64">ID0gbnVsbA==</entry>
         <entry>save</entry>
@@ -502,6 +502,7 @@
         <entry>evaluateOr</entry>
         <entry>detail</entry>
         <entry>user</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry>s/spec_array/feel/g</entry>
