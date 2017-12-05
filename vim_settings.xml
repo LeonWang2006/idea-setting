@@ -39,7 +39,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1512380176005">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1512462392669">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
@@ -178,6 +178,9 @@
         <mark key="." line="31" column="29" />
         <mark key="^" line="33" column="16" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build/libs/spring-boot.log" timestamp="1512463245498">
+        <mark key="[" line="9434" column="181" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1511508723231">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="86" column="0" />
@@ -261,6 +264,11 @@
         <mark key="^" line="0" column="1048" />
         <mark key="." line="0" column="1049" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1512462971269">
+        <mark key="[" line="192" column="27" />
+        <mark key="]" line="192" column="27" />
+        <mark key="." line="192" column="27" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogList.kt" timestamp="1508825999982">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="417" />
@@ -318,6 +326,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1512462355992" />
     </filemarks>
     <jumps>
       <jump line="24" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogManage.kt" />
@@ -422,11 +431,11 @@
       <jump line="146" column="441" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">R0VUIA==</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text encoding="base64">R0VUIA==</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
