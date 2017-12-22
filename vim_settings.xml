@@ -223,8 +223,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/60e7fa6e-5d66-4095-bdba-99c4b366ffff/console.sql" timestamp="1513932671802">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/60e7fa6e-5d66-4095-bdba-99c4b366ffff/console.sql" timestamp="1513933881412">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1513598021647">
         <mark key="[" line="0" column="0" />
@@ -432,11 +434,11 @@
       <jump line="855" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2hvdyBjaGFyc2V0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>SELECT version();</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>SELECT version();</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
