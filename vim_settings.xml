@@ -223,12 +223,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/60e7fa6e-5d66-4095-bdba-99c4b366ffff/console.sql" timestamp="1513933881412">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/60e7fa6e-5d66-4095-bdba-99c4b366ffff/console.sql" timestamp="1513934595395">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="77" />
       </file>
-      <file name="/dummy.sql" timestamp="1513598021647">
+      <file name="/dummy.sql" timestamp="1513934565946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -435,16 +436,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SELECT version();</text>
+        <text>ALTER TABLE table_name CHANGE column_name VARCHAR(191) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</text>
       </register>
       <register name="-" type="4">
-        <text>SELECT version();</text>
+        <text>ALTER TABLE table_name CHANGE column_name VARCHAR(191) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQloaWthcmlDb25maWcucGFzc3dvcmQgPSBwYXNzd29yZAo=</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgcG9zdHMgQ09OVkVSVCBUTyBDSEFSQUNURVIgU0VUIHV0ZjhtYjQgQ09MTEFURSB1dGY4bWI0X3VuaWNvZGVfY2k7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2hvdyBjaGFyc2V0Owo=</text>
