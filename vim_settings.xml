@@ -46,11 +46,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1513930791815">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1514268075721">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
-        <mark key="^" line="139" column="10" />
+        <mark key="^" line="140" column="2" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1512120799387">
         <mark key="[" line="43" column="32" />
@@ -434,10 +434,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ALTER TABLE table_name CHANGE column_name VARCHAR(191) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</text>
+        <text>443</text>
       </register>
       <register name="-" type="4">
-        <text>ALTER TABLE table_name CHANGE column_name VARCHAR(191) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</text>
+        <text>443</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
