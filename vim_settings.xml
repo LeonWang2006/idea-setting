@@ -58,7 +58,7 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1511399723895">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1514341943414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -68,10 +68,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console.sql" timestamp="1513343549363">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console.sql" timestamp="1514341908211">
+        <mark key="[" line="0" column="984" />
+        <mark key="]" line="0" column="984" />
+        <mark key="." line="0" column="984" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1512722038205">
         <mark key="[" line="211" column="47" />
@@ -186,7 +186,7 @@
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="/a.sql" timestamp="1514202361503">
+      <file name="/a.sql" timestamp="1514341983853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
@@ -227,7 +227,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="77" />
       </file>
-      <file name="/dummy.sql" timestamp="1514202343544">
+      <file name="/dummy.sql" timestamp="1514342523447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -434,7 +434,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>443</text>
+        <text>]
+
+
+SHOW VARIABLES WHERE Variable_name LIKE 'character_set_%' OR Variable_name LIKE 'collation%';
+
+ALTER DATABASE ws_app CHARACTER SET utf8mb4 COLLATE utf</text>
       </register>
       <register name="-" type="4">
         <text>443</text>
@@ -445,28 +450,36 @@
       <register name="0" type="2">
         <text encoding="base64">QUxURVIgVEFCTEUgcG9zdHMgQ09OVkVSVCBUTyBDSEFSQUNURVIgU0VUIHV0ZjhtYjQgQ09MTEFURSB1dGY4bWI0X3VuaWNvZGVfY2k7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2hvdyBjaGFyc2V0Owo=</text>
+      <register name="1" type="4">
+        <text>]
+
+
+SHOW VARIABLES WHERE Variable_name LIKE 'character_set_%' OR Variable_name LIKE 'collation%';
+
+ALTER DATABASE ws_app CHARACTER SET utf8mb4 COLLATE utf</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBEQVRFX0ZPUk1BVChsb2cubG9nX2RhdGUsICclWS0lbS0lZCcpID49ID8KICBBTkQgREFURV9GT1JNQVQobG9nLmxvZ19kYXRlLCAnJVktJW0tJWQnKSA8PSA/CiAgYW5k</text>
+      <register name="2" type="2">
+        <text encoding="base64">c2hvdyBjaGFyc2V0Owo=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICBEQVRFX0ZPUk1BVChsb2cubG9nX2RhdGUsICclWS0lbS0lZCcpID49ID8KICBBTkQgREFURV9GT1JNQVQobG9nLmxvZ19kYXRlLCAnJVktJW0tJWQnKSA8PSA/CiAgYW5k</text>
+      </register>
+      <register name="4" type="4">
         <text>GROUP BY log.log_id
 HAVING 1 = 1
 ORDER BY is_read ASC, create_time DESC, evaluate_count DESC, LENGTH(suggestion) DESC, LENGTH(experience) DESC,
   word_count DESC,</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">V0hFUkUgbG9nLmxvZ19kZXRhaWxfdHlwZSA9ICfogYzotKPml6Xlv5cnCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">QU5ECiAgICAgIGRhdGUgPj0gJzIwMTctMTEtMDgnIEFORCBkYXRlIDw9ICcyMDE3LTEyLTA4Jw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>SELECT
   log.log_id,
   log.employee_id,
@@ -476,14 +489,11 @@ ORDER BY is_read ASC, create_time DESC, evaluate_count DESC, LENGTH(suggestion) 
   GROUP_CONCAT(log.log_content, '''') AS log_content,
   IF(</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgZmluZF9pbl9zZXQoJycwMzEwMDAwMScnLCBsb2cucmVhZF93c19pZCkgPiAwLCAxLCAwKSBBUyBpc19yZWFkLCBJRiAoZmluZF9pbl9zZXQoJycwMzEwMDAwMScnLCBHUk9VUF9DT05DQVQobG9nLmV2YWx1YXRlX3dzX2lkKSkgPiAwLCAxLCAwKSBBUyBpc19ldmFsdWF0ZSwgbG9nLmV2YWx1YXRlX3N0YXQsIERBVEUsIGRhdGVfZm9ybWF0KGxvZy5jcmVhdGVfdGltZSwgJyclWS0lbS0lZCAlSDolaTolcycnKSBBUyBjcmVhdGVfdGltZSwgbG9nLmV2YWx1YXRlX2NvdW50LCBMRU5HVEgobG9nLnN1Z2dlc3Rpb24pIEFTIHN1Z2dlc3Rpb25fY291bnQsIExFTkdUSChsb2cuZXhwZXJpZW5jZSkgQVMgZXhwZXJpZW5jZV9jb3VudCwgbG9nLm9wZXJhdGVfY291bnQsIGxvZy52aWV3X2NvdW50LCBsb2cud29yZF9jb3VudCwgbG9nLmZlZWwgRlJPTSBgYXBwX3VzZXJfbG9nc2AgbG9nIExFRlQgSk9JTiBhcHBfdXNlciBgdXNlcmAgT04gKGxvZy5lbXBsb3llZV9pZD1gdXNlcmAuZW1wbG95ZWVfaWQpIFdIRVJFIGxvZy5sb2dfZGV0YWlsX3R5cGUgPSAnJ+iBjOi0o+aXpeW/lycnIEFORCAobG9nLmluZGlyZWN0IExJS0UgJyclMDMxMDAwMDElJycgT1IgbG9nLnJlcG9ydF90byA9ICcnMDMxMDAwMDEnJykgQU5EIERBVEUgPj0gJycyMDE3LTExLTA4JycgQU5EIERBVEUgPD0gJycyMDE3LTEyLTA4JycgR1JPVVAgQlkgbG9nLmxvZ19pZCBIQVZJTkcgMSA9IDEgT1JERVIgQlkgaXNfcmVhZCBBU0MsIGNyZWF0ZV90aW1lIERFU0MsIGV2YWx1YXRlX2NvdW50IERFU0MsIExFTkdUSChzdWdnZXN0aW9uKSBERVNDLCBMRU5HVEgoZXhwZXJpZW5jZSkgREVTQywgd29yZF9jb3VudCBERVNDLCBsb2cubG9nX2lkIERFU0MgTElNSVQgMCwgMTAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWxvZ0RldGFpbC5leHBlcmllbmNlU2hhcmUgPSBpdC5leHBlcmllbmNlU2hhcmUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aGlzLmV4cGVyaWVuY2UgPSBleHBlcmllbmNlCg==</text>
+        <text encoding="base64">CQkJCWxvZ0RldGFpbC5leHBlcmllbmNlU2hhcmUgPSBpdC5leHBlcmllbmNlU2hhcmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
