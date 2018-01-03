@@ -168,11 +168,12 @@
         <mark key="^" line="46" column="21" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1514952046100">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="50" />
-        <mark key="^" line="6" column="33" />
-        <mark key="." line="6" column="46" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1514958235639">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="7" column="60" />
+        <mark key="]" line="7" column="65" />
+        <mark key="^" line="7" column="65" />
+        <mark key="." line="7" column="65" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
@@ -335,9 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="1020" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="100" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" />
       <jump line="143" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" />
       <jump line="66" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="87" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -435,19 +433,22 @@
       <jump line="724" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="789" column="41" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="855" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="8" column="62" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" />
+      <jump line="17" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" />
+      <jump line="7" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>消息发送者工号</text>
+        <text>万兴科技</text>
       </register>
       <register name="-" type="4">
-        <text>消息发送者工号</text>
+        <text>万兴科技</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text>, example = &quot;万兴科技&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>股票名称</text>
+        <text>开盘价</text>
       </register>
       <register name="1" type="4">
         <text>SELECT
@@ -489,22 +490,20 @@
         <text encoding="base64">XQoKU0VMRUNUICoKRlJPTSBgYXBwX3VzZXJfbG9nc2AgbG9nIExFRlQgSk9JTiBhcHBfdXNlciBgdXNlcmAgT04gKGxvZy5lbXBsb3llZV9pZCA9IGB1c2VyYC5lbXBsb3llZV9pZCkKV0hFUkUgbG9nLmxvZ19kZXRhaWxfdHlwZSA9ICfogYzotKPml6Xlv5cnIEFORAogICAgICAobG9nLmluZGlyZWN0IExJS0UgJyUwMzEwMDAwNCUnIE9SIGxvZy5yZXBvcnRfdG8gPSAnMDMxMDAwMDQnIE9SIGxvZy5ocmRfaWQgTElLRSAnJTAzMTAwMDA0JScpIEFORAogICAgICBkYXRlID49ICcyMDE3LTExLTAxJyBBTkQgZGF0ZSA8PSAnMjAxNy0xMS0yMScKR1JPVVAgQlkgbG9nLmxvZ19pZApMSU1JVCAwLCAxMDsKCkVYUExBSU4gU0VMRUNUICoKICAgICAgICBGUk9NIGBhcHBfdXNlcl9sb2dzYCBsb2cgTEVGVCBKT0lOIGFwcF91c2VyIGB1c2VyYCBPTiAobG9nLmVtcGxveWVlX2lkID0gYHVzZXJgLmVtcGxveWVlX2lkKQogICAgICAgIFdIRVJFIGxvZy5sb2dfZGV0YWlsX3R5cGUgPSAn6IGM6LSj5pel5b+XJyBBTkQKICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>.,$s/, example = &quot;万兴科技&quot;//g</text>
       </register>
     </registers>
     <search>
-      <last-search>detail</last-search>
+      <last-search>, example = &quot;万兴科技&quot;</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute>? = null</last-substitute>
+      <last-pattern>, example = &quot;万兴科技&quot;</last-pattern>
+      <last-replace />
+      <last-substitute>, example = &quot;万兴科技&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ID0gbnVsbA==</entry>
-        <entry>logger</entry>
         <entry>? = null</entry>
         <entry>avatar</entry>
         <entry>userMap</entry>
@@ -523,13 +522,10 @@
         <entry>details</entry>
         <entry>save</entry>
         <entry>detail</entry>
+        <entry>example = &quot;万兴科技&quot;</entry>
+        <entry>, example = &quot;万兴科技&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>s/spec_array/feel/g</entry>
-        <entry>s/like/=/g</entry>
-        <entry>/\/list</entry>
-        <entry>s/private//g</entry>
-        <entry>%s/var //</entry>
         <entry>s/var //g</entry>
         <entry>s/ String?//g</entry>
         <entry>%s/private //g</entry>
@@ -545,6 +541,11 @@
         <entry>s/? = null/,/g</entry>
         <entry>%,s/? = null/,/g</entry>
         <entry>w</entry>
+        <entry>%s/example = &quot;万兴科技&quot;//g</entry>
+        <entry>%s/, example = &quot;万兴科技&quot;//g</entry>
+        <entry>.,s/, example = &quot;万兴科技&quot;//g</entry>
+        <entry>.s/, example = &quot;万兴科技&quot;//g</entry>
+        <entry>.,$s/, example = &quot;万兴科技&quot;//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
