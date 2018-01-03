@@ -85,6 +85,7 @@
         <mark key="]" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/SysNotify.java" timestamp="1514951964906" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.kt" timestamp="1513347578509">
         <mark key="[" line="47" column="21" />
         <mark key="]" line="47" column="21" />
@@ -167,6 +168,12 @@
         <mark key="^" line="46" column="21" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1514952046100">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="50" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="46" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -180,6 +187,9 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/build/libs/spring-boot.log" timestamp="1512463245498">
         <mark key="[" line="9434" column="181" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/Stock.kt" timestamp="1514950992180">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1511508723231">
         <mark key="[" line="85" column="0" />
@@ -296,13 +306,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1513328158978">
-        <mark key="'" line="855" column="17" />
-        <mark key="[" line="789" column="46" />
-        <mark key="]" line="69" column="53" />
-        <mark key="." line="69" column="53" />
-        <mark key="^" line="69" column="53" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1512443711074">
         <mark key="[" line="55" column="0" />
@@ -435,16 +438,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFVOSU9OIFNFTEVDVCB0LmZkX2lkLCB0LmZkX3N1YmplY3QsIDIgQVMgdHlwZSwgdC5mZF9saW5rLCB0LmZkX2NyZWF0ZV90aW1lIEZST00gW2Rib10uW3N5c19ub3RpZnlfdG9kb10gdCBMRUZUIEpPSU4gZGJvLnN5c19ub3RpZnlfdG9kb19kb25lX2luZm8gZCBPTiAodC5mZF9pZCA9IGQuZmRfdG9kb2lkKSBMRUZUIEpPSU4gZGJvLnN5c19vcmdfZWxlbWVudCBlIE9OIChkLmZkX2VsZW1lbnRpZCA9IGUuZmRfaWQpIFdIRVJFIHQuZmRfdHlwZSA9IDEgQU5EIGUuZmRfbm8gPSAnMDkwODA2NjEnKQ==</text>
+        <text>消息发送者工号</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFVOSU9OIFNFTEVDVCB0LmZkX2lkLCB0LmZkX3N1YmplY3QsIDIgQVMgdHlwZSwgdC5mZF9saW5rLCB0LmZkX2NyZWF0ZV90aW1lIEZST00gW2Rib10uW3N5c19ub3RpZnlfdG9kb10gdCBMRUZUIEpPSU4gZGJvLnN5c19ub3RpZnlfdG9kb19kb25lX2luZm8gZCBPTiAodC5mZF9pZCA9IGQuZmRfdG9kb2lkKSBMRUZUIEpPSU4gZGJvLnN5c19vcmdfZWxlbWVudCBlIE9OIChkLmZkX2VsZW1lbnRpZCA9IGUuZmRfaWQpIFdIRVJFIHQuZmRfdHlwZSA9IDEgQU5EIGUuZmRfbm8gPSAnMDkwODA2NjEnKQ==</text>
+        <text>消息发送者工号</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAicGFnZVNpemUiLCB2YWx1ZSA9ICLmr4/pobXmmL7npLrorrDlvZXmlbAiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwK</text>
+      <register name="0" type="4">
+        <text>股票名称</text>
       </register>
       <register name="1" type="4">
         <text>SELECT
