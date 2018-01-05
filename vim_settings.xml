@@ -86,11 +86,10 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1515132753720">
-        <mark key="[" line="20" column="133" />
-        <mark key="]" line="20" column="133" />
-        <mark key="." line="20" column="133" />
-        <mark key="^" line="20" column="42" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1515135311969">
+        <mark key="[" line="20" column="124" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1515123137911">
         <mark key="[" line="0" column="0" />
@@ -389,11 +388,11 @@
       <jump line="697" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/index.html</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLmh0dHBCYXNpYygpLmRpc2FibGUoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/index.html</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>getFor</text>
@@ -402,12 +401,15 @@
         <text encoding="base64">CQkJCXJzPy5nZXRTdHJpbmcoImZkX2NyZWF0ZV90aW1lIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXJzPy5nZXRTdHJpbmcoImZkX2xpbmsiKT8udG9JbnQoKSwK</text>
+        <text encoding="base64">CQkJLmh0dHBCYXNpYygpLmRpc2FibGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCXJzPy5nZXRTdHJpbmcoImZkX2xpbmsiKT8udG9JbnQoKSwK</text>
+      </register>
+      <register name="3" type="4">
         <text>{
 
 	var id: Int? = null
@@ -431,26 +433,23 @@
 	constructor()
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQkJCWl0ZW1BcnIuYWRkKFN0b2NrSG91cmx5SXRlbShpdCxudWxsLG51bGwsbnVsbCkpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQkJfSBlbHNlIHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJLy8JCQkJCQlpdGVtQXJyLmFkZChpdGVtKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkvL+mBjeWOhuaXtumXtOWIu+W6puaooeeJiO+8jOS7pXjovbTml7bpl7TkuLrln7rlh4bmnoTlu7rmlbDmja4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQlMb2NhbFRpbWUub2YoOSwzMCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXRpbWVYLmFkZChzdGFydFRpbWUuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigiaGg6bW0iKSkpCg==</text>
+        <text encoding="base64">CQkJCQlMb2NhbFRpbWUub2YoOSwzMCkK</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/, example = &quot;万兴科技&quot;//g</text>
