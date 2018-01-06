@@ -44,12 +44,14 @@
         <mark key="]" line="0" column="984" />
         <mark key="." line="0" column="984" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/RestApplication.kt" timestamp="1515219410247">
+        <mark key="[" line="14" column="12" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/HrsRepository.kt" timestamp="1504768655394">
         <mark key="[" line="13" column="55" />
         <mark key="]" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/SysNotify.java" timestamp="1514951964906" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.kt" timestamp="1513347578509">
         <mark key="[" line="47" column="21" />
         <mark key="]" line="47" column="21" />
@@ -64,6 +66,9 @@
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_2.sql" timestamp="1513598057761">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AttendanceWrapper.kt" timestamp="1508411596331">
         <mark key="[" line="2" column="40" />
@@ -91,10 +96,15 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1515123137911">
+      <file name="/fragment.kt" timestamp="1515221829222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestCacheRedisConfig.kt" timestamp="1515218194900">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1515146345637">
         <mark key="[" line="100" column="36" />
@@ -112,7 +122,12 @@
         <mark key="]" line="1839" column="72" />
         <mark key="." line="1839" column="72" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" timestamp="1515059962869">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1515221920245">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" timestamp="1515219101025">
         <mark key="[" line="32" column="108" />
         <mark key="]" line="32" column="108" />
         <mark key="." line="32" column="108" />
@@ -144,11 +159,11 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="8" column="69" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1515206762574">
-        <mark key="[" line="119" column="38" />
-        <mark key="]" line="119" column="36" />
-        <mark key="." line="119" column="36" />
-        <mark key="^" line="119" column="36" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1515221537333">
+        <mark key="[" line="120" column="35" />
+        <mark key="]" line="120" column="37" />
+        <mark key="." line="120" column="37" />
+        <mark key="^" line="120" column="56" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourly.kt" timestamp="1515117427040">
         <mark key="[" line="7" column="19" />
@@ -168,13 +183,16 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/Stock.kt" timestamp="1514950992180">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build/libs/spring-boot.log" timestamp="1512463245498">
+        <mark key="[" line="9434" column="181" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveList.kt" timestamp="1505991782591">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
+      </file>
+      <file name="/a.sql" timestamp="1514369089442">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
         <mark key="[" line="0" column="22" />
@@ -190,6 +208,9 @@
         <mark key="[" line="29" column="20" />
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console_2.sql" timestamp="1513347781433">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1515145652571">
         <mark key="[" line="17" column="15" />
@@ -240,6 +261,9 @@
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="26" />
         <mark key="." line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/HrsDataSourceJpaConfig.kt" timestamp="1513347459604">
+        <mark key="[" line="46" column="74" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1512462971269">
         <mark key="[" line="192" column="27" />
@@ -393,67 +417,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy9BUyBhIFdoZXJlIGZkX2NyZWF0ZV90aW1lID49ICcyMDE3LTEwLTAxJyBBTkQgZmRfY3JlYXRlX3RpbWUgPD0gJycK</text>
+        <text encoding="base64">CQkJCQllbHNlIC0+IHsKCQkJCQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEFORCBmZF9jcmVhdGVfdGltZSA8PSAnJw==</text>
+        <text>indexOf</text>
       </register>
       <register name="/" type="4">
         <text>getFor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl9IGVsc2UgaWYgKHN0YXJ0RGF0ZSAhPSBudWxsKSB7CgkJCWJhc2VTcWwucmVwbGFjZSgiQVMgYSIsIldoZXJlIGZkX2NyZWF0ZV90aW1lID49ICckc3RhcnREYXRlJyIpCg==</text>
+        <text encoding="base64">CQkJCQkJcGFyYW1zQXJyLmFkZChvYmoudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy9BUyBhIFdoZXJlIGZkX2NyZWF0ZV90aW1lID49ICcyMDE3LTEwLTAxJyBBTkQgZmRfY3JlYXRlX3RpbWUgPD0gJycK</text>
+        <text encoding="base64">CQkJCQllbHNlIC0+IHsKCQkJCQl9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJYmFzZVNxbC5yZXBsYWNlKCJBUyBhIiwiV2hlcmUgZmRfY3JlYXRlX3RpbWUgPj0gJyRzdGFydERhdGUnIEFORCBmZF9jcmVhdGVfdGltZSA8PSAnJyIpCg==</text>
+        <text encoding="base64">CQkJCQkJY29udGludWVAbG9vcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJcGFyYW1zQXJyLmFkZChvYmoudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+        <text encoding="base64">CQkJCQkJY29udGludWVAbG9vcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
+        <text encoding="base64">CQkJCQkJcGFyYW1zQXJyLmFkZChvYmoudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLmh0dHBCYXNpYygpLmRpc2FibGUoKQo=</text>
+        <text encoding="base64">CQkJCQkJcGFyYW1zQXJyLmFkZChvYmoudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXJzPy5nZXRTdHJpbmcoImZkX2xpbmsiKT8udG9JbnQoKSwK</text>
+        <text encoding="base64">CQkJCQkJY29udGludWVAbG9vcAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-
-	var id: Int? = null
-	var oaId: String? = null
-	var title: String? = null
-	var link: String? = null
-	var status: Int? = null
-	var date: String? = null
-	var finishTime: String? = null
-
-	constructor(id: Int?, oaId: String?, title: String?, status: Int?, link: String?, date: String?, finishTime: String?) {
-
-		this.id = id
-		this.oaId = oaId
-		this.title = title
-		this.status = status
-		this.link = link
-		this.date = date
-	}
-
-	constructor()
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJcHJpbnRsbigia2tra2tra2tra2siKQo=</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/, example = &quot;万兴科技&quot;//g</text>
