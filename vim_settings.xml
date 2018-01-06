@@ -8,10 +8,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1515206644707">
-        <mark key="[" line="43" column="65" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1515226139490">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="48" column="89" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.kt" timestamp="1512735579800">
         <mark key="[" line="163" column="41" />
@@ -158,11 +159,10 @@
         <mark key="]" line="1839" column="72" />
         <mark key="." line="1839" column="72" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1515224155058">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="72" />
-        <mark key="^" line="72" column="63" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1515225174330">
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="83" column="42" />
+        <mark key="." line="83" column="42" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" timestamp="1515219101025">
         <mark key="[" line="32" column="108" />
@@ -496,46 +496,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZWRpc1RlbXBsYXRlLmtleVNlcmlhbGl6ZXIgPSBnZW5lcmljSmFja3NvbjJKc29uUmVkaXNTZXJpYWxpemVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IGQkZ3JvdXA6ICdjb20uZmFzdGVyeG1sLmphY2tzb24uamF4cnMnLCBuYW1lOiAnamFja3Nvbi1qYXhycy1qc29uLXByb3ZpZGVyJywgdmVyc2lvbjogJyRqYWNrc29uX3ZlcnNpb24n</text>
       </register>
       <register name="/" type="4">
         <text>getFor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlyZWRpc1RlbXBsYXRlLmhhc2hLZXlTZXJpYWxpemVyID0gZ2VuZXJpY0phY2tzb24ySnNvblJlZGlzU2VyaWFsaXplcgo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUoImNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5qYXhyczpqYWNrc29uLWpheHJzLWpzb24tcHJvdmlkZXI6JGphY2tzb25fdmVyc2lvbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZWRpc1RlbXBsYXRlLmtleVNlcmlhbGl6ZXIgPSBnZW5lcmljSmFja3NvbjJKc29uUmVkaXNTZXJpYWxpemVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YWwgZ2VuZXJpY0phY2tzb24ySnNvblJlZGlzU2VyaWFsaXplciA9IEdlbmVyaWNKYWNrc29uMkpzb25SZWRpc1NlcmlhbGl6ZXIoKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU6amFja3Nvbi1tb2R1bGUta290bGluOiRqYWNrc29uX3ZlcnNpb24iCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CQkJbG9vcEAgZm9yIChvYmogaW4gYXJncykgewoKCQkJCWlmICghb2JqLnRvU3RyaW5nKCkuY29udGFpbnMoIlNlY3VyaXR5Q29udGV4dEhvbGRlckF3YXJlUmVxdWVzdFdyYXBwZXIiKSl7CgkJCQkJcGFyYW1zQXJyLmFkZChvYmoudG9TdHJpbmcoKSkKCQkJCX0KCi8vCQkJCXdoZW4gKG9iaikgewovLwkJCQkJIW9iai50b1N0cmluZygpLmNvbnRhaW5zKCJTZWN1cml0eUNvbnRleHRIb2xkZXJBd2FyZVJlcXVlc3RXcmFwcGVyIikgLT4gewovLwkJCQkJCXBhcmFtc0Fyci5hZGQob2JqLnRvU3RyaW5nKCkpCi8vCQkJCQl9Ci8vCQkJCX0KCgkJCX0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmZhc3RlcnhtbC5qYWNrc29uLmpheHJzL2phY2tzb24tamF4cnMtanNvbi1wcm92aWRlcgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQkJbG9vcEAgZm9yIChvYmogaW4gYXJncykgewoKCQkJCWlmICghb2JqLnRvU3RyaW5nKCkuY29udGFpbnMoIlNlY3VyaXR5Q29udGV4dEhvbGRlckF3YXJlUmVxdWVzdFdyYXBwZXIiKSl7CgkJCQkJcGFyYW1zQXJyLmFkZChvYmoudG9TdHJpbmcoKSkKCQkJCX0KCi8vCQkJCXdoZW4gKG9iaikgewovLwkJCQkJIW9iai50b1N0cmluZygpLmNvbnRhaW5zKCJTZWN1cml0eUNvbnRleHRIb2xkZXJBd2FyZVJlcXVlc3RXcmFwcGVyIikgLT4gewovLwkJCQkJCXBhcmFtc0Fyci5hZGQob2JqLnRvU3RyaW5nKCkpCi8vCQkJCQl9Ci8vCQkJCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmUvamFja3Nvbi1kYXRhYmluZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20uZmFzdGVyeG1sLmphY2tzb24uY29yZScsIG5hbWU6ICdqYWNrc29uLWRhdGFiaW5kJywgdmVyc2lvbjogJzIuOS4wJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQllbHNlIC0+IHsKCQkJCQl9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUoImNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5qYXhyczpqYWNrc29uLWpheHJzLWpzb24tcHJvdmlkZXI6Mi43LjMiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJY29udGludWVAbG9vcAo=</text>
+        <text encoding="base64">CQlyZWRpc1RlbXBsYXRlLmFmdGVyUHJvcGVydGllc1NldCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJcGFyYW1zQXJyLmFkZChvYmoudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">CQlyZWRpc1RlbXBsYXRlLnNldENvbm5lY3Rpb25GYWN0b3J5KGZhY3RvcnkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">CQl2YWwgZ2VuZXJpY0phY2tzb24ySnNvblJlZGlzU2VyaWFsaXplciA9IEdlbmVyaWNKYWNrc29uMkpzb25SZWRpc1NlcmlhbGl6ZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/, example = &quot;万兴科技&quot;//g</text>
