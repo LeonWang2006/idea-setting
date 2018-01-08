@@ -123,7 +123,7 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourlyItem.kt" timestamp="1515229672253">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourlyItem.kt" timestamp="1515408443053">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="8" column="63" />
         <mark key="." line="8" column="63" />
@@ -160,10 +160,10 @@
         <mark key="]" line="440" column="0" />
         <mark key="." line="440" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1515396160607">
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="44" column="42" />
-        <mark key="." line="44" column="42" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1515408903339">
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="46" column="42" />
+        <mark key="." line="46" column="42" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" timestamp="1515219101025">
         <mark key="[" line="32" column="108" />
@@ -208,10 +208,11 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="8" column="69" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1515373168850">
-        <mark key="[" line="148" column="35" />
-        <mark key="]" line="148" column="16" />
-        <mark key="." line="148" column="16" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1515409079754">
+        <mark key="[" line="189" column="52" />
+        <mark key="]" line="181" column="32" />
+        <mark key="^" line="181" column="32" />
+        <mark key="." line="181" column="32" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourly.kt" timestamp="1515229604178">
         <mark key="[" line="9" column="1" />
@@ -507,16 +508,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>getFor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJaXRlbUFyci5hZGQoaXRlbU1hcFtpdF0gPzogU3RvY2tIb3VybHlJdGVtKGl0LCBudWxsLCBudWxsLCBudWxsKSkK</text>
+        <text encoding="base64">CQkJCQkJcHJldkRhdGEucHV0KCJwcmljZSIsaXRbMV0udG9Eb3VibGUoKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -524,26 +525,26 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgkJCQkgICAvLyBiZWZvcmVTZW5kIDogZnVuY3Rpb24ocmVxKSB7CgkJCQkJLy8gICByZXEuc2V0UmVxdWVzdEhlYWRlcignQXV0aG9yaXphdGlvbicsIGF1dGgpOwoJCQkJICAgLy8gfSw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8v5L+u6KGl5oiQ5Lqk6YeP5Li6MOeahOaVsOaNrgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgkJCQkvLyBiZWZvcmVTZW5kIDogZnVuY3Rpb24ocmVxKSB7CgkJCQkvLyAgICByZXEuc2V0UmVxdWVzdEhlYWRlcignQXV0aG9yaXphdGlvbicsIGF1dGgpOwoJCQkJLy8gfSw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJCXZhbCB0bXBUaW1lID0gbWluWD8ucGx1c01pbnV0ZXMoLTEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJdmFyIGF1dGggPSBtYWtlX2Jhc2ljX2F1dGgoJzA5MDgwNjYxJywnMScpOwo=</text>
+        <text encoding="base64">CQkJCQkJdmFsIGl0ZW0gPSBTdG9ja0hvdXJseUl0ZW0oCgkJCQkJCQlpdFswXSwgaXRbMV0udG9Eb3VibGUoKSwgaXRbMl0udG9JbnQoKSwgaXRbMl0udG9Eb3VibGUoKSAvIDUKCQkJCQkJKQoJCQkJCQlpdGVtTWFwLnB1dChpdFswXSwgaXRlbSkK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkJCQltaW5YID0gTG9jYWxUaW1lLnBhcnNlKGl0WzBdKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQkJCXN0b2NrX2NvZGUgPSAnc3ozMDA2ODgnCgkJCX0gZWxzZSB7</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgkJCQkgICAvLyBiZWZvcmVTZW5kIDogZnVuY3Rpb24ocmVxKSB7CgkJCQkJLy8gICByZXEuc2V0UmVxdWVzdEhlYWRlcignQXV0aG9yaXphdGlvbicsIGF1dGgpOwoJCQkJICAgLy8gfSw=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
