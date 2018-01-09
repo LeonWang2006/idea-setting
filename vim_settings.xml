@@ -208,11 +208,10 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="8" column="69" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1515459298581">
-        <mark key="[" line="118" column="57" />
-        <mark key="]" line="118" column="57" />
-        <mark key="." line="118" column="57" />
-        <mark key="^" line="118" column="38" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1515464243715">
+        <mark key="[" line="202" column="25" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourly.kt" timestamp="1515229604178">
         <mark key="[" line="9" column="1" />
@@ -226,7 +225,7 @@
         <mark key="^" line="46" column="21" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1515229185739">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1515463517950">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="0" />
@@ -507,11 +506,11 @@
       <jump line="697" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCS8vCQkJCQkJCW1pblggPSBMb2NhbFRpbWUucGFyc2UoIjA4OjAwOjAwIikK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
         <text>getFor</text>
@@ -520,34 +519,34 @@
         <text>.plusMinutes(1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCWZvciAoKQo=</text>
+        <text encoding="base64">CQkJCQkJCS8vCQkJCQkJCW1pblggPSBMb2NhbFRpbWUucGFyc2UoIjA4OjAwOjAwIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJdmFsIHBlcmlvZDogUGVyaW9kID0gUGVyaW9kLmJldHdlZW4oKQo=</text>
+        <text encoding="base64">CQkJCQkJCS8v6YeN572u57yT5a2YCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlpZiAodGltZSA9PSAiMDk6MjUiKSByZXR1cm5AY29udGludWluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29udGludWUKCQkJCQk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CQkJcmVzdWx0QXJyLnNvcnRlZEJ5RGVzY2VuZGluZyB7CgoJCQl9</text>
+        <text encoding="base64">CQkJCQkJLy/loavlhaXlvZPliY3mlbDmja4KCQkJCQkJCXZhbCBjdXJySXRlbSA9IFN0b2NrSG91cmx5SXRlbSgKCQkJCQkJCQlpdFswXSwgaXRbMV0udG9Eb3VibGUoKSwgaXRbMl0udG9JbnQoKSwgaXRbMl0udG9Eb3VibGUoKSAvIDUKCQkJCQkJCSkKCQkJCQkJCWl0ZW1NYXAucHV0KGl0WzBdLCBjdXJySXRlbSk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQltaW5YID0gbWluWC5wbHVzTWludXRlcygxKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8JCQlyZXN1bHRBcnIuc29ydFdpdGgoQ29tcGFyYXRvciB7IGxocywgcmhzIC0+Ci8vCQkJCXZhbCBpMSA9IGxocy50b0ludCgpCi8vCQkJCXZhbCBpMiA9IHJocy50b0ludCgpCi8vCQkJCXdoZW4gewovLwkJCQkJaTEgPCBpMiAtPiAtMQovLwkJCQkJaTEgPiBpMiAtPiAxCi8vCQkJCQllbHNlIC0+IDAKLy8JCQkJfQovLwkJCX0p</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJCWZvciAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXZhbCBpMiA9IG8yWzBdCg==</text>
+        <text encoding="base64">CQkJCQkJdmFsIHBlcmlvZDogUGVyaW9kID0gUGVyaW9kLmJldHdlZW4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/, example = &quot;万兴科技&quot;//g</text>
