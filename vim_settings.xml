@@ -134,7 +134,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1515415736394">
+      <file name="/fragment.kt" timestamp="1515476989824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
@@ -155,11 +155,10 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1515470369861">
-        <mark key="[" line="346" column="64" />
-        <mark key="]" line="261" column="0" />
-        <mark key="^" line="260" column="0" />
-        <mark key="." line="261" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1515476696790">
+        <mark key="[" line="340" column="0" />
+        <mark key="]" line="340" column="0" />
+        <mark key="." line="340" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1515408903339">
         <mark key="[" line="46" column="42" />
@@ -209,10 +208,11 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="8" column="69" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1515464243715">
-        <mark key="[" line="202" column="25" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1515477187078">
+        <mark key="[" line="175" column="25" />
+        <mark key="]" line="190" column="149" />
+        <mark key="." line="190" column="149" />
+        <mark key="^" line="190" column="149" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourly.kt" timestamp="1515229604178">
         <mark key="[" line="9" column="1" />
@@ -405,7 +405,6 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1515373704393" />
     </filemarks>
     <jumps>
-      <jump line="66" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="87" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="506" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="7" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/HrsLogOperate.kt" />
@@ -505,6 +504,7 @@
       <jump line="17" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" />
       <jump line="7" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" />
       <jump line="697" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="341" column="27" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -526,28 +526,28 @@
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmbGFnID0gKHN0b2NrX2luZm8udm9sdW1lLmluZGV4T2YoJzDmiYsnKSA9PT0gLTEpICYmIHN0b2NrX2luZm8ub3BlbmluZyAhPT0gMCAmJiBzdG9ja19pbmZvLmhpZ2ggIT09IDAgJiYgc3RvY2tfaW5mby5sb3cgIT09IDAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIG1ha2VfYmFzaWNfYXV0aCh1c2VyLCBwYXNzd29yZCkgewogICAgICAgIHZhciB0b2sgPSB1c2VyICsgJzonICsgcGFzc3dvcmQ7CiAgICAgICAgdmFyIGhhc2ggPSAkLmJhc2U2NC5lbmNvZGUodG9rKTsKICAgICAgICByZXR1cm4gIkJhc2ljICIgKyBoYXNoOwogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjc3RvY2tfbWFya2V0JykuaHRtbCgn5YGc54mMJykK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkgICAkKCcjc3RvY2tfbWFya2V0JykuaHRtbCgn5bey5pS255uYJykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkgICAkKCcjc3RvY2tfbWFya2V0JykuaHRtbCgn5pyq5byA55uYJykK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkgICAkKCcjc3RvY2tfbWFya2V0JykuaHRtbCgn5Y2I6Ze05LyR5biCJykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkgICAkKCcjc3RvY2tfbWFya2V0JykuaHRtbCgn5Lqk5piT5LitJykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCS8vCQkJCQkJCW1pblggPSBMb2NhbFRpbWUucGFyc2UoIjA4OjAwOjAwIikK</text>
+        <text encoding="base64">CQkJCQkgICAkKCcjc3RvY2tfbWFya2V0JykuaHRtbCgn5Y2I6Ze05LyR5biCJykK</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/, example = &quot;万兴科技&quot;//g</text>
