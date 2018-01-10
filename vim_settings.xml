@@ -89,7 +89,6 @@
         <mark key="]" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/SysNotify.java" timestamp="1514951964906" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.kt" timestamp="1513347578509">
         <mark key="[" line="47" column="21" />
         <mark key="]" line="47" column="21" />
@@ -155,12 +154,11 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1515547530643">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1515548530512">
         <mark key="'" line="439" column="48" />
-        <mark key="[" line="508" column="0" />
-        <mark key="]" line="508" column="39" />
-        <mark key="^" line="475" column="86" />
-        <mark key="." line="508" column="0" />
+        <mark key="[" line="317" column="23" />
+        <mark key="]" line="289" column="34" />
+        <mark key="." line="289" column="34" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1515408903339">
         <mark key="[" line="46" column="42" />
@@ -404,7 +402,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1515373704393" />
     </filemarks>
     <jumps>
       <jump line="506" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -509,11 +506,11 @@
       <jump line="439" column="48" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0b2NrX21lc3NhZ2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>未开盘</text>
@@ -522,34 +519,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0b2NrX21lc3NhZ2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgc3RvY2tfYnJva2VuKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjc3RvY2tfcHJpY2UnKS5odG1sKCcwLjAwJykgLy8g6IKh56Wo5Lu3Cg==</text>
+        <text encoding="base64">CQkJICAgJCgnI3N0b2NrX3ByaWNlJykuaHRtbCgnMC4wMCcpIC8vIOiCoeelqOS7two=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVTdHlsZTogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vcm1hbDoge29wYWNpdHk6IDAuNX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkKCcjc3RvY2tfcHJpY2UnKS5odG1sKCcwLjAwJykgLy8g6IKh56Wo5Lu3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLy8gdmFyIGF1dGggPSBtYWtlX2Jhc2ljX2F1dGgoJzA5MDgwNjYxJywnYzRjYTQyMzhhMGI5MjM4MjBkY2M1MDlhNmY3NTg0OWInKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVTdHlsZTogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vcm1hbDoge29wYWNpdHk6IDAuNX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0s</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkJLy8gdmFyIGF1dGggPSBtYWtlX2Jhc2ljX2F1dGgoJzA5MDgwNjYxJywnYzRjYTQyMzhhMGI5MjM4MjBkY2M1MDlhNmY3NTg0OWInKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQkJLy8gZnVuY3Rpb24gbWFrZV9iYXNpY19hdXRoKHVzZXIsIHBhc3N3b3JkKSB7CgkJCS8vICAgdmFyIHRvayA9IHVzZXIgKyAnOicgKyBwYXNzd29yZDsKCQkJLy8gICB2YXIgaGFzaCA9ICQuYmFzZTY0LmVuY29kZSh0b2spOwoJCQkvLyAgIHJldHVybiAiQmFzaWMgIiArIGhhc2g7CgkJCS8vIH0=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQk8IS0tICDkvZzogIUgIC0tPgoJCTxtZXRhIG5hbWU9J2F1dGhvcicgY29udGVudD0naHVhbmcgYW5xaScvPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/, example = &quot;万兴科技&quot;//g</text>
