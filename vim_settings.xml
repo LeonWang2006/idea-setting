@@ -31,7 +31,7 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1515659999325">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1515661216524">
         <mark key="[" line="91" column="82" />
         <mark key="]" line="91" column="82" />
         <mark key="." line="91" column="82" />
@@ -302,7 +302,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="77" />
       </file>
-      <file name="/dummy.sql" timestamp="1515654467973">
+      <file name="/dummy.sql" timestamp="1515662159871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -509,10 +509,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text>VARCHAR(255)</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>VARCHAR(255)</text>
       </register>
       <register name="/" type="4">
         <text>03100004</text>
