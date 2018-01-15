@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1516002106076">
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="48" column="15" />
-        <mark key="." line="48" column="15" />
-        <mark key="^" line="41" column="45" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1516008733050">
+        <mark key="[" line="0" column="222" />
+        <mark key="]" line="0" column="221" />
+        <mark key="." line="0" column="221" />
+        <mark key="^" line="0" column="221" />
       </file>
       <file name="$USER_HOME$/gitRepository/spring-boot-kotlin-demo/settings.gradle" timestamp="1504524760658">
         <mark key="[" line="0" column="0" />
@@ -308,7 +308,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="77" />
       </file>
-      <file name="/dummy.sql" timestamp="1515997389743">
+      <file name="/dummy.sql" timestamp="1516008299066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -377,12 +377,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1516004455982">
-        <mark key="'" line="190" column="29" />
-        <mark key="[" line="510" column="20" />
-        <mark key="]" line="510" column="20" />
-        <mark key="." line="510" column="20" />
-        <mark key="^" line="509" column="56" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1516008602603">
+        <mark key="'" line="495" column="29" />
+        <mark key="[" line="518" column="142" />
+        <mark key="]" line="518" column="143" />
+        <mark key="." line="518" column="143" />
+        <mark key="^" line="518" column="670" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1512443711074">
         <mark key="[" line="55" column="0" />
@@ -412,9 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="819" column="299" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="847" column="180" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="849" column="303" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="88" column="35" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="164" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="544" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -512,13 +509,16 @@
       <jump line="136" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="183" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="190" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="224" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="488" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="495" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>buildLogSql</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>buildLogSql</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
