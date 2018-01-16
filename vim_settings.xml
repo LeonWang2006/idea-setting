@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1516067603299">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1516068761159">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="46" />
         <mark key="^" line="7" column="8" />
-        <mark key="." line="8" column="97" />
+        <mark key="." line="8" column="46" />
       </file>
       <file name="$USER_HOME$/gitRepository/spring-boot-kotlin-demo/settings.gradle" timestamp="1504524760658">
         <mark key="[" line="0" column="0" />
@@ -328,7 +328,7 @@
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516067485244">
+      <file name="/Dummy.txt" timestamp="1516068606595">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -515,10 +515,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, evaluate_count DESC, word_count DESC, log.log_id DESC</text>
+        <text>, LENGTH(suggestion) DESC, LENGTH(experience) DESC, word_count DESC, log.log_id DESC</text>
       </register>
       <register name="-" type="4">
-        <text>, evaluate_count DESC, word_count DESC, log.log_id DESC</text>
+        <text>, LENGTH(suggestion) DESC, LENGTH(experience) DESC, word_count DESC, log.log_id DESC</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
