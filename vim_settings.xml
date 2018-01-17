@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1516158636579">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1516159137940">
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/gitRepository/spring-boot-kotlin-demo/settings.gradle" timestamp="1504524760658">
         <mark key="[" line="0" column="0" />
@@ -513,11 +514,11 @@
       <jump line="190" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2VyLmF2YXRhciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBhdmF0YXIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGxvZyBMRUZUIEpPSU4gYXBwX3VzZXIgYHVzZXJgIE9OIChsb2cuZW1wbG95ZWVfaWQgPSBgdXNlcmAuZW1wbG95ZWVfaWQp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IExFRlQgSk9JTiBhcHBfdXNlciB1c2VyIE9OICh1c2VyLmVtcGxveWVlX2lkPWxvZy5lbXBsb3llZV9pZCk=</text>
+        <text encoding="base64">IGxvZyBMRUZUIEpPSU4gYXBwX3VzZXIgYHVzZXJgIE9OIChsb2cuZW1wbG95ZWVfaWQgPSBgdXNlcmAuZW1wbG95ZWVfaWQp</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
