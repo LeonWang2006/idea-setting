@@ -378,11 +378,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1516172423286">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1516173586965">
         <mark key="'" line="190" column="29" />
-        <mark key="[" line="531" column="85" />
-        <mark key="]" line="531" column="85" />
-        <mark key="." line="531" column="85" />
+        <mark key="[" line="620" column="294" />
+        <mark key="]" line="620" column="294" />
+        <mark key="." line="620" column="294" />
+        <mark key="^" line="617" column="52" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1512443711074">
         <mark key="[" line="55" column="0" />
@@ -515,10 +516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>LEFT JOIN app_user `user` ON (log.employee_id=`user`.employee_id)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>LEFT JOIN app_user `user` ON (log.employee_id=`user`.employee_id)</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
