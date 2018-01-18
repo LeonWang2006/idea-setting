@@ -63,6 +63,11 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="13" column="38" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build/libs/BOOT-INF/classes/static/stock/index.html" timestamp="1516244788963">
+        <mark key="[" line="329" column="18" />
+        <mark key="]" line="329" column="18" />
+        <mark key="." line="329" column="18" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1515994770361">
         <mark key="[" line="66" column="22" />
         <mark key="]" line="53" column="18" />
@@ -150,12 +155,12 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1516239784140">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1516244731608">
         <mark key="'" line="475" column="48" />
         <mark key="[" line="463" column="57" />
-        <mark key="]" line="549" column="0" />
-        <mark key="^" line="546" column="32" />
-        <mark key="." line="549" column="0" />
+        <mark key="]" line="792" column="36" />
+        <mark key="^" line="792" column="36" />
+        <mark key="." line="792" column="36" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1516170669347">
         <mark key="[" line="41" column="21" />
@@ -493,11 +498,11 @@
       <jump line="185" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RVhQTEFJTiBTRUxFQ1QKICBsb2cubG9nX2lkLAogIGxvZy5lbXBsb3llZV9pZCwKICBsb2cuYG5hbWVgLAogIGxvZy5qb2JfY25hbWUsCiAgR1JPVVBfQ09OQ0FUKGxvZy5sb2dfY29udGVudCwgJycpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgbG9nX2NvbnRlbnQsCiAgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDAxJywgbG9nLnJlYWRfd3NfaWQpID4gMCwgMSwgMCkgICAgICAgICAgICAgICAgICAgQVMgaXNfcmVhZCwKICBJRihmaW5kX2luX3NldCgnMDMxMDAwMDEnLCBHUk9VUF9DT05DQVQobG9nLmV2YWx1YXRlX3dzX2lkKSkgPiAwLCAxLCAwKSBBUyBpc19ldmFsdWF0ZSwKICBsb2cuZXZhbHVhdGVfc3RhdCwKICBkYXRlLAogIGRhdGVfZm9ybWF0KGxvZy5jcmVhdGVfdGltZSwgJyVZLSVtLSVkICVIOiVpOiVzJykgICAgICAgICAgICAgICAgICAgICAgIEFTIGNyZWF0ZV90aW1lLAogIGxvZy5ldmFsdWF0ZV9jb3VudCwKICBMRU5HVEgobG9nLnN1Z2dlc3Rpb24pICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBzdWdnZXN0aW9uX2NvdW50LAogIExFTkdUSChsb2cuZXhwZXJpZW5jZSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGV4cGVyaWVuY2VfY291bnQsCiAgbG9nLm9wZXJhdGVfY291bnQsCiAgbG9nLnZpZXdfY291bnQsCiAgbG9nLndvcmRfY291bnQsCiAgbG9nLmZlZWwKRlJPTSBgYXBwX3VzZXJfbG9nc2AgbG9nCldIRVJFIGxvZy5sb2dfZGV0YWlsX3R5cGUgPSAn6IGM6LSj5pel5b+XJyBBTkQKICAgICAgKEpTT05fU0VBUkNIKGxvZy5pbmRpcmVjdCwgJ29uZScsICcwMzEwMDAwMScpIElTIE5PVCBOVUxMIE9SIGxvZy5yZXBvcnRfdG8gPSAnMDMxMDAwMDEnIE9SIEpTT05fU0VBUkNIKGxvZy5ocmRfaWQsICdvbmUnLCAnMDMxMDAwMDEnKSBJUyBOT1QgTlVMTCkgQU5EIGRhdGUgPj0gJzIwMTctMTAtMDEnIEFORCBkYXRlIDw9ICcyMDE3LTEwLTIxJwpHUk9VUCBCWSBsb2cubG9nX2lkCkhBVklORyAxID0gMQpPUkRFUiBCWSBpc19yZWFkIEFTQywgY3JlYXRlX3RpbWUgREVTQywgZXZhbHVhdGVfY291bnQgREVTQywgTEVOR1RIKHN1Z2dlc3Rpb24pIERFU0MsIExFTkdUSChleHBlcmllbmNlKSBERVNDLAogIHdvcmRfY291bnQgREVTQywgbG9nLmxvZ19pZCBERVNDCkxJTUlUIDAsIDEwOwoKRVhQTEFJTiBTRUxFQ1QKICAgICAgICAgIGxvZy5sb2dfaWQgRlJPTSBgYXBwX3VzZXJfbG9nc2AgbG9nIFdIRVJFIGxvZy5sb2dfZGV0YWlsX3R5cGUgPSAn6IGM6LSj5pel5b+XJyBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChKU09OX1NFQVJDSChsb2cuaW5kaXJlY3QsICdvbmUnLCAnMDMxMDAwMDEnKSBJUyBOT1QgTlVMTCBPUiBsb2cucmVwb3J0X3RvID0gJzAzMTAwMDAxJyBPUiBKU09OX1NFQVJDSChsb2cuaHJkX2lkLCAnb25lJywgJzAzMTAwMDAxJykgSVMgTk9UIE5VTEwpIEFORCBkYXRlID49ICcyMDE3LTEwLTAxJyBBTkQgZGF0ZSA8PSAnMjAxNy0xMC0yMSc7CgoKc2VsZWN0IEBAc3FsX21vZGU7CgpFWFBMQUlOIFNFTEVDVAogICAgICAgICAgbG9nLmxvZ19pZAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="-" type="4">
-        <text>LEFT JOIN app_user `user` ON (log.employee_id=`user`.employee_id)</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
