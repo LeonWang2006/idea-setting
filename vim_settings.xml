@@ -63,10 +63,10 @@
         <mark key="." line="43" column="33" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build/libs/BOOT-INF/classes/static/stock/index.html" timestamp="1516244788963">
-        <mark key="[" line="329" column="18" />
-        <mark key="]" line="329" column="18" />
-        <mark key="." line="329" column="18" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build/libs/BOOT-INF/classes/static/stock/index.html" timestamp="1516322806656">
+        <mark key="[" line="479" column="0" />
+        <mark key="]" line="479" column="0" />
+        <mark key="." line="479" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4cf2f210-1993-429d-b733-4d6bd9222b07/console.sql" timestamp="1516267722364">
         <mark key="[" line="50" column="23" />
@@ -155,12 +155,11 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1516322135531">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1516322776821">
         <mark key="'" line="467" column="48" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="784" column="36" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="471" column="0" />
+        <mark key="]" line="471" column="0" />
+        <mark key="." line="471" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1516170669347">
         <mark key="[" line="41" column="21" />
@@ -496,16 +495,8 @@
       <jump line="495" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r	.margin-right_s {
-			margin-right: 60px;
-		}
-		.margin-right_base {
-			margin-right: 80px;
-		}
-		.margin-right_L {
-			margin-right: 120px;
-		}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>7</text>
@@ -516,7 +507,28 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCWlmIChMb2NhbFRpbWUucGFyc2UoaXQpIDw9IGxvY2FsVGltZTExMzApIHsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkgY2xvc2VfcHJpY2UgPSBzdG9ja19pbmZvLmNsb3NlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkgY2xvc2VfcHJpY2UgPSBzdG9ja19pbmZvLmNsb3NlCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>r	.margin-right_s {
 			margin-right: 60px;
 		}
@@ -527,32 +539,11 @@
 			margin-right: 120px;
 		}</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJbWluWCA9IG1pblgucGx1c01pbnV0ZXMoMSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQl2YWwgbG9jYWxUaW1lMTUwMCA9IExvY2FsVGltZS5wYXJzZSgiMTU6MDA6MDAiKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQl2YWwgbG9jYWxUaW1lMDkzMCA9IExvY2FsVGltZS5wYXJzZSgiMDk6MzA6MDAiKQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCWl0ZW1BcnIuYWRkKFN0b2NrSG91cmx5SXRlbShpdCwgbnVsbCwgbnVsbCwgbnVsbCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl2YWwgbG9jYWxUaW1lMTMwMCA9IExvY2FsVGltZS5wYXJzZSgiMTM6MDA6MDAiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/03100004/03100001/g</text>
