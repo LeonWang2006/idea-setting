@@ -156,12 +156,12 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1516328003781">
-        <mark key="'" line="468" column="48" />
-        <mark key="[" line="430" column="32" />
-        <mark key="]" line="456" column="33" />
-        <mark key="." line="456" column="33" />
-        <mark key="^" line="456" column="32" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1516676167416">
+        <mark key="'" line="475" column="48" />
+        <mark key="[" line="646" column="71" />
+        <mark key="]" line="646" column="72" />
+        <mark key="^" line="645" column="23" />
+        <mark key="." line="646" column="72" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1516170669347">
         <mark key="[" line="41" column="21" />
@@ -502,42 +502,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name='魏青'</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>name='魏青'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdmFyIHN0b3BfZmxhZyA9IGRhdGEubGVuZ3RoICE9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW46IGZ1bmN0aW9uICh2YWx1ZSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmFsdWUubWF4IC0gKDAuMjUgKiB2YWx1ZS5tYXgpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgbWluOidkYXRhTWluJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkgY2xvc2VfcHJpY2UgPSBzdG9ja19pbmZvLmNsb3NlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkgY2xvc2VfcHJpY2UgPSBzdG9ja19pbmZvLmNsb3NlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkgY2xvc2VfcHJpY2UgPSBzdG9ja19pbmZvLmNsb3NlCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>r	.margin-right_s {
 			margin-right: 60px;
 		}
@@ -547,9 +550,6 @@
 		.margin-right_L {
 			margin-right: 120px;
 		}</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>634</text>
