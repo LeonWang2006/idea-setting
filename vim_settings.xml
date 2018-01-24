@@ -233,13 +233,6 @@
         <mark key="^" line="46" column="21" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1515467298579">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="8" column="69" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -266,6 +259,9 @@
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
+      </file>
+      <file name="/a.sql" timestamp="1516761479286">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
         <mark key="[" line="0" column="22" />
@@ -298,7 +294,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="77" />
       </file>
-      <file name="/dummy.sql" timestamp="1516758523608">
+      <file name="/dummy.sql" timestamp="1516761428019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -502,10 +498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
