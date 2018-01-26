@@ -1,10 +1,16 @@
-<code_scheme name="Wangfl">
+<code_scheme name="Wangfl" version="173">
   <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
   <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
   <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
+  <JavaCodeStyleSettings>
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+    <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
+    <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
+    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
+  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -62,7 +68,7 @@
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
-    <option name="PARAMETER_ANNOTATION_WRAP" value="5" />
+    <option name="PARAMETER_ANNOTATION_WRAP" value="2" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
