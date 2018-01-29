@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1516774626563">
-        <mark key="[" line="45" column="86" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1517215409510">
+        <mark key="[" line="48" column="28" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
@@ -67,6 +67,11 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="9" column="33" />
       </file>
+      <file name="/fragment.kt" timestamp="1517216224555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1515396434213">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="59" column="22" />
@@ -116,6 +121,10 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="8" column="69" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1517216144489">
+        <mark key="'" line="337" column="51" />
+        <mark key="[" line="924" column="9" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourly.kt" timestamp="1515229604178">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="7" column="19" />
@@ -154,7 +163,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="77" />
       </file>
-      <file name="/dummy.sql" timestamp="1516971568823">
+      <file name="/dummy.sql" timestamp="1517215319761">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -189,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1220" column="260" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="1255" column="252" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="505" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="942" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1267" column="252" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="100" column="265" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -289,16 +295,19 @@
       <jump line="654" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="687" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="923" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="209" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
+      <jump line="299" column="53" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
+      <jump line="337" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>.favorite</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>.favorite</text>
       </register>
       <register name="/" type="4">
-        <text>my</text>
+        <text>ParamLog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJYXBwSmRiY1RlbXBsYXRlLmV4ZWN1dGUoInVwZGF0ZSBhcHBfdXNlcl9sb2dzIHNldCBleHBlcmllbmNlX3NoYXJlID0gMSB3aGVyZSBsb2dfaWQgPSAkbG9nSWQiKQo=</text>
@@ -338,9 +347,9 @@
       </register>
     </registers>
     <search>
-      <last-search>my</last-search>
+      <last-search>ParamLog</last-search>
       <last-offset />
-      <last-pattern>my</last-pattern>
+      <last-pattern>ParamLog</last-pattern>
       <last-replace>03100001</last-replace>
       <last-substitute>03100004</last-substitute>
       <last-dir>1</last-dir>
@@ -348,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
         <entry>evaluateOr</entry>
         <entry>user</entry>
         <entry>app</entry>
@@ -368,6 +376,7 @@
         <entry>logs</entry>
         <entry>\/logs</entry>
         <entry>my</entry>
+        <entry>ParamLog</entry>
       </history-search>
       <history-cmd>
         <entry>%s/private //g</entry>
