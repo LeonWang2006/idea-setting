@@ -20,7 +20,7 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="68" column="46" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.kt" timestamp="1512735579800">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.kt" timestamp="1517489051233">
         <mark key="[" line="163" column="41" />
         <mark key="]" line="165" column="45" />
         <mark key="." line="165" column="45" />
@@ -179,6 +179,11 @@
         <mark key="^" line="9" column="193" />
         <mark key="." line="9" column="193" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/User.kt" timestamp="1517489589072">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/UserRepository.kt" timestamp="1504766489331">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="10" />
@@ -206,11 +211,11 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1517488050266">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1517489659994">
         <mark key="'" line="1155" column="12" />
-        <mark key="[" line="490" column="101" />
-        <mark key="]" line="494" column="0" />
-        <mark key="." line="494" column="0" />
+        <mark key="[" line="490" column="41" />
+        <mark key="]" line="490" column="41" />
+        <mark key="." line="490" column="41" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourlyChart.kt" timestamp="1515062935792">
         <mark key="[" line="8" column="69" />
@@ -275,7 +280,7 @@
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="/a.sql" timestamp="1517487008384">
+      <file name="/a.sql" timestamp="1517488656241">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
@@ -309,7 +314,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="77" />
       </file>
-      <file name="/dummy.sql" timestamp="1517487401160">
+      <file name="/dummy.sql" timestamp="1517488929172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -382,8 +387,8 @@
         <mark key="." line="643" column="69" />
         <mark key="^" line="643" column="47" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1517487236917">
-        <mark key="[" line="13" column="14" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1517489080619">
+        <mark key="[" line="82" column="14" />
         <mark key="]" line="13" column="14" />
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="13" />
@@ -399,7 +404,7 @@
         <mark key="]" line="327" column="0" />
         <mark key="." line="327" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1516175882784">
+      <file name="/fragment.java" timestamp="1517488951091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -514,11 +519,11 @@
       <jump line="1155" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>employee_id,name,password,pwd,email,status,emp_grade,gender,birth_day,birth_type,join_date,jira_name,report_to,depid,dep_cnname,director,jobid,job_cname,avatar,phone,mobile_telephone,depid1,hr_type,hrbp,hrd,motto</text>
       </register>
       <register name="-" type="4">
-        <text>`user`.</text>
+        <text>employee_id,name,password,pwd,email,status,emp_grade,gender,birth_day,birth_type,join_date,jira_name,report_to,depid,dep_cnname,director,jobid,job_cname,avatar,phone,mobile_telephone,depid1,hr_type,hrbp,hrd,motto</text>
       </register>
       <register name="/" type="4">
         <text>`user`.</text>
@@ -527,34 +532,103 @@
         <text encoding="base64">CQkJCQkJCXJzPy5nZXRTdHJpbmcoInBhc3N3b3JkIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxsLAoJCQkJCQludWxs</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25BdXRvRGV0ZWN0Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQkJCQkvKgoJCQkJCQkJZW1wbG95ZWVJZDogU3RyaW5nPywKCQluYW1lOiBTdHJpbmc/LAoJCXBhc3N3b3JkOiBTdHJpbmc/LAoJCXB3ZDogU3RyaW5nPywKCQllbWFpbDogU3RyaW5nPywKCQlzdGF0dXM6IFN0cmluZz8sCgkJZW1wR3JhZGU6IFN0cmluZz8sCgkJZ2VuZGVyOiBTdHJpbmc/LAoJCWJpcnRoRGF5OiBTdHJpbmc/LAoJCWJpcnRoVHlwZTogSW50PywKCQlqb2luRGF0ZTogU3RyaW5nPywKCQlqaXJhTmFtZTogU3RyaW5nPywKCQlyZXBvcnRUbzogU3RyaW5nPywKCQlkZXBpZDogU3RyaW5nPywKCQlkZXBDbm5hbWU6IFN0cmluZz8sCgkJZGlyZWN0b3I6IFN0cmluZz8sCgkJam9iaWQ6IFN0cmluZz8sCgkJam9iQ25hbWU6IFN0cmluZz8sCgkJYXZhdGFyOiBTdHJpbmc/LAoJCXBob25lOiBTdHJpbmc/LAoJCW1vYmlsZVRlbGVwaG9uZTogU3RyaW5nPywKCQlkZXBpZDE6IFN0cmluZz8sCgkJaHJUeXBlOiBTdHJpbmc/LAoJCWhyYnA6IFN0cmluZz8sCgkJaHJkOiBTdHJpbmc/LAoJCW1vdHRvOiBTdHJpbmc/CgkJKi8KCQkJCQkgKi8=</text>
+      <register name="4" type="2">
+        <text encoding="base64">QEpzb25BdXRvRGV0ZWN0Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQkJCX0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewoJCQkJCWxvZ2dlci5kZWJ1ZyhlLnN0YWNrVHJhY2UudG9TdHJpbmcoKSkKCQkJCQludWxsCgkJCQl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWVtcGxveWVlSWQ6Cg==</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IFN0cmluZz8sCgluYW1lOiBTdHJpbmc/LAoJcGFzc3dvcmQ6IFN0cmluZz8sCglwd2Q6IFN0cmluZz8sCgllbWFpbDogU3RyaW5nPywKCXN0YXR1czogU3RyaW5nPywKCWVtcEdyYWRlOiBTdHJpbmc/LAoJZ2VuZGVyOiBTdHJpbmc/LAoJYmlydGhEYXk6IFN0cmluZz8sCgliaXJ0aFR5cGU6IFN0cmluZz8sCglqb2luRGF0ZTogU3RyaW5nPywKCWppcmFOYW1lOiBTdHJpbmc/LAoJcmVwb3J0VG86IFN0cmluZz8sCglkZXBpZDogU3RyaW5nPywKCWRlcENubmFtZTogU3RyaW5nPywKCWRpcmVjdG9yOiBTdHJpbmc/LAoJam9iaWQ6IFN0cmluZz8sCglqb2JDbmFtZTogU3RyaW5nPywKCWF2YXRhcjogU3RyaW5nPywKCXBob25lOiBTdHJpbmc/LAoJbW9iaWxlVGVsZXBob25lOiBTdHJpbmc/LAoJZGVwaWQxOiBTdHJpbmc/LAoJaHJUeXBlOiBTdHJpbmc/LAoJaHJicDogU3RyaW5nPywKCWhyZDogU3RyaW5nPywKCW1vdHRvOiBTdHJpbmc/</text>
+      <register name="7" type="2">
+        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiYXBwX3VzZXIiKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = &quot;employee_id&quot;)
+	var employeeId: String? = null
+	var name: String? = null
+	var password: String? = null
+	var pwd: String? = null
+	var email: String? = null
+	var status: String? = null
+	@Column(name = &quot;emp_grade&quot;)
+	var empGrade: String? = null
+	var gender: String? = null
+	@Column(name = &quot;birth_day&quot;)
+	var birthDay: String? = null
+	@Column(name = &quot;birth_type&quot;)
+	var birthType: Int? = null
+	@Column(name = &quot;join_date&quot;)
+	var joinDate: String? = null
+	@Column(name = &quot;jira_name&quot;)
+	var jiraName: String? = null
+	@Column(name = &quot;report_to&quot;)
+	var reportTo: String? = null
+	var depid: String? = null
+	@Column(name = &quot;dep_cnname&quot;)
+	var depCnname: String? = null
+	var director: String? = null
+	var jobid: String? = null
+	@Column(name = &quot;job_cname&quot;)
+	var jobCname: String? = null
+	var avatar: String? = null
+	var phone: String? = null
+	@Column(name = &quot;mobile_telephone&quot;)
+	var mobileTelephone: String? = null
+	var depid1: String? = null
+	@Column(name = &quot;hr_type&quot;)
+	var hrType: String? = null
+	var hrbp: String? = null
+	var hrd: String? = null
+	var motto: String? = null
+
+	constructor(
+		employeeId: String?,
+		name: String?,
+		password: String?,
+		pwd: String?,
+		email: String?,
+		status: String?,
+		empGrade: String?,
+		gender: String?,
+		birthDay: String?,
+		birthType: Int?,
+		joinDate: String?,
+		jiraName: String?,
+		reportTo: String?,
+		depid: String?,
+		depCnname: String?,
+		director: String?,
+		jobid: String?,
+		jobCname: String?,
+		avatar: String?,
+		phone: String?,
+		mobileTelephone: String?,
+		depid1: String?,
+		hrType: String?,
+		hrbp: String?,
+		hrd: String?,
+		motto: String?
+	) : this()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCW51bGwsCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>%.,2s/`user`.//g</text>
