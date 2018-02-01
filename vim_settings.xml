@@ -163,6 +163,13 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1516754485921">
+        <mark key="'" line="475" column="48" />
+        <mark key="[" line="298" column="44" />
+        <mark key="]" line="298" column="44" />
+        <mark key="^" line="645" column="23" />
+        <mark key="." line="298" column="44" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1517292865399">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="42" column="0" />
@@ -222,7 +229,7 @@
         <mark key="'" line="337" column="51" />
         <mark key="[" line="924" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1517449830532">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1517456104528">
         <mark key="[" line="240" column="0" />
         <mark key="]" line="240" column="0" />
         <mark key="." line="240" column="0" />
@@ -243,6 +250,13 @@
         <mark key="]" line="68" column="58" />
         <mark key="^" line="56" column="42" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1517456142083">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="48" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="45" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
@@ -367,6 +381,13 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1516966352026">
+        <mark key="'" line="923" column="16" />
+        <mark key="[" line="643" column="69" />
+        <mark key="]" line="643" column="69" />
+        <mark key="." line="643" column="69" />
+        <mark key="^" line="643" column="47" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1512443711074">
         <mark key="[" line="55" column="0" />
@@ -499,16 +520,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwZXJpZW5jZV9zaGFyZSA=</text>
+        <text>成交额</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwZXJpZW5jZV9zaGFyZSA=</text>
+        <text>成交额</text>
       </register>
       <register name="/" type="4">
         <text>\/contacts</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCXJzPy5nZXRTdHJpbmcoImRlcENubmFtZSIpLAo=</text>
+      <register name="0" type="4">
+        <text>市盈率</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQl2YWwgYmFkZ2VzID0gY29udGFjdHMuY29udGFjdHMuc3BsaXQoIiwiKS50b1NldCgpCg==</text>
