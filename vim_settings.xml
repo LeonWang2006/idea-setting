@@ -229,10 +229,11 @@
         <mark key="'" line="337" column="51" />
         <mark key="[" line="924" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1517456104528">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1517463783717">
+        <mark key="[" line="108" column="16" />
+        <mark key="]" line="108" column="16" />
+        <mark key="." line="108" column="16" />
+        <mark key="^" line="108" column="12" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourly.kt" timestamp="1515229604178">
         <mark key="[" line="9" column="1" />
@@ -251,12 +252,12 @@
         <mark key="^" line="56" column="42" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1517456142083">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1517463675591">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="48" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="19" column="45" />
+        <mark key="[" line="23" column="95" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
@@ -520,16 +521,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>成交额</text>
+        <text encoding="base64">aWYgKHN0b2NrSXRlbVszOF0udG9Eb3VibGUoKSA+IDApICIrIiArIHN0b2NrSXRlbVszOF0gKyAiJSIgZWxzZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>成交额</text>
+        <text encoding="base64">aWYgKHN0b2NrSXRlbVszOF0udG9Eb3VibGUoKSA+IDApICIrIiArIHN0b2NrSXRlbVszOF0gKyAiJSIgZWxzZQ==</text>
       </register>
       <register name="/" type="4">
         <text>\/contacts</text>
       </register>
       <register name="0" type="4">
-        <text>市盈率</text>
+        <text>换手率</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQl2YWwgYmFkZ2VzID0gY29udGFjdHMuY29udGFjdHMuc3BsaXQoIiwiKS50b1NldCgpCg==</text>
