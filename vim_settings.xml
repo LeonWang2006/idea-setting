@@ -14,10 +14,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1517466476944">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="36" />
-        <mark key="." line="16" column="36" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1517491462834">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
         <mark key="^" line="68" column="46" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserLog.kt" timestamp="1517489051233">
@@ -46,7 +46,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1517377357255">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1517491406449">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
@@ -142,7 +142,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1517486097112">
+      <file name="/fragment.kt" timestamp="1517490522085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -211,11 +211,11 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1517489659994">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1517491246605">
         <mark key="'" line="1155" column="12" />
-        <mark key="[" line="490" column="41" />
-        <mark key="]" line="490" column="41" />
-        <mark key="." line="490" column="41" />
+        <mark key="[" line="525" column="20" />
+        <mark key="]" line="525" column="20" />
+        <mark key="." line="525" column="20" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourlyChart.kt" timestamp="1515062935792">
         <mark key="[" line="8" column="69" />
@@ -520,10 +520,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>employee_id,name,password,pwd,email,status,emp_grade,gender,birth_day,birth_type,join_date,jira_name,report_to,depid,dep_cnname,director,jobid,job_cname,avatar,phone,mobile_telephone,depid1,hr_type,hrbp,hrd,motto</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>employee_id,name,password,pwd,email,status,emp_grade,gender,birth_day,birth_type,join_date,jira_name,report_to,depid,dep_cnname,director,jobid,job_cname,avatar,phone,mobile_telephone,depid1,hr_type,hrbp,hrd,motto</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>`user`.</text>
