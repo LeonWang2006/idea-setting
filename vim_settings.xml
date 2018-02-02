@@ -86,7 +86,7 @@
         <mark key="]" line="29" column="25" />
         <mark key="." line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1516951836970">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1517559943044">
         <mark key="[" line="466" column="24" />
         <mark key="]" line="466" column="24" />
         <mark key="^" line="355" column="55" />
@@ -398,11 +398,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1517556680279">
-        <mark key="'" line="190" column="29" />
-        <mark key="[" line="1368" column="0" />
-        <mark key="]" line="1368" column="0" />
-        <mark key="." line="1368" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1517560188591">
+        <mark key="'" line="829" column="46" />
+        <mark key="[" line="425" column="12" />
+        <mark key="]" line="425" column="12" />
+        <mark key="." line="425" column="12" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1517489080619">
         <mark key="[" line="82" column="14" />
@@ -433,9 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="400" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="443" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="724" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="789" column="41" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="855" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -533,58 +530,61 @@
       <jump line="136" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="183" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="190" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="608" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="749" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="810" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQl2YWwgZmllbGQgPSBwYXJhbUxvZ0J1aWxkLnBlcnNvbm5lbFNjb3BlPy5zdWJzdHJpbmdBZnRlcignXycpID86ICJocmJwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>hrd_id LIKE '%16102568%' OR</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCXJzPy5nZXRTdHJpbmcoInBhc3N3b3JkIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQl2YWwgZmllbGQgPSBwYXJhbUxvZ0J1aWxkLnBlcnNvbm5lbFNjb3BlPy5zdWJzdHJpbmdBZnRlcignXycpID86ICJocmJwIgo=</text>
+        <text encoding="base64">CQkJaWYgKHVwZGF0ZVJlc3VsdCA+IDApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiA2NHB4Owo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQkJLy8JCQl2YXIgYmFzZTY0Q3JlZGVudGlhbHMgPSBhdXRob3JpemF0aW9uLnN1YnN0cmluZygiQmFzaWMiLmxlbmd0aCkudHJpbSB7IGl0IDw9ICcgJyB9CgkJCS8vCQkJYmFzZTY0Q3JlZGVudGlhbHMgPSBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpCgkJCS8vCQkJdmFsIHdzSWQgPSBiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIudG9SZWdleCgpKS5kcm9wTGFzdFdoaWxlIHsgaXQuaXNFbXB0eSgpIH0udG9UeXBlZEFycmF5KClbMF0KCQkJLy8JCQl2YWwgcGFzc3dvcmQgPSBiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIudG9SZWdleCgpKS5kcm9wTGFzdFdoaWxlIHsgaXQuaXNFbXB0eSgpIH0udG9UeXBlZEFycmF5KClbMV0KCQkJLy8JCQl2YWwgcmVzdFRlbXBsYXRlID0gdGhpcy5yZXN0VGVtcGxhdGVCdWlsZGVyLmJhc2ljQXV0aG9yaXphdGlvbih3c0lkLCBwYXNzd29yZCkuYnVpbGQoKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiA1MHB4Owo=</text>
+        <text encoding="base64">CQkJCQl2YWwgZmllbGQgPSBwYXJhbUxvZ0J1aWxkLnBlcnNvbm5lbFNjb3BlPy5zdWJzdHJpbmdBZnRlcignXycpID86ICJocmJwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiA2NHB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjc3RvY2tfcXVvdGVfY2hhbmdlJykuYWRkQ2xhc3MoJ3N0b2NrX3JlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiA1MHB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdG9ja19pbmZvLnF1b3RlQ2hhbmdlLmluZGV4T2YoJy0nKSA9PT0gLTEpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJCgnI3N0b2NrX3F1b3RlX2NoYW5nZScpLmFkZENsYXNzKCdzdG9ja19ncmVlbicpCiAgICAgICAgICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjc3RvY2tfcXVvdGVfY2hhbmdlJykuYWRkQ2xhc3MoJ3N0b2NrX3JlZCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdG9ja19pbmZvLnF1b3RlQ2hhbmdlLmluZGV4T2YoJy0nKSA9PT0gLTEpIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJCgnI3N0b2NrX3F1b3RlX2NoYW5nZScpLmFkZENsYXNzKCdzdG9ja19ncmVlbicpCiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>%.,2s/`user`.//g</text>
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -592,7 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getFor</entry>
         <entry>未开盘</entry>
         <entry>03100004</entry>
         <entry>avatar</entry>
@@ -612,6 +611,7 @@
         <entry>status</entry>
         <entry>`user`.</entry>
         <entry>list</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Long //g</entry>
