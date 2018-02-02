@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1517476288186">
-        <mark key="[" line="0" column="60" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1517554913279">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="228" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="228" />
@@ -230,6 +230,11 @@
         <mark key="." line="526" column="411" />
         <mark key="^" line="525" column="98" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" timestamp="1517554776488">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockHourlyChart.kt" timestamp="1515062935792">
         <mark key="[" line="8" column="69" />
         <mark key="]" line="8" column="69" />
@@ -327,7 +332,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="77" />
       </file>
-      <file name="/dummy.sql" timestamp="1517488929172">
+      <file name="/dummy.sql" timestamp="1517554882936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -533,10 +538,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgIiUi</text>
+        <text>hrd_id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgIiUi</text>
+        <text>hrd_id</text>
       </register>
       <register name="/" type="4">
         <text>`user`.</text>
