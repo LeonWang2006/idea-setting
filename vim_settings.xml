@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1517554913279">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="228" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1517556322283">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="228" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/gitRepository/spring-boot-kotlin-demo/settings.gradle" timestamp="1504524760658">
         <mark key="[" line="0" column="0" />
@@ -287,7 +287,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1511508723231">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1517556465184">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="85" column="0" />
@@ -332,7 +332,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="77" />
       </file>
-      <file name="/dummy.sql" timestamp="1517554882936">
+      <file name="/dummy.sql" timestamp="1517556322883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -398,12 +398,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1517478000879">
-        <mark key="'" line="845" column="53" />
-        <mark key="[" line="643" column="69" />
-        <mark key="]" line="643" column="69" />
-        <mark key="." line="643" column="69" />
-        <mark key="^" line="643" column="47" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1517556680279">
+        <mark key="'" line="190" column="29" />
+        <mark key="[" line="1368" column="0" />
+        <mark key="]" line="1368" column="0" />
+        <mark key="." line="1368" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1517489080619">
         <mark key="[" line="82" column="14" />
@@ -432,13 +431,8 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1517478450761" />
     </filemarks>
     <jumps>
-      <jump line="349" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="142" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="1269" column="57" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="69" column="53" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="398" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="400" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="443" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -472,13 +466,6 @@
       <jump line="91" column="35" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="185" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="748" column="32" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="826" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="1606" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="1608" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="1612" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="1642" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="127" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="136" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="488" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="252" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="266" column="25" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -488,14 +475,11 @@
       <jump line="643" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="1340" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="809" column="27" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="183" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="190" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="531" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="533" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="542" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="544" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="580" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="597" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="676" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1327" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1328" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -508,9 +492,7 @@
       <jump line="406" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="452" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="495" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="604" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="654" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="687" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="923" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="209" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="299" column="53" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
@@ -535,58 +517,74 @@
       <jump line="845" column="53" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="462" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="1155" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="584" column="33" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="597" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="604" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="649" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="679" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="687" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="714" column="32" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="826" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1606" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1608" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1612" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1642" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="127" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="136" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="183" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="190" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hrd_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQl2YWwgZmllbGQgPSBwYXJhbUxvZ0J1aWxkLnBlcnNvbm5lbFNjb3BlPy5zdWJzdHJpbmdBZnRlcignXycpID86ICJocmJwIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>hrd_id</text>
+        <text>hrd_id LIKE '%16102568%' OR</text>
       </register>
       <register name="/" type="4">
-        <text>`user`.</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCXJzPy5nZXRTdHJpbmcoInBhc3N3b3JkIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiA2NHB4Owo=</text>
+        <text encoding="base64">CQkJCQl2YWwgZmllbGQgPSBwYXJhbUxvZ0J1aWxkLnBlcnNvbm5lbFNjb3BlPy5zdWJzdHJpbmdBZnRlcignXycpID86ICJocmJwIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiA1MHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiA2NHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiA1MHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjc3RvY2tfcXVvdGVfY2hhbmdlJykuYWRkQ2xhc3MoJ3N0b2NrX3JlZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjc3RvY2tfcXVvdGVfY2hhbmdlJykuYWRkQ2xhc3MoJ3N0b2NrX3JlZCcpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdG9ja19pbmZvLnF1b3RlQ2hhbmdlLmluZGV4T2YoJy0nKSA9PT0gLTEpIHsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJCgnI3N0b2NrX3F1b3RlX2NoYW5nZScpLmFkZENsYXNzKCdzdG9ja19ncmVlbicpCiAgICAgICAgICAgICAgICB9</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjbWFzaycpLnJlbW92ZUNsYXNzKCdtYXNrX3VwJykuZmFkZU91dCgibm9ybWFsIikKICAgICAgICAkKCIjc3RvY2tfcHJpY2VbY2xhc3MqPSdzdG9ja19ncmVlbiddLCNzdG9ja19wcmljZVtjbGFzcyo9J3N0b2NrX3JlZCddIikucmVtb3ZlQ2xhc3MoJ3N0b2NrX3doaXRlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%.,2s/`user`.//g</text>
       </register>
     </registers>
     <search>
-      <last-search>`user`.</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>`user`.</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -598,7 +596,6 @@
         <entry>未开盘</entry>
         <entry>03100004</entry>
         <entry>avatar</entry>
-        <entry>list</entry>
         <entry>avatars</entry>
         <entry>ids</entry>
         <entry>detail</entry>
@@ -614,6 +611,7 @@
         <entry>satus</entry>
         <entry>status</entry>
         <entry>`user`.</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Long //g</entry>
