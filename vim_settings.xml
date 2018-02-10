@@ -52,7 +52,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1517880202316">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1518230150430">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
@@ -541,11 +541,11 @@
       <jump line="127" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>443</text>
       </register>
       <register name="-" type="4">
-        <text>badges.joinToString(\&quot;,\&quot;)</text>
+        <text>443</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
