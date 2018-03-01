@@ -13,12 +13,6 @@
         <mark key="]" line="58" column="66" />
         <mark key="." line="58" column="66" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1517982264037">
-        <mark key="'" line="84" column="12" />
-        <mark key="[" line="99" column="56" />
-        <mark key="]" line="99" column="56" />
-        <mark key="." line="99" column="56" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/OaDataSourceJpaConfig.kt" timestamp="1511403356172">
         <mark key="[" line="32" column="12" />
         <mark key="]" line="32" column="12" />
@@ -302,12 +296,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1517565555004">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1519874304993">
         <mark key="'" line="832" column="46" />
-        <mark key="[" line="419" column="0" />
-        <mark key="]" line="419" column="0" />
-        <mark key="." line="419" column="0" />
-        <mark key="^" line="419" column="33" />
+        <mark key="[" line="1291" column="43" />
+        <mark key="]" line="989" column="0" />
+        <mark key="." line="989" column="0" />
+        <mark key="^" line="980" column="4" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1517561991689">
         <mark key="[" line="345" column="0" />
@@ -428,11 +422,11 @@
       <jump line="127" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">bG9nSWRTZXRTdHJpbmc6IAkJ</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -447,32 +441,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KAoJCW5hbWUgPSAi5pel5b+XaWQiLCBub3RlcyA9ICLml6Xlv5dJRCjlj6/lpJrkuKopIiwgZXhhbXBsZSA9ICIwMzEwMDAwMyIKCSkKCXZhciBsb2dJZFNldDogU2V0PFN0cmluZz4sCg==</text>
+        <text encoding="base64">CQl2YWwgcGFyYW1Mb2dCdWlsZCA9IHBhcmFtTG9nLmNvcHkoKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CUBQYXR0ZXJuKHJlZ2V4cCA9IEVudi5XU0lEKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">d2hlbiAocGFyYW1Mb2dCdWlsZC5wZXJzb25uZWxTY29wZSkgewoKCQkJCSJocmQiIC0+ICIgQU5EIChsb2cuaHJkX2lkIExJS0UgJyUke3BhcmFtTG9nLndzSWR9JScpIgoJCQkJImhybSIgLT4gIiBBTkQgKGxvZy5ocm1faWQgTElLRSAnJSR7cGFyYW1Mb2cud3NJZH0lJykiCgkJCQkiaHJicCIgLT4gIiBBTkQgKGxvZy5ocmJwX2lkIExJS0UgJyUke3BhcmFtTG9nLndzSWR9JScpIgoJCQkJInN1Ym9yZGluYXRlIiAtPiAiIEFORCAobG9nLmluZGlyZWN0IExJS0UgJyUke3BhcmFtTG9nLndzSWR9JScgT1IgbG9nLnJlcG9ydF90byA9ICcke3BhcmFtTG9nLndzSWR9JykiCgkJCQllbHNlIC0+IHsKCQkJCQkvL2FsbF9ocmQvaHJtL2hyYnAKCQkJCQl2YWwgZmllbGQgPSBwYXJhbUxvZ0J1aWxkLnBlcnNvbm5lbFNjb3BlPy5zdWJzdHJpbmdBZnRlcignXycpID86ICJocmJwIgoJCQkJCSIgQU5EIChsb2cuaW5kaXJlY3QgTElLRSAnJSR7cGFyYW1Mb2cud3NJZH0lJyBPUiBsb2cucmVwb3J0X3RvID0gJyR7cGFyYW1Mb2cud3NJZH0nIE9SIGxvZy4ke2ZpZWxkfV9pZCBMSUtFICclJHtwYXJhbUxvZy53c0lkfSUnKSIKCQkJCX0KCQkJfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29ubmV0aW8K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoImNvbW1vbnMtY29kZWM6Y29tbW9ucy1jb2RlYzoxLjEwIikK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>//				val appContacts = AppContacts()
-//				appContacts.badge = wsId
-//				appContacts.contacts = badges.joinToString(&quot;,&quot;)
-//				appRepository.save(appContacts)
-//				appRepository.flush()</text>
+      <register name="5" type="2">
+        <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KAoJCW5hbWUgPSAi5pel5b+XaWQiLCBub3RlcyA9ICLml6Xlv5dJRCjlj6/lpJrkuKopIiwgZXhhbXBsZSA9ICIwMzEwMDAwMyIKCSkKCXZhciBsb2dJZFNldDogU2V0PFN0cmluZz4sCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CUBQYXR0ZXJuKHJlZ2V4cCA9IEVudi5XU0lEKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29ubmV0aW8K</text>
       </register>
       <register name=":" type="4">
         <text>%.,2s/`user`.//g</text>
