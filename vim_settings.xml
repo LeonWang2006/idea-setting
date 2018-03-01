@@ -49,13 +49,6 @@
         <mark key="]" line="29" column="25" />
         <mark key="." line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1517985943021">
-        <mark key="'" line="127" column="29" />
-        <mark key="[" line="466" column="24" />
-        <mark key="]" line="466" column="24" />
-        <mark key="^" line="355" column="55" />
-        <mark key="." line="466" column="24" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/RestApplication.kt" timestamp="1517466168117">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -106,7 +99,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1519873255956">
+      <file name="/fragment.kt" timestamp="1519875910407">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -175,13 +168,6 @@
         <mark key="]" line="180" column="90" />
         <mark key="." line="180" column="90" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1517486262899">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="23" column="95" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1519639200158" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
@@ -236,7 +222,7 @@
         <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1519701898710" />
-      <file name="/dummy.sql" timestamp="1519463867175">
+      <file name="/dummy.sql" timestamp="1519875610004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -291,17 +277,22 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1519875634650">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.java" timestamp="1504669322707">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1519874304993">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1519875911503">
         <mark key="'" line="832" column="46" />
-        <mark key="[" line="1291" column="43" />
-        <mark key="]" line="989" column="0" />
-        <mark key="." line="989" column="0" />
-        <mark key="^" line="980" column="4" />
+        <mark key="[" line="1295" column="29" />
+        <mark key="]" line="1295" column="29" />
+        <mark key="." line="1295" column="29" />
+        <mark key="^" line="1295" column="28" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1517561991689">
         <mark key="[" line="345" column="0" />
@@ -422,11 +413,11 @@
       <jump line="127" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcHBfdXNlcl9sb2dzIGxvZyBXSEVSRSBsb2cubG9nX2RldGFpbF90eXBlID0gJ+iBjOi0o+aXpeW/lycgIEFORCBkYXRlID49ICcyMDE3LTEyLTAxJyBBTkQgZGF0ZTw9ICcyMDE4LTEyLTIxJyBBTkQgKGxvZy5pbmRpcmVjdCBMSUtFICclJScgT1IgbG9nLnJlcG9ydF90byA9ICcnKSBBTkQgbG9nLmxvZ19pZCBJTiAoMTE1OTU0KSBHUk9VUCBCWSBsb2cubG9nX2lkIEhBVklORyAxID0gMSAgT1JERVIgQlkgaXNfcmVhZCBhc2MsbG9nLmNyZWF0ZV90aW1lIGRlc2MsbG9nLmV2YWx1YXRlX2NvdW50IGRlc2MsTEVOR1RIKGxvZy5zdWdnZXN0aW9uKSBkZXNjLExFTkdUSChsb2cuZXhwZXJpZW5jZSkgZGVzYyxsb2cud29yZF9jb3VudCBkZXNjLCAgbG9nLmxvZ19pZCBkZXNjOw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9nSWRTZXRTdHJpbmc6IAkJ</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcHBfdXNlcl9sb2dzIGxvZyBXSEVSRSBsb2cubG9nX2RldGFpbF90eXBlID0gJ+iBjOi0o+aXpeW/lycgIEFORCBkYXRlID49ICcyMDE3LTEyLTAxJyBBTkQgZGF0ZTw9ICcyMDE4LTEyLTIxJyBBTkQgKGxvZy5pbmRpcmVjdCBMSUtFICclJScgT1IgbG9nLnJlcG9ydF90byA9ICcnKSBBTkQgbG9nLmxvZ19pZCBJTiAoMTE1OTU0KSBHUk9VUCBCWSBsb2cubG9nX2lkIEhBVklORyAxID0gMSAgT1JERVIgQlkgaXNfcmVhZCBhc2MsbG9nLmNyZWF0ZV90aW1lIGRlc2MsbG9nLmV2YWx1YXRlX2NvdW50IGRlc2MsTEVOR1RIKGxvZy5zdWdnZXN0aW9uKSBkZXNjLExFTkdUSChsb2cuZXhwZXJpZW5jZSkgZGVzYyxsb2cud29yZF9jb3VudCBkZXNjLCAgbG9nLmxvZ19pZCBkZXNjOw==</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
