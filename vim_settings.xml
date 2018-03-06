@@ -33,11 +33,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1519882560850">
-        <mark key="[" line="139" column="7" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1520335301545">
+        <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
         <mark key="^" line="139" column="10" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1520335232384">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveWork.kt" timestamp="1506008959404">
         <mark key="[" line="3" column="0" />
@@ -162,10 +167,10 @@
         <mark key="]" line="151" column="46" />
         <mark key="." line="151" column="46" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1517379834731">
-        <mark key="[" line="180" column="90" />
-        <mark key="]" line="180" column="90" />
-        <mark key="." line="180" column="90" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1520335273934">
+        <mark key="[" line="143" column="36" />
+        <mark key="]" line="143" column="37" />
+        <mark key="." line="143" column="37" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
@@ -408,10 +413,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYocmVzdWx0LnNpemUgPiAxMDApIHJlc3VsdC5zbGljZSgwLi4xMDApIGVsc2Ug</text>
+        <text>8080</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYocmVzdWx0LnNpemUgPiAxMDApIHJlc3VsdC5zbGljZSgwLi4xMDApIGVsc2Ug</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
