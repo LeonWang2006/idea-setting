@@ -42,7 +42,7 @@
         <mark key="." line="139" column="8" />
         <mark key="^" line="139" column="10" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1520335232384">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1520344377236">
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="34" />
         <mark key="." line="43" column="34" />
@@ -170,7 +170,7 @@
         <mark key="]" line="151" column="46" />
         <mark key="." line="151" column="46" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1520335273934">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1520344362679">
         <mark key="[" line="143" column="36" />
         <mark key="]" line="143" column="37" />
         <mark key="." line="143" column="37" />
@@ -184,6 +184,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1520344330502">
+        <mark key="[" line="50" column="52" />
+        <mark key="]" line="50" column="51" />
+        <mark key="." line="50" column="51" />
+        <mark key="^" line="50" column="51" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1519873014239">
         <mark key="[" line="123" column="8" />
@@ -415,11 +421,11 @@
       <jump line="175" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZW1haWwgaXMgTlVMTCAK</text>
+      <register name="&quot;" type="4">
+        <text>219</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>219</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
