@@ -281,11 +281,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1519893249624">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1520306909580">
         <mark key="'" line="602" column="16" />
-        <mark key="[" line="1295" column="29" />
-        <mark key="]" line="738" column="28" />
-        <mark key="." line="738" column="28" />
+        <mark key="[" line="665" column="28" />
+        <mark key="]" line="665" column="28" />
+        <mark key="." line="665" column="28" />
         <mark key="^" line="738" column="28" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1517561991689">
@@ -305,8 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1467" column="44" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="1537" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1539" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1543" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1573" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -398,6 +396,8 @@
       <jump line="387" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="127" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" />
       <jump line="737" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="648" column="35" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="619" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="183" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="190" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="553" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -408,10 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Badge = '14021985'</text>
+        <text encoding="base64">aWYocmVzdWx0LnNpemUgPiAxMDApIHJlc3VsdC5zbGljZSgwLi4xMDApIGVsc2Ug</text>
       </register>
       <register name="-" type="4">
-        <text>Badge = '14021985'</text>
+        <text encoding="base64">aWYocmVzdWx0LnNpemUgPiAxMDApIHJlc3VsdC5zbGljZSgwLi4xMDApIGVsc2Ug</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
