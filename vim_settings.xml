@@ -142,10 +142,10 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520338173484">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520419196197">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogEvaluate.kt" timestamp="1509349125523">
         <mark key="[" line="19" column="23" />
@@ -230,7 +230,7 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1520395070056">
+      <file name="/dummy.sql" timestamp="1520419184188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -422,10 +422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, DATE_FORMAT(now(),&quot;%Y-%m-%d %H:%i:%s&quot;)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>, DATE_FORMAT(now(),&quot;%Y-%m-%d %H:%i:%s&quot;)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
