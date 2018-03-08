@@ -175,6 +175,11 @@
         <mark key="]" line="143" column="37" />
         <mark key="." line="143" column="37" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console_1.sql" timestamp="1520472588191">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -230,7 +235,7 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1520471641111">
+      <file name="/dummy.sql" timestamp="1520472522444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -422,10 +427,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>log.log_detail_type = '职责日志' AND</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>log.log_detail_type = '职责日志' AND</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
