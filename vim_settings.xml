@@ -144,7 +144,7 @@
         <mark key="." line="13" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns_1.txt" timestamp="1520582185784" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520583370832">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520902679691">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -238,7 +238,7 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1520853640401">
+      <file name="/dummy.sql" timestamp="1520902861147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -435,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>我的消息</text>
+        <text>message LIKE &quot;%16052462%&quot; AND</text>
       </register>
       <register name="-" type="4">
-        <text>我的消息</text>
+        <text>message LIKE &quot;%16052462%&quot; AND</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
