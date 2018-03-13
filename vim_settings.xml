@@ -245,10 +245,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1520926415760">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1520926822062">
+      <file name="/dummy.sql" timestamp="1520927144515">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppContacts.java" timestamp="1517534437714">
         <mark key="[" line="25" column="70" />
@@ -442,10 +442,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8080</text>
+        <text>log_dat</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text>log_dat</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
