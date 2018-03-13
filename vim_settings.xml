@@ -147,8 +147,8 @@
         <mark key="." line="13" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns_1.txt" timestamp="1520582185784" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520904291908">
-        <mark key="[" line="0" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520940222995">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -245,7 +245,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1520926415760">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1520927144515">
+      <file name="/dummy.sql" timestamp="1520940199422">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -442,10 +442,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log_dat</text>
+        <text>项目日志</text>
       </register>
       <register name="-" type="4">
-        <text>log_dat</text>
+        <text>项目日志</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
