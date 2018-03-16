@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1521164186735">
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="68" />
+        <mark key="^" line="29" column="68" />
+        <mark key="." line="29" column="68" />
+      </file>
       <file name="$USER_HOME$/gitRepository/spring-boot-kotlin-demo/settings.gradle" timestamp="1504524760658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -21,7 +27,6 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1520841851422" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1521076990450">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -58,10 +63,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console.sql" timestamp="1517450862356">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console.sql" timestamp="1521164082193">
+        <mark key="[" line="28" column="136" />
+        <mark key="]" line="28" column="135" />
+        <mark key="." line="28" column="135" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/RestApplication.kt" timestamp="1517466168117">
         <mark key="[" line="15" column="0" />
@@ -151,7 +156,6 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns_1.txt" timestamp="1520582185784" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520990150868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -180,7 +184,6 @@
         <mark key="]" line="151" column="46" />
         <mark key="." line="151" column="46" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1520926304403" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1521079089792">
         <mark key="[" line="143" column="36" />
         <mark key="]" line="143" column="37" />
@@ -250,7 +253,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1520926415760">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1521095205957">
+      <file name="/dummy.sql" timestamp="1521164149898">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -446,11 +449,11 @@
       <jump line="282" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZW1wbG95ZWVfaWQgPSAnMDkwODA2NjEnCg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>, \&quot;11061221\&quot;, \&quot;11061233\&quot;, \&quot;11101343\&quot;, \&quot;11111405\&quot;, \&quot;12031511\&quot;, \&quot;12031550\&quot;, \&quot;12091694\&quot;, \&quot;12111752\&quot;, \&quot;13031836\&quot;, \&quot;13041878\&quot;, \&quot;13041887\&quot;, \&quot;13051908\&quot;, \&quot;13111961\&quot;, \&quot;13111962\&quot;, \&quot;13121965\&quot;, \&quot;13121966\&quot;, \&quot;14011974\&quot;, \&quot;14021987\&quot;, \&quot;14021998\&quot;, \&quot;14042044\&quot;, \&quot;14042061\&quot;, \&quot;14052071\&quot;, \&quot;14062080\&quot;, \&quot;14072089\&quot;, \&quot;14102110\&quot;, \&quot;14102113\&quot;, \&quot;14122139\&quot;, \&quot;14122141\&quot;, \&quot;14122149\&quot;, \&quot;15012155\&quot;, \&quot;15032177\&quot;, \&quot;15042194\&quot;, \&quot;15042198\&quot;, \&quot;15042205\&quot;, \&quot;15042208\&quot;, \&quot;15042215\&quot;, \&quot;15062231\&quot;, \&quot;15062233\&quot;, \&quot;15062234\&quot;, \&quot;15062240\&quot;, \&quot;15072250\&quot;, \&quot;15092299\&quot;, \&quot;15112315\&quot;, \&quot;15112316\&quot;, \&quot;15112319\&quot;, \&quot;15112321\&quot;, \&quot;15112325\&quot;, \&quot;15122327\&quot;, \&quot;15122331\&quot;, \&quot;15122335\&quot;, \&quot;15122340\&quot;, \&quot;15122343\&quot;, \&quot;15122345\&quot;, \&quot;15122347\&quot;, \&quot;15122351\&quot;, \&quot;16012355\&quot;, \&quot;16032369\&quot;, \&quot;16032371\&quot;, \&quot;16032378\&quot;, \&quot;16032382\&quot;, \&quot;16032395\&quot;, \&quot;16032397\&quot;, \&quot;16032401\&quot;, \&quot;16032402\&quot;, \&quot;16032406\&quot;, \&quot;16032409\&quot;, \&quot;16032411\&quot;, \&quot;16042427\&quot;, \&quot;16042428\&quot;, \&quot;16042430\&quot;, \&quot;16042432\&quot;, \&quot;16042433\&quot;, \&quot;16042441\&quot;, \&quot;16042449\&quot;, \&quot;16042458\&quot;, \&quot;16052465\&quot;, \&quot;16052469\&quot;, \&quot;16052472\&quot;, \&quot;16052474\&quot;, \&quot;16052479\&quot;, \&quot;16052481\&quot;, \&quot;16062493\&quot;, \&quot;16062498\&quot;, \&quot;16062499\&quot;, \&quot;16072503\&quot;, \&quot;16082517\&quot;, \&quot;16082523\&quot;, \&quot;16092556\&quot;, \&quot;16092557\&quot;, \&quot;16092571\&quot;, \&quot;16102566\&quot;, \&quot;16102575\&quot;, \&quot;16102577\&quot;, \&quot;16112586\&quot;, \&quot;16122594\&quot;, \&quot;17032639\&quot;, \&quot;17032672\&quot;, \&quot;17042698\&quot;, \&quot;17042700\&quot;, \&quot;17042739\&quot;, \&quot;17052766\&quot;, \&quot;17052775\&quot;, \&quot;06030109\&quot;, \&quot;07070221\&quot;, \&quot;08050322\&quot;, \&quot;08060358\&quot;, \&quot;08070380\&quot;, \&quot;08080382\&quot;, \&quot;08090407\&quot;, \&quot;08100415\&quot;, \&quot;08100417\&quot;, \&quot;09030464\&quot;, \&quot;09030473\&quot;, \&quot;09070609\&quot;, \&quot;09080661\&quot;, \&quot;09090678\&quot;, \&quot;09110694\&quot;, \&quot;09120713\&quot;, \&quot;09120725\&quot;, \&quot;17062793\&quot;, \&quot;17042715\&quot;,\&quot;12101708\&quot;,\&quot;15092296\&quot;,\&quot;11041141\&quot;,\&quot;12081678\&quot;,\&quot;14112128\&quot;,\&quot;16042421\&quot;,\&quot;12111745\&quot;,\&quot;16102561\&quot;,\&quot;16072513\&quot;,\&quot;13031814\&quot;,\&quot;15112309\&quot;,\&quot;16122599\&quot;,\&quot;11061226\&quot;,\&quot;16042420\&quot;,\&quot;16112607\&quot;,\&quot;16102572\&quot;,\&quot;16032393\&quot;,\&quot;14092106\&quot;,\&quot;17022617\&quot;,\&quot;16112580\&quot;,\&quot;13041891\&quot;,\&quot;16102565\&quot;,\&quot;13031836\&quot;,\&quot;14102107\&quot;,\&quot;09050549\&quot;,\&quot;15012161\&quot;,\&quot;16032384\&quot;,\&quot;16102563\&quot;,\&quot;17032648\&quot;,\&quot;91702006\&quot;</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
