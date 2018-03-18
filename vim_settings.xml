@@ -169,12 +169,12 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1521094742323">
-        <mark key="'" line="282" column="18" />
-        <mark key="[" line="670" column="85" />
-        <mark key="]" line="670" column="85" />
-        <mark key="." line="670" column="85" />
-        <mark key="^" line="670" column="75" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1521345653779">
+        <mark key="'" line="281" column="18" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="669" column="75" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" timestamp="1521080919694">
         <mark key="[" line="29" column="206" />
@@ -459,11 +459,11 @@
       <jump line="282" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>443</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlUaHJlYWQuc2xlZXAoMTAwMCkK</text>
       </register>
       <register name="-" type="4">
-        <text>443</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -472,37 +472,35 @@
         <text encoding="base64">CQludWxsLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMRU5HVEgobG9nLmV4cGVyaWVuY2UpIERFU0MsIGxvZy53b3JkX2NvdW50IERFU0MsIGxvZy5sb2dfaWQgREVTQztjCg==</text>
+        <text encoding="base64">CQlUaHJlYWQuc2xlZXAoMTAwMCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMRU5HVEgobG9nLmV4cGVyaWVuY2UpIERFU0MsIGxvZy53b3JkX2NvdW50IERFU0MsIGxvZy5sb2dfaWQgREVTQztjCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW1wbG95ZWVfaWQgPSAnMDkwODA2NjEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5Liq5Lq66K6+572uCg==</text>
+        <text encoding="base64">ZW1wbG95ZWVfaWQgPSAnMDkwODA2NjEnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5oiR55qE5b6F5YqeCg==</text>
+        <text encoding="base64">5Liq5Lq66K6+572uCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">5oiR55qE5b6F5YqeCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>SELECT * FROM `app_user_logs` log
 WHERE  log.employee_id = '15062237';</text>
-      </register>
-      <register name="9" type="4">
-        <text>SELECT count(*)
-FROM  alias
-WHERE alias.;</text>
       </register>
       <register name=":" type="4">
         <text>dis</text>
