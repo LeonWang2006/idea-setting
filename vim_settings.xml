@@ -175,11 +175,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" timestamp="1521539834943">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="29" column="2289" />
-        <mark key="." line="44" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" timestamp="1521542160631">
+        <mark key="[" line="29" column="486" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppUpdatePackage.kt" timestamp="1521189199233" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1521540680884" />
@@ -262,7 +262,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1520926415760">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1521539869504">
+      <file name="/dummy.sql" timestamp="1521542152654">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -464,11 +464,11 @@
       <jump line="114" column="74" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>\/auth</text>
