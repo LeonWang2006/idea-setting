@@ -4,20 +4,15 @@
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="h2.unified" name="H2" dialect="H2">
-      <artifact name="H2" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="oracle" name="Oracle" dialect="Oracle">
-      <artifact name="Oracle" use="true" />
+    <driver id="azure.ms">
+      <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="false" />
     </driver>
     <driver id="net.sourceforge.jtds.jdbc.Driverdbc.Driver" name="net.sourceforge.jtds.jdbc.Driverdbc.Driver" driver-class="null">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
+    <driver id="derby.embedded">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
@@ -25,7 +20,7 @@
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
+    <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="false" />
       <library>
@@ -35,26 +30,11 @@
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.2.5.jar</url>
       </library>
     </driver>
-    <driver id="1e0e2791-f525-4703-a8ea-604a664d65ba" name="net.sourceforge.jtds.jdbc.Driverdbc.Driver" driver-class="net.sourceforge.jtds.jdbc.Driverdbc.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.0" />
-      <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="true" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-license.txt</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.2.5.jar</url>
-      </library>
-    </driver>
-    <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
+    <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
+    <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
@@ -66,46 +46,32 @@
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="6b80b374-8dbd-4225-83ff-4d6d46ca8508" name="org.gjt.mm.mysql.Driveriver" driver-class="org.gjt.mm.mysql.Driveriver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
+    <driver id="sqlite.xerial">
       <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
-      <property name="enable_load_extension" value="true" />
     </driver>
-    <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
+    <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
+    <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="db2" name="DB2 (LUW)" dialect="DB2">
-      <artifact name="DB2" use="true" />
-      <option name="auto-sync" value="false" />
-      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+    <driver id="redshift">
+      <artifact name="Redshift" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
-      <artifact name="SQL Server" use="true" />
+    <driver id="sqlserver.ms">
+      <artifact name="SQL Server" use="true" version="6.0.8112.100" />
       <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
-    <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
-      <artifact name="JTOpen (DB2 iSeries)" use="true" />
-      <option name="auto-sync" value="false" />
-      <property name="prompt" value="false" />
-    </driver>
-    <driver id="mysql" name="MySQL" dialect="MySQL">
-      <artifact name="MySQL Connector/J" use="true" version="5.1.40" />
+    <driver id="mysql">
+      <artifact name="MySQL Connector/J" use="true" version="5.1.44" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
-      <property name="autoReconnect" value="true" />
-      <property name="zeroDateTimeBehavior" value="convertToNull" />
-      <property name="tinyInt1isBit" value="false" />
-      <property name="characterEncoding" value="utf8" />
-      <property name="characterSetResults" value="utf8" />
-      <property name="yearIsDateType" value="false" />
+      <option name="send-app-info" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
       </library>
@@ -117,7 +83,7 @@
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
+    <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
       <library>
@@ -130,6 +96,43 @@
     <driver id="org.gjt.mm.mysql.Driver" name="org.gjt.mm.mysql.Driver" driver-class="null">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="h2.unified">
+      <artifact name="H2" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle">
+      <artifact name="Oracle" use="true" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+    </driver>
+    <driver id="1e0e2791-f525-4703-a8ea-604a664d65ba" name="net.sourceforge.jtds.jdbc.Driverdbc.Driver" driver-class="net.sourceforge.jtds.jdbc.Driverdbc.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlserver.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.2.5.jar</url>
+      </library>
+    </driver>
+    <driver id="6b80b374-8dbd-4225-83ff-4d6d46ca8508" name="org.gjt.mm.mysql.Driveriver" driver-class="org.gjt.mm.mysql.Driveriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="db2">
+      <artifact name="DB2" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="db2.jtopen">
+      <artifact name="JTOpen (DB2 iSeries)" use="true" />
+      <option name="auto-sync" value="false" />
     </driver>
   </component>
 </application>
