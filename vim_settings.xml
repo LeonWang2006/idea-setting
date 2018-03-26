@@ -14,8 +14,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_9.sql" timestamp="1522054097092">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_9.sql" timestamp="1522054863214">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="68" />
+        <mark key="^" line="0" column="68" />
+        <mark key="." line="0" column="68" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1522044110736">
         <mark key="[" line="15" column="31" />
@@ -475,10 +478,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Get</text>
+        <text>DepID,DepCName</text>
       </register>
       <register name="-" type="4">
-        <text>Get</text>
+        <text>DepID,DepCName</text>
       </register>
       <register name="/" type="4">
         <text>\/auth</text>
