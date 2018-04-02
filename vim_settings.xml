@@ -33,7 +33,7 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522630711120">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522649804841">
         <mark key="[" line="237" column="57" />
         <mark key="]" line="237" column="60" />
         <mark key="." line="237" column="60" />
@@ -134,7 +134,7 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1522647932164">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1522650139066">
         <mark key="[" line="20" column="139" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -256,11 +256,11 @@
       <file name="/a.sql" timestamp="1519463865835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WeixinService.kt" timestamp="1522649122270">
-        <mark key="[" line="57" column="17" />
-        <mark key="]" line="58" column="21" />
-        <mark key="." line="58" column="21" />
-        <mark key="^" line="69" column="20" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WeixinService.kt" timestamp="1522650694522">
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+        <mark key="^" line="69" column="31" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/OperateRepository.java" timestamp="1504762454015">
         <mark key="[" line="0" column="22" />
@@ -491,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(required = false)</text>
+        <text>weibo返回省略</text>
       </register>
       <register name="-" type="4">
-        <text>(required = false)</text>
+        <text>weibo返回省略</text>
       </register>
       <register name="/" type="4">
         <text>\/auth</text>
