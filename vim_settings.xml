@@ -18,12 +18,12 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522763722627">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522764974073">
         <mark key="'" line="405" column="43" />
-        <mark key="[" line="417" column="68" />
-        <mark key="]" line="417" column="68" />
-        <mark key="." line="417" column="68" />
-        <mark key="^" line="134" column="34" />
+        <mark key="[" line="419" column="61" />
+        <mark key="]" line="419" column="61" />
+        <mark key="." line="419" column="61" />
+        <mark key="^" line="448" column="12" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1522659774796">
         <mark key="[" line="132" column="10" />
@@ -316,6 +316,11 @@
         <mark key="]" line="515" column="0" />
         <mark key="." line="515" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUser.kt" timestamp="1522764709070">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1522744999084">
         <mark key="[" line="408" column="74" />
         <mark key="]" line="408" column="74" />
@@ -437,24 +442,103 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, _: Int</text>
+        <text encoding="base64">IHsgcnM6IFJlc3VsdFNldD8sIF86IEludCAtPg==</text>
       </register>
       <register name="-" type="4">
-        <text>, _: Int</text>
+        <text encoding="base64">IHsgcnM6IFJlc3VsdFNldD8sIF86IEludCAtPg==</text>
       </register>
       <register name="/" type="4">
         <text>\/auth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcGFyYW1zTWFwWyJlbWFpbCJdID0gZW1haWwK</text>
+        <text encoding="base64">CQlhcHBVc2VyLmhyZCA9IHJzLmdldFN0cmluZygiaHJkIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">RUNUICogRlJPTSBhcHBfdXNlciBXSEVSRSBlbWFpbCA9ICcnY2hlbmpqQHdvbmRlcnNoYXJlLmNuJycuY24nU0VMRUNUICogRlJPTSBhcHBfdXNlciBXSEVSRSBlbWFpbCA9ICdjaGVuampAd29uZGVyc2hhcmUuY24nOwo=</text>
+      <register name="1" type="4">
+        <text>AppUser(
+					rs?.getString(&quot;employee_id&quot;),
+					rs?.getString(&quot;name&quot;),
+					rs?.getString(&quot;password&quot;),
+					rs?.getString(&quot;pwd&quot;),
+					rs?.getString(&quot;email&quot;),
+					rs?.getString(&quot;status&quot;),
+					rs?.getString(&quot;emp_grade&quot;),
+					rs?.getString(&quot;gender&quot;),
+					rs?.getString(&quot;birth_day&quot;),
+					rs?.getInt(&quot;birth_type&quot;),
+					rs?.getString(&quot;join_date&quot;),
+					rs?.getString(&quot;jira_name&quot;),
+					rs?.getString(&quot;report_to&quot;),
+					rs?.getString(&quot;depid&quot;),
+					rs?.getString(&quot;dep_cnname&quot;),
+					rs?.getString(&quot;director&quot;),
+					rs?.getString(&quot;jobid&quot;),
+					rs?.getString(&quot;job_cname&quot;),
+					rs?.getString(&quot;avatar&quot;),
+					rs?.getString(&quot;phone&quot;),
+					rs?.getString(&quot;mobile_telephone&quot;),
+					rs?.getString(&quot;depid1&quot;),
+					rs?.getString(&quot;hr_type&quot;),
+					rs?.getString(&quot;hrbp&quot;),
+					rs?.getString(&quot;hrd&quot;),
+					rs?.getString(&quot;motto&quot;)
+				)
+			}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>class AppUserRowMapper : RowMapper {
+	@Throws(SQLException::class)
+	fun mapRow(rs: ResultSet): Any {
+		val appUser = AppUser()
+		appUser.employeeId = rs.getString(&quot;employee_id&quot;)
+		appUser.name = rs.getString(&quot;name&quot;)
+		appUser.password = rs.getString(&quot;password&quot;)
+		appUser.pwd = rs.getString(&quot;pwd&quot;)
+		appUser.email = rs.getString(&quot;email&quot;)
+		appUser.status = rs.getString(&quot;status&quot;)
+		appUser.empGrade = rs.getString(&quot;emp_grade&quot;)
+		appUser.gender = rs.getString(&quot;gender&quot;)
+		appUser.birthDay = rs.getString(&quot;birth_day&quot;)
+		appUser.birthType = rs.getInt(&quot;birth_type&quot;)
+		appUser.joinDate = rs.getString(&quot;join_date&quot;)
+		appUser.jiraName = rs.getString(&quot;jira_name&quot;)
+		appUser.reportTo = rs.getString(&quot;report_to&quot;)
+		appUser.depid = rs.getString(&quot;depid&quot;)
+		appUser.depCnname = rs.getString(&quot;dep_cnname&quot;)
+		appUser.director = rs.getString(&quot;director&quot;)
+		appUser.jobid = rs.getString(&quot;jobid&quot;)
+		appUser.jobCname = rs.getString(&quot;job_cname&quot;)
+		appUser.avatar = rs.getString(&quot;avatar&quot;)
+		appUser.phone = rs.getString(&quot;phone&quot;)
+		appUser.mobileTelephone = rs.getString(&quot;mobile_telephone&quot;)
+		appUser.depid1 = rs.getString(&quot;depid1&quot;)
+		appUser.hrType = rs.getString(&quot;hr_type&quot;)
+		appUser.hrbp = rs.getString(&quot;hrbp&quot;)
+		appUser.hrd = rs.getString(&quot;hrd&quot;)
+		appUser.motto = rs.getString(&quot;motto&quot;)
+		return appUser
+	}
+
+}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CQkvKgoJCQkJCQkJcnM/LmdldFN0cmluZygiZW1wbG95ZWVfaWQiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJuYW1lIiksCgkJCQkJcnM/LmdldFN0cmluZygicGFzc3dvcmQiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJwd2QiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJlbWFpbCIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoInN0YXR1cyIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImVtcF9ncmFkZSIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImdlbmRlciIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImJpcnRoX2RheSIpLAoJCQkJCXJzPy5nZXRJbnQoImJpcnRoX3R5cGUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJqb2luX2RhdGUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJqaXJhX25hbWUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJyZXBvcnRfdG8iKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJkZXBpZCIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImRlcF9jbm5hbWUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJkaXJlY3RvciIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImpvYmlkIiksCgkJCQkJcnM/LmdldFN0cmluZygiam9iX2NuYW1lIiksCgkJCQkJcnM/LmdldFN0cmluZygiYXZhdGFyIiksCgkJCQkJcnM/LmdldFN0cmluZygicGhvbmUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJtb2JpbGVfdGVsZXBob25lIiksCgkJCQkJcnM/LmdldFN0cmluZygiZGVwaWQxIiksCgkJCQkJcnM/LmdldFN0cmluZygiaHJfdHlwZSIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImhyYnAiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJocmQiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJtb3R0byIpCgkJICov</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlhcHBVc2VyLnBhc3N3b3JkID0gcnMuZ2V0U3RyaW5nKCJwYXNzd29yZCIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RUNUICogRlJPTSBhcHBfdXNlciBXSEVSRSBlbWFpbCA9ICcnY2hlbmpqQHdvbmRlcnNoYXJlLmNuJycuY24nU0VMRUNUICogRlJPTSBhcHBfdXNlciBXSEVSRSBlbWFpbCA9ICdjaGVuampAd29uZGVyc2hhcmUuY24nOwo=</text>
+      </register>
+      <register name="8" type="4">
         <text>CREATE TABLE app_blog_token
 (
   id INTEGER UNSIGNED,
@@ -470,26 +554,8 @@ ALTER TABLE app_blog_token COMMENT = '微博令牌表';
 
 SELECT * FROM app_user WHERE email = 'chenjj@wondershareSELECT * FROM app_user WHERE email = ''chenjj@wondershare.cn''SELECT * FROM app_user WHERE email = ''chenjj@wondershare.cn''SEL</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CQkJdmFsIHJlc3RUZW1wbGF0ZSA9IFV0aWwuZ2V0QmFzaWNSZXN0VGVtcGxhdGUocmVzdFRlbXBsYXRlQnVpbGRlciwgcmVxdWVzdCkKCQkJbG9nZ2VyLmluZm8oInt9IOi9rOWPkeivt+axgiB7fSIsIHJlcXVlc3Quc2Vzc2lvbi5pZCwgdXJsKQoJCQl2YWwgcmVzcG9uc2U6IFJlc3BvbnNlRW50aXR5PFN0cmluZz8+ID0gcmVzdFRlbXBsYXRlLnBvc3RGb3JFbnRpdHkodXJsLCByZXF1ZXN0LCBTdHJpbmc6OmNsYXNzLmphdmEp</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCXRva2VuU3RyaW5nLmZvckVhY2ggeyBpdCAtPiB0b2tlbk1hcFtpdC5zcGxpdCgiPSIpWzBdXSA9IGl0LnNwbGl0KCI9IilbMV0gfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCXZhbCB0b2tlblN0cmluZyA9IHRva2VuUmVzdWx0LnRvU3RyaW5nKCkuc3BsaXQoIiYiKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBwYXNzd29yZCDnlKjmiLflr4bnoIHvvIhtZDXliqDlr4blkI7vvIkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAqIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlibG9nT2F1dGhUb2tlblNlY3JldCA9IHRva2VuTWFwWyJvYXV0aF90b2tlbl9zZWNyZXQiXS50b1N0cmluZygpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlibG9nT2F1dGhUb2tlbiA9IHRva2VuTWFwWyJvYXV0aF90b2tlbiJdLnRvU3RyaW5nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>dis</text>
