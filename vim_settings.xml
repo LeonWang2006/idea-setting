@@ -18,12 +18,12 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522764974073">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522803273686">
         <mark key="'" line="405" column="43" />
-        <mark key="[" line="419" column="61" />
-        <mark key="]" line="419" column="61" />
-        <mark key="." line="419" column="61" />
-        <mark key="^" line="448" column="12" />
+        <mark key="[" line="379" column="48" />
+        <mark key="]" line="379" column="48" />
+        <mark key="." line="378" column="0" />
+        <mark key="^" line="90" column="91" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1522659774796">
         <mark key="[" line="132" column="10" />
@@ -178,10 +178,10 @@
         <mark key="]" line="143" column="37" />
         <mark key="." line="143" column="37" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1522635069836">
-        <mark key="[" line="81" column="9" />
-        <mark key="]" line="85" column="59" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1522803564292">
+        <mark key="[" line="85" column="35" />
+        <mark key="]" line="85" column="35" />
+        <mark key="." line="85" column="35" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
@@ -233,7 +233,8 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1522762982615">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1522802561791" />
+      <file name="/dummy.sql" timestamp="1522801843915">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -442,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHsgcnM6IFJlc3VsdFNldD8sIF86IEludCAtPg==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHsgcnM6IFJlc3VsdFNldD8sIF86IEludCAtPg==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>\/auth</text>
@@ -453,7 +454,22 @@
       <register name="0" type="2">
         <text encoding="base64">CQlhcHBVc2VyLmhyZCA9IHJzLmdldFN0cmluZygiaHJkIikK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCXRoaXMuZW1haWwgPSBlbWFpbAoJCQkJdGhpcy5wYXNzd29yZCA9IHVzZXIucGFzc3dvcmQudG9TdHJpbmcoKQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQl0aHJvdyBSZXN0RXhjZXB0aW9uKFJlc3RTZXJ2aWNlRXJyb3IuVHlwZS5OT19DT05URU5ULCAiZXJyb3Iubm9jb250ZW50IikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CS8qCgkgICAgICAgICRlbXBsb3llZV9pZCA9IHRyaW0oJGVtcGxveWVlX2lkKTsKICAgICAgICAkcGFzc3dvcmQgPSB0cmltKCRlbXBsb3llZV9wYXNzd29yZCk7CiAgICAgICAgJGVtcGxveWVlX3Bhc3N3b3JkID0gbWQ1KCRwYXNzd29yZCk7CgoJCWlmICgkZW1wbG95ZWVfaWQgJiYgJGVtcGxveWVlX3Bhc3N3b3JkKSB7CgoJCQkkc2VuZGVyID0gbmV3IGJsb2dfc2VuZGVyKCk7CgkJCSRzcWwgPSAiU0VMRUNUICogRnJvbSBgdG9rZW5gIFdIRVJFIGBlbXBsb3llZV9pZGAgPSAnJGVtcGxveWVlX2lkJyBBTkQgYGVtcGxveWVlX3Bhc3N3b3JkYCA9ICckZW1wbG95ZWVfcGFzc3dvcmQnIEFORCBgdHlwZWAgPSAnJHR5cGUnIjsKCSAgICAgICAgJGRiaCA9ICRzZW5kZXItPmRiLT5xdWVyeSgkc3FsKTsKCSAgICAgICAgaWYgKCRkYmgpewoJICAgICAgICAJJHJlc3VsdCA9ICRkYmgtPmZldGNoKFBETzo6RkVUQ0hfQVNTT0MpOwoJICAgICAgICB9CgoJCSAgICBpZiAoJHJlc3VsdCAmJiAkcmVzdWx0Wyd0b2tlbiddICYmICRyZXN1bHRbJ3NlY3JlY3QnXSl7CgkgICAgICAgICAgICAkX1NFU1NJT05bJ29fdG9rZW4nXSA9ICRyZXN1bHRbJ3Rva2VuJ107CgkgICAgICAgICAgICAkX1NFU1NJT05bJ29fc2VjcmV0J10gPSAkcmVzdWx0WydzZWNyZWN0J107CgkJICAgIH0gZWxzZSB7CgogICAgICAgICAgICAgICAgdW5zZXQoJGRiaCk7CgkJICAgIAkkc3FsID0gIlNFTEVDVCAqIEZST00gYHZlbXBsb3llZWAgV0hFUkUgYEJhZGdlYCA9ICckZW1wbG95ZWVfaWQnIjsKCQkgICAgCSRkYmggPSAkc2VuZGVyLT5kYi0+cXVlcnkoJHNxbCk7CgkJICAgIAkkcmVzdWx0ID0gJGRiaC0+ZmV0Y2goUERPOjpGRVRDSF9BU1NPQyk7CgkJICAgIAkkdXNlcm5hbWUgPSAkcmVzdWx0WydOYW1lJ107CgoJCSAgICAJdW5zZXQoJHNlbmRlcik7CgoJCSAgICAgICAgJHNlbmRlciA9IG5ldyBibG9nX3NlbmRlcigkdXNlcm5hbWUsICRwYXNzd29yZCk7CiAgICAJICAgICAgICAkc2VuZF9kYXRhID0gJHNlbmRlci0+Z2V0U3RyaW5nKCRzZW5kZXItPmFjY2Vzc191cmwsImF1dGgiKTsKICAgIAkgICAgICAgICR0b2tlbl9zdHIgPSAkc2VuZGVyLT5zZW5kVXJsKCRzZW5kX2RhdGEpOwogICAgCSAgICAgICAgJHRva2VuQXJyID0gJHNlbmRlci0+cGFyc2VSZXN1bHQoJHRva2VuX3N0cik7CgogICAgCSAgICAgICAgLy/ov4fmu6TmiqXplJnlvJXlj5HnmoTnqbrlgLwKICAgIAkgICAgICAgICR0b2tlbkFyciA9IGFycmF5X2ZpbHRlcigkdG9rZW5BcnIpOwoKICAgIAkgICAgICAgIGlmICgkdG9rZW5BcnIgJiYgaXNfYXJyYXkoJHRva2VuQXJyKSl7CiAgICAJICAgICAgICAgICAgJHNlbmRlci0+b2F1dGhfdG9rZW4gPSAkdG9rZW5BcnJbJ29hdXRoX3Rva2VuJ107CiAgICAJICAgICAgICAgICAgJHNlbmRlci0+b2F1dGhfdG9rZW5fc2VjcmV0ID0gJHRva2VuQXJyWydvYXV0aF90b2tlbl9zZWNyZXQnXTsKICAgIAkgICAgICAgICAgICAkX1NFU1NJT05bJ29fdG9rZW4nXSA9ICR0b2tlbkFyclsnb2F1dGhfdG9rZW4nXTsKICAgIAkgICAgICAgICAgICAkX1NFU1NJT05bJ29fc2VjcmV0J10gPSAkdG9rZW5BcnJbJ29hdXRoX3Rva2VuX3NlY3JldCddOwoKICAgIAkgICAgICAgICAgICAvL+WCqOWtmOi/m+S7pOeJjOihqAogICAgCSAgICAgICAgICAgICRzcWwgPSAiSU5TRVJUIElOVE8gdG9rZW4gKGVtcGxveWVlX2lkLCB0b2tlbiwgc2VjcmVjdCwgbmFtZSwgZW1wbG95ZWVfcGFzc3dvcmQsIHR5cGUpIFZBTFVFUyAoJyIgLiAkZW1wbG95ZWVfaWQgLiAiJywnIiAuICR0b2tlbkFyclsnb2F1dGhfdG9rZW4nXSAuICInLCciIC4gJHRva2VuQXJyWydvYXV0aF90b2tlbl9zZWNyZXQnXSAuICInLCciIC4gJHVzZXJuYW1lIC4gIicsJyIgLiAkZW1wbG95ZWVfcGFzc3dvcmQgLiAiJywnIiAuICR0eXBlIC4gIicpIjsKICAgIAkgICAgICAgICAgICAkc2VuZGVyLT5kYi0+ZXhlYygkc3FsKTsKCiAgICAJICAgICAgICB9CgkJICAgIH0KCSAqLw==</text>
+      </register>
+      <register name="5" type="4">
         <text>AppUser(
 					rs?.getString(&quot;employee_id&quot;),
 					rs?.getString(&quot;name&quot;),
@@ -484,10 +500,7 @@
 				)
 			}</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>class AppUserRowMapper : RowMapper {
 	@Throws(SQLException::class)
 	fun mapRow(rs: ResultSet): Any {
@@ -523,39 +536,14 @@
 
 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQkvKgoJCQkJCQkJcnM/LmdldFN0cmluZygiZW1wbG95ZWVfaWQiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJuYW1lIiksCgkJCQkJcnM/LmdldFN0cmluZygicGFzc3dvcmQiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJwd2QiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJlbWFpbCIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoInN0YXR1cyIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImVtcF9ncmFkZSIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImdlbmRlciIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImJpcnRoX2RheSIpLAoJCQkJCXJzPy5nZXRJbnQoImJpcnRoX3R5cGUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJqb2luX2RhdGUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJqaXJhX25hbWUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJyZXBvcnRfdG8iKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJkZXBpZCIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImRlcF9jbm5hbWUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJkaXJlY3RvciIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImpvYmlkIiksCgkJCQkJcnM/LmdldFN0cmluZygiam9iX2NuYW1lIiksCgkJCQkJcnM/LmdldFN0cmluZygiYXZhdGFyIiksCgkJCQkJcnM/LmdldFN0cmluZygicGhvbmUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJtb2JpbGVfdGVsZXBob25lIiksCgkJCQkJcnM/LmdldFN0cmluZygiZGVwaWQxIiksCgkJCQkJcnM/LmdldFN0cmluZygiaHJfdHlwZSIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImhyYnAiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJocmQiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJtb3R0byIpCgkJICov</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlhcHBVc2VyLnBhc3N3b3JkID0gcnMuZ2V0U3RyaW5nKCJwYXNzd29yZCIpCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">RUNUICogRlJPTSBhcHBfdXNlciBXSEVSRSBlbWFpbCA9ICcnY2hlbmpqQHdvbmRlcnNoYXJlLmNuJycuY24nU0VMRUNUICogRlJPTSBhcHBfdXNlciBXSEVSRSBlbWFpbCA9ICdjaGVuampAd29uZGVyc2hhcmUuY24nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>CREATE TABLE app_blog_token
-(
-  id INTEGER UNSIGNED,
-  employee_id CHAR(8),
-  email VARCHAR(50),
-  token VARCHAR(255),
-  secrect VARCHAR(255),
-  name VARCHAR(50),
-  employee_password VARCHAR(50),
-  type TINYTEXT
-);
-ALTER TABLE app_blog_token COMMENT = '微博令牌表';
-
-SELECT * FROM app_user WHERE email = 'chenjj@wondershareSELECT * FROM app_user WHERE email = ''chenjj@wondershare.cn''SELECT * FROM app_user WHERE email = ''chenjj@wondershare.cn''SEL</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CQkJdmFsIHJlc3RUZW1wbGF0ZSA9IFV0aWwuZ2V0QmFzaWNSZXN0VGVtcGxhdGUocmVzdFRlbXBsYXRlQnVpbGRlciwgcmVxdWVzdCkKCQkJbG9nZ2VyLmluZm8oInt9IOi9rOWPkeivt+axgiB7fSIsIHJlcXVlc3Quc2Vzc2lvbi5pZCwgdXJsKQoJCQl2YWwgcmVzcG9uc2U6IFJlc3BvbnNlRW50aXR5PFN0cmluZz8+ID0gcmVzdFRlbXBsYXRlLnBvc3RGb3JFbnRpdHkodXJsLCByZXF1ZXN0LCBTdHJpbmc6OmNsYXNzLmphdmEp</text>
+        <text encoding="base64">CQkvKgoJCQkJCQkJcnM/LmdldFN0cmluZygiZW1wbG95ZWVfaWQiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJuYW1lIiksCgkJCQkJcnM/LmdldFN0cmluZygicGFzc3dvcmQiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJwd2QiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJlbWFpbCIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoInN0YXR1cyIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImVtcF9ncmFkZSIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImdlbmRlciIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImJpcnRoX2RheSIpLAoJCQkJCXJzPy5nZXRJbnQoImJpcnRoX3R5cGUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJqb2luX2RhdGUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJqaXJhX25hbWUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJyZXBvcnRfdG8iKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJkZXBpZCIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImRlcF9jbm5hbWUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJkaXJlY3RvciIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImpvYmlkIiksCgkJCQkJcnM/LmdldFN0cmluZygiam9iX2NuYW1lIiksCgkJCQkJcnM/LmdldFN0cmluZygiYXZhdGFyIiksCgkJCQkJcnM/LmdldFN0cmluZygicGhvbmUiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJtb2JpbGVfdGVsZXBob25lIiksCgkJCQkJcnM/LmdldFN0cmluZygiZGVwaWQxIiksCgkJCQkJcnM/LmdldFN0cmluZygiaHJfdHlwZSIpLAoJCQkJCXJzPy5nZXRTdHJpbmcoImhyYnAiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJocmQiKSwKCQkJCQlycz8uZ2V0U3RyaW5nKCJtb3R0byIpCgkJICov</text>
       </register>
       <register name=":" type="4">
         <text>dis</text>
