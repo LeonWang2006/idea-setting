@@ -23,10 +23,11 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522836378235">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522897491890">
+        <mark key="[" line="313" column="39" />
+        <mark key="]" line="313" column="39" />
+        <mark key="." line="313" column="39" />
+        <mark key="^" line="79" column="19" />
       </file>
       <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1522833436225">
         <mark key="[" line="0" column="0" />
@@ -122,7 +123,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1522724700462">
+      <file name="/fragment.kt" timestamp="1522896754365">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -175,12 +176,6 @@
         <mark key="]" line="143" column="37" />
         <mark key="." line="143" column="37" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1522806634022">
-        <mark key="'" line="85" column="26" />
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="37" />
-        <mark key="." line="62" column="37" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/EnvParamsConfig.kt" timestamp="1504677929869">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -231,7 +226,7 @@
         <mark key="]" line="28" column="135" />
         <mark key="." line="28" column="135" />
       </file>
-      <file name="/dummy.sql" timestamp="1522834577639">
+      <file name="/dummy.sql" timestamp="1522896599177">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -429,17 +424,17 @@
       <jump line="85" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBSZXNwb25zZUJvZHkK</text>
+      <register name="&quot;" type="4">
+        <text>isNullOrBlank</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>isNullOrBlank</text>
       </register>
       <register name="/" type="4">
         <text>\/auth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcGFyYW1zTWFwWyJtc2ciXSA9IG1zZwo=</text>
+        <text encoding="base64">CQkJaWYgKGltYWdlVXJsICE9IG51bGwgJiYgaW1hZ2VVcmwuaXNOb3RFbXB0eSgpKXsKCQkJCXBhcmFtc01hcFsiaW1hZ2VVcmwiXSA9IGltYWdlVXJsCgkJCX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUBSZXNwb25zZUJvZHkK</text>
