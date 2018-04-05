@@ -23,12 +23,12 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522922704947">
-        <mark key="'" line="430" column="12" />
-        <mark key="[" line="480" column="46" />
-        <mark key="]" line="480" column="46" />
-        <mark key="^" line="470" column="24" />
-        <mark key="." line="480" column="46" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522943057518">
+        <mark key="'" line="465" column="12" />
+        <mark key="[" line="408" column="90" />
+        <mark key="]" line="408" column="91" />
+        <mark key="^" line="408" column="91" />
+        <mark key="." line="408" column="91" />
       </file>
       <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1522833436225">
         <mark key="[" line="0" column="0" />
@@ -443,46 +443,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>户</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>户</text>
       </register>
       <register name="/" type="4">
         <text>get-all</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQltYXAuYWRkKCJpbWFnZVtdIiwgaW1hZ2UpCg==</text>
+      <register name="0" type="4">
+        <text>给指定ID帖子点赞</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCXZhbCBpbWFnZSA9IGl0LnRvU3RyaW5nKCkK</text>
+      <register name="1" type="4">
+        <text>RequestParam
+		activitiesUser: String,</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQltYXAuYWRkKCJhY3Rpdml0aWVzX3VzZXIiLCBhY3Rpdml0aWVzVXNlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKCIiKQo=</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJsYXN0QWN0aXZpdHkiLCB2YWx1ZSA9ICLlvZPliY3mnIDmlrDluJblrZBJRO+8jOeUqOS6juiuoeeul+WunuaXtumXtOmalOW4luWtkOS/oeaBryIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCXZhbCBpbWFnZSA9IGl0LnRvU3RyaW5nKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXZhbCB1cmwgPSBidWlsZFVybChFbnYuYmxvZ0ZyaWVuZHNVcmwsICJ1cGRhdGUiLCAiZ2V0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAiZW1haWwiLCB2YWx1ZSA9ICLmoIfnrb7vvIzmmK/lkKbku4XmmL7npLrmoIfnrb7nm7jlhbPluJblrZAiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKCIiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXNwb25zZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aHJvdyBSZXN0U2VydmljZUVycm9yKCkK</text>
+        <text encoding="base64">CQkJCXZhbCB1cmwgPSBidWlsZFVybChFbnYuYmxvZ0ZyaWVuZHNVcmwsICJ1cGRhdGUiLCAiZ2V0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YWwgcmVzdWx0ID0gcG9zdEJsb2coRW52LmJsb2dGcmllbmRzVXJsLCBudWxsLCByZXF1ZXN0KQo=</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAiZW1haWwiLCB2YWx1ZSA9ICLmoIfnrb7vvIzmmK/lkKbku4XmmL7npLrmoIfnrb7nm7jlhbPluJblrZAiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>dis</text>
