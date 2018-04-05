@@ -23,11 +23,11 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522909087455">
-        <mark key="[" line="142" column="74" />
-        <mark key="]" line="142" column="74" />
-        <mark key="^" line="142" column="75" />
-        <mark key="." line="142" column="74" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1522911397408">
+        <mark key="[" line="307" column="6" />
+        <mark key="]" line="307" column="6" />
+        <mark key="^" line="305" column="93" />
+        <mark key="." line="307" column="6" />
       </file>
       <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1522833436225">
         <mark key="[" line="0" column="0" />
@@ -160,6 +160,11 @@
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.kt" timestamp="1522909804003">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatLogEvaluate.kt" timestamp="1509349125523">
         <mark key="[" line="19" column="23" />
@@ -425,46 +430,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>\/auth</text>
       </register>
       <register name="0" type="4">
-        <text>获取指定用户ID的帖子列表</text>
+        <text>加载前20条微博帖子</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAibGluayIsIHZhbHVlID0gIumZhOWKoOmTvuaOpeWcsOWdgCIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAiYXZhdGFyIiwgdmFsdWUgPSAi5aS05YOP5Zu+54mH5paH5Lu25ZCNIiwgcGFyYW1UeXBlID0gInF1ZXJ5IiksCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQkJLy92YWwgcHJvamVjdFVybCA9IEhSU19IT1NUICsgInByb2plY3QtZXZhbHVhdGUvYWRkIgoKCQkJLy8JCQl2YXIgYmFzZTY0Q3JlZGVudGlhbHMgPSBhdXRob3JpemF0aW9uLnN1YnN0cmluZygiQmFzaWMiLmxlbmd0aCkudHJpbSB7IGl0IDw9ICcgJyB9CgkJCS8vCQkJYmFzZTY0Q3JlZGVudGlhbHMgPSBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpCgkJCS8vCQkJdmFsIHdzSWQgPSBiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIudG9SZWdleCgpKS5kcm9wTGFzdFdoaWxlIHsgaXQuaXNFbXB0eSgpIH0udG9UeXBlZEFycmF5KClbMF0KCQkJLy8JCQl2YWwgcGFzc3dvcmQgPSBiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIudG9SZWdleCgpKS5kcm9wTGFzdFdoaWxlIHsgaXQuaXNFbXB0eSgpIH0udG9UeXBlZEFycmF5KClbMV0KCQkJLy8KCQkJLy8JCQl2YWwgcmVzdFRlbXBsYXRlID0gcmVzdFRlbXBsYXRlQnVpbGRlci5iYXNpY0F1dGhvcml6YXRpb24od3NJZCwgcGFzc3dvcmQpLmJ1aWxkKCk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAiaW1hZ2UiLCB2YWx1ZSA9ICLlm77niYfnmoRiYXNlNjTnvJbnoIHvvIzlpJrlm77mjqXlj5dQT1NU5pWw57uE5b2i5byP77yIJmltYWdlPTEmaW1hZ2U9Mu+8iSIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJtc2ciLCB2YWx1ZSA9ICLlvq7ljZrluJblrZDlhoXlrrnvvIh1cmxFbmNvZGXlkI7vvIkiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQllbWFpbDogU3RyaW5nLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">CQkJLy8JCQl2YXIgYmFzZTY0Q3JlZGVudGlhbHMgPSBhdXRob3JpemF0aW9uLnN1YnN0cmluZygiQmFzaWMiLmxlbmd0aCkudHJpbSB7IGl0IDw9ICcgJyB9CgkJCS8vCQkJYmFzZTY0Q3JlZGVudGlhbHMgPSBTdHJpbmcoQmFzZTY0VXRpbHMuZGVjb2RlRnJvbVN0cmluZyhiYXNlNjRDcmVkZW50aWFscykpCgkJCS8vCQkJdmFsIHJlc3RUZW1wbGF0ZSA9IHRoaXMucmVzdFRlbXBsYXRlQnVpbGRlci5iYXNpY0F1dGhvcml6YXRpb24oYmFzZTY0Q3JlZGVudGlhbHMuc3BsaXQoIjoiLnRvUmVnZXgoKSkuZHJvcExhc3RXaGlsZSB7IGl0LmlzRW1wdHkoKSB9LnRvVHlwZWRBcnJheSgpWzBdLCBiYXNlNjRDcmVkZW50aWFscy5zcGxpdCgiOiIudG9SZWdleCgpKS5kcm9wTGFzdFdoaWxlIHsgaXQuaXNFbXB0eSgpIH0udG9UeXBlZEFycmF5KClbMV0pLmJ1aWxkKCk=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAibGluayIsIHZhbHVlID0gIumZhOWKoOmTvuaOpeWcsOWdgCIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAiYXZhdGFyIiwgdmFsdWUgPSAi5aS05YOP5Zu+54mH5paH5Lu25ZCNIiwgcGFyYW1UeXBlID0gInF1ZXJ5IiksCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAiaW1hZ2UiLCB2YWx1ZSA9ICLlm77niYfnmoRiYXNlNjTnvJbnoIHvvIzlpJrlm77mjqXlj5dQT1NU5pWw57uE5b2i5byP77yIJmltYWdlPTEmaW1hZ2U9Mu+8iSIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJtc2ciLCB2YWx1ZSA9ICLlvq7ljZrluJblrZDlhoXlrrnvvIh1cmxFbmNvZGXlkI7vvIkiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLwkJYmxvZ09hdXRoVGltZVN0YW1wID0gIjIiCg==</text>
+        <text encoding="base64">CQllbWFpbDogU3RyaW5nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>dis</text>
