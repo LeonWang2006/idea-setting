@@ -11,10 +11,10 @@
       <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1523153171833">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinResponse.kt" timestamp="1523169600192">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinResponse.kt" timestamp="1523182256586">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/gitRepository/spring-boot-kotlin-demo/settings.gradle" timestamp="1504524760658">
         <mark key="[" line="0" column="0" />
@@ -249,12 +249,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523177998195">
-        <mark key="'" line="197" column="12" />
-        <mark key="[" line="118" column="21" />
-        <mark key="]" line="118" column="21" />
-        <mark key="." line="118" column="21" />
-        <mark key="^" line="300" column="57" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523182331217">
+        <mark key="'" line="200" column="12" />
+        <mark key="[" line="349" column="19" />
+        <mark key="]" line="349" column="19" />
+        <mark key="." line="349" column="19" />
+        <mark key="^" line="349" column="25" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveList.kt" timestamp="1505991782591">
         <mark key="[" line="2" column="23" />
@@ -312,11 +312,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinAccessToken.kt" timestamp="1523159799472">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="2" column="128" />
-        <mark key="." line="2" column="128" />
-        <mark key="^" line="2" column="128" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinAccessToken.kt" timestamp="1523182252929">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/Contact.kt" timestamp="1517882274691">
         <mark key="[" line="6" column="368" />
@@ -382,7 +382,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1523157375819">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1523180070146">
         <mark key="'" line="190" column="28" />
         <mark key="[" line="515" column="0" />
         <mark key="]" line="515" column="0" />
@@ -516,46 +516,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$hostname/wx/todo</text>
+        <text>reponse</text>
       </register>
       <register name="-" type="4">
-        <text>$hostname/wx/todo</text>
+        <text>reponse</text>
       </register>
       <register name="/" type="4">
         <text>bind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oIuaXoGNvZGXlj4LmlbDvvIxnZXRDb2Rl44CCIikK</text>
+        <text encoding="base64">CQkJdmFsIHRva2VuID0gZ3Nvbi5mcm9tSnNvbjxXZWl4aW5BY2Nlc3NUb2tlbj4ocmVzcG9uc2VSZXN1bHQuYm9keSwgb2JqZWN0IDogVHlwZVRva2VuPFdlaXhpbkFjY2Vzc1Rva2VuPigpIHt9LnR5cGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YWwgaGVhZGVycyA9IEh0dHBIZWFkZXJzKCkK</text>
+        <text encoding="base64">CQkJcmV0dXJuIHJlc3BvbnNlUmVzdWx0LmJvZHkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQloZWFkZXJzLmNvbnRlbnRUeXBlID0gTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04K</text>
+        <text encoding="base64">CQlyZXR1cm4gZ3Nvbi5mcm9tSnNvbjxXZWl4aW5BY2Nlc3NUb2tlbj4ocmVzcG9uc2VSZXN1bHQsIG9iamVjdCA6IFR5cGVUb2tlbjxXZWl4aW5BY2Nlc3NUb2tlbj4oKSB7fS50eXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl2YWwgcmVzdFJlcXVlc3QgPSBIdHRwRW50aXR5PFN0cmluZz4oaGVhZGVycykK</text>
+        <text encoding="base64">CXZhciBlcnJtc2c6IFN0cmluZz8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZ2V0Q29kZSgiJGhvc3RuYW1lL3d4L2JpbmQiLCByZXF1ZXN0KQo=</text>
+        <text encoding="base64">CXZhciBlcnJjb2RlOiBMb25nPywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygi5pegY29kZeWPguaVsO+8jGdldENvZGXjgIIiKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gIiIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIGZhbHNlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICIiCg==</text>
+        <text encoding="base64">CQlpZiAob3BlbmlkLmlzTnVsbE9yRW1wdHkoKSl7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gIiIK</text>
+        <text encoding="base64">CQlpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>dis</text>
