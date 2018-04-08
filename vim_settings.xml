@@ -26,12 +26,12 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523155178435">
-        <mark key="'" line="608" column="15" />
-        <mark key="[" line="353" column="43" />
-        <mark key="]" line="353" column="44" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523166495798">
+        <mark key="'" line="607" column="15" />
+        <mark key="[" line="525" column="0" />
+        <mark key="]" line="525" column="0" />
         <mark key="^" line="408" column="91" />
-        <mark key="." line="353" column="44" />
+        <mark key="." line="525" column="0" />
       </file>
       <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1523152578203">
         <mark key="[" line="0" column="0" />
@@ -226,11 +226,10 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523160047359">
-        <mark key="[" line="153" column="17" />
-        <mark key="]" line="153" column="17" />
-        <mark key="." line="153" column="17" />
-        <mark key="^" line="151" column="35" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523167155933">
+        <mark key="[" line="163" column="64" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveList.kt" timestamp="1505991782591">
         <mark key="[" line="2" column="23" />
@@ -479,47 +478,47 @@
       <jump line="608" column="15" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>touser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>touser</text>
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text>get-all</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQliYXNlQXJyLnB1dCgidG91c2VyIixvcGVuaWQpCg==</text>
+        <text encoding="base64">CQl2YWwgYmFzZUFyciA9IG11dGFibGVNYXBPZjxTdHJpbmcsQW55PigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICB2YWwgb3BlbmlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YWwgY29kZSA9IGdldENvZGUoIiRob3N0bmFtZS93eC9hdXRoIixyZXF1ZXN0KQo=</text>
+        <text encoding="base64">CQkJdmFsIHJlc3BvbnNlID0gZ3Nvbi5mcm9tSnNvbjxXZWl4aW5BY2Nlc3NUb2tlbj4ocmVzdWx0LCBvYmplY3QgOiBUeXBlVG9rZW48V2VpeGluQWNjZXNzVG9rZW4+KCkge30udHlwZSkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQkvLwkJbG9nZ2VyLmluZm8oInt9IC93eD9zaWduYXR1cmU9e30mdGltZXN0YW1wPXt9Jm5vbmNlPXt9JmVjaG9TdHI9e30iLCByZXF1ZXN0LnNlc3Npb24uaWQsc2lnbmF0dXJlLHRpbWVzdGFtcCxub25jZSxlY2hvc3RyKQoJCXZhbCBzcWwgPSAic2VsZWN0ICogZnJvbSBhcHBfdXNlciBXSEVSRSBlbXBsb3llZV9pZD0kJHdzX2lkIEFORCBwYXNzd29yZD0ke01kNVBhc3N3b3JkRW5jb2RlcigpLmVuY29kZVBhc3N3b3JkKAoJCQlwYXNzd29yZCwgIiIKCQkpfSIKCgkJdHJ5IHsKCgkJCXZhbCByZXN1bHQgPSBhcHBKZGJjVGVtcGxhdGUucXVlcnlGb3JNYXAoc3FsKQoKCQkJcmVzdWx0LmxldCB7CgoJCQkJdmFsIGluc2VydFNxbCA9ICJJTlNFUlQgSU5UTyBhcHBfd2VpeGluICh3c19pZCwgb3BlbmlkLCBjcmVhdGVfdGltZSkgVkFMVUVTICgnJHdzX2lkJywgJyRvcGVuaWQnLCAke0luc3RhbnQuRVBPQ0guZXBvY2hTZWNvbmR9KTsiCgkJCQlhcHBKZGJjVGVtcGxhdGUudXBkYXRlKGluc2VydFNxbCkKCQkJfQoKCQl9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKCQkJbG9nZ2VyLmVycm9yKCLnu5HlrprlpLHotKXvvIzor7fph43mlrDnu5HlrpohIikKCQkJcmV0dXJuICLnu5HlrprlpLHotKUiCgkJfQoKCQlyZXR1cm4gIue7keWumuaIkOWKnyI=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJdmFsIGdzb24gPSBHc29uKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdmFsIHJlc3BvbnNlID0gZ3Nvbi5mcm9tSnNvbjxXZWl4aW5BY2Nlc3NUb2tlbj4ocmVzdWx0LCBvYmplY3QgOiBUeXBlVG9rZW48V2VpeGluQWNjZXNzVG9rZW4+KCkge30udHlwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdmFsIGdzb24gPSBHc29uKCkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQkvKioKCQkkY29kZSA9IFlpaTo6JGFwcC0+cmVxdWVzdC0+Z2V0KCdkY29kZScpOwoJCWlmKCEgZW1wdHkoJGNvZGUpKXsKCQkvLzLjgIHpgJrov4fnvZHpobXojrflj5ZhY2Nlc3NfdG9rZW4gYW5kIG9wZW5pZAoJCSR0b2tlbkFuZE9wZW5pZCA9ICR0aGlzLT5nZXRBY2Nlc3NUb2tlbigkY29kZSk7CgkJJG9wZW5pZCA9ICR0b2tlbkFuZE9wZW5pZFsnb3BlbmlkJ107CgkJLy/pqozor4HmmK/lkKbnu5Hlrprov4cKCQlpZigkdGhpcy0+Y2hlY2tCaW5kd3MoJG9wZW5pZCkpewoJCWVjaG8gJ+aIkeeahOmmlumhtSc7ZXhpdDsKCQl9ZWxzZXsKCQkvL+WOu+e7keWumumhtemdogoJCSR0aGlzLT5yZW5kZXJQYXJ0aWFsKCdiaW5kd3MnLFsnb3BlbmlkJz0+JG9wZW5pZF0pOwoJCX0KCQl9ZWxzZXsKCQkvLzHjgIHor7fmsYJjb2RlCgkJJHRoaXMtPnNlbmRSZXFjb2RlKCR0aGlzLT5fd3hIb21lVXJsIC4gJ3d4L2JpbmR3cycpOwoJCX0KCQkgKi8=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQl2YWwgc2VsZWNlUGFyYW1zID0gbXV0YWJsZU1hcE9mKCJ1cmwiIHRvICIjIiwgIm1pbmlwcm9ncmFtIiB0byAiIyIsICJjb2xvciIgdG8gIiMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIllvdXIgY3VycmVudCBJUCBhZGRyZXNzIDogJGlwIikK</text>
+        <text encoding="base64">CQkkc2VsZWN0UGFyYW1zID0gWyd1cmwnPT4nIycsJ21pbmlwcm9ncmFtJz0+JyMnLCdjb2xvcic9PicjJ10K</text>
       </register>
       <register name=":" type="4">
         <text>dis</text>
