@@ -65,7 +65,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1523157835219" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1521190340718">
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="34" />
@@ -238,7 +237,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1523238986143">
+      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1523242825209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ResponseWrapper.kt" timestamp="1515229505459">
@@ -249,7 +248,7 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523239548532">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523242930697">
         <mark key="'" line="231" column="92" />
         <mark key="[" line="259" column="40" />
         <mark key="]" line="267" column="21" />
@@ -283,10 +282,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1522839679115">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="20" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1523243015844">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="34" column="71" />
+        <mark key="." line="34" column="71" />
+        <mark key="^" line="34" column="71" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinToken.kt" timestamp="1523157171762">
         <mark key="[" line="2" column="0" />
@@ -294,12 +294,12 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1523186177943">
         <mark key="[" line="62" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console.sql" timestamp="1523189736269">
-        <mark key="[" line="58" column="68" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console.sql" timestamp="1523242799039">
+        <mark key="[" line="64" column="79" />
         <mark key="]" line="28" column="135" />
         <mark key="." line="28" column="135" />
       </file>
-      <file name="/dummy.sql" timestamp="1523239244796">
+      <file name="/dummy.sql" timestamp="1523242818358">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -519,16 +519,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>lateinit</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>lateinit</text>
       </register>
       <register name="/" type="4">
         <text>bind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcnM/LmdldExvbmcoImlkIiksCg==</text>
+        <text encoding="base64">CXByaXZhdGUgdmFsIGFwcFVzZXJSZXBvc2l0b3J5OiBBcHBVc2VyUmVwb3NpdG9yeSwK</text>
       </register>
       <register name="1" type="4">
         <text>else {
