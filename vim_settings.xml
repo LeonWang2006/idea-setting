@@ -237,7 +237,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1523242825209">
+      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1523243124467">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ResponseWrapper.kt" timestamp="1515229505459">
@@ -282,11 +282,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1523243015844">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="34" column="71" />
-        <mark key="." line="34" column="71" />
-        <mark key="^" line="34" column="71" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1523244374384">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinToken.kt" timestamp="1523157171762">
         <mark key="[" line="2" column="0" />
@@ -294,12 +293,12 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1523186177943">
         <mark key="[" line="62" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console.sql" timestamp="1523242799039">
-        <mark key="[" line="64" column="79" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console.sql" timestamp="1523243248275">
+        <mark key="[" line="66" column="66" />
         <mark key="]" line="28" column="135" />
         <mark key="." line="28" column="135" />
       </file>
-      <file name="/dummy.sql" timestamp="1523242818358">
+      <file name="/dummy.sql" timestamp="1523243124693">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -519,10 +518,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lateinit</text>
+        <text encoding="base64">CQlpZiAodXNlciAhPSBudWxsKSB7CgkJCS8vIHVzZSB0aGUgY3JlZGVudGlhbHMgYW5kIGF1dGhlbnRpY2F0ZSBhZ2FpbnN0IHRoZSB0aGlyZC1wYXJ0eSBzeXN0ZW0KCQkJLy8gICAgICAgIGlmICh0cnVlKSB7CgkJfSBlbHNlIHsKCQkJdmFsIGxvY2FsZSA9IExvY2FsZUNvbnRleHRIb2xkZXIuZ2V0TG9jYWxlKCkKCQkJdmFsIGVycm9yTWVzc2FnZSA9IG1lc3NhZ2VTb3VyY2UuZ2V0TWVzc2FnZSgiZXJyb3IudXNlci51c2VybmFtZW9ycGFzc3dvcmR3cm9uZyIsIG51bGwsIGxvY2FsZSkKCQkJdGhyb3cgQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24oZXJyb3JNZXNzYWdlKQoJCX0=</text>
       </register>
       <register name="-" type="4">
-        <text>lateinit</text>
+        <text>esle</text>
       </register>
       <register name="/" type="4">
         <text>bind</text>
@@ -531,9 +530,7 @@
         <text encoding="base64">CXByaXZhdGUgdmFsIGFwcFVzZXJSZXBvc2l0b3J5OiBBcHBVc2VyUmVwb3NpdG9yeSwK</text>
       </register>
       <register name="1" type="4">
-        <text>else {
-			getCode(&quot;$hostname/wx/todo&quot;, request, response)
-		}</text>
+        <text encoding="base64">CQlpZiAodXNlciAhPSBudWxsKSB7CgkJCS8vIHVzZSB0aGUgY3JlZGVudGlhbHMgYW5kIGF1dGhlbnRpY2F0ZSBhZ2FpbnN0IHRoZSB0aGlyZC1wYXJ0eSBzeXN0ZW0KCQkJLy8gICAgICAgIGlmICh0cnVlKSB7CgkJfSBlbHNlIHsKCQkJdmFsIGxvY2FsZSA9IExvY2FsZUNvbnRleHRIb2xkZXIuZ2V0TG9jYWxlKCkKCQkJdmFsIGVycm9yTWVzc2FnZSA9IG1lc3NhZ2VTb3VyY2UuZ2V0TWVzc2FnZSgiZXJyb3IudXNlci51c2VybmFtZW9ycGFzc3dvcmR3cm9uZyIsIG51bGwsIGxvY2FsZSkKCQkJdGhyb3cgQmFkQ3JlZGVudGlhbHNFeGNlcHRpb24oZXJyb3JNZXNzYWdlKQoJCX0=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -542,25 +539,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIFVzZXJuYW1lUGFzc3dvcmRBdXRoZW50aWNhdGlvblRva2VuKG5hbWUsIHBhc3N3b3JkLCBBcnJheUxpc3Q8R3JhbnRlZEF1dGhvcml0eT4oKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIFVzZXJuYW1lUGFzc3dvcmRBdXRoZW50aWNhdGlvblRva2VuKG5hbWUsIHBhc3N3b3JkLCBBcnJheUxpc3Q8R3JhbnRlZEF1dGhvcml0eT4oKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygicmVzdWx0OiRyZXN1bHQiKQo=</text>
+        <text encoding="base64">CQl2YWwgdXNlciA9IGFwcEpkYmNUZW1wbGF0ZS5xdWVyeUZvck9iamVjdChzcWwsSW50ZWdlcjo6Y2xhc3MuamF2YSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl2YWwgcmVzdWx0ID0gYXBwSmRiY1RlbXBsYXRlLnF1ZXJ5Rm9yT2JqZWN0KHNxbCwgcm93TWFwcGVyKQo=</text>
+      <register name="6" type="4">
+        <text>else {
+			getCode(&quot;$hostname/wx/todo&quot;, request, response)
+		}</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtCgkJcGFzc3dvcmQ6IFN0cmluZyw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtCgkJd3NfaWQ6IFN0cmluZyw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
