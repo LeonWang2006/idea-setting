@@ -8,7 +8,7 @@
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
-      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1523190306262">
+      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1523239241139">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinResponse.kt" timestamp="1523182256586">
@@ -160,11 +160,11 @@
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppWeixin.kt" timestamp="1523190540512">
-        <mark key="[" line="9" column="60" />
-        <mark key="]" line="9" column="60" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="9" column="60" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppWeixin.kt" timestamp="1523239827122">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_2.sql" timestamp="1522763005899">
         <mark key="[" line="0" column="0" />
@@ -238,7 +238,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1523151882142">
+      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1523238986143">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ResponseWrapper.kt" timestamp="1515229505459">
@@ -249,12 +249,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523235774388">
-        <mark key="'" line="235" column="92" />
-        <mark key="[" line="312" column="28" />
-        <mark key="]" line="312" column="26" />
-        <mark key="." line="312" column="26" />
-        <mark key="^" line="312" column="26" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523239548532">
+        <mark key="'" line="231" column="92" />
+        <mark key="[" line="259" column="40" />
+        <mark key="]" line="267" column="21" />
+        <mark key="." line="267" column="21" />
+        <mark key="^" line="267" column="21" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveList.kt" timestamp="1505991782591">
         <mark key="[" line="2" column="23" />
@@ -299,7 +299,7 @@
         <mark key="]" line="28" column="135" />
         <mark key="." line="28" column="135" />
       </file>
-      <file name="/dummy.sql" timestamp="1523190306422">
+      <file name="/dummy.sql" timestamp="1523239244796">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -519,10 +519,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Entity</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>Entity</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>bind</text>
@@ -530,38 +530,40 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJcnM/LmdldExvbmcoImlkIiksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CUBHZXRNYXBwaW5nKCIvZ2V0LWNvZGUiKQo=</text>
+      <register name="1" type="4">
+        <text>else {
+			getCode(&quot;$hostname/wx/todo&quot;, request, response)
+		}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlnZXRSZXN0VGVtcGxhdGUoKS5nZXRGb3JPYmplY3QodXJsLCBTdHJpbmcuY2xhc3MpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlkaXNwYXRjaGVyLmZvcndhcmQocmVxdWVzdCxyZXNwb25zZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl2YWwgZGlzcGF0Y2hlciA9IHJlcXVlc3QuZ2V0UmVxdWVzdERpc3BhdGNoZXIodXJsKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJdmFsIHJlc3VsdCA9IGFwcEpkYmNUZW1wbGF0ZS5xdWVyeShzcWwsIHJvd01hcHBlcikK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICA8Zm9ybSBtZXRob2Q9InBvc3QiIGFjdGlvbj0iL3d4L2F1dGgiPgogICAgICAgIDxpbnB1dCB0eXBlPSJ1c2VybmFtZSIgbmFtZT0id3NJZCIgcGxhY2Vob2xkZXI9IuW3peWPtyIgLz4KICAgICAgICA8aW5wdXQgdHlwZT0icGFzc3dvcmQiIG5hbWU9InBhc3N3b3JkIiBwbGFjZWhvbGRlcj0i5a+G56CBIiAvPgogICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIHZhbHVlPSIke3Jlc3VsdC5vcGVuaWR9IiBuYW1lPSJvcGVuaWQiIC8+CiAgICAgICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IuaPkOS6pCIgLz4KICAgIDwvZm9ybT4=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQkJcmVzdWx0ID4gMC5sZXQgewoKCQkJCWlmIChjaGVja0JpbmQob3BlbmlkKSkgewoJCQkJCXRocm93IFJlc3RFeGNlcHRpb24oUmVzdFNlcnZpY2VFcnJvci5UeXBlLk5PVF9BQ0NFUFRBQkxFLCJlcnJvci53ZWl4aW4uYmluZC5hbHJlYWR5IikKCQkJCX0gZWxzZSB7CgkJCQkJdmFsIGluc2VydFNxbCA9ICJJTlNFUlQgSU5UTyBhcHBfd2VpeGluICh3c19pZCwgb3BlbmlkLCBjcmVhdGVfdGltZSkgVkFMVUVTICgnJHdzSWQnLCAnJG9wZW5pZCcsICR7SW5zdGFudC5FUE9DSC5lcG9jaFNlY29uZH0pIG9uIGR1cGxpY2F0ZSAga2V5IHVwZGF0ZSBjcmVhdGVfdGltZSA9ICR7SW5zdGFudC5FUE9DSC5lcG9jaFNlY29uZH07IgoJCQkJCWFwcEpkYmNUZW1wbGF0ZS51cGRhdGUoaW5zZXJ0U3FsKQoJCQkJfQoJCQl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gIiIK</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygicmVzdWx0OiRyZXN1bHQiKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQl2YWwgcmVzdWx0ID0gYXBwSmRiY1RlbXBsYXRlLnF1ZXJ5Rm9yT2JqZWN0KHNxbCwgcm93TWFwcGVyKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtCgkJcGFzc3dvcmQ6IFN0cmluZyw=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtCgkJd3NfaWQ6IFN0cmluZyw=</text>
       </register>
       <register name=":" type="4">
-        <text>dis</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -604,7 +606,6 @@
         <entry>%s/ = null/,/g</entry>
         <entry>s/? = null/,/g</entry>
         <entry>%,s/? = null/,/g</entry>
-        <entry>w</entry>
         <entry>%s/example = &quot;万兴科技&quot;//g</entry>
         <entry>%s/, example = &quot;万兴科技&quot;//g</entry>
         <entry>.,s/, example = &quot;万兴科技&quot;//g</entry>
@@ -617,6 +618,7 @@
         <entry>dis</entry>
         <entry>id</entry>
         <entry>ids</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
