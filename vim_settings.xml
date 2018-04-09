@@ -31,8 +31,8 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523276322758">
-        <mark key="'" line="754" column="15" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523277939812">
+        <mark key="'" line="352" column="74" />
         <mark key="[" line="352" column="12" />
         <mark key="]" line="352" column="12" />
         <mark key="." line="352" column="12" />
@@ -403,7 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1085" column="72" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="78" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="1049" column="33" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="1050" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -503,6 +502,7 @@
       <jump line="27" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="129" column="56" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="236" column="92" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="352" column="74" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -512,7 +512,7 @@
         <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text>frien</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBRdWFsaWZpZXIoImhyc0pUIikKCXByaXZhdGUgbGF0ZWluaXQgdmFyIGhyc0pkYmNUZW1wbGF0ZTogSmRiY1RlbXBsYXRlCg==</text>
@@ -552,9 +552,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search>frien</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern>frien</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -562,8 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
-        <entry>-man</entry>
         <entry>-map</entry>
         <entry>\/contacts</entry>
         <entry>satus</entry>
@@ -582,6 +580,8 @@
         <entry>get-all</entry>
         <entry>todo</entry>
         <entry>bind</entry>
+        <entry>fren</entry>
+        <entry>frien</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
