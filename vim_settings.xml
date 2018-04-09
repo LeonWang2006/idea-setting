@@ -31,17 +31,17 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523272540252">
-        <mark key="'" line="720" column="15" />
-        <mark key="[" line="234" column="51" />
-        <mark key="]" line="408" column="20" />
-        <mark key="." line="408" column="20" />
-        <mark key="^" line="408" column="20" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523274996046">
+        <mark key="'" line="747" column="15" />
+        <mark key="[" line="50" column="16" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+        <mark key="^" line="48" column="21" />
       </file>
       <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1523188269487">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1522838698143">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1523274867726">
         <mark key="[" line="134" column="17" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
@@ -84,7 +84,7 @@
         <mark key="]" line="13" column="55" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.kt" timestamp="1522316263179">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/AppDataSourceJpaConfig.kt" timestamp="1523274941032">
         <mark key="[" line="47" column="21" />
         <mark key="]" line="47" column="21" />
         <mark key="." line="47" column="21" />
@@ -183,6 +183,11 @@
       <file name="/hrs_cache_user_ext [prd - wos_hrs@192.168.10.112]" timestamp="1523246179398">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/CommonDataSourceJpaConfig.kt" timestamp="1523274831457">
+        <mark key="[" line="33" column="81" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/User.kt" timestamp="1517489589072">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -255,9 +260,6 @@
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="/a.sql" timestamp="1523189880373">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
@@ -281,9 +283,6 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinToken.kt" timestamp="1523157171762">
         <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/messages_zh_CN.properties" timestamp="1523186177943">
-        <mark key="[" line="62" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console.sql" timestamp="1523243248275">
         <mark key="[" line="66" column="66" />
@@ -391,6 +390,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/BlogDataSourceJpaConfig.kt" timestamp="1523274959359">
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="85" column="19" />
+        <mark key="." line="85" column="19" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1522823042281">
         <mark key="[" line="341" column="10" />
         <mark key="]" line="341" column="10" />
@@ -399,7 +403,7 @@
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1523169352005">
+      <file name="/fragment.java" timestamp="1523274837923">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -514,19 +518,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>friends</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>friends</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>bind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiaWQiLCB2YWx1ZSA9ICLluJblrZBJRCIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
+        <text encoding="base64">CUBRdWFsaWZpZXIoImhyc0pUIikKCXByaXZhdGUgbGF0ZWluaXQgdmFyIGhyc0pkYmNUZW1wbGF0ZTogSmRiY1RlbXBsYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBQcmltYXJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -534,11 +538,11 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CS8qKgoJICogY29tbWVudHNfdGV4dDogZmRzYWZkYXNmZHNhZgoJYWN0aXZpdGllc190eXBlOiBwdWJsaWMKCWFjdGl2aXRpZXNfaWQ6IDg2MTc4OQoJICov</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YWwgcmVzcG9uc2U6IFJlc3BvbnNlRW50aXR5PFN0cmluZz8+ID0gcmVzdFRlbXBsYXRlLnBvc3RGb3JFbnRpdHkodXJsLCByZXN0UmVxdWVzdCwgU3RyaW5nOjpjbGFzcy5qYXZhKQoJCXJldHVybiBSZXNwb25zZVdyYXBwZXIocmVzcG9uc2UuYm9keSA/OiAiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -547,13 +551,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CQkJdmFsIGltYWdlID0gcGFyYW1zTWFwWyJpbWFnZSJdIGFzIEFycmF5PCo+CgkJCWlmIChpbWFnZS5zaXplID4gMSkgewoJCQkJaW1hZ2UuZm9yRWFjaCB7IGl0IC0+CgoJCQkJCS8vcGhw5aSE55CGYmFzZTY05Zu+5YOP5LiN6ZyA6KaB5aOw5piO5aS0CgkJCQkJaWYgKGl0LnRvU3RyaW5nKCkuY29udGFpbnMoIiwiKSkgewoJCQkJCQltYXAuYWRkKCJpbWFnZVtdIiwgaXQudG9TdHJpbmcoKS5zcGxpdCgiLCIpWzFdKQoJCQkJCX0gZWxzZSB7CgkJCQkJCW1hcC5hZGQoImltYWdlW10iLCBpdC50b1N0cmluZygpKQoJCQkJCX0KCQkJCX0KCQkJfSBlbHNlIHsKCQkJCW1hcC5hZGQoImltYWdlIiwgaW1hZ2VbMF0udG9TdHJpbmcoKSkKCQkJfQoJCX0=</text>
+        <text encoding="base64">CS8qKgoJICogY29tbWVudHNfdGV4dDogZmRzYWZkYXNmZHNhZgoJYWN0aXZpdGllc190eXBlOiBwdWJsaWMKCWFjdGl2aXRpZXNfaWQ6IDg2MTc4OQoJICov</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbWFwLmFkZCgiaW1hZ2VVcmwiLCBwYXJhbXNNYXBbImltYWdlVXJsIl0udG9TdHJpbmcoKSkKCQl9CgkJcGFyYW1zTWFwWyJpbWFnZSJdPy5sZXQgewo=</text>
+        <text encoding="base64">CQl2YWwgcmVzcG9uc2U6IFJlc3BvbnNlRW50aXR5PFN0cmluZz8+ID0gcmVzdFRlbXBsYXRlLnBvc3RGb3JFbnRpdHkodXJsLCByZXN0UmVxdWVzdCwgU3RyaW5nOjpjbGFzcy5qYXZhKQoJCXJldHVybiBSZXNwb25zZVdyYXBwZXIocmVzcG9uc2UuYm9keSA/OiAiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwYXJhbXNNYXBbImxpbmsiXT8ubGV0IHsKCQl9CgkJcGFyYW1zTWFwWyJpbWFnZVVybCJdPy5sZXQgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
