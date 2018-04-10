@@ -31,12 +31,12 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523353846138">
-        <mark key="'" line="635" column="6" />
-        <mark key="[" line="849" column="77" />
-        <mark key="]" line="154" column="25" />
-        <mark key="." line="154" column="25" />
-        <mark key="^" line="154" column="25" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523354719715">
+        <mark key="'" line="628" column="13" />
+        <mark key="[" line="194" column="12" />
+        <mark key="]" line="194" column="11" />
+        <mark key="." line="194" column="11" />
+        <mark key="^" line="194" column="11" />
       </file>
       <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1523188269487">
         <mark key="[" line="0" column="0" />
@@ -435,8 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="309" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="695" column="44" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="706" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="805" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -535,19 +533,21 @@
       <jump line="51" column="25" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="261" column="32" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="625" column="6" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
+      <jump line="242" column="11" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
+      <jump line="628" column="13" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YWwgbG9jYWxlID0gTG9jYWxlQ29udGV4dEhvbGRlci5nZXRMb2NhbGUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>帖子ID</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;error.internal_server_error&quot;</text>
+        <text>帖子ID</text>
       </register>
       <register name="/" type="4">
-        <text>check-new</text>
+        <text>comment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJhY3Rpdml0aWVzVHlwZSIsIHZhbHVlID0gIuWPr+mAiemhue+8mmRhc2hib2FyZOOAkOW4luWtkOWIl+ihqOOAkSIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiaWQiLCB2YWx1ZSA9ICLluJblrZBJRCIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQl2YWwgbG9jYWxlID0gTG9jYWxlQ29udGV4dEhvbGRlci5nZXRMb2NhbGUoKQo=</text>
@@ -584,9 +584,9 @@
       </register>
     </registers>
     <search>
-      <last-search>check-new</last-search>
+      <last-search>comment</last-search>
       <last-offset />
-      <last-pattern>check-new</last-pattern>
+      <last-pattern>comment</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -594,7 +594,6 @@
     </search>
     <history>
       <history-search>
-        <entry>`user`.</entry>
         <entry>save</entry>
         <entry>get</entry>
         <entry>getUser</entry>
@@ -614,6 +613,7 @@
         <entry>blogApp</entry>
         <entry>blogJd</entry>
         <entry>check-new</entry>
+        <entry>comment</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
