@@ -18,11 +18,12 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523610338221">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523612558225">
         <mark key="'" line="575" column="30" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="408" column="40" />
+        <mark key="]" line="408" column="12" />
+        <mark key="." line="408" column="12" />
+        <mark key="^" line="408" column="12" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatlogQuality.java" timestamp="1509612818310">
         <mark key="[" line="2" column="13" />
@@ -100,12 +101,6 @@
       </file>
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1523497639230">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1523410690843">
-        <mark key="'" line="115" column="74" />
-        <mark key="[" line="492" column="54" />
-        <mark key="]" line="492" column="54" />
-        <mark key="." line="492" column="54" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weibo/index.html" timestamp="1520841286797">
         <mark key="[" line="151" column="46" />
@@ -552,55 +547,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaXZhdGUgdmFyIGJsb2dPYXV0aEtleSA9ICJkVDB5TXpBbVlYQndYMmxrUFRneE1ERXpPREFtWVdOalpYTnpQWEozIgo=</text>
+        <text encoding="base64">CQkJCWlmICghcmVzcG9uc2UuYm9keS50b1N0cmluZygpLmNvbnRhaW5zKCIyMDAiKSl7CgkJCQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcigiIikKCQkJCX0K</text>
       </register>
       <register name="-" type="4">
-        <text>获取日志列表索引</text>
+        <text>response.body.toString()</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text>关注我的</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oIuW+ruWNmui/lOWbnjokcmVzdWx0IikK</text>
+        <text encoding="base64">CQkJCWlmICghcmVzcG9uc2UuYm9keS50b1N0cmluZygpLmNvbnRhaW5zKCIyMDAiKSl7CgkJCQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcigiIikKCQkJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgdmFyIGJsb2dPYXV0aEtleSA9ICJkVDB5TXpBbVlYQndYMmxrUFRneE1ERXpPREFtWVdOalpYTnpQWEozIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g6K+35rGC5b6u5Y2a5Y+R5biWL+e8lui+kToge30iLCByZXF1ZXN0LnNlc3Npb24uaWQsIHJlcXVlc3QubWV0aG9kKQo=</text>
+        <text encoding="base64">CXByaXZhdGUgdmFyIGJsb2dPYXV0aEtleSA9ICJkVDB5TXpBbVlYQndYMmxrUFRneE1ERXpPREFtWVdOalpYTnpQWEozIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2cub3JkZXJCeQo=</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g6K+35rGC5b6u5Y2a5Y+R5biWL+e8lui+kToge30iLCByZXF1ZXN0LnNlc3Npb24uaWQsIHJlcXVlc3QubWV0aG9kKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygi6LCD55So5b6u5Y2a5Y+R5biWL+e8lui+kToiKQo=</text>
+        <text encoding="base64">CQkJcGFyYW1Mb2cub3JkZXJCeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bgo=</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygi6LCD55So5b6u5Y2a5Y+R5biWL+e8lui+kToiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">bgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl1c2VySWQubGV0IHsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl1c2VySWQ6IFN0cmluZz8sCg==</text>
+        <text encoding="base64">CQl1c2VySWQubGV0IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UpCg==</text>
+        <text encoding="base64">CQl1c2VySWQ6IFN0cmluZz8sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>detail</last-search>
+      <last-search>关注我的</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
+      <last-pattern>关注我的</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -608,7 +603,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/auth</entry>
         <entry>todo</entry>
         <entry>bind</entry>
         <entry>fren</entry>
@@ -628,6 +622,7 @@
         <entry>comment</entry>
         <entry>user_id</entry>
         <entry>detail</entry>
+        <entry>关注我的</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
