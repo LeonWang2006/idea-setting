@@ -8,12 +8,11 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523630565010">
-        <mark key="'" line="583" column="30" />
-        <mark key="[" line="377" column="45" />
-        <mark key="]" line="377" column="56" />
-        <mark key="." line="377" column="56" />
-        <mark key="^" line="377" column="56" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523632108612">
+        <mark key="'" line="199" column="20" />
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
+        <mark key="." line="386" column="0" />
       </file>
       <file name="/app_blog_token [prd - app@192.168.10.20]" timestamp="1523625767191">
         <mark key="[" line="0" column="0" />
@@ -153,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="537" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="175" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" />
       <jump line="284" column="25" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -253,19 +251,20 @@
       <jump line="373" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="516" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="565" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
+      <jump line="199" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>url</text>
       </register>
       <register name="/" type="4">
-        <text>关注我的</text>
+        <text>关注</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWxvZ2dlci5pbmZvKCLmnoTpgKB1cmw6JHVybCIpCg==</text>
+        <text encoding="base64">CQkJCXJldHVybiBSZXNwb25zZVdyYXBwZXIocmVzcG9uc2UuYm9keS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -273,38 +272,38 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkJbXNnLAoJCQlpZCwKCQkJaW1hZ2UudG9TdHJpbmcoKSwKCQkJYXZhdGFyLAoJCQlsaW5r</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oImdldFNTTFJlc3RUZW1wbGF0Ze+8mnt9IiwgYXV0aG9yaXphdGlvbi50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLwkJcmV0dXJuIFJlc3RUZW1wbGF0ZShyZXF1ZXN0RmFjdG9yeSkK</text>
+        <text encoding="base64">CQkJCXJldHVybiBSZXNwb25zZVdyYXBwZXIocmVzcG9uc2UuYm9keS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCXJldHVybiBSZXN0VGVtcGxhdGUocmVxdWVzdEZhY3RvcnkpCg==</text>
+        <text encoding="base64">CQkJCS8v5aSE55CG6L+U5Zue5pWw5o2uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsb2dnZXIuZXJyb3IoImdldEJhc2ljUmVzdFRlbXBsYXRl5byC5bi477yae30iLGF1dGhvcml6YXRpb24udG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">CQkJCWxvZ2dlci5pbmZvKCLlvq7ljZrov5Tlm57mlbDmja7miJDlip/vvIEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhdXRob3JpemF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoZW1haWwgIT0gbnVsbCAmJiBwYXNzd29yZCAhPSBudWxsKSB7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CQkJbXNnLAoJCQlpZCwKCQkJaW1hZ2UudG9TdHJpbmcoKSwKCQkJYXZhdGFyLAoJCQlsaW5r</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQl9IGVsc2UgewoJCQlyZXR1cm4gZmFsc2UKCQl9</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oImdldFNTTFJlc3RUZW1wbGF0Ze+8mnt9IiwgYXV0aG9yaXphdGlvbi50b1N0cmluZygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>关注我的</last-search>
+      <last-search>关注</last-search>
       <last-offset />
-      <last-pattern>关注我的</last-pattern>
+      <last-pattern>关注</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry>todo</entry>
         <entry>bind</entry>
         <entry>fren</entry>
         <entry>frien</entry>
@@ -332,6 +330,7 @@
         <entry>user_id</entry>
         <entry>detail</entry>
         <entry>关注我的</entry>
+        <entry>关注</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
