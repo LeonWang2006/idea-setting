@@ -68,13 +68,18 @@
       <file name="/users_followed [dev - sharetronix@192.168.10.61]" timestamp="1523519798034">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1523861692533">
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="25" />
+        <mark key="." line="60" column="25" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1523636352178">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1523861593428">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1523496341725">
         <mark key="[" line="0" column="0" />
@@ -113,7 +118,7 @@
       <file name="/posts_attachments [dev - sharetronix@192.168.10.61]" timestamp="1523497636726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_user_logs [prd - app@192.168.10.20]" timestamp="1523613924783">
+      <file name="/app_user_logs [prd - app@192.168.10.20]" timestamp="1523860865618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/users [dev - sharetronix@192.168.10.61]" timestamp="1523591248091">
@@ -149,7 +154,7 @@
         <mark key="]" line="53" column="67" />
         <mark key="." line="53" column="67" />
       </file>
-      <file name="/dummy.sql" timestamp="1523636917037">
+      <file name="/dummy.sql" timestamp="1523861703032">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -283,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>create_time = '2018-04-15 23:49:11'</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>create_time = '2018-04-15 23:49:11'</text>
       </register>
       <register name="/" type="4">
         <text>关注</text>
