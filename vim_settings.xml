@@ -136,10 +136,9 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523951874432">
-        <mark key="[" line="246" column="52" />
-        <mark key="]" line="246" column="52" />
-        <mark key="." line="246" column="52" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523969166406">
+        <mark key="[" line="25" column="130" />
+        <mark key="]" line="25" column="130" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveList.kt" timestamp="1505991782591">
         <mark key="[" line="2" column="23" />
@@ -349,11 +348,6 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1523966718626">
-        <mark key="[" line="35" column="64" />
-        <mark key="]" line="35" column="64" />
-        <mark key="." line="35" column="64" />
-      </file>
       <file name="/post_like [prd - sharetronix@192.168.10.65]" timestamp="1523636217966">
         <mark key="[" line="0" column="0" />
       </file>
@@ -364,6 +358,11 @@
       </file>
       <file name="/post_like [dev - sharetronix@192.168.10.61]" timestamp="1523546247463">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1523969447728">
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="27" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.kt" timestamp="1522909804003">
         <mark key="[" line="119" column="0" />
@@ -471,15 +470,15 @@
       <file name="/post_tags [prd - sharetronix@192.168.10.65]" timestamp="1523497838385">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1523931331948">
-        <mark key="[" line="404" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1523969641606">
+        <mark key="[" line="407" column="50" />
         <mark key="]" line="404" column="63" />
         <mark key="." line="404" column="0" />
       </file>
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1523274837923">
+      <file name="/fragment.java" timestamp="1523967958826">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -589,10 +588,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RestRedisCacheConfig</text>
+        <text>encodePassword</text>
       </register>
       <register name="-" type="4">
-        <text>RestRedisCacheConfig</text>
+        <text>encodePassword</text>
       </register>
       <register name="/" type="4">
         <text>关注</text>
@@ -601,34 +600,37 @@
         <text encoding="base64">CQkJCQlNb2RlbEFuZFZpZXcoInJlZGlyZWN0Oi93ZWl4aW4vbG9naW4uaHRtbCIpLmFkZE9iamVjdCgib3BlbmlkIiwgcmVzdWx0Lm9wZW5pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuYXV0aGVudGljYXRpb24uZW5jb2RpbmcuTWQ1UGFzc3dvcmRFbmNvZGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgbGFuZ3VhZ2U9ImphdmEiCg==</text>
+        <text encoding="base64">CQkJIiIK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgY29udGVudFR5cGU9InRleHQvaHRtbDsgY2hhcnNldD1JU08tODg1OS0xIgogICAgICAgICBwYWdlRW5jb2Rpbmc9IklTTy04ODU5LTEiJT4KPCFET0NUWVBFIGh0bWw+</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQl2YWwgcGFzc3dvcmRFbmNvZGUgPSBQYXNzd29yZEVuY29kZXJGYWN0b3JpZXMuY3JlYXRlRGVsZWdhdGluZ1Bhc3N3b3JkRW5jb2RlcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gTW9kZWxBbmRWaWV3KCJyZWRpcmVjdDovd2VpeGluL2xvZ2luLmh0bWwiKS5hZGRPYmplY3QoIm9wZW5pZCIsIHJlc3VsdD8ub3BlbmlkKQo=</text>
+        <text encoding="base64">CQlwYXNzd29yZEVuY29kZS5lbmNvZGUocGFzc3dvcmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgcGFzc3dvcmRFbmNvZGUgPSBQYXNzd29yZEVuY29kZXJGYWN0b3JpZXMuY3JlYXRlRGVsZWdhdGluZ1Bhc3N3b3JkRW5jb2RlcigpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CglAUG9zdE1hcHBpbmcoIi9jYWxsYmFjayIpCglmdW4gY2FsbGJhY2soCgkJQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlKQoJCXdzSWQ6IFN0cmluZywKCQlAUmVxdWVzdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UpCgkJbXNnOiBTdHJpbmcsCgkJQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IGZhbHNlKQoJCWltYWdlVXJsOiBTdHJpbmc/LAoJCUBSZXF1ZXN0UGFyYW0ocmVxdWlyZWQgPSBmYWxzZSkKCQlsaW5rOiBTdHJpbmc/LCByZXF1ZXN0OiBIdHRwU2VydmxldFJlcXVlc3QKCSk6IFN0cmluZyB7CgoJCXJldHVybiAic3VjY2VzcyIKCgl9</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlwYXNzd29yZEVuY29kZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlNb2RlbEFuZFZpZXcoIi93ZWl4aW4vbG9naW4iKQo=</text>
+        <text encoding="base64">CQlwYXNzd29yZEVuY29kZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQlNb2RlbEFuZFZpZXcoIi93ZWl4aW4vbWVzc2FnZSIpCg==</text>
+      <register name="8" type="4">
+        <text>encodePassword(
+			password, &quot;&quot;
+		)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQlNb2RlbEFuZFZpZXcoIi93ZWl4aW4vbG9naW4iKQo=</text>
+      <register name="9" type="4">
+        <text>encodePassword(
+			password,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
