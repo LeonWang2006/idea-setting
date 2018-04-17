@@ -8,8 +8,8 @@
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1523547152909">
-        <mark key="[" line="1" column="11" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1523965858281">
+        <mark key="[" line="68" column="46" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
@@ -17,13 +17,6 @@
         <mark key="[" line="32" column="12" />
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1523864495170">
-        <mark key="'" line="199" column="20" />
-        <mark key="[" line="926" column="37" />
-        <mark key="]" line="84" column="38" />
-        <mark key="." line="84" column="38" />
-        <mark key="^" line="84" column="38" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/hrs/StatlogQuality.java" timestamp="1509612818310">
         <mark key="[" line="2" column="13" />
@@ -356,10 +349,10 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1523156116217">
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestRedisCacheConfig.kt" timestamp="1523966718626">
+        <mark key="[" line="35" column="64" />
+        <mark key="]" line="35" column="64" />
+        <mark key="." line="35" column="64" />
       </file>
       <file name="/post_like [prd - sharetronix@192.168.10.65]" timestamp="1523636217966">
         <mark key="[" line="0" column="0" />
@@ -467,7 +460,6 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1523864369866" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_9.sql" timestamp="1523245595322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -596,11 +588,11 @@
       <jump line="199" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RestRedisCacheConfig</text>
       </register>
       <register name="-" type="4">
-        <text>jsp</text>
+        <text>RestRedisCacheConfig</text>
       </register>
       <register name="/" type="4">
         <text>关注</text>
