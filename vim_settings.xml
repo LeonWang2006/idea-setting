@@ -63,11 +63,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523930510384">
-        <mark key="[" line="375" column="0" />
-        <mark key="]" line="375" column="0" />
-        <mark key="^" line="373" column="23" />
-        <mark key="." line="375" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523932957644">
+        <mark key="[" line="359" column="23" />
+        <mark key="]" line="364" column="20" />
+        <mark key="^" line="364" column="20" />
+        <mark key="." line="364" column="20" />
       </file>
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
@@ -312,11 +312,11 @@
       <jump line="199" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJdmFsIGNsb3NlSHR0cENsaWVudCA9IGFjY2VwdHNVbnRydXN0ZWRDZXJ0c0h0dHBDbGllbnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>statusCodeValue</text>
       </register>
       <register name="-" type="4">
-        <text>.basicAuthorization(username, password)</text>
+        <text>statusCodeValue</text>
       </register>
       <register name="/" type="4">
         <text>关注</text>
