@@ -63,6 +63,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1523936826829">
+        <mark key="[" line="283" column="27" />
+        <mark key="]" line="283" column="27" />
+        <mark key="." line="283" column="27" />
+      </file>
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
@@ -306,10 +311,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>login</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>关注</text>
