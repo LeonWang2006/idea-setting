@@ -135,11 +135,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524206037987">
-        <mark key="[" line="254" column="39" />
-        <mark key="]" line="254" column="39" />
-        <mark key="." line="254" column="39" />
-        <mark key="^" line="250" column="78" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524207890335">
+        <mark key="[" line="186" column="21" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="191" column="53" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveList.kt" timestamp="1505991782591">
         <mark key="[" line="2" column="23" />
@@ -352,7 +352,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1524121795649">
+      <file name="/fragment.kt" timestamp="1524207824793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -437,7 +437,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524195464441">
+      <file name="/dummy.sql" timestamp="1524207909258">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -622,17 +622,17 @@
       <jump line="199" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>关注</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJY29kZSA9IHJlcXVlc3QucXVlcnlTdHJpbmcuc3BsaXQoIiYiKS5maWx0ZXIgeyBpdCAtPiBpdC5jb250YWlucygiY29kZSIpIH1bMF0uc3Vic3RyaW5nQWZ0ZXIoImNvZGU9IikK</text>
+      <register name="0" type="4">
+        <text>session.getAttribute(&quot;openid&quot;).toString().isNotEmpty()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -641,28 +641,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoIW9wZW5pZC5pc051bGxPckVtcHR5KCkpewoJCQlzZXNzaW9uT3BlbmlkID0gb3BlbmlkCgkJfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgkJCWlmIChvcGVuaWQuaXNFbXB0eSgpKSB7CgkJCQlvcGVuaWQgPSByZXF1ZXN0LnF1ZXJ5U3RyaW5nLnNwbGl0KCImIikuZmlsdGVyIHsgaXQgLT4gaXQuY29udGFpbnMoIm9wZW5pZCIpIH1bMF0uc3Vic3RyaW5nQWZ0ZXIoIm9wZW5pZD0iKQoJCQl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQl2YWwgb3BlbmlkID0gc2Vzc2lvbi5nZXRBdHRyaWJ1dGUoIm9wZW5pZCIpLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQl2YWwgc2Vzc2lvbiA9IHJlcXVlc3QuZ2V0U2Vzc2lvbih0cnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgiLnJlc3VsdF9ib3ggLnJlc3VsdF90ZXh0IikuaHRtbCgiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXZhbCB3ZWl4aW4gPSBjaGVja0JpbmQob3BlbmlkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCXdlaXhpbi5sZXQgewoJCQkJfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CS8qKgoJICog6I635Y+W5b6u5L+hY29kZQoJICovCglmdW4gZ2V0Q29kZSgKCQlAUmVxdWVzdFBhcmFtCgkJcmVkaXJlY3RVcmw6IFN0cmluZywgcmVxdWVzdDogSHR0cFNlcnZsZXRSZXF1ZXN0LCByZXNwb25zZTogSHR0cFNlcnZsZXRSZXNwb25zZQoJKSB7CgoJCXZhbCB1cmwgPSAiaHR0cHM6Ly9vcGVuLndlaXhpbi5xcS5jb20vY29ubmVjdC9vYXV0aDIvYXV0aG9yaXplP2FwcGlkPSRhcHBJRCZyZWRpcmVjdF91cmk9JHtVUkxFbmNvZGVyLmVuY29kZSgKCQkJcmVkaXJlY3RVcmwsICJVVEYtOCIKCQkpfSZyZXNwb25zZV90eXBlPWNvZGUmc2NvcGU9c25zYXBpX2Jhc2Umc3RhdGU9U1RBVEUjd2VjaGF0X3JlZGlyZWN0IgoJCWxvZ2dlci5pbmZvKCJ1cmw6JHVybCIpCgkJLy8JCXJldHVybiBNb2RlbEFuZFZpZXcoInJlZGlyZWN0OiR1cmwiKQoJCS8vCQlyZXNwb25zZS5zZW5kUmVkaXJlY3QodXJsKQoJCXZhbCByZXN0VGVtcGxhdGUgPSBVdGlsLmdldFJlc3RUZW1wbGF0ZSh1cmwsIHJlc3RUZW1wbGF0ZUJ1aWxkZXIsIHJlcXVlc3QpCgkJcmVzdFRlbXBsYXRlLmdldEZvck9iamVjdCh1cmwsIFN0cmluZzo6Y2xhc3MuamF2YSkKCX0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl0aHJvdyBSZXN0RXhjZXB0aW9uKFJlc3RTZXJ2aWNlRXJyb3IuVHlwZS5OT1RfQUNDRVBUQUJMRSwgImVycm9yLndlaXhpbi5iaW5kLmFscmVhZHkiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
