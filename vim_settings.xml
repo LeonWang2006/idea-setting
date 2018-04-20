@@ -110,7 +110,7 @@
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1523497639230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1524224633233" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1524226184776" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weibo/index.html" timestamp="1520841286797">
         <mark key="[" line="151" column="46" />
         <mark key="]" line="151" column="46" />
@@ -136,11 +136,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524225069289">
-        <mark key="[" line="204" column="27" />
-        <mark key="]" line="206" column="41" />
-        <mark key="." line="206" column="41" />
-        <mark key="^" line="206" column="41" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524226251148">
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="40" />
+        <mark key="." line="248" column="0" />
+        <mark key="^" line="251" column="38" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ArchiveList.kt" timestamp="1505991782591">
         <mark key="[" line="2" column="23" />
@@ -621,16 +621,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JCQkJdmFsIHVzZXI6IEFwcFVzZXI/ID0gdGhpcy5hcHBVc2VyUmVwb3NpdG9yeS5maW5kQnlFbXBsb3llZUlkKHdzSWQpCg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihudWxsKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.findByEmployeeId(wsId)</text>
+        <text>AppUser</text>
       </register>
       <register name="/" type="4">
         <text>关注</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXZhbCB1c2VyOiBBcHBVc2VyPyA9IHRoaXMuYXBwVXNlclJlcG9zaXRvcnkuZmluZEJ5RW1wbG95ZWVJZCh3c0lkKQo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihudWxsKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8JCQkJdmFsIHVzZXI6IEFwcFVzZXI/ID0gdGhpcy5hcHBVc2VyUmVwb3NpdG9yeS5maW5kQnlFbXBsb3llZUlkKHdzSWQpCg==</text>
