@@ -19,7 +19,6 @@
       <file name="/news_info [prd - oa_new@192.168.10.6]" timestamp="1523879535080">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/weixin/info.html" timestamp="1524274370265" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1524218384128">
         <mark key="[" line="6" column="104" />
         <mark key="]" line="0" column="0" />
@@ -46,7 +45,6 @@
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1523497639230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1524277862479" />
       <file name="/post_likes [dev - sharetronix@192.168.10.61]" timestamp="1523546493674">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,11 +60,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524296599913">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
-        <mark key="^" line="174" column="4" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524300528710">
+        <mark key="[" line="86" column="52" />
+        <mark key="]" line="86" column="52" />
+        <mark key="." line="86" column="52" />
+        <mark key="^" line="127" column="26" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
@@ -91,6 +89,11 @@
         <mark key="]" line="64" column="28" />
         <mark key="." line="64" column="28" />
         <mark key="^" line="64" column="22" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinAccessToken.kt" timestamp="1524299384509">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_1.sql" timestamp="1524295203356">
         <mark key="[" line="0" column="0" />
@@ -185,7 +188,6 @@
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/css/commom.css" timestamp="1524186197166" />
       <file name="/post_like [prd - sharetronix@192.168.10.65]" timestamp="1523636217966">
         <mark key="[" line="0" column="0" />
       </file>
@@ -206,10 +208,10 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1523151730276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1524274168233">
-        <mark key="[" line="73" column="47" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1524300947521">
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1524281201652">
         <mark key="'" line="88" column="26" />
@@ -251,10 +253,10 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="64" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1524276334436">
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="32" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1524301155546">
+        <mark key="[" line="94" column="63" />
+        <mark key="]" line="94" column="63" />
+        <mark key="." line="94" column="63" />
         <mark key="^" line="17" column="31" />
       </file>
       <file name="/post_tags [dev - sharetronix@192.168.10.61]" timestamp="1524106790035">
@@ -376,47 +378,47 @@
       <jump line="1591" column="43" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUCiAgbG9nX2lkLAogIGNvdW50KGxvZ19pZCkgKyAwIEFTIG9wZXJhdGVfY291bnQKRlJPTQogIGBocnNfbG9nX29wZXJhdGVgCldIRVJFCiAgbG9nX2lkIElOICgKICAgIFNFTEVDVAogICAgICBpZAogICAgRlJPTQogICAgICBocnNfbG9nX2xpc3QKICAgIFdIRVJFCiAgICAgIERBVEVfRk9STUFUKGxvZ19kYXRlLCAnJVktJW0tJWQnKSA+PSAnMjAxNy0wOC0wMScKICAgICAgQU5EIERBVEVfRk9STUFUKGxvZ19kYXRlLCAnJVktJW0tJWQnKSA8PSAnMjAxNy0wOC0zMScKICApCkdST1VQIEJZCiAgbG9nX2lkCgpzZWxlY3Qgdi5CYWRnZSx2LkRlcElEMSx2LkRlcElELHYyLkRlcENOYW1lIGZyb20gaHJzX2NhY2hlX3ZlbXBsb3llZSB2IGxlZnQgam9pbiBocnNfY2FjaGVfdmRlcGFydG1lbnQgdjIgb24gKHYuRGVwSUQgPSB2Mi5EZXBJRCkgd2hlcmUgdi5TdGF0dXMgIT0gIuemu+iBjCI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>select @log_ids;</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>restTem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBSZXNwb25zZVdyYXBwZXIocmVzcG9uc2UuYm9keSA/OiAiIikK</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gd2VpeGlu6L+U5Zue55yB55WlIiwgcmVxdWVzdC5zZXNzaW9uLmlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUCiAgbG9nX2lkLAogIGNvdW50KGxvZ19pZCkgKyAwIEFTIG9wZXJhdGVfY291bnQKRlJPTQogIGBocnNfbG9nX29wZXJhdGVgCldIRVJFCiAgbG9nX2lkIElOICgKICAgIFNFTEVDVAogICAgICBpZAogICAgRlJPTQogICAgICBocnNfbG9nX2xpc3QKICAgIFdIRVJFCiAgICAgIERBVEVfRk9STUFUKGxvZ19kYXRlLCAnJVktJW0tJWQnKSA+PSAnMjAxNy0wOC0wMScKICAgICAgQU5EIERBVEVfRk9STUFUKGxvZ19kYXRlLCAnJVktJW0tJWQnKSA8PSAnMjAxNy0wOC0zMScKICApCkdST1VQIEJZCiAgbG9nX2lkCgpzZWxlY3Qgdi5CYWRnZSx2LkRlcElEMSx2LkRlcElELHYyLkRlcENOYW1lIGZyb20gaHJzX2NhY2hlX3ZlbXBsb3llZSB2IGxlZnQgam9pbiBocnNfY2FjaGVfdmRlcGFydG1lbnQgdjIgb24gKHYuRGVwSUQgPSB2Mi5EZXBJRCkgd2hlcmUgdi5TdGF0dXMgIT0gIuemu+iBjCI7Cg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g5b6u5L+h6L+U5ZueOnt9IiwgcmVxdWVzdC5zZXNzaW9uLmlkLCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnNlbGVjdCBAbG9nX2lkcyA9ICg=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvLwkJdmFsIHNlbGVjZVBhcmFtcyA9IG11dGFibGVNYXBPZigidXJsIiB0byAiIyIsICJtaW5pcHJvZ3JhbSIgdG8gIiMiLCAiY29sb3IiIHRvICIjIikK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">c2VsZWN0IGlkCiAgICAgICAgICAgICAgICAgZnJvbSBocnNfbG9nX2xpc3QKICAgICAgICAgICAgICAgICB3aGVyZSBocnNfbG9nX2xpc3QubG9nX2RhdGUgPj0gJzIwMTgtMDMtMDEn</text>
+        <text encoding="base64">CQkvKgogICAgICAgICRkYXRhID0gWwogICAgICAgICAgICAnZmlyc3QnPT5bJ3ZhbHVlJz0+J+a1i+ivlei1tue0p+WkhOeQhuW+heWKnicsJ2NvbG9yJz0+JyNmZjAwMDAnXSwKICAgICAgICAgICAgJ2tleXdvcmQxJz0+Wyd2YWx1ZSc9PifmtYvor5XlkI3np7AnLCdjb2xvcic9PicjZmYwMDAwJ10sCiAgICAgICAgICAgICdrZXl3b3JkMic9PlsndmFsdWUnPT4n5rWL6K+V5pe26Ze0JywnY29sb3InPT4nI2ZmMDAwMCddLAogICAgICAgICAgICAncmVtYXJrJz0+Wyd2YWx1ZSc9PifkvaDmnInlvoXlip7kuoYnLCdjb2xvcic9PicjZmYwMDAwJ10sCiAgICAgICAgXTsKCQkgKi8=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUCiAgbG9nX2lkLAogIGNvdW50KGxvZ19pZCkgKyAwIEFTIG9wZXJhdGVfY291bnQKRlJPTQogIGBocnNfbG9nX29wZXJhdGVgCldIRVJFCiAgbG9nX2lkIElOICgKICAgIFNFTEVDVAogICAgICBpZAogICAgRlJPTQogICAgICBocnNfbG9nX2xpc3QKICAgIFdIRVJFCiAgICAgIERBVEVfRk9STUFUKGxvZ19kYXRlLCAnJVktJW0tJWQnKSA+PSAnMjAxNy0wOC0wMScKICAgICAgQU5EIERBVEVfRk9STUFUKGxvZ19kYXRlLCAnJVktJW0tJWQnKSA8PSAnMjAxNy0wOC0zMScKICApCkdST1VQIEJZCiAgbG9nX2lkCgpzZWxlY3Qgdi5CYWRnZSx2LkRlcElEMSx2LkRlcElELHYyLkRlcENOYW1lIGZyb20gaHJzX2NhY2hlX3ZlbXBsb3llZSB2IGxlZnQgam9pbiBocnNfY2FjaGVfdmRlcGFydG1lbnQgdjIgb24gKHYuRGVwSUQgPSB2Mi5EZXBJRCkgd2hlcmUgdi5TdGF0dXMgIT0gIuemu+iBjCI7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gL3d4L21lc3NhZ2U/b3BlbmlkPXt9IiwgcmVxdWVzdC5zZXNzaW9uLmlkLCBvcGVuaWQpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CnNlbGVjdCBAbG9nX2lkcyA9ICg=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkvLwkJbG9nZ2VyLmluZm8oInt9IC93eD9zaWduYXR1cmU9e30mdGltZXN0YW1wPXt9Jm5vbmNlPXt9JmVjaG9TdHI9e30iLCByZXF1ZXN0LnNlc3Npb24uaWQsc2lnbmF0dXJlLHRpbWVzdGFtcCxub25jZSxlY2hvc3RyKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">c2VsZWN0IGlkCiAgICAgICAgICAgICAgICAgZnJvbSBocnNfbG9nX2xpc3QKICAgICAgICAgICAgICAgICB3aGVyZSBocnNfbG9nX2xpc3QubG9nX2RhdGUgPj0gJzIwMTgtMDMtMDEn</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gL3d4L3RvZG8/b3BlbmlkPXt9IiwgcmVxdWVzdC5zZXNzaW9uLmlkLCBvcGVuaWQpCg==</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gL3d4L21lc3NhZ2U/b3BlbmlkPXt9IiwgcmVxdWVzdC5zZXNzaW9uLmlkLCBvcGVuaWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmVycm9yKCLnu5HlrprlpLHotKXvvIzor7fph43mlrDnu5HlrpohIikK</text>
+        <text encoding="base64">CQkvLwkJbG9nZ2VyLmluZm8oInt9IC93eD9zaWduYXR1cmU9e30mdGltZXN0YW1wPXt9Jm5vbmNlPXt9JmVjaG9TdHI9e30iLCByZXF1ZXN0LnNlc3Npb24uaWQsc2lnbmF0dXJlLHRpbWVzdGFtcCxub25jZSxlY2hvc3RyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
