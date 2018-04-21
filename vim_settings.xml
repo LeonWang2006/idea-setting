@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1524281339467">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="51" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console.sql" timestamp="1523880919016">
         <mark key="[" line="13" column="0" />
       </file>
@@ -60,7 +56,7 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524300528710">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524303840885">
         <mark key="[" line="86" column="52" />
         <mark key="]" line="86" column="52" />
         <mark key="." line="86" column="52" />
@@ -72,7 +68,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1524296226962">
+      <file name="/a.sql" timestamp="1524302986780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_vdepartment [prd - wos_hrs@192.168.10.112]" timestamp="1523245863977">
@@ -107,6 +103,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1524303862552">
+        <mark key="[" line="52" column="46" />
+        <mark key="]" line="52" column="46" />
+        <mark key="." line="52" column="46" />
+        <mark key="^" line="52" column="36" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524278009575">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="4" />
@@ -118,11 +120,11 @@
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1523628456471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestConfig.kt" timestamp="1524192758887">
-        <mark key="[" line="39" column="84" />
-        <mark key="]" line="39" column="84" />
-        <mark key="." line="39" column="84" />
-        <mark key="^" line="28" column="34" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestConfig.kt" timestamp="1524304003290">
+        <mark key="[" line="39" column="67" />
+        <mark key="]" line="39" column="67" />
+        <mark key="." line="39" column="67" />
+        <mark key="^" line="39" column="72" />
       </file>
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
@@ -133,7 +135,7 @@
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1524275129711">
+      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1524302972872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
@@ -142,7 +144,7 @@
       <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1523517931430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1523619532288">
+      <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1524302689820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
@@ -176,6 +178,11 @@
       </file>
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1524009238571">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1524304026294">
+        <mark key="[" line="20" column="156" />
+        <mark key="]" line="20" column="156" />
+        <mark key="." line="20" column="156" />
       </file>
       <file name="/fragment.kt" timestamp="1524207824793">
         <mark key="[" line="0" column="0" />
@@ -213,16 +220,10 @@
         <mark key="]" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1524281201652">
-        <mark key="'" line="88" column="26" />
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-      </file>
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524296591354">
+      <file name="/dummy.sql" timestamp="1524302973136">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -247,11 +248,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1524281041069">
-        <mark key="'" line="1591" column="43" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="64" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1524301679194">
         <mark key="[" line="94" column="63" />
@@ -379,16 +375,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>weixin</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>weixin</text>
       </register>
       <register name="/" type="4">
         <text>restTem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30gd2VpeGlu6L+U5Zue55yB55WlIiwgcmVxdWVzdC5zZXNzaW9uLmlkKQo=</text>
+        <text encoding="base64">CQkJCWxvZ2dlci5pbmZvKCLojrflvpdzZXNzaW9u5Lit5Yiwb3BlbmlkOiR7c2Vzc2lvbi5nZXRBdHRyaWJ1dGUoIm9wZW5pZCIpfSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g5b6u5L+h6L+U5ZueOnt9IiwgcmVxdWVzdC5zZXNzaW9uLmlkLCkK</text>
