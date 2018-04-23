@@ -180,11 +180,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524480772503">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524481705829">
         <mark key="'" line="60" column="38" />
-        <mark key="[" line="439" column="4" />
-        <mark key="]" line="439" column="4" />
-        <mark key="." line="439" column="4" />
+        <mark key="[" line="403" column="4" />
+        <mark key="]" line="403" column="4" />
+        <mark key="." line="403" column="4" />
         <mark key="^" line="439" column="5" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
@@ -244,11 +244,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1524480851021">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
-        <mark key="^" line="38" column="22" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1524481823073">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="43" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524278009575">
         <mark key="[" line="0" column="3" />
@@ -399,51 +399,51 @@
       <jump line="60" column="38" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bindWsid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bindWsid</text>
+        <text>openidQuery</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIndzSWQiLGJpbmRXc2lkKQo=</text>
+        <text encoding="base64">CQkJb3BlbmlkUXVlcnkuaXNOb3RFbXB0eSgpIC0+IHsKCQkJCW9wZW5pZFF1ZXJ5CgkJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YWwgb3BlbmlkOlN0cmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc2Vzc2lvbi5nZXRBdHRyaWJ1dGUoImNvZGUiKS50b1N0cmluZygpLmlzTm90RW1wdHkoKSAtPiB7CgkJCQlzZXNzaW9uLmdldEF0dHJpYnV0ZSgiY29kZSIpLnRvU3RyaW5nKCkKCQkJfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">CQlyZXR1cm4gdHJ1ZSAvLyDlj6rmnInov5Tlm550cnVl5omN5Lya57un57ut5ZCR5LiL5omn6KGM77yM6L+U5ZueZmFsc2Xlj5bmtojlvZPliY3or7fmsYIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl2YWwgb3BlbmlkOlN0cmluZwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>//		if (openidQuery.isNotEmpty()){
 //			openid = openidQuery.toString()
 //		} else {
 //			openid = 
 //		}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl2YWwgcmVzdWx0ID0gYXBwSmRiY1RlbXBsYXRlLnF1ZXJ5Rm9yTWFwKHNxbCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlAUGF0dGVybihyZWdleHAgPSBFbnYuTUQ1UEFTU1dPUkQpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWpkYmMiKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
