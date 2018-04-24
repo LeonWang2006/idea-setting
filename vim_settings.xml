@@ -32,6 +32,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console.sql" timestamp="1523880919016">
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="/sys_yiilog_error [prd - wos_common@192.168.10.112]" timestamp="1524536173890">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1524465363992">
         <mark key="[" line="104" column="31" />
       </file>
@@ -164,7 +167,7 @@
         <mark key="]" line="63" column="34" />
         <mark key="." line="63" column="34" />
       </file>
-      <file name="/hrs_yiilog_error [prd - wos_hrs@192.168.10.112]" timestamp="1524529344030">
+      <file name="/hrs_yiilog_error [prd - wos_hrs@192.168.10.112]" timestamp="1524536079297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1524290973448">
@@ -207,11 +210,11 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524530249255">
+      <file name="/dummy.sql" timestamp="1524536805826">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-        <mark key="." line="0" column="42" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinAccessToken.kt" timestamp="1524474266542">
         <mark key="[" line="8" column="15" />
@@ -247,7 +250,7 @@
         <mark key="." line="76" column="57" />
         <mark key="^" line="76" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524530180801">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524536387657">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -397,10 +400,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.addObject(&quot;openid&quot;, result.openid)</text>
+        <text>category =  'err_login_password-new'</text>
       </register>
       <register name="-" type="4">
-        <text>.addObject(&quot;openid&quot;, result.openid)</text>
+        <text>category =  'err_login_password-new'</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
