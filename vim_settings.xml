@@ -179,7 +179,7 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524488751837">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524534623107">
         <mark key="'" line="60" column="38" />
         <mark key="[" line="433" column="62" />
         <mark key="]" line="433" column="62" />
@@ -241,11 +241,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1524487620256">
-        <mark key="[" line="88" column="86" />
-        <mark key="]" line="88" column="86" />
-        <mark key="." line="88" column="86" />
-        <mark key="^" line="44" column="4" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1524534915402">
+        <mark key="[" line="76" column="59" />
+        <mark key="]" line="76" column="57" />
+        <mark key="." line="76" column="57" />
+        <mark key="^" line="76" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524530180801">
         <mark key="[" line="0" column="3" />
@@ -397,19 +397,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>.addObject(&quot;openid&quot;, result.openid)</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>.addObject(&quot;openid&quot;, result.openid)</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0aGlzLmFwcEpkYmNUZW1wbGF0ZSA9IGFwcEpkYmNUZW1wbGF0ZQo=</text>
+        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInBhcmFtL3Nlc3Npb24vY29kZSDkuInkuKrmuKDpgZPpg73mnKrog73ojrflvpcgb3Blbmlk77yM5oum5oiq6K+35rGC77yBIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -418,25 +418,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgb3BlbmlkOiBvcGVuaWQKICAgICAgICAgICAgfSw=</text>
+        <text encoding="base64">CQlyZXR1cm4gaWYgKG9wZW5pZC5pc05vdEVtcHR5KCkpIHsKCQkJdmFsIGJpbmRXc0lkID0gV3hTZXJ2aWNlKGFwcEpkYmNUZW1wbGF0ZSwgcmVzdFRlbXBsYXRlQnVpbGRlcikuY2hlY2tCaW5kKG9wZW5pZCkKCQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIndzSWQiLCBiaW5kV3NJZCkKCQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIm9wZW5pZCIsIG9wZW5pZCkKCQkJdHJ1ZQoJCX0gZWxzZSB7CgkJCWxvZ2dlci5pbmZvKCJwYXJhbS9zZXNzaW9uL2NvZGUg5LiJ5Liq5rig6YGT6YO95pyq6IO96I635b6XIG9wZW5pZO+8jOaLpuaIquivt+axgu+8gSIpCgkJCWZhbHNlCgkJfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPScuL2pzL21kNS5qcycgY2hhcnNldD0ndXRmLTgnPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIndzSWQiLCBiaW5kV3NJZCkKCQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIm9wZW5pZCIsIG9wZW5pZCkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzSWQ6ICQoIiN1c2VybmFtZSIpLnZhbCgpLAogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IGhleF9tZDUoJCgiI3Bhc3N3b3JkIikudmFsKCkp</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICQoIiNzYnRuIikub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgb3BlbmlkOiBvcGVuaWQKICAgICAgICAgICAgfSw=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
