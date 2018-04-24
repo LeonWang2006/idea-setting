@@ -69,8 +69,8 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1524474386251">
-        <mark key="[" line="3" column="330" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1524538639019">
+        <mark key="[" line="10" column="97" />
         <mark key="]" line="3" column="330" />
         <mark key="." line="3" column="330" />
       </file>
@@ -88,10 +88,10 @@
         <mark key="]" line="20" column="156" />
         <mark key="." line="20" column="156" />
       </file>
-      <file name="/fragment.kt" timestamp="1524488728129">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.kt" timestamp="1524539987407">
+        <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
@@ -162,10 +162,10 @@
       <file name="/oauth_request_token [prd - sharetronix@192.168.10.65]" timestamp="1523628303911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1524465874330">
-        <mark key="[" line="63" column="34" />
-        <mark key="]" line="63" column="34" />
-        <mark key="." line="63" column="34" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1524540140232">
+        <mark key="[" line="62" column="34" />
+        <mark key="]" line="62" column="34" />
+        <mark key="." line="62" column="34" />
       </file>
       <file name="/hrs_yiilog_error [prd - wos_hrs@192.168.10.112]" timestamp="1524536079297">
         <mark key="[" line="0" column="0" />
@@ -182,12 +182,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524534623107">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524540154472">
         <mark key="'" line="60" column="38" />
-        <mark key="[" line="433" column="62" />
-        <mark key="]" line="433" column="62" />
-        <mark key="." line="433" column="62" />
-        <mark key="^" line="53" column="46" />
+        <mark key="[" line="112" column="125" />
+        <mark key="]" line="112" column="125" />
+        <mark key="." line="112" column="125" />
+        <mark key="^" line="110" column="94" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
@@ -291,6 +291,11 @@
       </file>
       <file name="/post_tags [prd - sharetronix@192.168.10.65]" timestamp="1523497838385">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1524540039743">
+        <mark key="[" line="368" column="41" />
+        <mark key="]" line="368" column="41" />
+        <mark key="." line="368" column="41" />
       </file>
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
@@ -400,16 +405,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>category =  'err_login_password-new'</text>
+        <text>wosapp</text>
       </register>
       <register name="-" type="4">
-        <text>category =  'err_login_password-new'</text>
+        <text>wosapp</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyLmluZm8oInBhcmFtL3Nlc3Npb24vY29kZSDkuInkuKrmuKDpgZPpg73mnKrog73ojrflvpcgb3Blbmlk77yM5oum5oiq6K+35rGC77yBIikK</text>
+        <text encoding="base64">CQkJCXZhbCB3c0lkID11c2VybmFtZSA/OiAiIiAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -420,26 +425,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CQlyZXR1cm4gaWYgKG9wZW5pZC5pc05vdEVtcHR5KCkpIHsKCQkJdmFsIGJpbmRXc0lkID0gV3hTZXJ2aWNlKGFwcEpkYmNUZW1wbGF0ZSwgcmVzdFRlbXBsYXRlQnVpbGRlcikuY2hlY2tCaW5kKG9wZW5pZCkKCQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIndzSWQiLCBiaW5kV3NJZCkKCQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIm9wZW5pZCIsIG9wZW5pZCkKCQkJdHJ1ZQoJCX0gZWxzZSB7CgkJCWxvZ2dlci5pbmZvKCJwYXJhbS9zZXNzaW9uL2NvZGUg5LiJ5Liq5rig6YGT6YO95pyq6IO96I635b6XIG9wZW5pZO+8jOaLpuaIquivt+axgu+8gSIpCgkJCWZhbHNlCgkJfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCXZhbCB3c0lkID0gcmVzdWx0Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIndzSWQiLCBiaW5kV3NJZCkKCQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIm9wZW5pZCIsIG9wZW5pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CQlyZXR1cm4gaWYgKG9wZW5pZC5pc05vdEVtcHR5KCkpIHsKCQkJdmFsIGJpbmRXc0lkID0gV3hTZXJ2aWNlKGFwcEpkYmNUZW1wbGF0ZSwgcmVzdFRlbXBsYXRlQnVpbGRlcikuY2hlY2tCaW5kKG9wZW5pZCkKCQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIndzSWQiLCBiaW5kV3NJZCkKCQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIm9wZW5pZCIsIG9wZW5pZCkKCQkJdHJ1ZQoJCX0gZWxzZSB7CgkJCWxvZ2dlci5pbmZvKCJwYXJhbS9zZXNzaW9uL2NvZGUg5LiJ5Liq5rig6YGT6YO95pyq6IO96I635b6XIG9wZW5pZO+8jOaLpuaIquivt+axgu+8gSIpCgkJCWZhbHNlCgkJfQ==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgb3BlbmlkOiBvcGVuaWQKICAgICAgICAgICAgfSw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIndzSWQiLCBiaW5kV3NJZCkKCQkJc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoIm9wZW5pZCIsIG9wZW5pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
