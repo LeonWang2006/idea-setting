@@ -154,7 +154,7 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1523151730276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1524488217647">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1524528687063">
         <mark key="[" line="77" column="113" />
         <mark key="]" line="79" column="43" />
         <mark key="." line="79" column="43" />
@@ -279,10 +279,10 @@
         <mark key="'" line="485" column="35" />
         <mark key="[" line="485" column="35" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1524488647266">
-        <mark key="[" line="61" column="43" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1524528572275">
+        <mark key="[" line="86" column="61" />
+        <mark key="]" line="86" column="61" />
+        <mark key="." line="86" column="61" />
       </file>
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
@@ -407,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11121428</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>11121428</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
@@ -419,34 +419,34 @@
         <text encoding="base64">CQl0aGlzLmFwcEpkYmNUZW1wbGF0ZSA9IGFwcEpkYmNUZW1wbGF0ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgb3BlbmlkOiBvcGVuaWQKICAgICAgICAgICAgfSw=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPScuL2pzL21kNS5qcycgY2hhcnNldD0ndXRmLTgnPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdzSWQ6ICQoIiN1c2VybmFtZSIpLnZhbCgpLAogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IGhleF9tZDUoJCgiI3Bhc3N3b3JkIikudmFsKCkp</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICQoIiNzYnRuIikub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
