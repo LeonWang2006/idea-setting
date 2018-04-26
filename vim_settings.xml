@@ -90,11 +90,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524752992315">
-        <mark key="[" line="433" column="43" />
-        <mark key="]" line="433" column="41" />
-        <mark key="^" line="433" column="41" />
-        <mark key="." line="433" column="41" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524756719624">
+        <mark key="'" line="608" column="91" />
+        <mark key="[" line="437" column="13" />
+        <mark key="]" line="435" column="0" />
+        <mark key="." line="435" column="0" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
@@ -102,7 +102,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1524743010387">
+      <file name="/a.sql" timestamp="1524755968726">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_vdepartment [prd - wos_hrs@192.168.10.112]" timestamp="1523245863977">
@@ -175,7 +175,7 @@
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1524749468185">
+      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1524755962259">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
@@ -317,7 +317,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524754298080">
+      <file name="/dummy.sql" timestamp="1524755962545">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -383,13 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="783" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="791" column="75" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="792" column="65" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="1115" column="107" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="1118" column="107" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="1131" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
-      <jump line="1174" column="117" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="1186" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="102" column="35" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="204" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -417,7 +410,6 @@
       <jump line="269" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="304" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="367" column="60" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
-      <jump line="27" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="129" column="56" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="236" column="92" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="352" column="74" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -483,65 +475,66 @@
       <jump line="2" column="99" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppHomeRemind.kt" />
       <jump line="193" column="65" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="399" column="64" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="693" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="615" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="616" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="27" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="567" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="579" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="599" column="112" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="609" column="91" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>detail/27318/manager</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJc3RhcnQgPCBtc2dSZXN1bHQuY291bnQoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>detail/27318/manager</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b011dGFibGVMaXN0XD4=</text>
+        <text>bind</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAia2V5d29yZDIiLCB2YWx1ZSA9ICLmjpLluo86YXNjL2Rlc2MiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIGlmKGlzQW5kcm9pZCl7CiAgICAgICAgICAgIGZ1bmN0aW9uIGFuZHJvaWQoKXsKICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gIm9wZW53anRyOi8vY29tLnR5cmJsLndqdHIiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgd2luZG93LnNldFRpbWVvdXQoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICJodHRwOi8vd3d3LndqdHIuY29tL2Rvd25sb2FkL2luZGV4Lmh0bWwiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgfSwyMDAwKTsKICAgICAgICAgICAgfTsKCiAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJc3RhcnQgPCBtc2dSZXN1bHQuY291bnQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+        <text encoding="base64">CQkJCS8vCQkJCXRocm93IFJlc3RFeGNlcHRpb24oUmVzdFNlcnZpY2VFcnJvci5UeXBlLk5PVF9GT1VORCwgImVycm9yLndlaXhpbi51c2VyLm5vbmUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
+        <text encoding="base64">CQkJCQkvLwkJCQkJdGhyb3cgUmVzdEV4Y2VwdGlvbihSZXN0U2VydmljZUVycm9yLlR5cGUuTk9UX0FDQ0VQVEFCTEUsICJlcnJvci53ZWl4aW4uYmluZC5hbHJlYWR5IikK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CUBQYXR0ZXJuKHJlZ2V4cCA9IEVudi5XU0lEKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgIGlmKGlzQW5kcm9pZCl7CiAgICAgICAgICAgIGZ1bmN0aW9uIGFuZHJvaWQoKXsKICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gIm9wZW53anRyOi8vY29tLnR5cmJsLndqdHIiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgd2luZG93LnNldFRpbWVvdXQoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICJodHRwOi8vd3d3LndqdHIuY29tL2Rvd25sb2FkL2luZGV4Lmh0bWwiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgfSwyMDAwKTsKICAgICAgICAgICAgfTsKCiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YWwgZmlyc3QgPSBnc29uLmZyb21Kc29uPE1hcDxTdHJpbmcsIFN0cmluZz4+KHd4TWVzc2FnZS5maXJzdCxvYmplY3QgOiBUeXBlVG9rZW48TWFwPFN0cmluZyxTdHJpbmc+PigpIHt9LnR5cGUpCg==</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YWwgZ3NvbiA9IEdzb24oKQo=</text>
+        <text encoding="base64">CUBQYXR0ZXJuKHJlZ2V4cCA9IEVudi5XU0lEKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>data class WxMessageItem(
-	var value: String, var color: String
-) {
-	constructor() : this(
-		&quot;&quot;, &quot;&quot;
-
-	)
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQl2YWwgZmlyc3QgPSBnc29uLmZyb21Kc29uPE1hcDxTdHJpbmcsIFN0cmluZz4+KHd4TWVzc2FnZS5maXJzdCxvYmplY3QgOiBUeXBlVG9rZW48TWFwPFN0cmluZyxTdHJpbmc+PigpIHt9LnR5cGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b011dGFibGVMaXN0XD4=</last-search>
+      <last-search>bind</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b011dGFibGVMaXN0XD4=</last-pattern>
+      <last-pattern>bind</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -549,7 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>like</entry>
         <entry>commnet</entry>
         <entry>user</entry>
         <entry>friend</entry>
@@ -569,6 +561,7 @@
         <entry>todo</entry>
         <entry>listCount</entry>
         <entry encoding="base64">XDx0b011dGFibGVMaXN0XD4=</entry>
+        <entry>bind</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
