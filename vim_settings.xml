@@ -32,9 +32,6 @@
       <file name="/news_info [prd - oa_new@192.168.10.6]" timestamp="1523879535080">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
-        <mark key="[" line="56" column="50" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppLogWrapper.java" timestamp="1524725963953" />
       <file name="/hrs_log_comment [prd - wos_hrs@192.168.10.112]" timestamp="1524296219055">
         <mark key="[" line="0" column="0" />
@@ -47,6 +44,9 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1523928732531">
         <mark key="[" line="10" column="65" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/message.html" timestamp="1524755186026">
+        <mark key="[" line="132" column="21" />
       </file>
       <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1523877283141">
         <mark key="[" line="0" column="0" />
@@ -127,10 +127,11 @@
       <file name="/sys_user_notify [prd - wos_common@192.168.10.112]" timestamp="1524557392539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/todo.html" timestamp="1524723533346">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/todo.html" timestamp="1524755222352">
+        <mark key="[" line="133" column="41" />
+        <mark key="]" line="133" column="41" />
+        <mark key="." line="133" column="41" />
+        <mark key="^" line="133" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
@@ -160,10 +161,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/853cdd49-bf1e-42ff-9b7c-ade5fee32d3a/console.sql" timestamp="1524724169681">
         <mark key="[" line="6" column="313" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console_1.sql" timestamp="1524721117450">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console_1.sql" timestamp="1524754046309">
+        <mark key="[" line="31" column="720" />
+        <mark key="]" line="31" column="720" />
+        <mark key="." line="31" column="720" />
       </file>
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
@@ -196,9 +197,6 @@
       <file name="/hrs_vuser [prd - wos_hrs@192.168.10.112]" timestamp="1523323033107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1524721309250">
-        <mark key="[" line="104" column="31" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1524721532088" />
       <file name="/sys_notify [prd - wos_common@192.168.10.112]" timestamp="1524569080818">
         <mark key="[" line="0" column="0" />
@@ -230,9 +228,6 @@
       </file>
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1524530063743">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Message.kt" timestamp="1524635360815">
-        <mark key="[" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1524304026294">
         <mark key="[" line="20" column="156" />
@@ -322,7 +317,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524752521364">
+      <file name="/dummy.sql" timestamp="1524754298080">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -491,10 +486,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>获取用户消息-WOS[message/user-notifys</text>
+        <text>detail/27318/manager</text>
       </register>
       <register name="-" type="4">
-        <text>获取用户消息-WOS[message/user-notifys</text>
+        <text>detail/27318/manager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b011dGFibGVMaXN0XD4=</text>
@@ -502,28 +497,31 @@
       <register name="0" type="2">
         <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAia2V5d29yZDIiLCB2YWx1ZSA9ICLmjpLluo86YXNjL2Rlc2MiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgIGlmKGlzQW5kcm9pZCl7CiAgICAgICAgICAgIGZ1bmN0aW9uIGFuZHJvaWQoKXsKICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gIm9wZW53anRyOi8vY29tLnR5cmJsLndqdHIiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgd2luZG93LnNldFRpbWVvdXQoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICJodHRwOi8vd3d3LndqdHIuY29tL2Rvd25sb2FkL2luZGV4Lmh0bWwiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgfSwyMDAwKTsKICAgICAgICAgICAgfTsKCiAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBQYXR0ZXJuKHJlZ2V4cCA9IEVudi5XU0lEKQo=</text>
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YWwgZmlyc3QgPSBnc29uLmZyb21Kc29uPE1hcDxTdHJpbmcsIFN0cmluZz4+KHd4TWVzc2FnZS5maXJzdCxvYmplY3QgOiBUeXBlVG9rZW48TWFwPFN0cmluZyxTdHJpbmc+PigpIHt9LnR5cGUpCg==</text>
+        <text encoding="base64">CUBQYXR0ZXJuKHJlZ2V4cCA9IEVudi5XU0lEKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgZmlyc3QgPSBnc29uLmZyb21Kc29uPE1hcDxTdHJpbmcsIFN0cmluZz4+KHd4TWVzc2FnZS5maXJzdCxvYmplY3QgOiBUeXBlVG9rZW48TWFwPFN0cmluZyxTdHJpbmc+PigpIHt9LnR5cGUpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQl2YWwgZ3NvbiA9IEdzb24oKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>data class WxMessageItem(
 	var value: String, var color: String
 ) {
@@ -533,11 +531,8 @@
 	)
 }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
