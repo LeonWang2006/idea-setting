@@ -26,18 +26,18 @@
         <mark key="." line="789" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/common/StockInfo.kt" timestamp="1524706493360" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1524706700815">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1524708335405">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="89" column="4" />
         <mark key="]" line="90" column="22" />
         <mark key="^" line="90" column="22" />
         <mark key="." line="90" column="22" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524700990778">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524707830052">
         <mark key="'" line="67" column="38" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="52" column="65" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="291" column="12" />
+        <mark key="]" line="291" column="12" />
+        <mark key="." line="291" column="12" />
         <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinAccessToken.kt" timestamp="1524474266542">
@@ -266,10 +266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null,null,null,null,null,null,null,null,null,null,null,null</text>
+        <text>employee</text>
       </register>
       <register name="-" type="4">
-        <text>null,null,null,null,null,null,null,null,null,null,null,null</text>
+        <text>employee</text>
       </register>
       <register name="/" type="4">
         <text>listCount</text>
