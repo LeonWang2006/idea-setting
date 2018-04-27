@@ -8,10 +8,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WxMessage.kt" timestamp="1524746364117">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WxMessage.kt" timestamp="1524793423348">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="7" column="121" />
+        <mark key="." line="7" column="121" />
+        <mark key="^" line="7" column="121" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console.sql" timestamp="1523880919016">
         <mark key="[" line="13" column="0" />
@@ -90,12 +91,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524790828955">
-        <mark key="'" line="493" column="18" />
-        <mark key="[" line="437" column="13" />
-        <mark key="]" line="691" column="22" />
-        <mark key="." line="691" column="22" />
-        <mark key="^" line="691" column="22" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524793458179">
+        <mark key="'" line="483" column="18" />
+        <mark key="[" line="207" column="45" />
+        <mark key="]" line="207" column="45" />
+        <mark key="." line="207" column="45" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
@@ -480,47 +480,47 @@
       <jump line="493" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJc3RhcnQgPCBtc2dSZXN1bHQuY291bnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>detail/27318/manager</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>info</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAia2V5d29yZDIiLCB2YWx1ZSA9ICLmjpLluo86YXNjL2Rlc2MiLCBwYXJhbVR5cGUgPSAicXVlcnkiKQo=</text>
+      <register name="0" type="4">
+        <text>var remark: String?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJc3RhcnQgPCBtc2dSZXN1bHQuY291bnQoKQo=</text>
+        <text encoding="base64">CQlleGFtcGxlID0gInt2YWx1ZTrmtYvor5XotbbntKflpITnkIblvoXlip4sY29sb3I6I2ZmMDAwfSIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS8vCQkJCXRocm93IFJlc3RFeGNlcHRpb24oUmVzdFNlcnZpY2VFcnJvci5UeXBlLk5PVF9GT1VORCwgImVycm9yLndlaXhpbi51c2VyLm5vbmUiKQo=</text>
+        <text encoding="base64">CQlleGFtcGxlID0gInt2YWx1ZTrmtYvor5XotbbntKflpITnkIblvoXlip4sY29sb3I6I2ZmMDAwfSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkvLwkJCQkJdGhyb3cgUmVzdEV4Y2VwdGlvbihSZXN0U2VydmljZUVycm9yLlR5cGUuTk9UX0FDQ0VQVEFCTEUsICJlcnJvci53ZWl4aW4uYmluZC5hbHJlYWR5IikK</text>
+        <text encoding="base64">CQlleGFtcGxlID0gInt2YWx1ZTrmtYvor5XotbbntKflpITnkIblvoXlip4sY29sb3I6I2ZmMDAwfSIsCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgIGlmKGlzQW5kcm9pZCl7CiAgICAgICAgICAgIGZ1bmN0aW9uIGFuZHJvaWQoKXsKICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gIm9wZW53anRyOi8vY29tLnR5cmJsLndqdHIiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgd2luZG93LnNldFRpbWVvdXQoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICJodHRwOi8vd3d3LndqdHIuY29tL2Rvd25sb2FkL2luZGV4Lmh0bWwiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgfSwyMDAwKTsKICAgICAgICAgICAgfTsKCiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlleGFtcGxlID0gInt2YWx1ZTrmtYvor5XotbbntKflpITnkIblvoXlip4sY29sb3I6I2ZmMDAwfSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+        <text encoding="base64">CQkJc3RhcnQgPCBtc2dSZXN1bHQuY291bnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
+        <text encoding="base64">CQkJCS8vCQkJCXRocm93IFJlc3RFeGNlcHRpb24oUmVzdFNlcnZpY2VFcnJvci5UeXBlLk5PVF9GT1VORCwgImVycm9yLndlaXhpbi51c2VyLm5vbmUiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBQYXR0ZXJuKHJlZ2V4cCA9IEVudi5XU0lEKQo=</text>
+        <text encoding="base64">CQkJCQkvLwkJCQkJdGhyb3cgUmVzdEV4Y2VwdGlvbihSZXN0U2VydmljZUVycm9yLlR5cGUuTk9UX0FDQ0VQVEFCTEUsICJlcnJvci53ZWl4aW4uYmluZC5hbHJlYWR5IikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl2YWwgZmlyc3QgPSBnc29uLmZyb21Kc29uPE1hcDxTdHJpbmcsIFN0cmluZz4+KHd4TWVzc2FnZS5maXJzdCxvYmplY3QgOiBUeXBlVG9rZW48TWFwPFN0cmluZyxTdHJpbmc+PigpIHt9LnR5cGUpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgIGlmKGlzQW5kcm9pZCl7CiAgICAgICAgICAgIGZ1bmN0aW9uIGFuZHJvaWQoKXsKICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gIm9wZW53anRyOi8vY29tLnR5cmJsLndqdHIiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgd2luZG93LnNldFRpbWVvdXQoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICJodHRwOi8vd3d3LndqdHIuY29tL2Rvd25sb2FkL2luZGV4Lmh0bWwiOyAvKioq5omT5byAYXBw55qE5Y2P6K6u77yM5pyJ5a6J5Y2T5ZCM5LqL5o+Q5L6bKioqLwogICAgICAgICAgICAgICAgfSwyMDAwKTsKICAgICAgICAgICAgfTsKCiAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
