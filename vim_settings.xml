@@ -33,6 +33,9 @@
       <file name="/news_info [prd - oa_new@192.168.10.6]" timestamp="1523879535080">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
+        <mark key="[" line="56" column="50" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/AppLogWrapper.java" timestamp="1524725963953" />
       <file name="/hrs_log_comment [prd - wos_hrs@192.168.10.112]" timestamp="1524296219055">
         <mark key="[" line="0" column="0" />
@@ -91,11 +94,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524880528734">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524882554537">
         <mark key="'" line="210" column="19" />
-        <mark key="[" line="228" column="23" />
-        <mark key="]" line="228" column="43" />
-        <mark key="." line="228" column="43" />
+        <mark key="[" line="595" column="30" />
+        <mark key="]" line="595" column="30" />
+        <mark key="." line="595" column="30" />
         <mark key="^" line="228" column="43" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
@@ -104,7 +107,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1524799304171">
+      <file name="/a.sql" timestamp="1524882214070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_vdepartment [prd - wos_hrs@192.168.10.112]" timestamp="1523245863977">
@@ -195,6 +198,9 @@
       <file name="/hrs_vuser [prd - wos_hrs@192.168.10.112]" timestamp="1523323033107">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1524721309250">
+        <mark key="[" line="104" column="31" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1524721532088" />
       <file name="/sys_notify [prd - wos_common@192.168.10.112]" timestamp="1524569080818">
         <mark key="[" line="0" column="0" />
@@ -226,6 +232,9 @@
       </file>
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1524530063743">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Message.kt" timestamp="1524635360815">
+        <mark key="[" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1524304026294">
         <mark key="[" line="20" column="156" />
@@ -315,13 +324,13 @@
         <mark key="]" line="35" column="36" />
         <mark key="." line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1524465595760">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1524883086629">
         <mark key="[" line="54" column="35" />
       </file>
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524821722584">
+      <file name="/dummy.sql" timestamp="1524882191983">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -490,10 +499,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>isNotEmpty</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>isNotEmpty</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
