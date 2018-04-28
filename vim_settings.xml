@@ -8,6 +8,10 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1524896764158">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="933" column="32" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WxMessage.kt" timestamp="1524878458144">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="16" column="34" />
@@ -396,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="60" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="627" column="13" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="90" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="149" column="56" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -496,6 +499,7 @@
       <jump line="191" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="210" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="183" column="82" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="175" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -505,7 +509,7 @@
         <text>拦截并获取session失败。</text>
       </register>
       <register name="/" type="4">
-        <text>info-vie</text>
+        <text>comment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2dnZXIuaW5mbygi6K+35rGCL3d4L2luZm8tdmlldzrojrflj5ZzZXNzaW9uIC0gJHtzZXNzaW9uLmdldEF0dHJpYnV0ZSgid3NJZCIpfSAtICR7c2Vzc2lvbi5nZXRBdHRyaWJ1dGUoIm9wZW5pZCIpfSIpCg==</text>
@@ -545,9 +549,9 @@
       </register>
     </registers>
     <search>
-      <last-search>info-vie</last-search>
+      <last-search>comment</last-search>
       <last-offset />
-      <last-pattern>info-vie</last-pattern>
+      <last-pattern>comment</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -560,7 +564,6 @@
         <entry>friends</entry>
         <entry>eidt</entry>
         <entry>edit</entry>
-        <entry>comment</entry>
         <entry>user_id</entry>
         <entry>detail</entry>
         <entry>关注我的</entry>
@@ -575,6 +578,7 @@
         <entry>info</entry>
         <entry>message</entry>
         <entry>info-vie</entry>
+        <entry>comment</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
