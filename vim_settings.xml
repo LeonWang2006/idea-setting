@@ -94,12 +94,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524886025603">
-        <mark key="'" line="210" column="19" />
-        <mark key="[" line="595" column="30" />
-        <mark key="]" line="176" column="64" />
-        <mark key="." line="176" column="64" />
-        <mark key="^" line="176" column="64" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1524887723297">
+        <mark key="'" line="183" column="82" />
+        <mark key="[" line="489" column="40" />
+        <mark key="]" line="489" column="40" />
+        <mark key="." line="489" column="40" />
+        <mark key="^" line="463" column="48" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
@@ -107,7 +107,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1524882214070">
+      <file name="/a.sql" timestamp="1524887324977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_vdepartment [prd - wos_hrs@192.168.10.112]" timestamp="1523245863977">
@@ -330,7 +330,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524886033079">
+      <file name="/dummy.sql" timestamp="1524887350764">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -396,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="628" column="13" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="208" column="60" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="627" column="13" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="90" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -496,19 +495,20 @@
       <jump line="704" column="37" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="191" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="210" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="183" column="82" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isNotEmpty</text>
+        <text>拦截并获取session失败。</text>
       </register>
       <register name="-" type="4">
-        <text>isNotEmpty</text>
+        <text>拦截并获取session失败。</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text>info-vie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJd3hNZXNzYWdlLmVtcGxveWVlSWQgIT0gbnVsbCAtPiB7CgkJCQlzcWwgPSAic2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnJHt3eE1lc3NhZ2UuZW1wbG95ZWVJZH0nIGxpbWl0IDEiCgkJCX0K</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygi6K+35rGCL3d4L2luZm8tdmlldzrojrflj5ZzZXNzaW9uIC0gJHtzZXNzaW9uLmdldEF0dHJpYnV0ZSgid3NJZCIpfSAtICR7c2Vzc2lvbi5nZXRBdHRyaWJ1dGUoIm9wZW5pZCIpfSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -545,9 +545,9 @@
       </register>
     </registers>
     <search>
-      <last-search>message</last-search>
+      <last-search>info-vie</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern>info-vie</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -555,7 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>friend</entry>
         <entry>mentions</entry>
         <entry>get-all</entry>
         <entry>friends</entry>
@@ -575,6 +574,7 @@
         <entry>bind</entry>
         <entry>info</entry>
         <entry>message</entry>
+        <entry>info-vie</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
