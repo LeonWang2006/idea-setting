@@ -8,12 +8,12 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1525338143113">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1525339172428">
         <mark key="'" line="175" column="0" />
-        <mark key="[" line="979" column="6" />
-        <mark key="]" line="981" column="4" />
-        <mark key="." line="981" column="4" />
-        <mark key="^" line="990" column="70" />
+        <mark key="[" line="1011" column="36" />
+        <mark key="]" line="1011" column="36" />
+        <mark key="." line="1011" column="36" />
+        <mark key="^" line="1011" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console.sql" timestamp="1523880919016">
         <mark key="[" line="13" column="0" />
@@ -103,12 +103,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525338093615">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525339116978">
         <mark key="'" line="342" column="18" />
-        <mark key="[" line="443" column="19" />
-        <mark key="]" line="444" column="44" />
-        <mark key="." line="444" column="44" />
-        <mark key="^" line="444" column="44" />
+        <mark key="[" line="444" column="54" />
+        <mark key="]" line="444" column="53" />
+        <mark key="." line="444" column="53" />
+        <mark key="^" line="444" column="53" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
@@ -228,7 +228,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/60e7fa6e-5d66-4095-bdba-99c4b366ffff/console.sql" timestamp="1525332632251">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/60e7fa6e-5d66-4095-bdba-99c4b366ffff/console.sql" timestamp="1525339031404">
         <mark key="[" line="60" column="57" />
         <mark key="]" line="60" column="57" />
         <mark key="." line="60" column="57" />
@@ -318,7 +318,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525332636654">
+      <file name="/dummy.sql" timestamp="1525338971117">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -471,11 +471,11 @@
       <jump line="802" column="51" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Any</text>
       </register>
       <register name="-" type="4">
-        <text>:String</text>
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
@@ -484,34 +484,34 @@
         <text>$email</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBlbWFpbCDnlKjmiLfpgq7nrrEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJaXRbIiJdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJdmFsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkvLwkJdmFsIGVtYWlsOlN0cmluZyA9IEJsb2dTZXJ2aWNlKCkuZ2V0QmxvZ1VzZXJJZEJ5RW1haWwoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJIiIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoZW1haWwpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJaXRbIiJdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJdmFsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvLwkJdmFsIGVtYWlsOlN0cmluZyA9IEJsb2dTZXJ2aWNlKCkuZ2V0QmxvZ1VzZXJJZEJ5RW1haWwoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJIiIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlpZiAoZW1haWwpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2YWwgcmVzdWx0ID0gYXBwSmRiY1RlbXBsYXRlLnF1ZXJ5Rm9yTWFwKHVzZXJTcWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdHJ1ZQo=</text>
+        <text encoding="base64">CQl2YWwgcmVzdWx0ID0gYXBwSmRiY1RlbXBsYXRlLnF1ZXJ5Rm9yTWFwKHVzZXJTcWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
