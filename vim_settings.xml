@@ -36,7 +36,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1525352875194">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1525356015172">
         <mark key="[" line="20" column="107" />
         <mark key="]" line="20" column="106" />
         <mark key="^" line="20" column="106" />
@@ -106,12 +106,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525354182044">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525356087983">
         <mark key="'" line="440" column="24" />
-        <mark key="[" line="625" column="41" />
-        <mark key="]" line="625" column="41" />
-        <mark key="." line="625" column="41" />
-        <mark key="^" line="638" column="16" />
+        <mark key="[" line="786" column="18" />
+        <mark key="]" line="785" column="28" />
+        <mark key="." line="785" column="28" />
+        <mark key="^" line="804" column="0" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
@@ -304,10 +304,11 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1525352255119">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1525356458325">
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+        <mark key="^" line="62" column="41" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525337809286">
         <mark key="[" line="35" column="339" />
@@ -317,7 +318,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525351803949">
+      <file name="/dummy.sql" timestamp="1525355990338">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -477,46 +478,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userAnalytics[0][&quot;laterTimes&quot;] as Long? ?:</text>
+        <text>POST</text>
       </register>
       <register name="-" type="4">
-        <text>userAnalytics[0][&quot;laterTimes&quot;] as Long? ?:</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJdXNlckluZm8uYXZnSG91cnMgPSBCaWdEZWNpbWFsLlpFUk8KCQkJCQkJdXNlckluZm8ubGVhdmVIb3VycyA9IHVzZXJBbmFseXRpY3NbMF1bImxlYXZlSG91cnMiXSBhcyBCaWdEZWNpbWFsPyA/OiBCaWdEZWNpbWFsLlpFUk8KCQkJCQkJdXNlckluZm8ubmVlZEF0dGVuZCA9IHVzZXJBbmFseXRpY3NbMF1bIm5lZWRBdHRlbmQiXSBhcyBCaWdEZWNpbWFsPyA/OiBCaWdEZWNpbWFsLlpFUk8KCQkJCQkJdXNlckluZm8uYXR0ZW5kID0gdXNlckFuYWx5dGljc1swXVsiYXR0ZW5kIl0gYXMgQmlnRGVjaW1hbD8gPzogQmlnRGVjaW1hbC5aRVJPCgkJCQkJCXVzZXJJbmZvLmxhdGVUaW1lcyA9IHVzZXJBbmFseXRpY3NbMF1bImxhdGVyVGltZXMiXSBhcyBMb25nPyA/OiAwTAo=</text>
+        <text encoding="base64">CUBHZXRNYXBwaW5nKCIvYmluZC1jaGVjay97ZW1wbG95ZWVJZH0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KGpRdWVyeS5wYXJzZUpTT04ocmVzdWx0LnJlc3BvbnNlVGV4dCkuZXJyb3IpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGNhdGNoIChlOiBFeGNlcHRpb24pCgl7CgkJbG9nZ2VyLmVycm9yKCLojrflj5bnlKjmiLfkv6Hmga/lpLHotKUhIikKCQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKG51bGwpCgl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCXZhbCB1c2VyTGVhdmUgPSB3cHNKZGJjVGVtcGxhdGUucXVlcnlGb3JMaXN0KGhyTGVhdmVTcWwpCgkJCQlpZiAodXNlckxlYXZlICE9IG51bGwgJiYgdXNlckxlYXZlLnNpemUgPiAwKSB7CgkJCQkJdXNlckluZm8uYW5udWFsTGVhdmUgPSB1c2VyTGVhdmVbMF1bImFubnVhbExlYXZlIl0gYXMgQmlnRGVjaW1hbD8gPzogQmlnRGVjaW1hbC5aRVJPCgkJCQkJdXNlckluZm8udG90YWxMZWF2ZSA9IHVzZXJMZWF2ZVswXVsidG90YWxMZWF2ZSJdIGFzIExvbmc/ID86IDBMCgkJCQl9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzSWQ6ICQoIiN1c2VybmFtZSIpLnZhbCgpLAogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IGhleF9tZDUoJCgiI3Bhc3N3b3JkIikudmFsKCkp</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWlmICh1c2VyQW5hbHl0aWNzICE9IG51bGwgJiYgdXNlckFuYWx5dGljcy5zaXplID4gMCkgewoJCQkJCXVzZXJJbmZvLmF2Z0hvdXJzID0gdXNlckFuYWx5dGljc1swXVsiYXZnSG91cnMiXSBhcyBCaWdEZWNpbWFsPyA/OiBCaWdEZWNpbWFsLlpFUk8KCQkJCQl1c2VySW5mby5sZWF2ZUhvdXJzID0gdXNlckFuYWx5dGljc1swXVsibGVhdmVIb3VycyJdIGFzIEJpZ0RlY2ltYWw/ID86IEJpZ0RlY2ltYWwuWkVSTwoJCQkJCXVzZXJJbmZvLm5lZWRBdHRlbmQgPSB1c2VyQW5hbHl0aWNzWzBdWyJuZWVkQXR0ZW5kIl0gYXMgQmlnRGVjaW1hbD8gPzogQmlnRGVjaW1hbC5aRVJPCgkJCQkJdXNlckluZm8uYXR0ZW5kID0gdXNlckFuYWx5dGljc1swXVsiYXR0ZW5kIl0gYXMgQmlnRGVjaW1hbD8gPzogQmlnRGVjaW1hbC5aRVJPCgkJCQkJdXNlckluZm8ubGF0ZVRpbWVzID0gdXNlckFuYWx5dGljc1swXVsibGF0ZXJUaW1lcyJdIGFzIExvbmc/ID86IDBMCgkJCQl9IGVsc2UgewoJCQkJCXVzZXJJbmZvLmF2Z0hvdXJzID0gQmlnRGVjaW1hbC5aRVJPCgkJCQkJdXNlckluZm8ubGVhdmVIb3VycyA9IHVzZXJBbmFseXRpY3NbMF1bImxlYXZlSG91cnMiXSBhcyBCaWdEZWNpbWFsPyA/OiBCaWdEZWNpbWFsLlpFUk8KCQkJCQl1c2VySW5mby5uZWVkQXR0ZW5kID0gdXNlckFuYWx5dGljc1swXVsibmVlZEF0dGVuZCJdIGFzIEJpZ0RlY2ltYWw/ID86IEJpZ0RlY2ltYWwuWkVSTwoJCQkJCXVzZXJJbmZvLmF0dGVuZCA9IHVzZXJBbmFseXRpY3NbMF1bImF0dGVuZCJdIGFzIEJpZ0RlY2ltYWw/ID86IEJpZ0RlY2ltYWwuWkVSTwoJCQkJCXVzZXJJbmZvLmxhdGVUaW1lcyA9IHVzZXJBbmFseXRpY3NbMF1bImxhdGVyVGltZXMiXSBhcyBMb25nPyA/OiAwTAoJCQkJfQo=</text>
+      <register name="4" type="4">
+        <text>else {
+                }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXZhbCB1c2VyQW5hbHl0aWNzID0gd3BzSmRiY1RlbXBsYXRlLnF1ZXJ5Rm9yTGlzdChockFuYWx5dGljc1NxbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24gPSAiaHR0cHM6Ly9yZXMtZGV2LndvbmRlcnNoYXJlLmNuL3dlaXhpbi9pbmZvLmh0bWw/b3BlbmlkPSIgKyAkKCIjb3BlbmlkIikudmFsKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBvcGVuaWQ6ICJvWFptczBUYXpnU3cxejRXYzdkSTVnXzZkODV3IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCIucmVzdWx0X21lcyIpLnNob3coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gd2luZG93LmxvY2F0aW9uID0gImh0dHBzOi8vcmVzdC53b25kZXJzaGFyZS5jbi93ZWl4aW4vaW5mby5odG1sP29wZW5pZD0iICsgIm9YWm1zMFRhemdTdzF6NFdjN2RJNWdfNmQ4NXciOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCIucmVzdWx0X21lcyIpLmhpZGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
