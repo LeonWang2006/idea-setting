@@ -15,6 +15,12 @@
         <mark key="." line="1029" column="39" />
         <mark key="^" line="1015" column="26" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WxMessage.kt" timestamp="1525245367939">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="16" column="34" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console.sql" timestamp="1523880919016">
         <mark key="[" line="13" column="0" />
       </file>
@@ -42,6 +48,7 @@
       <file name="/hrs_log_comment [prd - wos_hrs@192.168.10.112]" timestamp="1524296219055">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/default.html" timestamp="1525348528387" />
       <file name="/hrs_cache_ehr_work [prd - wos_hrs@192.168.10.112]" timestamp="1523172339801">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,8 +58,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1523928732531">
         <mark key="[" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/message.html" timestamp="1524755186026">
-        <mark key="[" line="132" column="21" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/message.html" timestamp="1525348495732">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
       </file>
       <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1523877283141">
         <mark key="[" line="0" column="0" />
@@ -74,9 +83,6 @@
         <mark key="]" line="0" column="395" />
         <mark key="." line="0" column="395" />
         <mark key="^" line="0" column="741" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1525311630387">
-        <mark key="'" line="802" column="51" />
       </file>
       <file name="/post_likes [dev - sharetronix@192.168.10.61]" timestamp="1523546493674">
         <mark key="[" line="0" column="0" />
@@ -134,26 +140,29 @@
       <file name="/users_followed [dev - sharetronix@192.168.10.61]" timestamp="1523519798034">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_1.sql" timestamp="1525312861179">
-        <mark key="[" line="19" column="52" />
-      </file>
       <file name="/hrs_yiilog_debug [prd - wos_hrs@192.168.10.112]" timestamp="1524530213012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_user_notify [prd - wos_common@192.168.10.112]" timestamp="1524557392539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/todo.html" timestamp="1525347805001">
-        <mark key="[" line="48" column="43" />
-        <mark key="]" line="133" column="41" />
-        <mark key="." line="133" column="41" />
-        <mark key="^" line="133" column="21" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/todo.html" timestamp="1525348472715">
+        <mark key="[" line="54" column="65" />
+        <mark key="]" line="54" column="69" />
+        <mark key="." line="54" column="69" />
+        <mark key="^" line="54" column="71" />
       </file>
       <file name="/posts_comments_mentioned [dev - sharetronix@192.168.10.61]" timestamp="1525329757795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1524815611659">
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="77" column="57" />
+        <mark key="." line="77" column="57" />
+        <mark key="^" line="77" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524621956104">
         <mark key="[" line="0" column="0" />
@@ -190,7 +199,7 @@
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1525241603835">
+      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1525348968149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
@@ -252,9 +261,6 @@
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1524530063743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/Message.kt" timestamp="1525269372248">
-        <mark key="[" line="18" column="1" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1524304026294">
         <mark key="[" line="20" column="156" />
         <mark key="]" line="20" column="156" />
@@ -274,6 +280,12 @@
         <mark key="]" line="206" column="76" />
         <mark key="." line="206" column="76" />
         <mark key="^" line="175" column="46" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WxMessageItem.kt" timestamp="1524747893014">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="8" />
       </file>
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
@@ -308,18 +320,21 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1525348504069">
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="57" column="27" />
+        <mark key="." line="57" column="27" />
+        <mark key="^" line="79" column="43" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525337809286">
         <mark key="[" line="35" column="339" />
         <mark key="]" line="35" column="36" />
         <mark key="." line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1525258354561">
-        <mark key="[" line="54" column="35" />
-      </file>
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525341445332">
+      <file name="/dummy.sql" timestamp="1525348968535">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -347,6 +362,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1525348510210">
+        <mark key="[" line="64" column="31" />
+        <mark key="]" line="64" column="31" />
+        <mark key="." line="64" column="31" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="/post_tags [dev - sharetronix@192.168.10.61]" timestamp="1524106790035">
         <mark key="[" line="0" column="0" />
@@ -473,10 +494,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add(mapOf(id to name))</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>add(mapOf(id to name))</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
