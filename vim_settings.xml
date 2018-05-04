@@ -320,10 +320,11 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1525433816053">
-        <mark key="[" line="59" column="17" />
-        <mark key="]" line="23" column="51" />
-        <mark key="." line="23" column="51" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1525435485441">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="23" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525337809286">
         <mark key="[" line="35" column="339" />
@@ -334,7 +335,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525433759080">
+      <file name="/dummy.sql" timestamp="1525435287048">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -493,17 +494,17 @@
       <jump line="448" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://rest.wondershare.cn/wx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>https://rest.wondershare.cn/wx</text>
+        <text>openid</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCIjYm9keSIpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgIHZhciBvcGVuaWQgPSBnZXRQYXJhbWV0ZXIoIm9wZW5pZCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -512,28 +513,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gd2luZG93LmxvY2F0aW9uID0gImh0dHBzOi8vcmVzdC53b25kZXJzaGFyZS5jbi93ZWl4aW4vaW5mby5odG1sP29wZW5pZD0iICsgIm9YWm1zMFRhemdTdzF6NFdjN2RJNWdfNmQ4NXciOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24gPSBob3N0ICsgIi93ZWl4aW4vZGVmYXVsdC5odG1sP29wZW5pZD0iICsgb3BlbmlkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcGVuaWQ6ICJvWFptczBUYXpnU3cxejRXYzdkSTVnXzZkODV3IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5pZDogIm9YWm1zMFRhemdTdzF6NFdjN2RJNWdfNmQ4NXciLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB3aW5kb3cubG9jYXRpb24gPSAiaHR0cHM6Ly9yZXN0LndvbmRlcnNoYXJlLmNuL3dlaXhpbi9pbmZvLmh0bWw/b3BlbmlkPSIgKyAib1habXMwVGF6Z1N3MXo0V2M3ZEk1Z182ZDg1dyI7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciBwYXRoID0gaG9zdCArICIvd3gvYmluZC1hdXRoIjsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvL3RvZG8g5YiG6aG16Zeu6aKYCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
