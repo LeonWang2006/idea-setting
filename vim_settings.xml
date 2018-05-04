@@ -58,16 +58,17 @@
       <file name="/hrs_cache_ehr_work [prd - wos_hrs@192.168.10.112]" timestamp="1523172339801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_cache_user_ext [prd - wos_hrs@192.168.10.112]" timestamp="1525224493295">
+      <file name="/hrs_cache_user_ext [prd - wos_hrs@192.168.10.112]" timestamp="1525447815340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1523928732531">
         <mark key="[" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/message.html" timestamp="1525426903780">
-        <mark key="[" line="40" column="35" />
-        <mark key="]" line="40" column="35" />
-        <mark key="." line="40" column="35" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/message.html" timestamp="1525449602926">
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="41" column="46" />
+        <mark key="." line="41" column="46" />
+        <mark key="^" line="185" column="0" />
       </file>
       <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1523877283141">
         <mark key="[" line="0" column="0" />
@@ -153,10 +154,10 @@
       <file name="/sys_user_notify [prd - wos_common@192.168.10.112]" timestamp="1524557392539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/todo.html" timestamp="1525352019518">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/todo.html" timestamp="1525449599185">
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="45" column="46" />
+        <mark key="." line="45" column="46" />
       </file>
       <file name="/posts_comments_mentioned [dev - sharetronix@192.168.10.61]" timestamp="1525329757795">
         <mark key="[" line="0" column="0" />
@@ -320,11 +321,11 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1525435485441">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="23" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1525450158919">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="156" column="68" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525337809286">
         <mark key="[" line="35" column="339" />
@@ -335,7 +336,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525435287048">
+      <file name="/dummy.sql" timestamp="1525447815655">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -364,11 +365,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1525425198322">
-        <mark key="[" line="54" column="35" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1525449364335">
+        <mark key="[" line="55" column="0" />
         <mark key="]" line="35" column="49" />
         <mark key="." line="35" column="49" />
-        <mark key="^" line="77" column="133" />
+        <mark key="^" line="79" column="133" />
       </file>
       <file name="/post_tags [dev - sharetronix@192.168.10.61]" timestamp="1524106790035">
         <mark key="[" line="0" column="0" />
@@ -495,43 +496,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>openid</text>
+        <text>:8080</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBvcGVuaWQgPSBnZXRQYXJhbWV0ZXIoIm9wZW5pZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZnIuc3JjID0gcmVkaXJlY3RfdXJsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24gPSBob3N0ICsgIi93ZWl4aW4vZGVmYXVsdC5odG1sP29wZW5pZD0iICsgb3BlbmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5lc2NhcGUoclsyXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiog5omT5byAYXBw55qE5Y2P6K6uICoqKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gIndzYXBwOi8vYXBwL2RpYXJ5L2hvbWUiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBwYXRoID0gaG9zdCArICIvd3gvYmluZC1hdXRoIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IHJlZGlyZWN0X3VybDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmci5zcmMgPSByZWRpcmVjdF91cmw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
