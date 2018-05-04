@@ -46,6 +46,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/default.html" timestamp="1525348528387" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/css/common.css" timestamp="1525397513615">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+      </file>
       <file name="/hrs_cache_ehr_work [prd - wos_hrs@192.168.10.112]" timestamp="1523172339801">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,12 +111,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525356087983">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525397079684">
         <mark key="'" line="440" column="24" />
-        <mark key="[" line="786" column="18" />
-        <mark key="]" line="785" column="28" />
-        <mark key="." line="785" column="28" />
-        <mark key="^" line="804" column="0" />
+        <mark key="[" line="677" column="38" />
+        <mark key="]" line="799" column="0" />
+        <mark key="." line="799" column="0" />
+        <mark key="^" line="803" column="29" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
@@ -153,6 +158,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1525397135003">
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="28" />
+        <mark key="." line="71" column="28" />
+        <mark key="^" line="77" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524621956104">
         <mark key="[" line="0" column="0" />
@@ -304,10 +315,10 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1525395061786">
-        <mark key="[" line="56" column="19" />
-        <mark key="]" line="56" column="19" />
-        <mark key="." line="56" column="19" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1525397237211">
+        <mark key="[" line="68" column="31" />
+        <mark key="]" line="68" column="31" />
+        <mark key="." line="68" column="31" />
         <mark key="^" line="62" column="41" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525337809286">
@@ -477,48 +488,48 @@
       <jump line="448" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>POST</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>responseText</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBHZXRNYXBwaW5nKCIvYmluZC1jaGVjay97ZW1wbG95ZWVJZH0iKQo=</text>
+        <text encoding="base64">CQkJUmVzcG9uc2VXcmFwcGVyKCIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KGpRdWVyeS5wYXJzZUpTT04ocmVzdWx0LnJlc3BvbnNlVGV4dCkuZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCSIiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KGpRdWVyeS5wYXJzZUpTT04ocmVzdWx0LnJlc3BvbnNlVGV4dCkuZXJyb3IpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdzSWQ6ICQoIiN1c2VybmFtZSIpLnZhbCgpLAogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IGhleF9tZDUoJCgiI3Bhc3N3b3JkIikudmFsKCkp</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>else {
                 }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24gPSAiaHR0cHM6Ly9yZXMtZGV2LndvbmRlcnNoYXJlLmNuL3dlaXhpbi9pbmZvLmh0bWw/b3BlbmlkPSIgKyAkKCIjb3BlbmlkIikudmFsKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCIucmVzdWx0X21lcyIpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24gPSAiaHR0cHM6Ly9yZXMtZGV2LndvbmRlcnNoYXJlLmNuL3dlaXhpbi9pbmZvLmh0bWw/b3BlbmlkPSIgKyAkKCIjb3BlbmlkIikudmFsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCIucmVzdWx0X21lcyIpLmhpZGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
