@@ -45,7 +45,11 @@
       <file name="/hrs_log_comment [prd - wos_hrs@192.168.10.112]" timestamp="1524296219055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/default.html" timestamp="1525348528387" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/default.html" timestamp="1525414635331">
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/css/common.css" timestamp="1525397513615">
         <mark key="[" line="223" column="0" />
         <mark key="]" line="223" column="0" />
@@ -326,7 +330,7 @@
         <mark key="]" line="35" column="36" />
         <mark key="." line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ResponseWrapper.kt" timestamp="1525413638922" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ResponseWrapper.kt" timestamp="1525414550084" />
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
@@ -489,11 +493,11 @@
       <jump line="448" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>功</text>
       </register>
       <register name="-" type="4">
-        <text>responseText</text>
+        <text>功</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
