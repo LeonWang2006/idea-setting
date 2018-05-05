@@ -53,7 +53,7 @@
       <file name="/hrs_cache_ehr_work [prd - wos_hrs@192.168.10.112]" timestamp="1523172339801">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_cache_user_ext [prd - wos_hrs@192.168.10.112]" timestamp="1525447815340">
+      <file name="/hrs_cache_user_ext [prd - wos_hrs@192.168.10.112]" timestamp="1525500187970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1523928732531">
@@ -303,16 +303,16 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="156" column="68" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525337809286">
-        <mark key="[" line="35" column="339" />
-        <mark key="]" line="35" column="36" />
-        <mark key="." line="35" column="36" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525499295884">
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="63" column="34" />
+        <mark key="." line="63" column="34" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ResponseWrapper.kt" timestamp="1525414550084" />
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525498279585">
+      <file name="/dummy.sql" timestamp="1525500433122">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -462,10 +462,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
