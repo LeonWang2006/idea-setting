@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1525690761244">
+        <mark key="'" line="1040" column="0" />
+        <mark key="[" line="1029" column="39" />
+        <mark key="]" line="1029" column="39" />
+        <mark key="." line="1029" column="39" />
+        <mark key="^" line="1015" column="26" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console.sql" timestamp="1523880919016">
         <mark key="[" line="13" column="0" />
       </file>
@@ -284,12 +291,12 @@
         <mark key="]" line="17" column="360" />
         <mark key="." line="17" column="360" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1525683858998">
-        <mark key="'" line="493" column="0" />
-        <mark key="[" line="282" column="16" />
-        <mark key="]" line="282" column="16" />
-        <mark key="." line="282" column="16" />
-        <mark key="^" line="304" column="70" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1525690777040">
+        <mark key="'" line="496" column="0" />
+        <mark key="[" line="288" column="40" />
+        <mark key="]" line="288" column="40" />
+        <mark key="." line="288" column="40" />
+        <mark key="^" line="307" column="70" />
       </file>
       <file name="/hrs_log_comment [dev - wos_hrs@10.10.18.130]" timestamp="1524282364281">
         <mark key="[" line="0" column="0" />
@@ -484,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Body</text>
+        <text>logService</text>
       </register>
       <register name="-" type="4">
-        <text>Body</text>
+        <text>logService</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
