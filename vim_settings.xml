@@ -133,7 +133,7 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinToken.kt" timestamp="1523157171762">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1525673886673" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1525680478014" />
       <file name="/sys_yiilog_operation [prd - wos_common@192.168.10.112]" timestamp="1525504823934">
         <mark key="[" line="0" column="0" />
       </file>
@@ -256,7 +256,7 @@
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1525502784578">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1525675147589">
+      <file name="/fragment.kt" timestamp="1525681691809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
@@ -281,11 +281,11 @@
         <mark key="]" line="17" column="360" />
         <mark key="." line="17" column="360" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1525665545652">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1525681738142">
         <mark key="'" line="493" column="0" />
-        <mark key="[" line="304" column="72" />
-        <mark key="]" line="304" column="72" />
-        <mark key="." line="304" column="72" />
+        <mark key="[" line="282" column="16" />
+        <mark key="]" line="282" column="16" />
+        <mark key="." line="282" column="16" />
         <mark key="^" line="304" column="70" />
       </file>
       <file name="/hrs_log_comment [dev - wos_hrs@10.10.18.130]" timestamp="1524282364281">
@@ -303,7 +303,7 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="156" column="68" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525676323987">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525679800432">
         <mark key="[" line="62" column="34" />
         <mark key="]" line="62" column="34" />
         <mark key="." line="62" column="34" />
@@ -481,10 +481,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testwos</text>
+        <text>Body</text>
       </register>
       <register name="-" type="4">
-        <text>testwos</text>
+        <text>Body</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
