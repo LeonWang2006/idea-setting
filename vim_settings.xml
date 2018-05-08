@@ -62,10 +62,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1523928732531">
         <mark key="[" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/PushService.kt" timestamp="1525761989215">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/PushService.kt" timestamp="1525781402859">
+        <mark key="[" line="144" column="13" />
+        <mark key="]" line="144" column="13" />
+        <mark key="." line="144" column="13" />
       </file>
       <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1523877283141">
         <mark key="[" line="0" column="0" />
@@ -93,6 +93,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_yiilog_error [prd - wos_hrs@192.168.10.112]" timestamp="1525504783200">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/app_weixin [prd - app@192.168.10.20]" timestamp="1525780602993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1525692192846">
@@ -130,7 +133,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1524887324977">
+      <file name="/a.sql" timestamp="1525780501930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1525505125571">
@@ -317,20 +320,21 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525685905117">
-        <mark key="[" line="62" column="34" />
-        <mark key="]" line="62" column="34" />
-        <mark key="." line="62" column="34" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1525781359286">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="200" column="58" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1525672627644" />
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525762960001">
+      <file name="/dummy.sql" timestamp="1525780603186">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/app_user [prd - app@192.168.10.20]" timestamp="1525255858270">
         <mark key="[" line="0" column="0" />
@@ -497,17 +501,17 @@
       <jump line="3" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://res-dev.wondershare.cn</text>
       </register>
       <register name="-" type="4">
-        <text>.last {  }</text>
+        <text>https://res-dev.wondershare.cn</text>
       </register>
       <register name="/" type="4">
         <text>buildConfig</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlwYXJhbUxvZ0J1aWxkID0gYW5kT3JDb25kaXRpb24ocGFyYW1Mb2dCdWlsZCxpdCwiQU5EIikK</text>
+        <text encoding="base64">CQlsYXRlaW5pdCB2YXIgb2FIb3N0OiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
