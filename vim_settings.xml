@@ -96,7 +96,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1524011752497">
         <mark key="[" line="0" column="501" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1525757738812">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1525765739111">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="56" column="25" />
         <mark key="]" line="56" column="25" />
@@ -166,6 +166,11 @@
       </file>
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1523628456471">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console_1.sql" timestamp="1525765975642">
+        <mark key="[" line="37" column="203" />
+        <mark key="]" line="37" column="203" />
+        <mark key="." line="37" column="203" />
       </file>
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
@@ -255,6 +260,13 @@
       </file>
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1525766089371">
+        <mark key="'" line="38" column="15" />
+        <mark key="[" line="206" column="248" />
+        <mark key="]" line="206" column="248" />
+        <mark key="." line="206" column="248" />
+        <mark key="^" line="175" column="46" />
       </file>
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
@@ -463,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>控</text>
+        <text>= 1</text>
       </register>
       <register name="-" type="4">
-        <text>控</text>
+        <text>= 1</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
