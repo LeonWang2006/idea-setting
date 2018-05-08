@@ -57,11 +57,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fd2549d9-4423-47b6-98ab-117f1d40f4b9/console.sql" timestamp="1523928732531">
         <mark key="[" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/PushService.kt" timestamp="1525757899818">
-        <mark key="[" line="159" column="55" />
-        <mark key="]" line="159" column="65" />
-        <mark key="." line="159" column="55" />
-        <mark key="^" line="159" column="63" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/PushService.kt" timestamp="1525760850729">
+        <mark key="[" line="159" column="12" />
+        <mark key="]" line="157" column="8" />
+        <mark key="." line="157" column="8" />
+        <mark key="^" line="157" column="8" />
       </file>
       <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1523877283141">
         <mark key="[" line="0" column="0" />
@@ -107,7 +107,7 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525751868854">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525760529925">
         <mark key="'" line="443" column="24" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -470,10 +470,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wxService</text>
+        <text>待办消息</text>
       </register>
       <register name="-" type="4">
-        <text>wxService</text>
+        <text>待办消息</text>
       </register>
       <register name="/" type="4">
         <text>获取我关注</text>
