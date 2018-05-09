@@ -416,11 +416,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1525827846763">
-        <mark key="'" line="1485" column="8" />
-        <mark key="[" line="1498" column="30" />
-        <mark key="]" line="1498" column="30" />
-        <mark key="." line="1498" column="30" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1525829251809">
+        <mark key="'" line="1155" column="12" />
+        <mark key="[" line="1463" column="0" />
+        <mark key="]" line="1463" column="124" />
+        <mark key="." line="1463" column="0" />
+        <mark key="^" line="1462" column="123" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1525798854603">
         <mark key="[" line="56" column="31" />
@@ -453,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="556" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="563" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="120" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="168" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -553,19 +553,20 @@
       <jump line="968" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1706" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1485" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1155" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toString().isEmpty()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl2YWwgb3JMaW1pdCA9ICJsb2cubG9nX2RldGFpbF90eXBlID0gJ+iBjOi0o+aXpeW/lycgJHtwYXJhbUxvZ0J1aWxkLnN0YXJ0RGF0ZX0ke3BhcmFtTG9nQnVpbGQuZGVwfSR7cGFyYW1Mb2dCdWlsZC5lbXBHcmFkZX0iCg==</text>
       </register>
       <register name="-" type="4">
         <text>toString().isEmpty()</text>
       </register>
       <register name="/" type="4">
-        <text>my</text>
+        <text>orLimit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJIkFORCIgLT4gewoJCQkJCQkJcGFyYW1Mb2dCdWlsZC5yZWFkID0gIiAkY29uZGl0aW9uIElGKGZpbmRfaW5fc2V0KCcke3BhcmFtTG9nQnVpbGQud3NJZH0nLGxvZy5yZWFkX3dzX2lkKSA+IDAsMSwwKSA9ICR7cGFyYW1Mb2dCdWlsZC5yZWFkfSIKCQkJCQkJfQo=</text>
+        <text encoding="base64">CQl2YWwgb3JMaW1pdCA9ICJsb2cubG9nX2RldGFpbF90eXBlID0gJ+iBjOi0o+aXpeW/lycgJHtwYXJhbUxvZ0J1aWxkLnN0YXJ0RGF0ZX0ke3BhcmFtTG9nQnVpbGQuZGVwfSR7cGFyYW1Mb2dCdWlsZC5lbXBHcmFkZX0iCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">T1IKICAgICAgICAobG9nLmV4cGVyaWVuY2UgaXMgbnVsbCkg</text>
@@ -602,9 +603,9 @@
       </register>
     </registers>
     <search>
-      <last-search>my</last-search>
+      <last-search>orLimit</last-search>
       <last-offset />
-      <last-pattern>my</last-pattern>
+      <last-pattern>orLimit</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -612,7 +613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>关注我的</entry>
         <entry>关注</entry>
         <entry>template</entry>
         <entry>restTem</entry>
@@ -632,6 +632,7 @@
         <entry>buildConfig</entry>
         <entry>list</entry>
         <entry>my</entry>
+        <entry>orLimit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
