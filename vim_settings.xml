@@ -37,11 +37,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1525798353530">
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1525827360433">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="36" />
         <mark key="^" line="0" column="331" />
+        <mark key="." line="23" column="36" />
       </file>
       <file name="/hrs_log_comment [prd - wos_hrs@192.168.10.112]" timestamp="1524296219055">
         <mark key="[" line="0" column="0" />
@@ -312,10 +312,10 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
       </file>
-      <file name="/fragment.kt" timestamp="1525787986891">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="/fragment.kt" timestamp="1525827775807">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="/news_forceread_log [prd - oa_new@192.168.10.6]" timestamp="1525661421548">
         <mark key="[" line="0" column="0" />
@@ -416,11 +416,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1525798395592">
-        <mark key="'" line="968" column="0" />
-        <mark key="[" line="1791" column="92" />
-        <mark key="]" line="1791" column="92" />
-        <mark key="." line="1791" column="92" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1525827846763">
+        <mark key="'" line="1485" column="8" />
+        <mark key="[" line="1498" column="30" />
+        <mark key="]" line="1498" column="30" />
+        <mark key="." line="1498" column="30" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1525798854603">
         <mark key="[" line="56" column="31" />
@@ -453,8 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
-      <jump line="78" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="556" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="563" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="120" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -553,16 +551,18 @@
       <jump line="2" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="3" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="968" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1706" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1485" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>443</text>
+        <text>toString().isEmpty()</text>
       </register>
       <register name="-" type="4">
-        <text>443</text>
+        <text>toString().isEmpty()</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>my</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJIkFORCIgLT4gewoJCQkJCQkJcGFyYW1Mb2dCdWlsZC5yZWFkID0gIiAkY29uZGl0aW9uIElGKGZpbmRfaW5fc2V0KCcke3BhcmFtTG9nQnVpbGQud3NJZH0nLGxvZy5yZWFkX3dzX2lkKSA+IDAsMSwwKSA9ICR7cGFyYW1Mb2dCdWlsZC5yZWFkfSIKCQkJCQkJfQo=</text>
@@ -602,9 +602,9 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>my</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>my</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -612,7 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>detail</entry>
         <entry>关注我的</entry>
         <entry>关注</entry>
         <entry>template</entry>
@@ -632,6 +631,7 @@
         <entry>config</entry>
         <entry>buildConfig</entry>
         <entry>list</entry>
+        <entry>my</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
