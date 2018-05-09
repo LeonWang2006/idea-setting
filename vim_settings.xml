@@ -37,11 +37,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1525827360433">
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1525846778639">
+        <mark key="[" line="21" column="82" />
+        <mark key="]" line="21" column="82" />
         <mark key="^" line="0" column="331" />
-        <mark key="." line="23" column="36" />
+        <mark key="." line="21" column="82" />
       </file>
       <file name="/hrs_log_comment [prd - wos_hrs@192.168.10.112]" timestamp="1524296219055">
         <mark key="[" line="0" column="0" />
@@ -157,7 +157,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1525785875866">
+      <file name="/a.sql" timestamp="1525846683131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1525505125571">
@@ -231,7 +231,7 @@
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1525692191722">
+      <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1525846690860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
@@ -378,7 +378,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525780603186">
+      <file name="/dummy.sql" timestamp="1525846691236">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -416,11 +416,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1525845928468">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1525846871837">
         <mark key="'" line="1155" column="12" />
-        <mark key="[" line="1463" column="0" />
-        <mark key="]" line="1463" column="124" />
-        <mark key="." line="1463" column="0" />
+        <mark key="[" line="568" column="337" />
+        <mark key="]" line="568" column="337" />
+        <mark key="." line="568" column="337" />
         <mark key="^" line="1462" column="123" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1525836369466">
@@ -556,11 +556,11 @@
       <jump line="1155" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YWwgb3JMaW1pdCA9ICJsb2cubG9nX2RldGFpbF90eXBlID0gJ+iBjOi0o+aXpeW/lycgJHtwYXJhbUxvZ0J1aWxkLnN0YXJ0RGF0ZX0ke3BhcmFtTG9nQnVpbGQuZGVwfSR7cGFyYW1Mb2dCdWlsZC5lbXBHcmFkZX0iCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>toString().isEmpty()</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>orLimit</text>
