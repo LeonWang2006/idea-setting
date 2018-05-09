@@ -141,12 +141,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525859572869">
-        <mark key="'" line="506" column="31" />
-        <mark key="[" line="409" column="25" />
-        <mark key="]" line="409" column="25" />
-        <mark key="." line="409" column="25" />
-        <mark key="^" line="684" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1525867176983">
+        <mark key="'" line="666" column="31" />
+        <mark key="[" line="280" column="42" />
+        <mark key="]" line="280" column="42" />
+        <mark key="." line="280" column="42" />
       </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
@@ -375,7 +374,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525860037897">
+      <file name="/dummy.sql" timestamp="1525866925106">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -451,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="516" column="17" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="565" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="199" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -551,58 +549,59 @@
       <jump line="499" column="49" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="503" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="506" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="666" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>.toString()</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>.toString()</text>
       </register>
       <register name="/" type="4">
-        <text>info</text>
+        <text>message</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl2YWwgb3JMaW1pdCA9ICJsb2cubG9nX2RldGFpbF90eXBlID0gJ+iBjOi0o+aXpeW/lycgJHtwYXJhbUxvZ0J1aWxkLnN0YXJ0RGF0ZX0ke3BhcmFtTG9nQnVpbGQuZGVwfSR7cGFyYW1Mb2dCdWlsZC5lbXBHcmFkZX0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLwkJdmFsIHBhcmFtTG9nQnVpbGQgPSBidWlsZExvZ1NxbChwYXJhbUxvZywgcmVxdWVzdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">T1IKICAgICAgICAobG9nLmV4cGVyaWVuY2UgaXMgbnVsbCkg</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl3eE1lc3NhZ2UudXJsPy5sZXQgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXIgbGVmdEZpeCA9ICIiCg==</text>
+        <text encoding="base64">CQkJYmFzZUFyclsidXJsIl0gPSB3eE1lc3NhZ2UudXJsLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJdmFsIGZhdm9yaXRlID0gcGFyYW1Mb2dCdWlsZC5mYXZvcml0ZSEhLnJlcGxhY2UoIk9SIiwgIk9SICgiKQo=</text>
+        <text encoding="base64">CQkvLwkJdmFsIHBhcmFtTG9nQnVpbGQgPSBidWlsZExvZ1NxbChwYXJhbUxvZywgcmVxdWVzdCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQl9IGVsc2Ugewo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">T1IKICAgICAgICAobG9nLmV4cGVyaWVuY2UgaXMgbnVsbCkg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5mYXZvcml0ZSA9IHBhcmFtTG9nQnVpbGQuZmF2b3JpdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQl2YXIgbGVmdEZpeCA9ICIiCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQkJCQkJaWYoY29uZGl0aW9uID09ICJBTkQiKXsKCQkJCQkJCQlwYXJhbUxvZ0J1aWxkLmZhdm9yaXRlID0gIiAkY29uZGl0aW9uIGxvZy5lbXBsb3llZV9pZCBJTiAoJyR7c2Iuc3Vic3RyaW5nKCAwLCBzYi5sZW5ndGggLSAzICl9JykiCgkJCQkJCQl9IGVsc2UgewoJCQkJCQkJCXBhcmFtTG9nQnVpbGQuZmF2b3JpdGUgPSAiICRjb25kaXRpb24gKGxvZy5lbXBsb3llZV9pZCBJTiAoJyR7c2Iuc3Vic3RyaW5nKCAwLCBzYi5sZW5ndGggLSAzICl9JykgJG9yTGltaXQpIgoJCQkJCQkJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJdmFsIGZhdm9yaXRlID0gcGFyYW1Mb2dCdWlsZC5mYXZvcml0ZSEhLnJlcGxhY2UoIk9SIiwgIk9SICgiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>info</last-search>
+      <last-search>message</last-search>
       <last-offset />
-      <last-pattern>info</last-pattern>
+      <last-pattern>message</last-pattern>
       <last-replace />
       <last-substitute>`user`.</last-substitute>
       <last-dir>1</last-dir>
@@ -618,7 +617,6 @@
         <entry>info-vie</entry>
         <entry>comment</entry>
         <entry>messagw</entry>
-        <entry>message</entry>
         <entry>follow</entry>
         <entry>获取我关注到</entry>
         <entry>获取我关注</entry>
@@ -630,6 +628,7 @@
         <entry>ids</entry>
         <entry>mood</entry>
         <entry>info</entry>
+        <entry>message</entry>
       </history-search>
       <history-cmd>
         <entry>%s/null/null,/g</entry>
