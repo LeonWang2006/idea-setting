@@ -63,6 +63,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1525924133312">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="42" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="24" column="42" />
+      </file>
       <file name="/hrs_log_comment [prd - wos_hrs@192.168.10.112]" timestamp="1524296219055">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,8 +111,20 @@
       <file name="/hrs_log_list [dev - wos_hrs@10.10.18.130]" timestamp="1524289910658">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/OaToDo.kt" timestamp="1525232063506">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="13" column="13" />
+      </file>
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1525329253240">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6c049ec3-f5d4-4db4-b2e8-473b893ba92f/console.sql" timestamp="1525241419420">
+        <mark key="[" line="0" column="395" />
+        <mark key="]" line="0" column="395" />
+        <mark key="." line="0" column="395" />
+        <mark key="^" line="0" column="741" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1525757646673">
         <mark key="'" line="810" column="51" />
@@ -201,6 +219,12 @@
       <file name="/news [prd - oa_new@192.168.10.6]" timestamp="1525661398293">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_1.sql" timestamp="1525507479217">
+        <mark key="[" line="26" column="383" />
+        <mark key="]" line="26" column="356" />
+        <mark key="^" line="26" column="356" />
+        <mark key="." line="26" column="356" />
+      </file>
       <file name="/hrs_yiilog_debug [prd - wos_hrs@192.168.10.112]" timestamp="1525504794458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,7 +268,7 @@
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1525880818502">
+      <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1525924162434">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
@@ -405,7 +429,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525923546098">
+      <file name="/dummy.sql" timestamp="1525924162819">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -449,6 +473,12 @@
         <mark key="]" line="1640" column="0" />
         <mark key="." line="1640" column="0" />
         <mark key="^" line="1641" column="19" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/info.html" timestamp="1525879292236">
+        <mark key="[" line="56" column="31" />
+        <mark key="]" line="56" column="31" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="79" column="133" />
       </file>
       <file name="/post_tags [dev - sharetronix@192.168.10.61]" timestamp="1524106790035">
         <mark key="[" line="0" column="0" />
@@ -580,11 +610,11 @@
       <jump line="1430" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>扫码关注公众</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>sqlSet</text>
@@ -593,34 +623,34 @@
         <text encoding="base64">CQlsb2dnZXIuaW5mbygiQmFzaWNBdXRoIC0gJGF1dGhlbnRpY2F0aW9uIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjAxOC0wNS0xMCAxMTo0ODoyNi44MjIgREVCVUcgMjk0NDEgLS0tIFtuaW8tODA4MC1leGVjLTldIG8ucy5qZGJjLmNvcmUuSmRiY1RlbXBsYXRlICAgICAgICAgICAgICAgOiBFeGVjdXRpbmcgU1FMIHF1ZXJ5IFtTRUxFQ1QgdXNlcnMgRlJPTSBocnNfYXR0ZW50aW9uIFdIRVJFIHdzX2lkID0gJzAzMTAwMDAxJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CXZhciBpZDogSW50ID0gMAoJcHJpdmF0ZSB2YXIgdHlwZUlkOiBJbnQ/ID0gbnVsbAoJQEFwaU1vZGVsUHJvcGVydHkobmFtZSA9ICLmtojmga/lj5HpgIHogIXlt6Xlj7ciLCBub3RlcyA9ICLmtojmga/lj5HpgIHogIXlt6Xlj7ciLCBleGFtcGxlID0gIjAzMTAwMDAzIikKCXZhciBzZW5kZXI6IFN0cmluZz8gPSBudWxsCglAQXBpTW9kZWxQcm9wZXJ0eSgKCQluYW1lID0gIua2iOaBr+WKqOS9nCIsCgkJbm90ZXMgPSAi5raI5oGv5Yqo5L2cMTpALDI655Sz6K+35YWz5rOoLDM65ZCM5oSP5YWz5rOoLDQ66YKA6K+35YWz5rOoLDUu5o6l5Y+X6YKA6K+3LDY66K+E6K66L+eVmeiogCIsCgkJYWxsb3dhYmxlVmFsdWVzID0gIjEsMiwzLDQsNSw2IiwKCQlleGFtcGxlID0gIjEiCgkpCglwcml2YXRlIHZhciBhY3Rpb246IEludD8gPSBudWxsCglAQXBpTW9kZWxQcm9wZXJ0eShuYW1lID0gIua2iOaBr+aOpeaUtuiAheW3peWPtyIsIG5vdGVzID0gIua2iOaBr+aOpeaUtuiAheW3peWPtyIsIGV4YW1wbGUgPSAiMDkwODA2NjEiKQoJdmFyIHRhcmdldDogU3RyaW5nPyA9IG51bGwKCUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAi5raI5oGv5YaF5a65Iiwgbm90ZXMgPSAi5raI5oGv5YaF5a65IiwgZXhhbXBsZSA9ICJA546L6aOe6b6ZIEDlvKDljZrpgJogQOWRqOaYn+WuhyDov5nmmK/kuIDmnaHmtojmga8hIikKCXZhciBjb250ZW50OiBTdHJpbmc/ID0gbnVsbAoJQEFwaU1vZGVsUHJvcGVydHkobmFtZSA9ICLmtojmga/mnaXmupBJRCIsIG5vdGVzID0gIua2iOaBr+adpea6kElEIiwgZXhhbXBsZSA9ICIzOTEzIikKCXZhciBzb3VyY2VJZDogU3RyaW5nPyA9IG51bGwKCUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAi5raI5oGv5p2l5rqQ5qih5Z2XIiwgbm90ZXMgPSAi5raI5oGv5p2l5rqQ5qih5Z2XMTrnlKjmiLcsMjrml6Xlv5ciLCBhbGxvd2FibGVWYWx1ZXMgPSAiMSwyIiwgZXhhbXBsZSA9ICIyIikKCXByaXZhdGUgdmFyIHNvdXJjZVR5cGU6IEludD8gPSBudWxsCglAQXBpTW9kZWxQcm9wZXJ0eShuYW1lID0gIua2iOaBr+eCueWHu+i3s+i9rOmTvuaOpSIsIG5vdGVzID0gIua2iOaBr+eCueWHu+i3s+i9rOmTvuaOpSIsIGV4YW1wbGUgPSAiaHR0cDovL3d3dy5iYWlkdS5jb20iKQoJdmFyIGxpbms6IFN0cmluZz8gPSBudWxsCgkvLyAgICBAQXBpTW9kZWxQcm9wZXJ0eShuYW1lID0gIua2iOaBr+WIm+W7uuaXtumXtCIsIG5vdGVzID0gIua2iOaBr+WIm+W7uuaXtumXtCIsIGV4YW1wbGUgPSAiMjAxNy0wMy0xNCAxMzowMDowMCIp</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CXZhciBpZDogSW50ID0gMAoJcHJpdmF0ZSB2YXIgdHlwZUlkOiBJbnQ/ID0gbnVsbAoJQEFwaU1vZGVsUHJvcGVydHkobmFtZSA9ICLmtojmga/lj5HpgIHogIXlt6Xlj7ciLCBub3RlcyA9ICLmtojmga/lj5HpgIHogIXlt6Xlj7ciLCBleGFtcGxlID0gIjAzMTAwMDAzIikKCXZhciBzZW5kZXI6IFN0cmluZz8gPSBudWxsCglAQXBpTW9kZWxQcm9wZXJ0eSgKCQluYW1lID0gIua2iOaBr+WKqOS9nCIsCgkJbm90ZXMgPSAi5raI5oGv5Yqo5L2cMTpALDI655Sz6K+35YWz5rOoLDM65ZCM5oSP5YWz5rOoLDQ66YKA6K+35YWz5rOoLDUu5o6l5Y+X6YKA6K+3LDY66K+E6K66L+eVmeiogCIsCgkJYWxsb3dhYmxlVmFsdWVzID0gIjEsMiwzLDQsNSw2IiwKCQlleGFtcGxlID0gIjEiCgkpCglwcml2YXRlIHZhciBhY3Rpb246IEludD8gPSBudWxsCglAQXBpTW9kZWxQcm9wZXJ0eShuYW1lID0gIua2iOaBr+aOpeaUtuiAheW3peWPtyIsIG5vdGVzID0gIua2iOaBr+aOpeaUtuiAheW3peWPtyIsIGV4YW1wbGUgPSAiMDkwODA2NjEiKQoJdmFyIHRhcmdldDogU3RyaW5nPyA9IG51bGwKCUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAi5raI5oGv5YaF5a65Iiwgbm90ZXMgPSAi5raI5oGv5YaF5a65IiwgZXhhbXBsZSA9ICJA546L6aOe6b6ZIEDlvKDljZrpgJogQOWRqOaYn+WuhyDov5nmmK/kuIDmnaHmtojmga8hIikKCXZhciBjb250ZW50OiBTdHJpbmc/ID0gbnVsbAoJQEFwaU1vZGVsUHJvcGVydHkobmFtZSA9ICLmtojmga/mnaXmupBJRCIsIG5vdGVzID0gIua2iOaBr+adpea6kElEIiwgZXhhbXBsZSA9ICIzOTEzIikKCXZhciBzb3VyY2VJZDogU3RyaW5nPyA9IG51bGwKCUBBcGlNb2RlbFByb3BlcnR5KG5hbWUgPSAi5raI5oGv5p2l5rqQ5qih5Z2XIiwgbm90ZXMgPSAi5raI5oGv5p2l5rqQ5qih5Z2XMTrnlKjmiLcsMjrml6Xlv5ciLCBhbGxvd2FibGVWYWx1ZXMgPSAiMSwyIiwgZXhhbXBsZSA9ICIyIikKCXByaXZhdGUgdmFyIHNvdXJjZVR5cGU6IEludD8gPSBudWxsCglAQXBpTW9kZWxQcm9wZXJ0eShuYW1lID0gIua2iOaBr+eCueWHu+i3s+i9rOmTvuaOpSIsIG5vdGVzID0gIua2iOaBr+eCueWHu+i3s+i9rOmTvuaOpSIsIGV4YW1wbGUgPSAiaHR0cDovL3d3dy5iYWlkdS5jb20iKQoJdmFyIGxpbms6IFN0cmluZz8gPSBudWxsCgkvLyAgICBAQXBpTW9kZWxQcm9wZXJ0eShuYW1lID0gIua2iOaBr+WIm+W7uuaXtumXtCIsIG5vdGVzID0gIua2iOaBr+WIm+W7uuaXtumXtCIsIGV4YW1wbGUgPSAiMjAxNy0wMy0xNCAxMzowMDowMCIp</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CUBBcGlNb2RlbFByb3BlcnR5KGhpZGRlbiA9IHRydWUpCgl2YXIgY3JlYXRlQXQ6IFN0cmluZz8gPSBudWxsCgoJZnVuIGdldFR5cGVJZCgpOiBJbnQgewoKCQlyZXR1cm4gdHlwZUlkISEKCX0KCglmdW4gc2V0VHlwZUlkKHR5cGVJZDogSW50KSB7CgoJCXRoaXMudHlwZUlkID0gdHlwZUlkCgl9CgoJQEJhc2ljCglAQ29sdW1uKG5hbWUgPSAiYWN0aW9uIiwgbnVsbGFibGUgPSBmYWxzZSwgY29sdW1uRGVmaW5pdGlvbiA9ICJUSU5ZSU5UKDEpIikKCWZ1biBnZXRBY3Rpb24oKTogSW50IHsKCgkJcmV0dXJuIGFjdGlvbiEhCgl9CgoJZnVuIHNldEFjdGlvbihhY3Rpb246IEludCkgewoKCQl0aGlzLmFjdGlvbiA9IGFjdGlvbgoJfQoKCUBCYXNpYwoJQENvbHVtbihuYW1lID0gInNvdXJjZV90eXBlIiwgbnVsbGFibGUgPSB0cnVlLCBjb2x1bW5EZWZpbml0aW9uID0gIlRJTllJTlQoMSkiKQoJZnVuIGdldFNvdXJjZVR5cGUoKTogSW50IHsKCgkJcmV0dXJuIHNvdXJjZVR5cGUhIQoJfQoKCWZ1biBzZXRTb3VyY2VUeXBlKHNvdXJjZVR5cGU6IEludCkgewoKCQl0aGlzLnNvdXJjZVR5cGUgPSBzb3VyY2VUeXBlCgl9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJ0eXBlX2lkIiwgbnVsbGFibGUgPSBmYWxzZSkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CUBCYXNpYwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CUBnZXQ6Q29sdW1uKG5hbWUgPSAiY3JlYXRlX2F0IiwgbnVsbGFibGUgPSB0cnVlKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CUBnZXQ6QmFzaWMK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBnZXQ6Q29sdW1uKG5hbWUgPSAibGluayIsIG51bGxhYmxlID0gdHJ1ZSwgbGVuZ3RoID0gLTEpCg==</text>
+        <text encoding="base64">CUBnZXQ6QmFzaWMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBnZXQ6QmFzaWMK</text>
+        <text encoding="base64">CUBnZXQ6Q29sdW1uKG5hbWUgPSAibGluayIsIG51bGxhYmxlID0gdHJ1ZSwgbGVuZ3RoID0gLTEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
