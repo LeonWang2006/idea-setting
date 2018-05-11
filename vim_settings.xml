@@ -8,14 +8,14 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1525740928956">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1526042048040">
         <mark key="'" line="303" column="8" />
         <mark key="[" line="1039" column="5" />
         <mark key="]" line="809" column="42" />
         <mark key="." line="809" column="42" />
         <mark key="^" line="809" column="42" />
       </file>
-      <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884549305">
+      <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1526041713258">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/posts_comments_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884590182">
@@ -52,6 +52,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console_1.sql" timestamp="1526041676421">
+        <mark key="[" line="3" column="69" />
+        <mark key="]" line="3" column="69" />
+        <mark key="." line="3" column="69" />
+      </file>
       <file name="/hrs_log_comment [prd - wos_hrs@192.168.10.112]" timestamp="1524296219055">
         <mark key="[" line="0" column="0" />
       </file>
@@ -78,7 +83,7 @@
         <mark key="]" line="144" column="13" />
         <mark key="." line="144" column="13" />
       </file>
-      <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1523877283141">
+      <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1526041732803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_log_list [dev - wos_hrs@10.10.18.130]" timestamp="1524289910658">
@@ -333,7 +338,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526001518561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1526032415654">
+      <file name="/dummy.sql" timestamp="1526041733016">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -506,11 +511,11 @@
       <jump line="1430" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VjdXJpdHk6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'.$user_id.'</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>'.$user_id.'</text>
       </register>
       <register name="/" type="4">
         <text>sqlSet</text>
