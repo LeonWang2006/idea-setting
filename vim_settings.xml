@@ -256,6 +256,9 @@
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1523628456471">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console_1.sql" timestamp="1525765975642">
         <mark key="[" line="37" column="203" />
         <mark key="]" line="37" column="203" />
@@ -310,7 +313,7 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1524721309250">
         <mark key="[" line="104" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1525878314411">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1525998807288">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
@@ -429,7 +432,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525952082447">
+      <file name="/dummy.sql" timestamp="1525998665855">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -611,10 +614,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>443</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>443</text>
       </register>
       <register name="/" type="4">
         <text>sqlSet</text>
