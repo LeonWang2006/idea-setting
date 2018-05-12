@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1526111894100">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1526118034570">
         <mark key="'" line="303" column="8" />
-        <mark key="[" line="781" column="0" />
-        <mark key="]" line="781" column="0" />
-        <mark key="." line="781" column="0" />
+        <mark key="[" line="734" column="0" />
+        <mark key="]" line="734" column="0" />
+        <mark key="." line="734" column="0" />
       </file>
       <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1526089101044">
         <mark key="[" line="0" column="0" />
@@ -126,7 +126,7 @@
       <file name="/sys_yiilog_operation [prd - wos_common@192.168.10.112]" timestamp="1526005487619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users_followed [dev - sharetronix@192.168.10.61]" timestamp="1526116216530">
+      <file name="/users_followed [dev - sharetronix@192.168.10.61]" timestamp="1526118173999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/component_locker_main [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759376468">
@@ -258,8 +258,8 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1526107431176">
-        <mark key="[" line="29" column="25" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1526117479949">
+        <mark key="[" line="234" column="51" />
         <mark key="]" line="29" column="26" />
         <mark key="^" line="29" column="26" />
         <mark key="." line="29" column="26" />
@@ -285,7 +285,7 @@
         <mark key="." line="29" column="69" />
         <mark key="^" line="29" column="69" />
       </file>
-      <file name="/dummy.sql" timestamp="1526116216817">
+      <file name="/dummy.sql" timestamp="1526118174146">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -456,13 +456,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>blogFollowUrdl</text>
+        <text>toInt</text>
       </register>
       <register name="/" type="4">
         <text>rank</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXNwb25zZS5ib2R5ID86ICIiKQo=</text>
+      <register name="0" type="4">
+        <text>userId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -470,33 +470,33 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQl2YWwgdXJsID0gRW52LmJsb2dGb2xsb3dVcmwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQl2YWwgdXJsID0gRW52LmJsb2dVbkZvbGxvd1VybAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl2YWwgdXNlcklkID0gZ2V0QmxvZ1VzZXJJZEJ5RW1haWwodXNlckVtYWlsKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>/*	&quot;data&quot;: {
 		&quot;html&quot;: &quot;ERROR:You could not follow that user&quot;,
 		&quot;status&quot;: &quot;ERROR&quot;,
 		&quot;message&quot;: &quot;You could not follow that user&quot;
 	}*/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CgkJCXJldHVybiBSZXNwb25zZVdyYXBwZXIocmVzcG9uc2UuYm9keSA/OiAiIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKHJlc3BvbnNlLmJvZHkgPzogIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQltYXAuYWRkKCJ0b2tlbiIsICIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
