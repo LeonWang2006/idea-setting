@@ -8,6 +8,11 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1526152654572">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1526118034570">
         <mark key="'" line="303" column="8" />
         <mark key="[" line="734" column="0" />
@@ -230,7 +235,7 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1524721309250">
         <mark key="[" line="104" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1526002593906">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1526152662129">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
@@ -507,11 +512,11 @@
       <jump line="61" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlwYXJhbUxvZ0J1aWxkLmFuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>8080</text>
       </register>
       <register name="-" type="4">
-        <text>toInt</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>rank</text>
