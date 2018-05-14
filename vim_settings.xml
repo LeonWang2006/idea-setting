@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1526303450381">
-        <mark key="'" line="303" column="8" />
-        <mark key="[" line="807" column="52" />
-        <mark key="]" line="798" column="35" />
-        <mark key="." line="798" column="35" />
-        <mark key="^" line="798" column="35" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1526305227810">
+        <mark key="'" line="815" column="47" />
+        <mark key="[" line="1154" column="13" />
+        <mark key="]" line="1154" column="13" />
+        <mark key="." line="1154" column="13" />
+        <mark key="^" line="1151" column="0" />
       </file>
       <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1526089101044">
         <mark key="[" line="0" column="0" />
@@ -394,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="127" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="136" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="183" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -494,13 +493,14 @@
       <jump line="1430" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="61" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
       <jump line="52" column="27" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" />
+      <jump line="815" column="47" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blogUnFollowUrl</text>
+        <text>MultipartFile</text>
       </register>
       <register name="-" type="4">
-        <text>blogUnFollowUrl</text>
+        <text>MultipartFile</text>
       </register>
       <register name="/" type="4">
         <text>rank</text>
