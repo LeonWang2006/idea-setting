@@ -146,7 +146,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1526259489217">
+      <file name="/a.sql" timestamp="1526261635535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1525505125571">
@@ -171,6 +171,12 @@
       <file name="/news [prd - oa_new@192.168.10.6]" timestamp="1525661398293">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_1.sql" timestamp="1526262534069">
+        <mark key="[" line="29" column="146" />
+        <mark key="]" line="29" column="145" />
+        <mark key="." line="29" column="145" />
+        <mark key="^" line="29" column="145" />
+      </file>
       <file name="/hrs_yiilog_debug [prd - wos_hrs@192.168.10.112]" timestamp="1526003752825">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,7 +189,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526154472368">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526262472522">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -282,7 +288,7 @@
       <file name="/hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1526004983189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526005407946">
+      <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1526151181214">
@@ -335,10 +341,10 @@
       <file name="/hrs_stat_job_evaluate_manage [prd - wos_hrs@192.168.10.112]" timestamp="1526107660442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_yiilog_operation_category [prd - wos_hrs@192.168.10.112]" timestamp="1526005465348">
+      <file name="/hrs_yiilog_operation_category [prd - wos_hrs@192.168.10.112]" timestamp="1526261414431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1526000067457">
+      <file name="/hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1526261580347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526001518561">
@@ -353,13 +359,13 @@
         <mark key="." line="29" column="69" />
         <mark key="^" line="29" column="69" />
       </file>
-      <file name="/dummy.sql" timestamp="1526259781217">
+      <file name="/dummy.sql" timestamp="1526262538998">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1526154412788">
+      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1526261502580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1524464006973">
@@ -527,7 +533,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>新增</text>
+        <text encoding="base64">CjE4MDQyOTI3CgoxNjAzMjM4MQ==</text>
       </register>
       <register name="-" type="4">
         <text>新增</text>
@@ -538,8 +544,8 @@
       <register name="0" type="4">
         <text>userId</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CjE4MDQyOTI3CgoxNjAzMjM4MQ==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -550,23 +556,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQkJCS8v5b+D5oOF5pel5b+X5Y2V54us5aSE55CG5Y+z5ous5Y+3CgkJCQlpZiAoc3FsU2V0LmlzRW1wdHkoKSkgewoJCQkJCXBhcmFtTG9nQnVpbGQubW9vZCArPSAiKSIKCQkJCX0=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CQkJCS8v5b+D5oOF5pel5b+X5Y2V54us5aSE55CG5Y+z5ous5Y+3CgkJCQlpZiAoc3FsU2V0LmlzRW1wdHkoKSkgewoJCQkJCXBhcmFtTG9nQnVpbGQubW9vZCArPSAiKSIKCQkJCX0=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CQkJCS8v5b+D5oOF5pel5b+X5Y2V54us5aSE55CG5Y+z5ous5Y+3CgkJCQlpZiAoc3FsU2V0LmlzRW1wdHkoKSkgewoJCQkJCXBhcmFtTG9nQnVpbGQubW9vZCArPSAiKSIKCQkJCX0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlwYXJhbUxvZ0J1aWxkLmFuZAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gIiIK</text>
+        <text encoding="base64">CQlwYXJhbUxvZ0J1aWxkLmFuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
