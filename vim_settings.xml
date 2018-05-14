@@ -332,11 +332,12 @@
         <mark key="]" line="143" column="36" />
         <mark key="." line="143" column="36" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1526150868475">
-        <mark key="[" line="234" column="51" />
-        <mark key="]" line="29" column="26" />
-        <mark key="^" line="29" column="26" />
-        <mark key="." line="29" column="26" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1526263874283">
+        <mark key="'" line="52" column="27" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="56" />
+        <mark key="^" line="30" column="33" />
+        <mark key="." line="220" column="0" />
       </file>
       <file name="/hrs_stat_job_evaluate_manage [prd - wos_hrs@192.168.10.112]" timestamp="1526107660442">
         <mark key="[" line="0" column="0" />
@@ -430,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="67" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="127" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="136" column="29" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -530,28 +530,29 @@
       <jump line="666" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="1430" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="61" column="4" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" />
+      <jump line="52" column="27" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CjE4MDQyOTI3CgoxNjAzMjM4MQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCXdwc0hvc3QgPSAiaHR0cDovL3dwczU3LndvbmRlcnNoYXJlLmNuLyIK</text>
       </register>
       <register name="-" type="4">
-        <text>新增</text>
+        <text>blogUnFollowUrl</text>
       </register>
       <register name="/" type="4">
         <text>rank</text>
       </register>
-      <register name="0" type="4">
-        <text>userId</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlsYXRlaW5pdCB2YXIgYmxvZ1VuRm9sbG93VXJsOiBTdHJpbmcK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CjE4MDQyOTI3CgoxNjAzMjM4MQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCXdwc0hvc3QgPSAiaHR0cDovL3dwczU3LndvbmRlcnNoYXJlLmNuLyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CjE4MDQyOTI3CgoxNjAzMjM4MQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -559,23 +560,23 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQkJCS8v5b+D5oOF5pel5b+X5Y2V54us5aSE55CG5Y+z5ous5Y+3CgkJCQlpZiAoc3FsU2V0LmlzRW1wdHkoKSkgewoJCQkJCXBhcmFtTG9nQnVpbGQubW9vZCArPSAiKSIKCQkJCX0=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CQkJCS8v5b+D5oOF5pel5b+X5Y2V54us5aSE55CG5Y+z5ous5Y+3CgkJCQlpZiAoc3FsU2V0LmlzRW1wdHkoKSkgewoJCQkJCXBhcmFtTG9nQnVpbGQubW9vZCArPSAiKSIKCQkJCX0=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">CQkJCS8v5b+D5oOF5pel5b+X5Y2V54us5aSE55CG5Y+z5ous5Y+3CgkJCQlpZiAoc3FsU2V0LmlzRW1wdHkoKSkgewoJCQkJCXBhcmFtTG9nQnVpbGQubW9vZCArPSAiKSIKCQkJCX0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlwYXJhbUxvZ0J1aWxkLmFuZAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -629,8 +630,8 @@
         <entry>dis</entry>
         <entry>id</entry>
         <entry>ids</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
