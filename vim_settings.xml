@@ -133,12 +133,6 @@
       <file name="/oauth_request_token [prd - sharetronix@192.168.10.65]" timestamp="1526259102793">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console_1.sql" timestamp="1526159169462">
-        <mark key="[" line="0" column="1051" />
-        <mark key="]" line="0" column="1050" />
-        <mark key="^" line="0" column="1050" />
-        <mark key="." line="0" column="1050" />
-      </file>
       <file name="/hrs_yiilog_error [prd - wos_hrs@192.168.10.112]" timestamp="1526036417786">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,12 +204,6 @@
         <mark key="[" line="0" column="54" />
         <mark key="]" line="0" column="54" />
         <mark key="." line="0" column="54" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_1.sql" timestamp="1526262534069">
-        <mark key="[" line="29" column="146" />
-        <mark key="]" line="29" column="145" />
-        <mark key="." line="29" column="145" />
-        <mark key="^" line="29" column="145" />
       </file>
       <file name="/hrs_yiilog_debug [prd - wos_hrs@192.168.10.112]" timestamp="1526003752825">
         <mark key="[" line="0" column="0" />
@@ -348,11 +336,10 @@
         <mark key="]" line="274" column="0" />
         <mark key="." line="274" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_2.sql" timestamp="1526468637319">
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="63" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="23" column="63" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_2.sql" timestamp="1526471736955">
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="48" />
       </file>
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
@@ -415,12 +402,6 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1526106518728">
-        <mark key="[" line="29" column="64" />
-        <mark key="]" line="29" column="69" />
-        <mark key="." line="29" column="69" />
-        <mark key="^" line="29" column="69" />
-      </file>
       <file name="/dummy.sql" timestamp="1526469343222">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
@@ -462,12 +443,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1526467673908">
-        <mark key="'" line="928" column="15" />
-        <mark key="[" line="1376" column="85" />
-        <mark key="]" line="1376" column="85" />
-        <mark key="." line="1376" column="85" />
-        <mark key="^" line="1270" column="53" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1526471839510">
+        <mark key="'" line="1534" column="71" />
+        <mark key="[" line="1552" column="98" />
+        <mark key="]" line="1552" column="98" />
+        <mark key="." line="1552" column="98" />
+        <mark key="^" line="1552" column="93" />
       </file>
       <file name="/generated.sql" timestamp="1526376381437" />
       <file name="/post_tags [dev - sharetronix@192.168.10.61]" timestamp="1524106790035">
@@ -503,11 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="567" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
-      <jump line="579" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
-      <jump line="599" column="112" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
-      <jump line="609" column="91" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
-      <jump line="691" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="91" column="15" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="111" column="15" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="145" column="15" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
@@ -603,16 +579,21 @@
       <jump line="9" column="30" filename="$USER_HOME$/Desktop/user.sql" />
       <jump line="8" column="48" filename="$USER_HOME$/Desktop/user.sql" />
       <jump line="0" column="12" filename="$USER_HOME$/Desktop/user.sql" />
+      <jump line="1160" column="34" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1550" column="71" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1552" column="71" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1532" column="71" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="1534" column="71" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Int</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>MY_TABLE</text>
+        <text>ifnull</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXN1bHQpCg==</text>
@@ -652,9 +633,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MY_TABLE</last-search>
+      <last-search>ifnull</last-search>
       <last-offset />
-      <last-pattern>MY_TABLE</last-pattern>
+      <last-pattern>ifnull</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>MY_TABLE</last-substitute>
       <last-dir>1</last-dir>
@@ -662,7 +643,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info-vie</entry>
         <entry>comment</entry>
         <entry>messagw</entry>
         <entry>follow</entry>
@@ -682,6 +662,7 @@
         <entry>and</entry>
         <entry>avatar</entry>
         <entry>MY_TABLE</entry>
+        <entry>ifnull</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = null/,/g</entry>
