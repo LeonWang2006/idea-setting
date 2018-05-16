@@ -319,12 +319,12 @@
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526287791608">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526450274280">
         <mark key="'" line="37" column="15" />
-        <mark key="[" line="203" column="248" />
-        <mark key="]" line="203" column="248" />
-        <mark key="." line="203" column="248" />
-        <mark key="^" line="172" column="46" />
+        <mark key="[" line="230" column="28" />
+        <mark key="]" line="230" column="28" />
+        <mark key="." line="230" column="28" />
+        <mark key="^" line="187" column="34" />
       </file>
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
@@ -561,14 +561,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//					val sb = StringBuilder()
-//					for (str: String in favoritePersons) {
-//						sb.append(str).append(&quot;','&quot;)
-//					}
-//					paramLogBuild.favorite = &quot; AND log.employee_id NOT IN ('${sb.substring(0, sb.length - 3)}')&quot;</text>
+        <text>OaToDo</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>OaToDo</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
