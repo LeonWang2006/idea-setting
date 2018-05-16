@@ -60,9 +60,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_1.sql" timestamp="1526370748059">
-        <mark key="[" line="0" column="662" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console_1.sql" timestamp="1526041676421">
         <mark key="[" line="3" column="69" />
         <mark key="]" line="3" column="69" />
@@ -217,10 +214,10 @@
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console_1.sql" timestamp="1525765975642">
-        <mark key="[" line="37" column="203" />
-        <mark key="]" line="37" column="203" />
-        <mark key="." line="37" column="203" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console_1.sql" timestamp="1526455689206">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
@@ -293,9 +290,6 @@
       <file name="/hrs_attention [dev - wos_hrs@10.10.18.130]" timestamp="1525490886611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/60e7fa6e-5d66-4095-bdba-99c4b366ffff/console.sql" timestamp="1526116212806">
-        <mark key="[" line="72" column="99" />
-      </file>
       <file name="/app_user_logs [prd - app@192.168.10.20]" timestamp="1526000001988">
         <mark key="[" line="0" column="0" />
       </file>
@@ -319,20 +313,16 @@
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526453162606">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526456290540">
         <mark key="'" line="37" column="15" />
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="258" column="0" />
-        <mark key="^" line="237" column="187" />
-        <mark key="." line="258" column="0" />
+        <mark key="[" line="214" column="113" />
+        <mark key="]" line="214" column="113" />
+        <mark key="." line="214" column="113" />
       </file>
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/RestConfig.kt" timestamp="1526103700772" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1526294473462">
-        <mark key="[" line="334" column="50" />
-      </file>
       <file name="/post_like [prd - sharetronix@192.168.10.65]" timestamp="1523636217966">
         <mark key="[" line="0" column="0" />
       </file>
@@ -561,50 +551,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQkJT2FUb0RvKAoJCQkJcnM/LmdldEludCgiUm93TnVtIiksCgkJCQlycz8uZ2V0U3RyaW5nKCJmZF9pZCIpLAoJCQkJcnM/LmdldFN0cmluZygiZmRfc3ViamVjdCIpLAoJCQkJcnM/LmdldFN0cmluZygiZmRfbGluayIpLAoJCQkJcnM/LmdldFN0cmluZygidHlwZSIpPy50b0ludCgpLAoJCQkJaWYgKHJzPy5nZXRTdHJpbmcoImZkX2NyZWF0ZV90aW1lIikgIT0gbnVsbCkgewoJCQkJCUxvY2FsRGF0ZVRpbWUucGFyc2UoCgkJCQkJCXJzLmdldFN0cmluZygiZmRfY3JlYXRlX3RpbWUiKS5yZXBsYWNlKAoJCQkJCQkJIiAiLCAiVCIKCQkJCQkJKQoJCQkJCSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbTpzcyIpKQoJCQkJfSBlbHNlIHsKCQkJCQludWxsCgkJCQl9LAoJCQkJIm9hIiwKCQkJCWlmIChycz8uZ2V0U3RyaW5nKCJmZF9saW5rIikgIT0gbnVsbCAmJiBycy5nZXRTdHJpbmcoImZkX2xpbmsiKS5jb250YWlucygia21fcGluZGFnYXRlX3Jlc3BvbnNlIikpIHsKCQkJCQkicXVlc3Rpb25uYWlyZSIKCQkJCX0gZWxzZSB7CgkJCQkJInByb2Nlc3MiCgkJCQl9LAoJCQkJaWYgKHJzPy5nZXRTdHJpbmcoImZkX2ZpbmlzaF90aW1lIikgIT0gbnVsbCkgewoJCQkJCUxvY2FsRGF0ZVRpbWUucGFyc2UoCgkJCQkJCXJzLmdldFN0cmluZygiZmRfZmluaXNoX3RpbWUiKS5yZXBsYWNlKAoJCQkJCQkJIiAiLCAiVCIKCQkJCQkJKQoJCQkJCSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbTpzcyIpKQoJCQkJfSBlbHNlIHsKCQkJCQludWxsCgkJCQl9CgkJCSk=</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>OaToDo</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJc2IuYXBwZW5kKCJTRUxFQ1QgKiBGUk9NICIpLmFwcGVuZChiYXNlU3FsKS5hcHBlbmQoIiBPUkRFUiBCWSBSb3dOdW0iKQo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXN1bHQpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CQkJT2FUb0RvKAoJCQkJcnM/LmdldEludCgiUm93TnVtIiksCgkJCQlycz8uZ2V0U3RyaW5nKCJmZF9pZCIpLAoJCQkJcnM/LmdldFN0cmluZygiZmRfc3ViamVjdCIpLAoJCQkJcnM/LmdldFN0cmluZygiZmRfbGluayIpLAoJCQkJcnM/LmdldFN0cmluZygidHlwZSIpPy50b0ludCgpLAoJCQkJaWYgKHJzPy5nZXRTdHJpbmcoImZkX2NyZWF0ZV90aW1lIikgIT0gbnVsbCkgewoJCQkJCUxvY2FsRGF0ZVRpbWUucGFyc2UoCgkJCQkJCXJzLmdldFN0cmluZygiZmRfY3JlYXRlX3RpbWUiKS5yZXBsYWNlKAoJCQkJCQkJIiAiLCAiVCIKCQkJCQkJKQoJCQkJCSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbTpzcyIpKQoJCQkJfSBlbHNlIHsKCQkJCQludWxsCgkJCQl9LAoJCQkJIm9hIiwKCQkJCWlmIChycz8uZ2V0U3RyaW5nKCJmZF9saW5rIikgIT0gbnVsbCAmJiBycy5nZXRTdHJpbmcoImZkX2xpbmsiKS5jb250YWlucygia21fcGluZGFnYXRlX3Jlc3BvbnNlIikpIHsKCQkJCQkicXVlc3Rpb25uYWlyZSIKCQkJCX0gZWxzZSB7CgkJCQkJInByb2Nlc3MiCgkJCQl9LAoJCQkJaWYgKHJzPy5nZXRTdHJpbmcoImZkX2ZpbmlzaF90aW1lIikgIT0gbnVsbCkgewoJCQkJCUxvY2FsRGF0ZVRpbWUucGFyc2UoCgkJCQkJCXJzLmdldFN0cmluZygiZmRfZmluaXNoX3RpbWUiKS5yZXBsYWNlKAoJCQkJCQkJIiAiLCAiVCIKCQkJCQkJKQoJCQkJCSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbTpzcyIpKQoJCQkJfSBlbHNlIHsKCQkJCQludWxsCgkJCQl9CgkJCSk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAicGFnZU51bWJlciIsIHZhbHVlID0gIuesrOWHoOmhtSIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAiZW5kRGF0ZSIsIHZhbHVlID0gIue7k+adn+aXtumXtCIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CQkvL+S8oOWPguWQq+aciee/u+mhtQoJCWlmIChudWxsICE9IHBhZ2VTaXplICYmIG51bGwgIT0gcGFnZU51bWJlcikgewoJCQl2YWwgbWluID0gaWYgKChwYWdlTnVtYmVyIC0gMSkgPD0gMCkgewoJCQkJMAoJCQl9IGVsc2UgewoJCQkJcGFnZU51bWJlciAtIDEKCQkJfQoJCQlzYi5hcHBlbmQoCgkJCQkiU0VMRUNUIFRPUCAkcGFnZVNpemUgKiBGUk9NICRiYXNlU3FsIFdIRVJFIFJvd051bSBCRVRXRUVOICgke3BhZ2VTaXplLnRpbWVzKG1pbikgKyAxfSkgQU5EICgke3BhZ2VTaXplLnRpbWVzKAoJCQkJCW1pbiArIDEKCQkJCSl9KSBPUkRFUiBCWSBSb3dOdW0iCgkJCSkKCQl9IGVsc2UgewoJCQlzYi5hcHBlbmQoIlNFTEVDVCAqIEZST00gIikuYXBwZW5kKGJhc2VTcWwpLmFwcGVuZCgiIE9SREVSIEJZIFJvd051bSIpCgkJfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAic3RhcnREYXRlIiwgdmFsdWUgPSAi5byA5aeL5pe26Ze0IiwgcGFyYW1UeXBlID0gInF1ZXJ5IiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UsIG5hbWUgPSAicGFnZVNpemUiLCB2YWx1ZSA9ICLmr4/pobXmmL7npLrorrDlvZXmlbAiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQl2YWwgaG9zdCA9IEVudi5vYUhvc3QK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQkvL+aXtumXtOWPguaVsAoJCWJhc2VTcWwgPSBpZiAoc3RhcnREYXRlICE9IG51bGwgJiYgZW5kRGF0ZSAhPSBudWxsKSB7CgkJCWJhc2VTcWwucmVwbGFjZSgiQVMgYSIsICJBUyBhIFdoZXJlIGZkX2NyZWF0ZV90aW1lID49ICckc3RhcnREYXRlJyBBTkQgZmRfY3JlYXRlX3RpbWUgPD0gJyRlbmREYXRlJyIpCgkJfSBlbHNlIGlmIChzdGFydERhdGUgIT0gbnVsbCkgewoJCQliYXNlU3FsLnJlcGxhY2UoIkFTIGEiLCAiQVMgYSBXaGVyZSBmZF9jcmVhdGVfdGltZSA+PSAnJHN0YXJ0RGF0ZSciKQoJCX0gZWxzZSBpZiAoZW5kRGF0ZSAhPSBudWxsKSB7CgkJCWJhc2VTcWwucmVwbGFjZSgiQVMgYSIsICJBUyBhIFdoZXJlIGZkX2NyZWF0ZV90aW1lIDw9ICckZW5kRGF0ZSciKQoJCX0gZWxzZSB7CgkJCWJhc2VTcWwKCQl9</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcGFnZVNpemUsCg==</text>
+        <text encoding="base64">CQlpZiAocmVzdWx0TGlzdC5pc05vdEVtcHR5KCkpIHsKCQkJdmFyIG9hVXNlciA9IEJhc2U2NC5nZXRFbmNvZGVyKCkuZW5jb2RlVG9TdHJpbmcoKCJ3b25kZXJzaGFyZSIgKyB3c0lkICsgImVrcCIpLnRvQnl0ZUFycmF5KGNoYXJzZXQoInV0Zi04IikpKQoJCQlvYVVzZXIgPSBVUkxFbmNvZGVyLmVuY29kZShvYVVzZXIsICJVVEYtOCIpCgkJCWZvciAob2E6IE9hVG9EbyBpbiByZXN1bHQpIHsKCQkJCW9hLmRhdGUgPSBvYS5kYXRlLnRvU3RyaW5nKCkuc3Vic3RyaW5nKDAsIDE5KQoJCQkJb2EubGluayA9IGhvc3QgKyAid29uZGVyU2hhcmVMb2dpbi5kbz9tZXRob2Q9c3NvJnVzZXI9JG9hVXNlciZ1cmw9IiArIFVSTEVuY29kZXIuZW5jb2RlKAoJCQkJCSIvc3lzL25vdGlmeS9zeXNfbm90aWZ5X3RvZG8vc3lzTm90aWZ5VG9kby5kbz9tZXRob2Q9dmlldyZmZElkPSR7b2Eub2FJZH0iLCAidXRmLTgiCgkJCQkpCgkJCX0KCQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXN1bHQpCgkJfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJcGFnZU51bWJlcgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CQkJaWYgKCFpdD8uZ2V0KCJmZF9pZCIpPy50b1N0cmluZygpLmlzTnVsbE9yRW1wdHkoKSl7CgkJCQkKCQkJfQ==</text>
       </register>
       <register name="9" type="4">
-        <text>//					val sb = StringBuilder()
-//					for (str: String in favoritePersons) {
-//						sb.append(str).append(&quot;','&quot;)
-//					}
-//					paramLogBuild.favorite = &quot; AND log.employee_id NOT IN ('${sb.substring(0, sb.length - 3)}')&quot;</text>
+        <text encoding="base64">IHsgcnM6IFJlc3VsdFNldD8sIF86IEludCAtPgoJCQlpdAoJCX0=</text>
       </register>
       <register name=":" type="4">
         <text>1267</text>
