@@ -103,6 +103,12 @@
       <file name="/oauth_request_token [prd - sharetronix@192.168.10.65]" timestamp="1526259102793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console_1.sql" timestamp="1526159169462">
+        <mark key="[" line="0" column="1051" />
+        <mark key="]" line="0" column="1050" />
+        <mark key="^" line="0" column="1050" />
+        <mark key="." line="0" column="1050" />
+      </file>
       <file name="/hrs_yiilog_error [prd - wos_hrs@192.168.10.112]" timestamp="1526036417786">
         <mark key="[" line="0" column="0" />
       </file>
@@ -173,6 +179,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1526477277366">
         <mark key="[" line="60" column="67" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_1.sql" timestamp="1526262534069">
+        <mark key="[" line="29" column="146" />
+        <mark key="]" line="29" column="145" />
+        <mark key="." line="29" column="145" />
+        <mark key="^" line="29" column="145" />
+      </file>
       <file name="/hrs_yiilog_debug [prd - wos_hrs@192.168.10.112]" timestamp="1526003752825">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,10 +197,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526477789708">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526480578290">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1523496341725">
         <mark key="[" line="0" column="0" />
@@ -290,10 +302,11 @@
         <mark key="." line="258" column="23" />
         <mark key="^" line="258" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_2.sql" timestamp="1526479038203">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_2.sql" timestamp="1526479901613">
+        <mark key="[" line="13" column="72" />
+        <mark key="]" line="13" column="72" />
+        <mark key="." line="13" column="72" />
+        <mark key="^" line="14" column="17" />
       </file>
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
@@ -351,7 +364,13 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1526477798786">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1526106518728">
+        <mark key="[" line="29" column="64" />
+        <mark key="]" line="29" column="69" />
+        <mark key="." line="29" column="69" />
+        <mark key="^" line="29" column="69" />
+      </file>
+      <file name="/dummy.sql" timestamp="1526480584413">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -387,12 +406,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1526474226691">
-        <mark key="'" line="1534" column="71" />
-        <mark key="[" line="1552" column="98" />
-        <mark key="]" line="1552" column="98" />
-        <mark key="." line="1552" column="98" />
-        <mark key="^" line="1552" column="93" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1526480448790">
+        <mark key="'" line="1545" column="71" />
+        <mark key="[" line="1460" column="0" />
+        <mark key="]" line="1460" column="0" />
+        <mark key="." line="1460" column="0" />
+        <mark key="^" line="1340" column="16" />
       </file>
       <file name="/generated.sql" timestamp="1526376381437" />
       <file name="/post_tags [dev - sharetronix@192.168.10.61]" timestamp="1524106790035">
@@ -526,10 +545,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">SEFWSU5HIDEgPSAxCg==</text>
+        <text encoding="base64">bnVsbAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>03100001</text>
       </register>
       <register name="/" type="4">
         <text>ifnull</text>
@@ -538,36 +557,34 @@
         <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXN1bHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SEFWSU5HIDEgPSAxCg==</text>
+        <text encoding="base64">bnVsbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ck9SREVSIEJZIGlzX3JlYWQgYXNjLCBsb2cuY3JlYXRlX3RpbWUgZGVzYywgbG9nLmV2YWx1YXRlX2NvdW50IGRlc2MsIExFTkdUSChsb2cuc3VnZ2VzdGlvbikgZGVzYywKICBMRU5HVEgobG9nLmV4cGVyaWVuY2UpIGRlc2MsIGxvZy53b3JkX2NvdW50IGRlc2MsIGxvZy5sb2dfaWQgZGVzYyk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQlwYXJhbUxvZ0J1aWxkLmV2YWx1YXRlID0gIiAkY29uZGl0aW9uIElGKGZpbmRfaW5fc2V0KCcke3BhcmFtTG9nQnVpbGQud3NJZH0nLGxvZy5ldmFsdWF0ZV93c19pZCkgPiAwLDEsMCkgPSAke3BhcmFtTG9nQnVpbGQuZXZhbHVhdGV9Igo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ClNFTEVDVAogIGxvZy5sb2dfaWQsCiAgbG9nLmVtcGxveWVlX2lkLAogIGxvZy5gbmFtZWAsCiAgbG9nLmpvYl9jbmFtZSwKICBJRihmaW5kX2luX3NldCgnMDMxMDAwMDEnLCBsb2cucmVhZF93c19pZCkgPiAwLCAxLCAwKSAgICAgICAgICAgICAgICAgICBBUyBpc19yZWFkLAojICAgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDAxJywgR1JPVVBfQ09OQ0FUKGxvZy5ldmFsdWF0ZV93c19pZCkpID4gMCwgMSwgMCkgQVMgaXNfZXZhbHVhdGUsCiAgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgaXNfZmF2b3JpdGUsCiAgZGF0ZSwKICBJRihmaW5kX2luX3NldCgnMDMxMDAwMDEnLCBsb2cuZXZhbHVhdGVfd3NfaWQpID4gMCwgMSwgMCkgQVMgaXNfZXZhbHVhdGVfdGVzdApGUk9NIGBhcHBfdXNlcl9sb2dzYCBsb2cKV0hFUkUgbG9nX2lkID0gMTIxMDA4CkdST1VQIEJZIGxvZy5sb2dfaWQKaGF2aW5nIG1heChpc19ldmFsdWF0ZV90ZXN0KSA+MApPUkRFUiBCWSBpc19ldmFsdWF0ZV90ZXN0IGRlc2M7</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly9hbmQgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDAxJywgbG9nLmV2YWx1YXRlX3dzX2lkKSA+IDAsIDEsIDApID0gMQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGxvZy5jcmVhdGVfdGltZSBkZXNjLCBsb2cuZXZhbHVhdGVfY291bnQgZGVzYywgTEVOR1RIKGxvZy5zdWdnZXN0aW9uKSBkZXNjLAogIExFTkdUSChsb2cuZXhwZXJpZW5jZSkgZGVzYywgbG9nLndvcmRfY291bnQgZGVzYywgbG9nLmxvZ19pZCBkZXNj</text>
+      <register name="4" type="2">
+        <text encoding="base64">SEFWSU5HIDEgPSAxIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CkhBVklORyAxID0gMQpPUkRFUiBCWSBpc19yZWFkIGFzYywgbG9nLmNyZWF0ZV90aW1lIGRlc2MsIGxvZy5ldmFsdWF0ZV9jb3VudCBkZXNjLCBMRU5HVEgobG9nLnN1Z2dlc3Rpb24pIGRlc2MsCiAgTEVOR1RIKGxvZy5leHBlcmllbmNlKSBkZXNjLCBsb2cud29yZF9jb3VudCBkZXNjLCBsb2cubG9nX2lkIGRlc2M=</text>
+      <register name="5" type="2">
+        <text encoding="base64">SEFWSU5HIDEgPSAxCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">KGxvZy5sb2dfZGV0YWlsX3R5cGUgPSAn6IGM6LSj5pel5b+XJyBBTkQgZGF0ZSA+PSAnMjAxOC0wNC0xNicgQU5EIGRhdGUgPD0gJzIwMTgtMDUtMTYnIEFORAogICAgICAgKGxvZy5pbmRpcmVjdCBMSUtFICclMDMxMDAwMDElJyBPUiBsb2cucmVwb3J0X3RvID0gJzAzMTAwMDAxJykgKQ==</text>
+        <text encoding="base64">Ck9SREVSIEJZIGlzX3JlYWQgYXNjLCBsb2cuY3JlYXRlX3RpbWUgZGVzYywgbG9nLmV2YWx1YXRlX2NvdW50IGRlc2MsIExFTkdUSChsb2cuc3VnZ2VzdGlvbikgZGVzYywKICBMRU5HVEgobG9nLmV4cGVyaWVuY2UpIGRlc2MsIGxvZy53b3JkX2NvdW50IGRlc2MsIGxvZy5sb2dfaWQgZGVzYyk=</text>
       </register>
       <register name="7" type="4">
-        <text>AND log.employee_id IN
-                                                                          ('18032890', '11061215', '16042436', '18032898', '18032891', '16112590', '18032893', '16052470', '17032678', '17032675', '18052945', '14102113', '17032672', '14102111', '16092535', '16072513', '08100415', '09040532', '08090407', '15042214', '15042215', '15042217', '16052481', '15122327', '17032688', '12081668', '17032683', '05060057', '17032682', '17032681', '17082819', '11111405', '17062789', '17082816', '08060332', '17022616', '15112316', '17022615', '17042744', '17042743', '15072252', '08090399', '11061233', '12071649', '06030109', '13121966', '18032874', '18032873', '18032875', '18032872', '17032655', '17032654', '15062242', '17032651', '06030104', '17062798', '15062240', '17042698', '17042730', '15042193', '15042194', '17042733', '11101343', '05070066', '15112309', '12071659', '91703010', '15042198', '18032885', '13031814', '18032887', '08030283', '12041585', '18032886', '17072808', '12081682', '08050322', '17032669', '15062235', '17032665', '15062231', '17032664', '18032888', '05040044', '08060358', '07030183', '12031550', '17092820', '18042932', '17102835', '09120725', '18042938', '16062483', '16082524', '13051914', '14021987', '17032630', '16032380', '14042045', '16032384', '18042944', '18042943', '17102822', '09120713', '17122854', '17052757', '10090951', '17032649', '17032648', '11041138', '07030200', '16032378', '14042036', '18032906', '15032183', '18032905', '18032866', '15012154', '17122858', '17032640', '16122599', '16122597', '16032370', '11010985', '12111752', '18032907', '15082282', '17042714', '14072085', '16092553', '17042700', '09030460', '12101708', '18042916', '18042915', '11041141', '16032406', '16032407', '17012611', '16032408', '18052960', '18052961', '12111745', '15102304', '16042419', '16032405', '11011007', '09030502', '17042701', '17112853', '12091694', '17112852', '09070609', '16092556', '13041887', '17042703', '18042923', '15092292', '18042924', '09110694', '12051627', '16042421', '15092296', '16062499', '18052951', '16082532', '18052953', '14092106', '05030040', '09020444', '91608015', '13041891', '17112847', '13111961', '16112579', '10030843', '91702006')</text>
+        <text encoding="base64">ClNFTEVDVAogIGxvZy5sb2dfaWQsCiAgbG9nLmVtcGxveWVlX2lkLAogIGxvZy5gbmFtZWAsCiAgbG9nLmpvYl9jbmFtZSwKICBJRihmaW5kX2luX3NldCgnMDMxMDAwMDEnLCBsb2cucmVhZF93c19pZCkgPiAwLCAxLCAwKSAgICAgICAgICAgICAgICAgICBBUyBpc19yZWFkLAojICAgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDAxJywgR1JPVVBfQ09OQ0FUKGxvZy5ldmFsdWF0ZV93c19pZCkpID4gMCwgMSwgMCkgQVMgaXNfZXZhbHVhdGUsCiAgMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgaXNfZmF2b3JpdGUsCiAgZGF0ZSwKICBJRihmaW5kX2luX3NldCgnMDMxMDAwMDEnLCBsb2cuZXZhbHVhdGVfd3NfaWQpID4gMCwgMSwgMCkgQVMgaXNfZXZhbHVhdGVfdGVzdApGUk9NIGBhcHBfdXNlcl9sb2dzYCBsb2cKV0hFUkUgbG9nX2lkID0gMTIxMDA4CkdST1VQIEJZIGxvZy5sb2dfaWQKaGF2aW5nIG1heChpc19ldmFsdWF0ZV90ZXN0KSA+MApPUkRFUiBCWSBpc19ldmFsdWF0ZV90ZXN0IGRlc2M7</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CnVuaW9uClNFTEVDVAogIGxvZy5sb2dfaWQsCiAgbG9nLmVtcGxveWVlX2lkLAogIGxvZy5gbmFtZWAsCiAgbG9nLmpvYl9jbmFtZSwKICBJRihmaW5kX2luX3NldCgnMDMxMDAwMDEnLCBsb2cucmVhZF93c19pZCkgPiAwLCAxLCAwKSAgICAgICAgICAgICAgICAgICBBUyBpc19yZWFkLAogIElGKGZpbmRfaW5fc2V0KCcwMzEwMDAwMScsIEdST1VQX0NPTkNBVChsb2cuZXZhbHVhdGVfd3NfaWQpKSA+IDAsIDEsIDApIEFTIGlzX2V2YWx1YXRlLAogIDAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGlzX2Zhdm9yaXRlLAogIGRhdGUKRlJPTSBgYXBwX3VzZXJfbG9nc2AgbG9nCldIRVJFIChsb2cubG9nX2RldGFpbF90eXBlID0gJ+iBjOi0o+aXpeW/lycgQU5EIGRhdGUgPj0gJzIwMTgtMDQtMTYnIEFORCBkYXRlIDw9ICcyMDE4LTA1LTE2JyBBTkQKICAgICAgIChsb2cuaW5kaXJlY3QgTElLRSAnJTAzMTAwMDAxJScgT1IgbG9nLnJlcG9ydF90byA9ICcwMzEwMDAwMScpKQpHUk9VUCBCWSBsb2cubG9nX2lkCkhBVklORyAxID0gMSBPUiBJRihmaW5kX2luX3NldCgnMDMxMDAwMDEnLCBHUk9VUF9DT05DQVQobG9nLmV2YWx1YXRlX3dzX2lkKSkgPiAwLCAxLCAwKSA9IDAKT1JERVIgQlkgaXNfcmVhZCBhc2MsIGxvZy5jcmVhdGVfdGltZSBkZXNjLCBsb2cuZXZhbHVhdGVfY291bnQgZGVzYywgTEVOR1RIKGxvZy5zdWdnZXN0aW9uKSBkZXNjLAogIExFTkdUSChsb2cuZXhwZXJpZW5jZSkgZGVzYywgbG9nLndvcmRfY291bnQgZGVzYywgbG9nLmxvZ19pZCBkZXNjIA==</text>
+        <text encoding="base64">IGxvZy5jcmVhdGVfdGltZSBkZXNjLCBsb2cuZXZhbHVhdGVfY291bnQgZGVzYywgTEVOR1RIKGxvZy5zdWdnZXN0aW9uKSBkZXNjLAogIExFTkdUSChsb2cuZXhwZXJpZW5jZSkgZGVzYywgbG9nLndvcmRfY291bnQgZGVzYywgbG9nLmxvZ19pZCBkZXNj</text>
       </register>
       <register name="9" type="4">
-        <text>AND log.employee_id IN
-                                                                          ('18032890', '11061215', '16042436', '18032898', '18032891', '16112590', '18032893', '16052470', '17032678', '17032675', '18052945', '14102113', '17032672', '14102111', '16092535', '16072513', '08100415', '09040532', '08090407', '15042214', '15042215', '15042217', '16052481', '15122327', '17032688', '12081668', '17032683', '05060057', '17032682', '17032681', '17082819', '11111405', '17062789', '17082816', '08060332', '17022616', '15112316', '17022615', '17042744', '17042743', '15072252', '08090399', '11061233', '12071649', '06030109', '13121966', '18032874', '18032873', '18032875', '18032872', '17032655', '17032654', '15062242', '17032651', '06030104', '17062798', '15062240', '17042698', '17042730', '15042193', '15042194', '17042733', '11101343', '05070066', '15112309', '12071659', '91703010', '15042198', '18032885', '13031814', '18032887', '08030283', '12041585', '18032886', '17072808', '12081682', '08050322', '17032669', '15062235', '17032665', '15062231', '17032664', '18032888', '05040044', '08060358', '07030183', '12031550', '17092820', '18042932', '17102835', '09120725', '18042938', '16062483', '16082524', '13051914', '14021987', '17032630', '16032380', '14042045', '16032384', '18042944', '18042943', '17102822', '09120713', '17122854', '17052757', '10090951', '17032649', '17032648', '11041138', '07030200', '16032378', '14042036', '18032906', '15032183', '18032905', '18032866', '15012154', '17122858', '17032640', '16122599', '16122597', '16032370', '11010985', '12111752', '18032907', '15082282', '17042714', '14072085', '16092553', '17042700', '09030460', '12101708', '18042916', '18042915', '11041141', '16032406', '16032407', '17012611', '16032408', '18052960', '18052961', '12111745', '15102304', '16042419', '16032405', '11011007', '09030502', '17042701', '17112853', '12091694', '17112852', '09070609', '16092556', '13041887', '17042703', '18042923', '15092292', '18042924', '09110694', '12051627', '16042421', '15092296', '16062499', '18052951', '16082532', '18052953', '14092106', '05030040', '09020444', '91608015', '13041891', '17112847', '13111961', '16112579', '10030843', '91702006')</text>
+        <text encoding="base64">CkhBVklORyAxID0gMQpPUkRFUiBCWSBpc19yZWFkIGFzYywgbG9nLmNyZWF0ZV90aW1lIGRlc2MsIGxvZy5ldmFsdWF0ZV9jb3VudCBkZXNjLCBMRU5HVEgobG9nLnN1Z2dlc3Rpb24pIGRlc2MsCiAgTEVOR1RIKGxvZy5leHBlcmllbmNlKSBkZXNjLCBsb2cud29yZF9jb3VudCBkZXNjLCBsb2cubG9nX2lkIGRlc2M=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
