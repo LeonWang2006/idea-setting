@@ -136,7 +136,7 @@
       <file name="/hrs_yiilog_error [prd - wos_hrs@192.168.10.112]" timestamp="1526036417786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_weixin [prd - app@192.168.10.20]" timestamp="1526460541601">
+      <file name="/app_weixin [prd - app@192.168.10.20]" timestamp="1526473143779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1526468142564">
@@ -330,11 +330,11 @@
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526460320237">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526473461612">
         <mark key="'" line="38" column="15" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
+        <mark key="[" line="257" column="19" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_2.sql" timestamp="1526471736955">
         <mark key="[" line="23" column="48" />
@@ -402,7 +402,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1526469343222">
+      <file name="/dummy.sql" timestamp="1526473377868">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -586,8 +586,8 @@
       <jump line="1534" column="71" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -599,34 +599,34 @@
         <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXN1bHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJIXJlc3BvbnNlLmJvZHkuaXNOdWxsT3JFbXB0eSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YWwgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQkvL+aXtumXtOWPguaVsAoJCWJhc2VTcWwgPSBpZiAoc3RhcnREYXRlICE9IG51bGwgJiYgZW5kRGF0ZSAhPSBudWxsKSB7CgkJCWJhc2VTcWwucmVwbGFjZSgiQVMgYSIsICJBUyBhIFdoZXJlIGZkX2NyZWF0ZV90aW1lID49ICckc3RhcnREYXRlJyBBTkQgZmRfY3JlYXRlX3RpbWUgPD0gJyRlbmREYXRlJyIpCgkJfSBlbHNlIGlmIChzdGFydERhdGUgIT0gbnVsbCkgewoJCQliYXNlU3FsLnJlcGxhY2UoIkFTIGEiLCAiQVMgYSBXaGVyZSBmZF9jcmVhdGVfdGltZSA+PSAnJHN0YXJ0RGF0ZSciKQoJCX0gZWxzZSBpZiAoZW5kRGF0ZSAhPSBudWxsKSB7CgkJCWJhc2VTcWwucmVwbGFjZSgiQVMgYSIsICJBUyBhIFdoZXJlIGZkX2NyZWF0ZV90aW1lIDw9ICckZW5kRGF0ZSciKQoJCX0gZWxzZSB7CgkJCWJhc2VTcWwKCQl9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJIXJlc3BvbnNlLmJvZHkuaXNOdWxsT3JFbXB0eSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQlpZiAocmVzdWx0TGlzdC5pc05vdEVtcHR5KCkpIHsKCQkJdmFyIG9hVXNlciA9IEJhc2U2NC5nZXRFbmNvZGVyKCkuZW5jb2RlVG9TdHJpbmcoKCJ3b25kZXJzaGFyZSIgKyB3c0lkICsgImVrcCIpLnRvQnl0ZUFycmF5KGNoYXJzZXQoInV0Zi04IikpKQoJCQlvYVVzZXIgPSBVUkxFbmNvZGVyLmVuY29kZShvYVVzZXIsICJVVEYtOCIpCgkJCWZvciAob2E6IGluIHJlc3VsdExpc3QpIHsKCQkJCW9hLmRhdGUgPSBvYS5kYXRlLnRvU3RyaW5nKCkuc3Vic3RyaW5nKDAsIDE5KQoJCQkJb2EubGluayA9IGhvc3QgKyAid29uZGVyU2hhcmVMb2dpbi5kbz9tZXRob2Q9c3NvJnVzZXI9JG9hVXNlciZ1cmw9IiArIFVSTEVuY29kZXIuZW5jb2RlKAoJCQkJCSIvc3lzL25vdGlmeS9zeXNfbm90aWZ5X3RvZG8vc3lzTm90aWZ5VG9kby5kbz9tZXRob2Q9dmlldyZmZElkPSR7b2Eub2FJZH0iLCAidXRmLTgiCgkJCQkpCgkJCX0KCQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXN1bHQpCgkJfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciB0aXRsZTogU3RyaW5nPywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CXZhciBpZDogSW50PywK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CQlpZiAocmVzdWx0TGlzdC5pc05vdEVtcHR5KCkpIHsKCQkJdmFyIG9hVXNlciA9IEJhc2U2NC5nZXRFbmNvZGVyKCkuZW5jb2RlVG9TdHJpbmcoKCJ3b25kZXJzaGFyZSIgKyB3c0lkICsgImVrcCIpLnRvQnl0ZUFycmF5KGNoYXJzZXQoInV0Zi04IikpKQoJCQlvYVVzZXIgPSBVUkxFbmNvZGVyLmVuY29kZShvYVVzZXIsICJVVEYtOCIpCgkJCWZvciAob2E6IGluIHJlc3VsdExpc3QpIHsKCQkJCW9hLmRhdGUgPSBvYS5kYXRlLnRvU3RyaW5nKCkuc3Vic3RyaW5nKDAsIDE5KQoJCQkJb2EubGluayA9IGhvc3QgKyAid29uZGVyU2hhcmVMb2dpbi5kbz9tZXRob2Q9c3NvJnVzZXI9JG9hVXNlciZ1cmw9IiArIFVSTEVuY29kZXIuZW5jb2RlKAoJCQkJCSIvc3lzL25vdGlmeS9zeXNfbm90aWZ5X3RvZG8vc3lzTm90aWZ5VG9kby5kbz9tZXRob2Q9dmlldyZmZElkPSR7b2Eub2FJZH0iLCAidXRmLTgiCgkJCQkpCgkJCX0KCQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXN1bHQpCgkJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
