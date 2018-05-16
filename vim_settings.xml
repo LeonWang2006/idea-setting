@@ -249,7 +249,7 @@
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1526374190926">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1526452684716">
         <mark key="[" line="132" column="9" />
         <mark key="]" line="132" column="9" />
         <mark key="." line="132" column="9" />
@@ -319,12 +319,12 @@
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526451592800">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526453162606">
         <mark key="'" line="37" column="15" />
-        <mark key="[" line="213" column="28" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
-        <mark key="^" line="221" column="0" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="^" line="237" column="187" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
@@ -561,50 +561,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">CQkJT2FUb0RvKAoJCQkJcnM/LmdldEludCgiUm93TnVtIiksCgkJCQlycz8uZ2V0U3RyaW5nKCJmZF9pZCIpLAoJCQkJcnM/LmdldFN0cmluZygiZmRfc3ViamVjdCIpLAoJCQkJcnM/LmdldFN0cmluZygiZmRfbGluayIpLAoJCQkJcnM/LmdldFN0cmluZygidHlwZSIpPy50b0ludCgpLAoJCQkJaWYgKHJzPy5nZXRTdHJpbmcoImZkX2NyZWF0ZV90aW1lIikgIT0gbnVsbCkgewoJCQkJCUxvY2FsRGF0ZVRpbWUucGFyc2UoCgkJCQkJCXJzLmdldFN0cmluZygiZmRfY3JlYXRlX3RpbWUiKS5yZXBsYWNlKAoJCQkJCQkJIiAiLCAiVCIKCQkJCQkJKQoJCQkJCSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbTpzcyIpKQoJCQkJfSBlbHNlIHsKCQkJCQludWxsCgkJCQl9LAoJCQkJIm9hIiwKCQkJCWlmIChycz8uZ2V0U3RyaW5nKCJmZF9saW5rIikgIT0gbnVsbCAmJiBycy5nZXRTdHJpbmcoImZkX2xpbmsiKS5jb250YWlucygia21fcGluZGFnYXRlX3Jlc3BvbnNlIikpIHsKCQkJCQkicXVlc3Rpb25uYWlyZSIKCQkJCX0gZWxzZSB7CgkJCQkJInByb2Nlc3MiCgkJCQl9LAoJCQkJaWYgKHJzPy5nZXRTdHJpbmcoImZkX2ZpbmlzaF90aW1lIikgIT0gbnVsbCkgewoJCQkJCUxvY2FsRGF0ZVRpbWUucGFyc2UoCgkJCQkJCXJzLmdldFN0cmluZygiZmRfZmluaXNoX3RpbWUiKS5yZXBsYWNlKAoJCQkJCQkJIiAiLCAiVCIKCQkJCQkJKQoJCQkJCSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbTpzcyIpKQoJCQkJfSBlbHNlIHsKCQkJCQludWxsCgkJCQl9CgkJCSk=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>OaToDo</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
-      <register name="0" type="4">
-        <text>matchCount</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJc2IuYXBwZW5kKCJTRUxFQ1QgKiBGUk9NICIpLmFwcGVuZChiYXNlU3FsKS5hcHBlbmQoIiBPUkRFUiBCWSBSb3dOdW0iKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>//					val sb = StringBuilder()
-//					for (str: String in favoritePersons) {
-//						sb.append(str).append(&quot;','&quot;)
-//					}
-//					paramLogBuild.favorite = &quot; AND log.employee_id NOT IN ('${sb.substring(0, sb.length - 3)}')&quot;</text>
+        <text encoding="base64">CQkJT2FUb0RvKAoJCQkJcnM/LmdldEludCgiUm93TnVtIiksCgkJCQlycz8uZ2V0U3RyaW5nKCJmZF9pZCIpLAoJCQkJcnM/LmdldFN0cmluZygiZmRfc3ViamVjdCIpLAoJCQkJcnM/LmdldFN0cmluZygiZmRfbGluayIpLAoJCQkJcnM/LmdldFN0cmluZygidHlwZSIpPy50b0ludCgpLAoJCQkJaWYgKHJzPy5nZXRTdHJpbmcoImZkX2NyZWF0ZV90aW1lIikgIT0gbnVsbCkgewoJCQkJCUxvY2FsRGF0ZVRpbWUucGFyc2UoCgkJCQkJCXJzLmdldFN0cmluZygiZmRfY3JlYXRlX3RpbWUiKS5yZXBsYWNlKAoJCQkJCQkJIiAiLCAiVCIKCQkJCQkJKQoJCQkJCSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbTpzcyIpKQoJCQkJfSBlbHNlIHsKCQkJCQludWxsCgkJCQl9LAoJCQkJIm9hIiwKCQkJCWlmIChycz8uZ2V0U3RyaW5nKCJmZF9saW5rIikgIT0gbnVsbCAmJiBycy5nZXRTdHJpbmcoImZkX2xpbmsiKS5jb250YWlucygia21fcGluZGFnYXRlX3Jlc3BvbnNlIikpIHsKCQkJCQkicXVlc3Rpb25uYWlyZSIKCQkJCX0gZWxzZSB7CgkJCQkJInByb2Nlc3MiCgkJCQl9LAoJCQkJaWYgKHJzPy5nZXRTdHJpbmcoImZkX2ZpbmlzaF90aW1lIikgIT0gbnVsbCkgewoJCQkJCUxvY2FsRGF0ZVRpbWUucGFyc2UoCgkJCQkJCXJzLmdldFN0cmluZygiZmRfZmluaXNoX3RpbWUiKS5yZXBsYWNlKAoJCQkJCQkJIiAiLCAiVCIKCQkJCQkJKQoJCQkJCSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCBISDptbTpzcyIpKQoJCQkJfSBlbHNlIHsKCQkJCQludWxsCgkJCQl9CgkJCSk=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJc3FsU2V0ID0gc3FsU2V0LnJlcGxhY2VBZnRlcigiKSIsIiIpCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgkJCQlpZiAobWF0Y2hSZXN1bHQuY291bnQoKSA+IDApewoJCQkJCXNxbFNldC5yZXBsYWNlQWZ0ZXIoIikiLCIiKQoJCQkJfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQltYXRjaFJlc3VsdC5jb3VudCgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCXNxbFNldCArPSBhbmRPckNvbmRpdGlvbihwYXJhbUxvZ0J1aWxkLCBwYXJhbUxvZ0J1aWxkLm9yLnRvU3RyaW5nKCksIG9yTGltaXQsICJPUiIsICIpIikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CQkvL+S8oOWPguWQq+aciee/u+mhtQoJCWlmIChudWxsICE9IHBhZ2VTaXplICYmIG51bGwgIT0gcGFnZU51bWJlcikgewoJCQl2YWwgbWluID0gaWYgKChwYWdlTnVtYmVyIC0gMSkgPD0gMCkgewoJCQkJMAoJCQl9IGVsc2UgewoJCQkJcGFnZU51bWJlciAtIDEKCQkJfQoJCQlzYi5hcHBlbmQoCgkJCQkiU0VMRUNUIFRPUCAkcGFnZVNpemUgKiBGUk9NICRiYXNlU3FsIFdIRVJFIFJvd051bSBCRVRXRUVOICgke3BhZ2VTaXplLnRpbWVzKG1pbikgKyAxfSkgQU5EICgke3BhZ2VTaXplLnRpbWVzKAoJCQkJCW1pbiArIDEKCQkJCSl9KSBPUkRFUiBCWSBSb3dOdW0iCgkJCSkKCQl9IGVsc2UgewoJCQlzYi5hcHBlbmQoIlNFTEVDVCAqIEZST00gIikuYXBwZW5kKGJhc2VTcWwpLmFwcGVuZCgiIE9SREVSIEJZIFJvd051bSIpCgkJfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CQkvL+aXtumXtOWPguaVsAoJCWJhc2VTcWwgPSBpZiAoc3RhcnREYXRlICE9IG51bGwgJiYgZW5kRGF0ZSAhPSBudWxsKSB7CgkJCWJhc2VTcWwucmVwbGFjZSgiQVMgYSIsICJBUyBhIFdoZXJlIGZkX2NyZWF0ZV90aW1lID49ICckc3RhcnREYXRlJyBBTkQgZmRfY3JlYXRlX3RpbWUgPD0gJyRlbmREYXRlJyIpCgkJfSBlbHNlIGlmIChzdGFydERhdGUgIT0gbnVsbCkgewoJCQliYXNlU3FsLnJlcGxhY2UoIkFTIGEiLCAiQVMgYSBXaGVyZSBmZF9jcmVhdGVfdGltZSA+PSAnJHN0YXJ0RGF0ZSciKQoJCX0gZWxzZSBpZiAoZW5kRGF0ZSAhPSBudWxsKSB7CgkJCWJhc2VTcWwucmVwbGFjZSgiQVMgYSIsICJBUyBhIFdoZXJlIGZkX2NyZWF0ZV90aW1lIDw9ICckZW5kRGF0ZSciKQoJCX0gZWxzZSB7CgkJCWJhc2VTcWwKCQl9</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBDYWNoZWFibGUoY2FjaGVOYW1lcyA9ICJuZXdzIikK</text>
+        <text encoding="base64">CQkJcGFnZVNpemUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">CQkJcGFnZU51bWJlcgo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CQkJCXJldHVybiBpZiAocGFyYW1Mb2dCdWlsZC5yZWFkLmlzTnVsbE9yRW1wdHkoKSkgewoJCQkJCXBhcmFtTG9nQnVpbGQucmVhZC50b1N0cmluZygpCgkJCQl9IGVsc2UgewoJCQkJCXBhcmFtTG9nQnVpbGQucmVhZC50b1N0cmluZygpICsgZml4CgkJCQl9</text>
+        <text>//					val sb = StringBuilder()
+//					for (str: String in favoritePersons) {
+//						sb.append(str).append(&quot;','&quot;)
+//					}
+//					paramLogBuild.favorite = &quot; AND log.employee_id NOT IN ('${sb.substring(0, sb.length - 3)}')&quot;</text>
       </register>
       <register name=":" type="4">
         <text>1267</text>
