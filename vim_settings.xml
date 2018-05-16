@@ -203,7 +203,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526381332998">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526439120603">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -231,7 +231,7 @@
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1526381322433">
+      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1526439114014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
@@ -381,7 +381,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1526437768585">
+      <file name="/dummy.sql" timestamp="1526439114246">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -422,12 +422,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1526436694211">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1526439768898">
         <mark key="'" line="204" column="29" />
-        <mark key="[" line="1212" column="101" />
-        <mark key="]" line="1212" column="101" />
-        <mark key="." line="1212" column="101" />
-        <mark key="^" line="1207" column="111" />
+        <mark key="[" line="1272" column="0" />
+        <mark key="]" line="1272" column="0" />
+        <mark key="." line="1272" column="0" />
+        <mark key="^" line="1270" column="53" />
       </file>
       <file name="/generated.sql" timestamp="1526376381437" />
       <file name="/post_tags [dev - sharetronix@192.168.10.61]" timestamp="1524106790035">
@@ -561,10 +561,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>//					val sb = StringBuilder()
+//					for (str: String in favoritePersons) {
+//						sb.append(str).append(&quot;','&quot;)
+//					}
+//					paramLogBuild.favorite = &quot; AND log.employee_id NOT IN ('${sb.substring(0, sb.length - 3)}')&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
@@ -572,38 +576,42 @@
       <register name="0" type="4">
         <text>matchCount</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJc3FsU2V0ID0gc3FsU2V0LnJlcGxhY2VBZnRlcigiKSIsIiIpCg==</text>
+      <register name="1" type="4">
+        <text>//					val sb = StringBuilder()
+//					for (str: String in favoritePersons) {
+//						sb.append(str).append(&quot;','&quot;)
+//					}
+//					paramLogBuild.favorite = &quot; AND log.employee_id NOT IN ('${sb.substring(0, sb.length - 3)}')&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJc3FsU2V0ID0gc3FsU2V0LnJlcGxhY2VBZnRlcigiKSIsIiIpCg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CgkJCQlpZiAobWF0Y2hSZXN1bHQuY291bnQoKSA+IDApewoJCQkJCXNxbFNldC5yZXBsYWNlQWZ0ZXIoIikiLCIiKQoJCQkJfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQltYXRjaFJlc3VsdC5jb3VudCgpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCXNxbFNldCArPSBhbmRPckNvbmRpdGlvbihwYXJhbUxvZ0J1aWxkLCBwYXJhbUxvZ0J1aWxkLm9yLnRvU3RyaW5nKCksIG9yTGltaXQsICJPUiIsICIpIikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBDYWNoZWFibGUoY2FjaGVOYW1lcyA9ICJuZXdzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CUBDYWNoZWFibGUoY2FjaGVOYW1lcyA9ICJuZXdzIikK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkJCQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CQkJCXJldHVybiBpZiAocGFyYW1Mb2dCdWlsZC5yZWFkLmlzTnVsbE9yRW1wdHkoKSkgewoJCQkJCXBhcmFtTG9nQnVpbGQucmVhZC50b1N0cmluZygpCgkJCQl9IGVsc2UgewoJCQkJCXBhcmFtTG9nQnVpbGQucmVhZC50b1N0cmluZygpICsgZml4CgkJCQl9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>1493</text>
+        <text>1267</text>
       </register>
     </registers>
     <search>
@@ -639,7 +647,6 @@
         <entry>list</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/userInfo/userAttend/g</entry>
         <entry>%s/private//g</entry>
         <entry>%s/ = null/,/g</entry>
         <entry>s/? = null/,/g</entry>
@@ -659,6 +666,7 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>1493</entry>
+        <entry>1267</entry>
       </history-cmd>
       <history-expr />
       <history-input />
