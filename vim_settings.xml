@@ -291,10 +291,10 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1524721309250">
         <mark key="[" line="104" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1526566592175">
-        <mark key="[" line="139" column="9" />
-        <mark key="]" line="139" column="9" />
-        <mark key="." line="139" column="9" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1526575128185">
+        <mark key="[" line="139" column="8" />
+        <mark key="]" line="139" column="8" />
+        <mark key="." line="139" column="8" />
       </file>
       <file name="/sys_notify [prd - wos_common@192.168.10.112]" timestamp="1526096544180">
         <mark key="[" line="0" column="0" />
@@ -595,10 +595,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>COUNT (t.fd_id) AS count</text>
+        <text>8443</text>
       </register>
       <register name="-" type="4">
-        <text>COUNT (t.fd_id) AS count</text>
+        <text>8443</text>
       </register>
       <register name="/" type="4">
         <text>orLimit</text>
