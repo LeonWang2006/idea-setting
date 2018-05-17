@@ -284,7 +284,7 @@
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1526517987812">
+      <file name="/fragment.kt" timestamp="1526521060447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -295,12 +295,12 @@
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526474150403">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526521169573">
         <mark key="'" line="38" column="15" />
-        <mark key="[" line="257" column="19" />
-        <mark key="]" line="258" column="23" />
-        <mark key="." line="258" column="23" />
-        <mark key="^" line="258" column="23" />
+        <mark key="[" line="259" column="57" />
+        <mark key="]" line="259" column="54" />
+        <mark key="." line="259" column="54" />
+        <mark key="^" line="259" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/99f9ff4f-5dda-4421-b90a-af86a4777493/console_2.sql" timestamp="1526479901613">
         <mark key="[" line="13" column="72" />
@@ -543,47 +543,47 @@
       <jump line="1172" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5zdGFydERhdGUgPSAiIgoJCQkJCS8vCQkJCQlwYXJhbUxvZ0J1aWxkLnJlYWQgPSAiIgoJCQkJCS8vCQkJCQlwYXJhbUxvZ0J1aWxkLmV2YWx1YXRlID0gIiIKCQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5ldmFsdWF0ZVJlc3VsdCA9ICIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>format(DateTimeFormatter.ofPattern(&quot;yyyy-mm-dd&quot;))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQkJCQkvL2xvZy5sb2dfZGV0YWlsX3R5cGUgPSAn6IGM6LSj5pel5b+XJyAke3BhcmFtTG9nQnVpbGQudGFyZ2V0SWR9JHtwYXJhbUxvZ0J1aWxkLmRlcH0ke3BhcmFtTG9nQnVpbGQuZW1wR3JhZGV9JHtwYXJhbUxvZ0J1aWxkLnN0YXJ0RGF0ZX0ke3BhcmFtTG9nQnVpbGQuZmF2b3JpdGV9JHtwYXJhbUxvZ0J1aWxkLnJlYWR9JHtwYXJhbUxvZ0J1aWxkLnN1Z2dlc3Rpb259JHtwYXJhbUxvZ0J1aWxkLmV4cGVyaWVuY2V9JHtwYXJhbUxvZ0J1aWxkLndvcmRDb3VudH0ke3BhcmFtTG9nQnVpbGQubW9vZH0ke3BhcmFtTG9nQnVpbGQuZXZhbHVhdGVSZXN1bHR9JHtwYXJhbUxvZ0J1aWxkLmV2YWx1YXRlT3JDb21tZW50fSBHUk9VUCBCWSBsb2cubG9nX2lkIEhBVklORyAxID0gMSAke3BhcmFtTG9nQnVpbGQuZXZhbHVhdGV9</text>
+        <text>format(DateTimeFormatter.ofPattern(&quot;yyyy-mm-dd&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>ifnull</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIFJlc3BvbnNlV3JhcHBlcihyZXN1bHQpCg==</text>
+        <text encoding="base64">CQl2YWwgc3RhcnREYXRlID0gTG9jYWxEYXRlVGltZS5ub3coKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LW1tLWRkIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5zdGFydERhdGUgPSAiIgoJCQkJCS8vCQkJCQlwYXJhbUxvZ0J1aWxkLnJlYWQgPSAiIgoJCQkJCS8vCQkJCQlwYXJhbUxvZ0J1aWxkLmV2YWx1YXRlID0gIiIKCQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5ldmFsdWF0ZVJlc3VsdCA9ICIiCg==</text>
+        <text encoding="base64">CQl2YWwgc3RhcnREYXRlID0gTG9jYWxEYXRlVGltZS5ub3coKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LW1tLWRkIikpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5zdWdnZXN0aW9uID0gIiIKCQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5leHBlcmllbmNlID0gIiIKCQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC53b3JkQ291bnQgPSAiIgo=</text>
+        <text encoding="base64">CQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5zdGFydERhdGUgPSAiIgoJCQkJCS8vCQkJCQlwYXJhbUxvZ0J1aWxkLnJlYWQgPSAiIgoJCQkJCS8vCQkJCQlwYXJhbUxvZ0J1aWxkLmV2YWx1YXRlID0gIiIKCQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5ldmFsdWF0ZVJlc3VsdCA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlzcWxTZXQgPSAiIiAvL3BhaWMK</text>
+        <text encoding="base64">CQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5zdWdnZXN0aW9uID0gIiIKCQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC5leHBlcmllbmNlID0gIiIKCQkJCQkvLwkJCQkJcGFyYW1Mb2dCdWlsZC53b3JkQ291bnQgPSAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlzcWxTZXQgPSAiIiAvL3BhaWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJYXBwSmRiY1RlbXBsYXRlLnVwZGF0ZSgidXBkYXRlIGFwcF91c2VyIHNldCBhdmF0YXIgPSAiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bnVsbAo=</text>
+        <text encoding="base64">CQkJYXBwSmRiY1RlbXBsYXRlLnVwZGF0ZSgidXBkYXRlIGFwcF91c2VyIHNldCBhdmF0YXIgPSAiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlwYXJhbUxvZ0J1aWxkLmV2YWx1YXRlID0gIiAkY29uZGl0aW9uIElGKGZpbmRfaW5fc2V0KCcke3BhcmFtTG9nQnVpbGQud3NJZH0nLGxvZy5ldmFsdWF0ZV93c19pZCkgPiAwLDEsMCkgPSAke3BhcmFtTG9nQnVpbGQuZXZhbHVhdGV9Igo=</text>
+        <text encoding="base64">bnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9hbmQgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDAxJywgbG9nLmV2YWx1YXRlX3dzX2lkKSA+IDAsIDEsIDApID0gMQo=</text>
+        <text encoding="base64">CQkJCQlwYXJhbUxvZ0J1aWxkLmV2YWx1YXRlID0gIiAkY29uZGl0aW9uIElGKGZpbmRfaW5fc2V0KCcke3BhcmFtTG9nQnVpbGQud3NJZH0nLGxvZy5ldmFsdWF0ZV93c19pZCkgPiAwLDEsMCkgPSAke3BhcmFtTG9nQnVpbGQuZXZhbHVhdGV9Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SEFWSU5HIDEgPSAxIAo=</text>
+        <text encoding="base64">Ly9hbmQgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDAxJywgbG9nLmV2YWx1YXRlX3dzX2lkKSA+IDAsIDEsIDApID0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
