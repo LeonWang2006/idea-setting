@@ -126,9 +126,6 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1526107646320">
-        <mark key="'" line="61" column="4" />
-      </file>
       <file name="/app_contacts [dev - ws_app@10.10.18.132]" timestamp="1525490208926">
         <mark key="[" line="0" column="0" />
       </file>
@@ -289,7 +286,7 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1524721309250">
         <mark key="[" line="104" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1526575128185">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1526625522697">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
@@ -333,7 +330,7 @@
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1526610117185">
+      <file name="/fragment.kt" timestamp="1526626722670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -344,8 +341,12 @@
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526573166355">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1526626911770">
         <mark key="'" line="38" column="15" />
+        <mark key="[" line="118" column="52" />
+        <mark key="]" line="120" column="4" />
+        <mark key="." line="120" column="4" />
+        <mark key="^" line="120" column="4" />
       </file>
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
@@ -586,20 +587,20 @@
       <jump line="938" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJZW5kRGF0ZU5ldyA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZW5kRGF0ZS5yZXBsYWNlKCIgIiwiVCIpKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIDIzOjU5OjU5IikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
         <text>initToken</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQl2YWwgdXBkYXRlT3JJbnNlcnRTcWwgPSAiSU5TRVJUIElOVE8gYXBwX2Jsb2dfdG9rZW4gKG5hbWUsIGVtYWlsLCBlbXBsb3llZV9wYXNzd29yZCwgdG9rZW4sIHNlY3JldCxtb2RpZnlfdGltZSkgVkFMVUVTICgnJHt1c2VyWyJ1c2VybmFtZSJdfScsJyR7dXNlclsiZW1haWwiXX0nLCcke3VzZXJbInBhc3N3b3JkIl19JywnJGJsb2dPYXV0aFRva2VuJywnJGJsb2dPYXV0aFRva2VuU2VjcmV0JywgJyRjdXJyZW50VGltZScpIE9OIERVUExJQ0FURSBLRVkgVVBEQVRFIGVtYWlsPSckZW1haWwnLGVtcGxveWVlX3Bhc3N3b3JkPSckcGFzc3dvcmQnLG5hbWU9JyR7dXNlclsidXNlcm5hbWUiXX0nLHRva2VuPSckYmxvZ09hdXRoVG9rZW4nLHNlY3JldD0nJGJsb2dPYXV0aFRva2VuU2VjcmV0Jyxtb2RpZnlfdGltZT0nJGN1cnJlbnRUaW1lJyIK</text>
+        <text encoding="base64">CQl2YWwgZW5kRGF0ZU5ldyA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZW5kRGF0ZSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCAyMzo1OTo1OSIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZW5kRGF0ZU5ldyA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZW5kRGF0ZS5yZXBsYWNlKCIgIiwiVCIpKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIDIzOjU5OjU5IikpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -608,86 +609,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29sdW1uXzcK</text>
+        <text encoding="base64">CQllbmREYXRlTmV3ID0gTG9jYWxEYXRlVGltZS5wYXJzZShlbmREYXRlLnJlcGxhY2UoIiAiLCJUIikpLmZvcm1hdChEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXktTU0tZGQgMjM6NTk6NTkiKSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgoKODYyMzM3LAo4NjIzMzYsCjg2MjMzNSwKODYyMzM0LAo4NjIzMzMsCjg2MjMzMiwKODYyMzMxLAo4NjIzMzAsCjg2MjMyOSwKODYyMzE2LAo4NjIyOTgsCjg2MjI4NiwKODYyMjgxLAo4NjIyODAsCjg2MjI3OCwKODYyMjc3LAo4NjIyNzYsCjg2MjI3NCwKODYyMjczLAo4NjIyNzIs</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZW5kRGF0ZU5ldyA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZW5kRGF0ZS5yZXBsYWNlKCIgIiwiVCIpKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIDIzOjU5OjU5IikpCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Cjg2MjI5OA==</text>
+        <text encoding="base64">ID0gTG9jYWxEYXRlVGltZS5wYXJzZShlbmREYXRlKQ==</text>
       </register>
-      <register name="6" type="4">
-        <text>);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);
-);</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>CREATE TABLE MY_TABLE (
-  pid INT UNSIGNED,
-  uid INT UNSIGNED
-);
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (
-INSERT INTO MY_TABLE(pid) VALUES (</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDEpOwogMSk7CiAxKTsKIDEpOwogMSk7CiAxKTsKIDEpOwogMjMyOCk7CiAxKTsKIDIzMjgpOwogMTgpOwogMjMyOCk7CiAxKTsKIDIpOwogMTg3NSk7CiAxODc1KTsKIDE4NzUpOwogMTg3NSk7CiAyKTsKIDIpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29sdW1uXzcK</text>
       </register>
       <register name="9" type="4">
-        <text>INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (
-INSERT INTO MY_TABLE(pid, uid) VALUES (</text>
+        <text encoding="base64">CgoKODYyMzM3LAo4NjIzMzYsCjg2MjMzNSwKODYyMzM0LAo4NjIzMzMsCjg2MjMzMiwKODYyMzMxLAo4NjIzMzAsCjg2MjMyOSwKODYyMzE2LAo4NjIyOTgsCjg2MjI4NiwKODYyMjgxLAo4NjIyODAsCjg2MjI3OCwKODYyMjc3LAo4NjIyNzYsCjg2MjI3NCwKODYyMjczLAo4NjIyNzIs</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
