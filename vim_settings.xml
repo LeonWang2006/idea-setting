@@ -20,12 +20,11 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1526607860295">
-        <mark key="'" line="88" column="19" />
-        <mark key="[" line="935" column="34" />
-        <mark key="]" line="935" column="34" />
-        <mark key="." line="935" column="34" />
-        <mark key="^" line="1013" column="49" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1526609025698">
+        <mark key="'" line="938" column="16" />
+        <mark key="[" line="1008" column="123" />
+        <mark key="]" line="1006" column="11" />
+        <mark key="." line="1006" column="11" />
       </file>
       <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1526089101044">
         <mark key="[" line="0" column="0" />
@@ -451,6 +450,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1526526924589">
+        <mark key="'" line="1114" column="50" />
+        <mark key="[" line="1437" column="161" />
+        <mark key="]" line="1437" column="161" />
+        <mark key="." line="1437" column="161" />
+      </file>
       <file name="/post_tags [dev - sharetronix@192.168.10.61]" timestamp="1526566103440">
         <mark key="[" line="0" column="0" />
       </file>
@@ -484,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="181" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="274" column="15" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="282" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
@@ -584,33 +588,40 @@
       <jump line="946" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="1137" column="68" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="88" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
+      <jump line="938" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>paramsMap[&quot;msg&quot;]?.toString()?.trim()</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>paramsMap[&quot;msg&quot;]?.toString()?.trim()</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text>initToken</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl2YWwgc3RhcnREYXRlID0gTG9jYWxEYXRlVGltZS5ub3coKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LW1tLWRkIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29sdW1uXzcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoKODYyMzM3LAo4NjIzMzYsCjg2MjMzNSwKODYyMzM0LAo4NjIzMzMsCjg2MjMzMiwKODYyMzMxLAo4NjIzMzAsCjg2MjMyOSwKODYyMzE2LAo4NjIyOTgsCjg2MjI4NiwKODYyMjgxLAo4NjIyODAsCjg2MjI3OCwKODYyMjc3LAo4NjIyNzYsCjg2MjI3NCwKODYyMjczLAo4NjIyNzIs</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cjg2MjI5OA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y29sdW1uXzcK</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CgoKODYyMzM3LAo4NjIzMzYsCjg2MjMzNSwKODYyMzM0LAo4NjIzMzMsCjg2MjMzMiwKODYyMzMxLAo4NjIzMzAsCjg2MjMyOSwKODYyMzE2LAo4NjIyOTgsCjg2MjI4NiwKODYyMjgxLAo4NjIyODAsCjg2MjI3OCwKODYyMjc3LAo4NjIyNzYsCjg2MjI3NCwKODYyMjczLAo4NjIyNzIs</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cjg2MjI5OA==</text>
+      </register>
+      <register name="6" type="4">
         <text>);
 );
 );
@@ -632,7 +643,7 @@
 );
 );</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>CREATE TABLE MY_TABLE (
   pid INT UNSIGNED,
   uid INT UNSIGNED
@@ -658,10 +669,10 @@ INSERT INTO MY_TABLE(pid) VALUES (
 INSERT INTO MY_TABLE(pid) VALUES (
 INSERT INTO MY_TABLE(pid) VALUES (</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IDEpOwogMSk7CiAxKTsKIDEpOwogMSk7CiAxKTsKIDEpOwogMjMyOCk7CiAxKTsKIDIzMjgpOwogMTgpOwogMjMyOCk7CiAxKTsKIDIpOwogMTg3NSk7CiAxODc1KTsKIDE4NzUpOwogMTg3NSk7CiAyKTsKIDIpOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>INSERT INTO MY_TABLE(pid, uid) VALUES (
 INSERT INTO MY_TABLE(pid, uid) VALUES (
 INSERT INTO MY_TABLE(pid, uid) VALUES (
@@ -683,43 +694,14 @@ INSERT INTO MY_TABLE(pid, uid) VALUES (
 INSERT INTO MY_TABLE(pid, uid) VALUES (
 INSERT INTO MY_TABLE(pid, uid) VALUES (</text>
       </register>
-      <register name="8" type="4">
-        <text>CREATE TABLE MY_TABLE (
-  pid INT UNSIGNED,
-  uid INT UNSIGNED
-);
-INSERT INTO MY_TABLE(pid) VALUES (862337);
-INSERT INTO MY_TABLE(pid) VALUES (862336);
-INSERT INTO MY_TABLE(pid) VALUES (862335);
-INSERT INTO MY_TABLE(pid) VALUES (862334);
-INSERT INTO MY_TABLE(pid) VALUES (862333);
-INSERT INTO MY_TABLE(pid) VALUES (862332);
-INSERT INTO MY_TABLE(pid) VALUES (862331);
-INSERT INTO MY_TABLE(pid) VALUES (862330);
-INSERT INTO MY_TABLE(pid) VALUES (862329);
-INSERT INTO MY_TABLE(pid) VALUES (862316);
-INSERT INTO MY_TABLE(pid) VALUES (862298);
-INSERT INTO MY_TABLE(pid) VALUES (862286);
-INSERT INTO MY_TABLE(pid) VALUES (862281);
-INSERT INTO MY_TABLE(pid) VALUES (862280);
-INSERT INTO MY_TABLE(pid) VALUES (862278);
-INSERT INTO MY_TABLE(pid) VALUES (862277);
-INSERT INTO MY_TABLE(pid) VALUES (862276);
-INSERT INTO MY_TABLE(pid) VALUES (862274);
-INSERT INTO MY_TABLE(pid) VALUES (862273);
-INSERT INTO MY_TABLE(pid) VALUES (862272);</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQl2YWwgc3RhcnREYXRlID0gTG9jYWxEYXRlVGltZS5ub3coKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LW1tLWRkIikpCg==</text>
-      </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
       </register>
     </registers>
     <search>
-      <last-search>message</last-search>
+      <last-search>initToken</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern>initToken</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>MY_TABLE</last-substitute>
       <last-dir>1</last-dir>
@@ -727,7 +709,6 @@ INSERT INTO MY_TABLE(pid) VALUES (862272);</text>
     </search>
     <history>
       <history-search>
-        <entry>comment</entry>
         <entry>messagw</entry>
         <entry>follow</entry>
         <entry>获取我关注到</entry>
@@ -747,6 +728,7 @@ INSERT INTO MY_TABLE(pid) VALUES (862272);</text>
         <entry>ifnull</entry>
         <entry>orLimit</entry>
         <entry>message</entry>
+        <entry>initToken</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = null/,/g</entry>
