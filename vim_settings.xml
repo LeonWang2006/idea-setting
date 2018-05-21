@@ -67,7 +67,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1526543526061">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1526902289338">
         <mark key="[" line="34" column="9" />
         <mark key="]" line="34" column="9" />
         <mark key="." line="34" column="9" />
@@ -215,6 +215,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1526477277366">
         <mark key="[" line="60" column="67" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_1.sql" timestamp="1526901321897" />
       <file name="/hrs_yiilog_debug [prd - wos_hrs@192.168.10.112]" timestamp="1526003752825">
         <mark key="[" line="0" column="0" />
       </file>
@@ -238,8 +239,11 @@
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1526604876786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/User.kt" timestamp="1526901145876">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/User.kt" timestamp="1526901713849">
         <mark key="[" line="3" column="120" />
+        <mark key="]" line="3" column="137" />
+        <mark key="^" line="3" column="137" />
+        <mark key="." line="3" column="137" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
@@ -374,6 +378,11 @@
       <file name="/post_like [dev - sharetronix@192.168.10.61]" timestamp="1523546247463">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console.sql" timestamp="1526901401302">
+        <mark key="[" line="15" column="86" />
+        <mark key="]" line="15" column="86" />
+        <mark key="." line="15" column="86" />
+      </file>
       <file name="/hrs_log_comment [dev - wos_hrs@10.10.18.130]" timestamp="1524282364281">
         <mark key="[" line="0" column="0" />
       </file>
@@ -417,13 +426,19 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console_2.sql" timestamp="1526460863310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526001518561">
+      <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526901411947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1526896456191">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1526902586178">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="44" column="44" />
+        <mark key="^" line="44" column="44" />
+        <mark key="." line="44" column="44" />
+      </file>
+      <file name="/dummy.sql" timestamp="1526901412294">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -599,11 +614,11 @@
       <jump line="938" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZW5kRGF0ZU5ldyA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZW5kRGF0ZS5yZXBsYWNlKCIgIiwiVCIpKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIDIzOjU5OjU5IikpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ly8JCWh0dHAuYXV0aG9yaXplUmVxdWVzdHMoKQovLwkJCS5hbnRNYXRjaGVycygiL2luZGV4Lmh0bWwiLCAiLyIsICIvKioiLCAiLyoucG5nIiwgIi9tYW5pZmVzdC5wbGlzdCIsICIvKi5pcGEiLCAiLyouYXBrIiwgIi9zdG9jay9pbmRleC5odG1sIiwgIi9zdG9jay8qKiIsICIvd2VpYm8vKioiLCAiL3d4LyoqIiwgIi93ZWl4aW4vKioiKS5wZXJtaXRBbGwoKQovLwkJCS5hbmQoKQovLwkJCS5hdXRob3JpemVSZXF1ZXN0cygpLnJlcXVlc3RNYXRjaGVycyhSZXF1ZXN0TWF0Y2hlciB7IHJlcXVlc3Q6IEh0dHBTZXJ2bGV0UmVxdWVzdCAtPiByZXF1ZXN0Lm1ldGhvZCAhPSAiT1BUSU9OUyJ9KS5mdWxseUF1dGhlbnRpY2F0ZWQoKQovLwkJCS5hbmQoKQovLwkJCS5odHRwQmFzaWMoKQovLwkJCS5hbmQoKQovLwkJCS5jc3JmKCkuZGlzYWJsZSgpCgkJLy8gaHR0cC5hdXRob3JpemVSZXF1ZXN0cygpLmFueVJlcXVlc3QoKS5wZXJtaXRBbGwoKTsgLy8gQWxzbyBkb2Vzbid0IHdvcmsu</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>18042937</text>
       </register>
       <register name="/" type="4">
         <text>initToken</text>
@@ -611,35 +626,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQl2YWwgZW5kRGF0ZU5ldyA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZW5kRGF0ZSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCAyMzo1OTo1OSIpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJZW5kRGF0ZU5ldyA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZW5kRGF0ZS5yZXBsYWNlKCIgIiwiVCIpKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIDIzOjU5OjU5IikpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ly8JCWh0dHAuYXV0aG9yaXplUmVxdWVzdHMoKQovLwkJCS5hbnRNYXRjaGVycygiL2luZGV4Lmh0bWwiLCAiLyIsICIvKioiLCAiLyoucG5nIiwgIi9tYW5pZmVzdC5wbGlzdCIsICIvKi5pcGEiLCAiLyouYXBrIiwgIi9zdG9jay9pbmRleC5odG1sIiwgIi9zdG9jay8qKiIsICIvd2VpYm8vKioiLCAiL3d4LyoqIiwgIi93ZWl4aW4vKioiKS5wZXJtaXRBbGwoKQovLwkJCS5hbmQoKQovLwkJCS5hdXRob3JpemVSZXF1ZXN0cygpLnJlcXVlc3RNYXRjaGVycyhSZXF1ZXN0TWF0Y2hlciB7IHJlcXVlc3Q6IEh0dHBTZXJ2bGV0UmVxdWVzdCAtPiByZXF1ZXN0Lm1ldGhvZCAhPSAiT1BUSU9OUyJ9KS5mdWxseUF1dGhlbnRpY2F0ZWQoKQovLwkJCS5hbmQoKQovLwkJCS5odHRwQmFzaWMoKQovLwkJCS5hbmQoKQovLwkJCS5jc3JmKCkuZGlzYWJsZSgpCgkJLy8gaHR0cC5hdXRob3JpemVSZXF1ZXN0cygpLmFueVJlcXVlc3QoKS5wZXJtaXRBbGwoKTsgLy8gQWxzbyBkb2Vzbid0IHdvcmsu</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQllbmREYXRlTmV3ID0gTG9jYWxEYXRlVGltZS5wYXJzZShlbmREYXRlLnJlcGxhY2UoIiAiLCJUIikpLmZvcm1hdChEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXktTU0tZGQgMjM6NTk6NTkiKSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CQkJZW5kRGF0ZU5ldyA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZW5kRGF0ZS5yZXBsYWNlKCIgIiwiVCIpKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIDIzOjU5OjU5IikpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ID0gTG9jYWxEYXRlVGltZS5wYXJzZShlbmREYXRlKQ==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQllbmREYXRlTmV3ID0gTG9jYWxEYXRlVGltZS5wYXJzZShlbmREYXRlLnJlcGxhY2UoIiAiLCJUIikpLmZvcm1hdChEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXktTU0tZGQgMjM6NTk6NTkiKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJZW5kRGF0ZU5ldyA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZW5kRGF0ZS5yZXBsYWNlKCIgIiwiVCIpKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIDIzOjU5OjU5IikpCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ID0gTG9jYWxEYXRlVGltZS5wYXJzZShlbmREYXRlKQ==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29sdW1uXzcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgoKODYyMzM3LAo4NjIzMzYsCjg2MjMzNSwKODYyMzM0LAo4NjIzMzMsCjg2MjMzMiwKODYyMzMxLAo4NjIzMzAsCjg2MjMyOSwKODYyMzE2LAo4NjIyOTgsCjg2MjI4NiwKODYyMjgxLAo4NjIyODAsCjg2MjI3OCwKODYyMjc3LAo4NjIyNzYsCjg2MjI3NCwKODYyMjczLAo4NjIyNzIs</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29sdW1uXzcK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
