@@ -417,10 +417,11 @@
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1525654916817">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/UserPrincipal.kt" timestamp="1526961499508">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/UserPrincipal.kt" timestamp="1526968305904">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="41" column="18" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/hrs_log_detail [prd - wos_hrs@192.168.10.112]" timestamp="1526001534469">
         <mark key="[" line="0" column="0" />
@@ -595,7 +596,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>UserPrincipal</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
@@ -613,22 +614,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CWNvbXBhbmlvbiBvYmplY3QgewoJCWZ1biBjcmVhdGUodXNlcjogVXNlcik6IFVzZXJQcmluY2lwYWwgewoJCQl2YWwgYXV0aG9yaXRpZXMgPSB1c2VyLmdldFJvbGVzKCkuc3RyZWFtKCkubWFwKHsgcm9sZSAtPiBTaW1wbGVHcmFudGVkQXV0aG9yaXR5KHJvbGUuZ2V0TmFtZSgpLm5hbWUoKSkgfSkuY29sbGVjdCgKCQkJCUNvbGxlY3RvcnMudG9MaXN0PFQ+KCkKCQkJKQoKCQkJcmV0dXJuIFVzZXJQcmluY2lwYWwoCgkJCQl1c2VyLmlkISEudG9Mb25nKCksIHVzZXIuZ2V0TmFtZSgpLCB1c2VyLnVzZXJuYW1lLCB1c2VyLmdldEVtYWlsKCksIHVzZXIucGFzc3dvcmQsIGF1dGhvcml0aWVzCgkJCSkKCQl9Cgl9</text>
+        <text encoding="base64">CS8vCXByaXZhdGUgdmFyIGlkOiBMb25nCgkvLwlwcml2YXRlIHZhciBuYW1lOiBTdHJpbmcgPSBudWxsCgkvLwlwcml2YXRlIHZhciB1c2VybmFtZTogU3RyaW5nID0gbnVsbAoJLy8JQEpzb25JZ25vcmUKCS8vCXByaXZhdGUgdmFyIGVtYWlsOiBTdHJpbmcgPSBudWxsCgkvLwlASnNvbklnbm9yZQoJLy8JcHJpdmF0ZSB2YXIgcGFzc3dvcmQ6IFN0cmluZyA9IG51bGwKCS8vCXByaXZhdGUgdmFyIGF1dGhvcml0aWVzOiBNdXRhYmxlQ29sbGVjdGlvbjxHcmFudGVkQXV0aG9yaXR5PiA9IG51bGwKCgkvLwljb25zdHJ1Y3RvcigKCS8vCQlpZDogTG9uZywKCS8vCQluYW1lOiBTdHJpbmcsCgkvLwkJdXNlcm5hbWU6IFN0cmluZywKCS8vCQllbWFpbDogU3RyaW5nLAoJLy8JCXBhc3N3b3JkOiBTdHJpbmcsCgkvLwkJYXV0aG9yaXRpZXM6IE11dGFibGVDb2xsZWN0aW9uPEdyYW50ZWRBdXRob3JpdHk+CgkvLwkpIDogdGhpcygpIHsKCS8vCQl0aGlzLmlkID0gaWQKCS8vCQl0aGlzLm5hbWUgPSBuYW1lCgkvLwkJdGhpcy51c2VybmFtZSA9IHVzZXJuYW1lCgkvLwkJdGhpcy5lbWFpbCA9IGVtYWlsCgkvLwkJdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkCgkvLwkJdGhpcy5hdXRob3JpdGllcyA9IGF1dGhvcml0aWVzCgkvLwl9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgdmFyIHBhc3N3b3JkOiBTdHJpbmcsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
