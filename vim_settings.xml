@@ -65,11 +65,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1526973808432">
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="59" column="3" />
-        <mark key="." line="59" column="3" />
-        <mark key="^" line="59" column="13" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1526982888289">
+        <mark key="^" line="63" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console_1.sql" timestamp="1526041676421">
         <mark key="[" line="3" column="69" />
@@ -214,8 +211,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1526477277366">
         <mark key="[" line="60" column="67" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/JwtTokenProvider.kt" timestamp="1526974010195">
-        <mark key="[" line="13" column="24" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/JwtTokenProvider.kt" timestamp="1526982507577">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_1.sql" timestamp="1526901321897" />
       <file name="/hrs_yiilog_debug [prd - wos_hrs@192.168.10.112]" timestamp="1526003752825">
@@ -270,7 +269,7 @@
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1526611845677">
+      <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1526981736255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
@@ -401,6 +400,9 @@
       <file name="/MySQL Fragment (MsgService.kt:9860).sql" timestamp="1525692306073">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/Application.kt" timestamp="1526982941764">
+        <mark key="[" line="10" column="0" />
+      </file>
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -416,10 +418,10 @@
       <file name="/user [visit@localhost]" timestamp="1526896113754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/CustomUserDetailsService.kt" timestamp="1526973679558">
-        <mark key="[" line="19" column="72" />
-        <mark key="]" line="19" column="72" />
-        <mark key="." line="19" column="72" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/CustomUserDetailsService.kt" timestamp="1526982265109">
+        <mark key="[" line="21" column="72" />
+        <mark key="]" line="21" column="72" />
+        <mark key="." line="21" column="72" />
       </file>
       <file name="/hrs_yiilog_operation_category [prd - wos_hrs@192.168.10.112]" timestamp="1526261414431">
         <mark key="[" line="0" column="0" />
@@ -437,7 +439,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1526969028895" />
-      <file name="/dummy.sql" timestamp="1526979618568">
+      <file name="/dummy.sql" timestamp="1526981736490">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -447,9 +449,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1524464006973">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1526893296999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1525654916817">
@@ -628,10 +627,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>## Hibernate Logging
+logging: 
+  level: 
+    org.hibernate.SQL: DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>import kotlin.reflect.jvm.internal.impl.utils.CollectionsKt.compact</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
@@ -639,32 +641,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQl0aGlzLm5hbWUgPSBuYW1lCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJdXNlcm5hbWVPckVtYWlsLAo=</text>
+      <register name="1" type="4">
+        <text>## Hibernate Logging
+logging: 
+  level: 
+    org.hibernate.SQL: DEBUG</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBocnNfY2FjaGVfdmRlcGFydG1lbnQ=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyRGV0YWlscwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CW92ZXJyaWRlIGZ1biBkb0ZpbHRlckludGVybmFsKAoJCXJlcXVlc3Q6IEh0dHBTZXJ2bGV0UmVxdWVzdCwgcmVzcG9uc2U6IEh0dHBTZXJ2bGV0UmVzcG9uc2UsIGZpbHRlckNoYWluOiBGaWx0ZXJDaGFpbgoJKSB7CgkJVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCgl9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdXNlcm5hbWVPckVtYWlsLAo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CS8vCXByaXZhdGUgdmFyIGlkOiBMb25nCgkvLwlwcml2YXRlIHZhciBuYW1lOiBTdHJpbmcgPSBudWxsCgkvLwlwcml2YXRlIHZhciB1c2VybmFtZTogU3RyaW5nID0gbnVsbAoJLy8JQEpzb25JZ25vcmUKCS8vCXByaXZhdGUgdmFyIGVtYWlsOiBTdHJpbmcgPSBudWxsCgkvLwlASnNvbklnbm9yZQoJLy8JcHJpdmF0ZSB2YXIgcGFzc3dvcmQ6IFN0cmluZyA9IG51bGwKCS8vCXByaXZhdGUgdmFyIGF1dGhvcml0aWVzOiBNdXRhYmxlQ29sbGVjdGlvbjxHcmFudGVkQXV0aG9yaXR5PiA9IG51bGwKCgkvLwljb25zdHJ1Y3RvcigKCS8vCQlpZDogTG9uZywKCS8vCQluYW1lOiBTdHJpbmcsCgkvLwkJdXNlcm5hbWU6IFN0cmluZywKCS8vCQllbWFpbDogU3RyaW5nLAoJLy8JCXBhc3N3b3JkOiBTdHJpbmcsCgkvLwkJYXV0aG9yaXRpZXM6IE11dGFibGVDb2xsZWN0aW9uPEdyYW50ZWRBdXRob3JpdHk+CgkvLwkpIDogdGhpcygpIHsKCS8vCQl0aGlzLmlkID0gaWQKCS8vCQl0aGlzLm5hbWUgPSBuYW1lCgkvLwkJdGhpcy51c2VybmFtZSA9IHVzZXJuYW1lCgkvLwkJdGhpcy5lbWFpbCA9IGVtYWlsCgkvLwkJdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkCgkvLwkJdGhpcy5hdXRob3JpdGllcyA9IGF1dGhvcml0aWVzCgkvLwl9</text>
+        <text encoding="base64">CiAgICBocnNfY2FjaGVfdmRlcGFydG1lbnQ=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CS8vCXByaXZhdGUgdmFyIGlkOiBMb25nCgkvLwlwcml2YXRlIHZhciBuYW1lOiBTdHJpbmcgPSBudWxsCgkvLwlwcml2YXRlIHZhciB1c2VybmFtZTogU3RyaW5nID0gbnVsbAoJLy8JQEpzb25JZ25vcmUKCS8vCXByaXZhdGUgdmFyIGVtYWlsOiBTdHJpbmcgPSBudWxsCgkvLwlASnNvbklnbm9yZQoJLy8JcHJpdmF0ZSB2YXIgcGFzc3dvcmQ6IFN0cmluZyA9IG51bGwKCS8vCXByaXZhdGUgdmFyIGF1dGhvcml0aWVzOiBNdXRhYmxlQ29sbGVjdGlvbjxHcmFudGVkQXV0aG9yaXR5PiA9IG51bGwKCgkvLwljb25zdHJ1Y3RvcigKCS8vCQlpZDogTG9uZywKCS8vCQluYW1lOiBTdHJpbmcsCgkvLwkJdXNlcm5hbWU6IFN0cmluZywKCS8vCQllbWFpbDogU3RyaW5nLAoJLy8JCXBhc3N3b3JkOiBTdHJpbmcsCgkvLwkJYXV0aG9yaXRpZXM6IE11dGFibGVDb2xsZWN0aW9uPEdyYW50ZWRBdXRob3JpdHk+CgkvLwkpIDogdGhpcygpIHsKCS8vCQl0aGlzLmlkID0gaWQKCS8vCQl0aGlzLm5hbWUgPSBuYW1lCgkvLwkJdGhpcy51c2VybmFtZSA9IHVzZXJuYW1lCgkvLwkJdGhpcy5lbWFpbCA9IGVtYWlsCgkvLwkJdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkCgkvLwkJdGhpcy5hdXRob3JpdGllcyA9IGF1dGhvcml0aWVzCgkvLwl9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQlUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
