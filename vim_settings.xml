@@ -149,7 +149,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/ArchivesService.kt" timestamp="1527060636678" />
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1527069241057">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1527082466554">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -182,7 +182,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1527081393442">
+      <file name="/a.sql" timestamp="1527082002399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1525505125571">
@@ -193,6 +193,9 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinToken.kt" timestamp="1523157171762">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="/hrs_log_stat [dev - wos_hrs@10.10.18.130]" timestamp="1527081947960">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_yiilog_operation [prd - wos_common@192.168.10.112]" timestamp="1526005487619">
         <mark key="[" line="0" column="0" />
@@ -455,11 +458,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1526969028895" />
-      <file name="/dummy.sql" timestamp="1527081409348">
+      <file name="/dummy.sql" timestamp="1527082022406">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/app_user [prd - app@192.168.10.20]" timestamp="1526955838449">
         <mark key="[" line="0" column="0" />
@@ -643,10 +646,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBjb21waWxlKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1qc29uIik=</text>
+        <text>set('admin', 'user')</text>
       </register>
       <register name="-" type="4">
-        <text>jpa</text>
+        <text>set('admin', 'user')</text>
       </register>
       <register name="/" type="4">
         <text>Bean</text>
