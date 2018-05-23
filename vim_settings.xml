@@ -246,12 +246,6 @@
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1526604876786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/User.kt" timestamp="1526901713849">
-        <mark key="[" line="3" column="120" />
-        <mark key="]" line="3" column="137" />
-        <mark key="^" line="3" column="137" />
-        <mark key="." line="3" column="137" />
-      </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,11 +312,11 @@
       <file name="/posts_attachments [dev - sharetronix@192.168.10.61]" timestamp="1523497636726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/build.gradle" timestamp="1527069877601">
-        <mark key="[" line="48" column="58" />
-        <mark key="]" line="48" column="58" />
-        <mark key="." line="48" column="58" />
-        <mark key="^" line="48" column="3" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/build.gradle" timestamp="1527071617686">
+        <mark key="[" line="47" column="68" />
+        <mark key="]" line="47" column="68" />
+        <mark key="." line="47" column="68" />
+        <mark key="^" line="47" column="3" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1526950216520" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.kt" timestamp="1525887840998">
@@ -646,7 +640,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jpa</text>
+        <text encoding="base64">CiAgICBjb21waWxlKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1qc29uIik=</text>
       </register>
       <register name="-" type="4">
         <text>jpa</text>
@@ -657,16 +651,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoJ2NvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU6amFja3Nvbi1tb2R1bGUta290bGluJykK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBjb21waWxlKCJvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1qc29uIik=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUoJ2NvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU6amFja3Nvbi1tb2R1bGUta290bGluJykK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CUBOYXR1cmFsSWQK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>, uniqueConstraints = {
 	UniqueConstraint(columnNames = {
 		&quot;username&quot;
@@ -675,23 +672,20 @@
 		&quot;email&quot;
 	})</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKGVtYWlsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKGVtYWlsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g6L2s5Y+R6K+35rGCIHt9IiwgcmVxdWVzdC5zZXNzaW9uLmlkLCBFbnYuYmxvZ1VuRm9sbG93VXJsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2YWwgcmVzdFRlbXBsYXRlID0gVXRpbC5nZXRSZXN0VGVtcGxhdGUoRW52LmJsb2dVbkZvbGxvd1VybCwgcmVzdFRlbXBsYXRlQnVpbGRlciwgcmVxdWVzdCkK</text>
+        <text encoding="base64">CQlsb2dnZXIuaW5mbygie30g6L2s5Y+R6K+35rGCIHt9IiwgcmVxdWVzdC5zZXNzaW9uLmlkLCBFbnYuYmxvZ1VuRm9sbG93VXJsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgcmVzdFRlbXBsYXRlID0gVXRpbC5nZXRSZXN0VGVtcGxhdGUoRW52LmJsb2dVbkZvbGxvd1VybCwgcmVzdFRlbXBsYXRlQnVpbGRlciwgcmVxdWVzdCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
