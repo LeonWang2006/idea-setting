@@ -65,8 +65,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1526982888289">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1527043092306">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="63" column="13" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console_1.sql" timestamp="1526041676421">
         <mark key="[" line="3" column="69" />
@@ -626,8 +629,8 @@
       <jump line="241" column="25" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54bWwuaW50ZXJuYWwuc2VjdXJpdHkuYWxnb3JpdGhtcy5TaWduYXR1cmVBbGdvcml0aG0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIHNlcmlhbGl6YXRpb246CiAgICAgIFdSSVRFX0RBVEVTX0FTX1RJTUVTVEFNUFM6IGZhbHNl</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -638,14 +641,14 @@
       <register name="0" type="2">
         <text encoding="base64">CQl0aGlzLm5hbWUgPSBuYW1lCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54bWwuaW50ZXJuYWwuc2VjdXJpdHkuYWxnb3JpdGhtcy5TaWduYXR1cmVBbGdvcml0aG0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHNlcmlhbGl6YXRpb246CiAgICAgIFdSSVRFX0RBVEVTX0FTX1RJTUVTVEFNUFM6IGZhbHNl</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54bWwuaW50ZXJuYWwuc2VjdXJpdHkuYWxnb3JpdGhtcy5TaWduYXR1cmVBbGdvcml0aG0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -653,23 +656,23 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS9zcHJpbmctc2VjdXJpdHktand0CiAgICBjb21waWxlIGdyb3VwOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eScsIG5hbWU6ICdzcHJpbmctc2VjdXJpdHktand0JywgdmVyc2lvbjogJzEuMC45LlJFTEVBU0Un</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eS9zcHJpbmctc2VjdXJpdHktand0CiAgICBjb21waWxlIGdyb3VwOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5zZWN1cml0eScsIG5hbWU6ICdzcHJpbmctc2VjdXJpdHktand0JywgdmVyc2lvbjogJzEuMC45LlJFTEVBU0Un</text>
+      </register>
+      <register name="7" type="4">
         <text>## Hibernate Logging
 logging: 
   level: 
     org.hibernate.SQL: DEBUG</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyRGV0YWlscwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CW92ZXJyaWRlIGZ1biBkb0ZpbHRlckludGVybmFsKAoJCXJlcXVlc3Q6IEh0dHBTZXJ2bGV0UmVxdWVzdCwgcmVzcG9uc2U6IEh0dHBTZXJ2bGV0UmVzcG9uc2UsIGZpbHRlckNoYWluOiBGaWx0ZXJDaGFpbgoJKSB7CgkJVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCgl9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJdXNlcm5hbWVPckVtYWlsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
