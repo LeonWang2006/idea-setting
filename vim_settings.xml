@@ -18,12 +18,12 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1526970454799">
-        <mark key="'" line="938" column="16" />
-        <mark key="[" line="1041" column="384" />
-        <mark key="]" line="1041" column="384" />
-        <mark key="." line="1041" column="384" />
-        <mark key="^" line="877" column="8" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1527047691501">
+        <mark key="'" line="997" column="16" />
+        <mark key="[" line="827" column="50" />
+        <mark key="]" line="827" column="49" />
+        <mark key="." line="827" column="49" />
+        <mark key="^" line="827" column="49" />
       </file>
       <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1526089101044">
         <mark key="[" line="0" column="0" />
@@ -266,7 +266,7 @@
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1526154307373">
+      <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1527047398485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
@@ -442,7 +442,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1526969028895" />
-      <file name="/dummy.sql" timestamp="1526981736490">
+      <file name="/dummy.sql" timestamp="1527047423820">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -490,9 +490,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1526970479775">
-        <mark key="'" line="206" column="273" />
       </file>
       <file name="/post_tags [dev - sharetronix@192.168.10.61]" timestamp="1526566103440">
         <mark key="[" line="0" column="0" />
@@ -630,10 +627,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHNlcmlhbGl6YXRpb246CiAgICAgIFdSSVRFX0RBVEVTX0FTX1RJTUVTVEFNUFM6IGZhbHNl</text>
+        <text>targetEmail</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>targetEmail</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
