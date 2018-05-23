@@ -372,6 +372,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/stock/index.html" timestamp="1526893108049" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/BlogUser.kt" timestamp="1527061691745">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="63" />
+        <mark key="." line="2" column="63" />
+      </file>
       <file name="/post_like [prd - sharetronix@192.168.10.65]" timestamp="1523636217966">
         <mark key="[" line="0" column="0" />
       </file>
@@ -626,11 +631,11 @@
       <jump line="241" column="25" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>[&quot;email&quot;]</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
