@@ -352,10 +352,10 @@
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/UserRepository.kt" timestamp="1527142495574">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/UserRepository.kt" timestamp="1527144284101">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1526626722670">
         <mark key="[" line="0" column="0" />
@@ -418,14 +418,16 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/users [dev - ws_app@10.10.18.132]" timestamp="1527128860827">
+      <file name="/users [dev - ws_app@10.10.18.132]" timestamp="1527144051445">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/MySQL Fragment (MsgService.kt:9860).sql" timestamp="1525692306073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/Application.kt" timestamp="1526982941764">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/Application.kt" timestamp="1527144080695">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
@@ -449,10 +451,10 @@
       <file name="/user [visit@localhost]" timestamp="1526896113754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/CustomUserDetailsService.kt" timestamp="1527131411519">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/CustomUserDetailsService.kt" timestamp="1527144320867">
+        <mark key="[" line="21" column="71" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/hrs_yiilog_operation_category [prd - wos_hrs@192.168.10.112]" timestamp="1526261414431">
         <mark key="[" line="0" column="0" />
@@ -470,7 +472,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1526969028895" />
-      <file name="/dummy.sql" timestamp="1527133625634">
+      <file name="/dummy.sql" timestamp="1527144051587">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -658,11 +660,11 @@
       <jump line="416" column="38" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IDENTITY</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZUpwYVJlcG9zaXRvcmllcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>IDENTITY</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Bean</text>
@@ -671,36 +673,34 @@
         <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWUgPSAidXNlcnMiKQo=</text>
+        <text encoding="base64">QEVuYWJsZUpwYVJlcG9zaXRvcmllcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlKZGJjVGVtcGxhdGUK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovLzEwLjEwLjE4LjEzMjozMzA2L3Zpc2l0P2NoYXJhY3RlckVuY29kaW5nPXV0ZjgmemVyb0RhdGVUaW1lQmVoYXZpb3I9Y29udmVydFRvTnVsbCZlbXB0eVN0cmluZ3NDb252ZXJ0VG9aZXJvPXRydWUmdXNlU1NMPWZhbHNlCiAgICB1c2VybmFtZTogcm9vdAogICAgcGFzc3dvcmQ6IGRyYWdvbgogICAgZHJpdmVyLWNsYXNzLW5hbWU6IGNvbS5teXNxbC5jai5qZGJjLkRyaXZlcg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAgICBjb20uemF4eGVyLmhpa2FyaTogZGVidWcK</text>
-      </register>
-      <register name="5" type="4">
-        <text># The SQL dialect makes Hibernate generate better SQL for the chosen database
-#spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDialect
-#spring.jpa.hibernate.ddl-auto = update</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgYXZhdGFyIEZST00gYGFwcF91c2VyYCBXSEVSRSBlbXBsb3llZV9pZCA9ID8xIiwgbmF0aXZlUXVlcnkgPSB0cnVlKQoJZnVuIGdldEF2YXRhcih3c0lkOiBTdHJpbmcpOiBTdHJpbmc=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQl2YWwgdXNlclNxbCA9ICJzZWxlY3QgKiBmcm9tIHVzZXJzIHdoZXJlIHVzZXJuYW1lID0gJHVzZXJuYW1lT3JFbWFpbCBvciBlbWFpbCA9ICR1c2VybmFtZU9yRW1haWwiCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CgoKLy8JQFF1ZXJ5KHZhbHVlID0gIlNFTEVDVCBhdmF0YXIgRlJPTSBgYXBwX3VzZXJgIFdIRVJFIGVtcGxveWVlX2lkID0gPzEiLCBuYXRpdmVRdWVyeSA9IHRydWUpCi8vCWZ1biBnZXRBdmF0YXIod3NJZDogU3RyaW5nKTogU3RyaW5nCgoJZnVuIGZpbmRBbGxDb250YWN0c0V4Y2VwdElkcyh3c0lkczogTGlzdDxTdHJpbmc+KTogTGlzdDxVc2VyPg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CWZ1biBmaW5kQWxsQ29udGFjdHMoKTogTGlzdDxVc2VyPgoKCWZ1biBmaW5kQ29udGFjdERldGFpbHNCeUlkcyh3c0lkOiBTZXQ8U3RyaW5nPik6IExpc3Q8VXNlcj4KCglmdW4gZmluZENvbnRhY3REZXRhaWxzRm9yQ0VPKCk6IExpc3Q8VXNlcj4KCglmdW4gZmluZENvbnRhY3REZXRhaWxzQnlEZXBJRDEodmFyMTogU3RyaW5nLCB2YXIyOiBTdHJpbmcpOiBMaXN0PFVzZXI+CgoJZnVuIGZpbmRDb250YWN0RGV0YWlsc0J5RGVwSUQodmFyMTogU3RyaW5nLCB2YXIyOiBTdHJpbmcpOiBMaXN0PFVzZXI+</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QFRhYmxlKG5hbWUgPSAidXNlcnMiKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlKZGJjVGVtcGxhdGUK</text>
+      </register>
       <register name="8" type="4">
-        <text encoding="base64">Ly8JCXZhbCBhdXRob3JpdGllcyA9IHVzZXIuZ2V0Um9sZXMoKS5zdHJlYW0oKS5tYXAoeyByb2xlIC0+IFNpbXBsZUdyYW50ZWRBdXRob3JpdHkocm9sZS5nZXROYW1lKCkubmFtZSgpKSB9KS5jb2xsZWN0KAovLwkJCUNvbGxlY3RvcnMudG9MaXN0PFQ+KCkKLy8JCSk=</text>
+        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovLzEwLjEwLjE4LjEzMjozMzA2L3Zpc2l0P2NoYXJhY3RlckVuY29kaW5nPXV0ZjgmemVyb0RhdGVUaW1lQmVoYXZpb3I9Y29udmVydFRvTnVsbCZlbXB0eVN0cmluZ3NDb252ZXJ0VG9aZXJvPXRydWUmdXNlU1NMPWZhbHNlCiAgICB1c2VybmFtZTogcm9vdAogICAgcGFzc3dvcmQ6IGRyYWdvbgogICAgZHJpdmVyLWNsYXNzLW5hbWU6IGNvbS5teXNxbC5jai5qZGJjLkRyaXZlcg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YWwgY29sbGVjdGlvbiA9IChyb2xzZUpzb24pCg==</text>
+        <text encoding="base64">IyAgICBjb20uemF4eGVyLmhpa2FyaTogZGVidWcK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
