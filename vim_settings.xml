@@ -40,10 +40,10 @@
       <file name="/user_ext [prd - oa_new@192.168.10.6]" timestamp="1526384232263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1526574480293">
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1527262215630">
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="33" />
       </file>
       <file name="/user_ext [dev - oa_new@10.10.18.133]" timestamp="1524050656859">
         <mark key="[" line="0" column="0" />
@@ -452,7 +452,7 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1526574461051">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1527262205790">
         <mark key="[" line="143" column="35" />
         <mark key="]" line="143" column="36" />
         <mark key="." line="143" column="36" />
@@ -501,8 +501,10 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1524464006973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527252579074">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1527262256136">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
         <mark key="[" line="0" column="0" />
@@ -682,7 +684,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>首页及微博模块UI升级</text>
+        <text>新增微信数据服务
+原消息服务调整</text>
       </register>
       <register name="-" type="4">
         <text>首页及微博模块UI升级</text>
@@ -694,34 +697,35 @@
         <text encoding="base64">CQkJbG9nZ2VyLmluZm8oIldPU+i/lOWbniAtICR7cmVzcG9uc2UuYm9keX0iKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAibGF0aXR1ZGUiLCB2YWx1ZSA9ICLnu4/luqYiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKCQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAibG9uZ2l0dWRlIiwgdmFsdWUgPSAi57qs5bqmIiwgcGFyYW1UeXBlID0gInF1ZXJ5Iik=</text>
+        <text>新增微信数据服务
+原消息服务调整</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtCgkJbGF0aXR1ZGU6IFN0cmluZz8sCgkJQFJlcXVlc3RQYXJhbQoJCWxvbmdpdHVkZTogU3RyaW5nPw==</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAibGF0aXR1ZGUiLCB2YWx1ZSA9ICLnu4/luqYiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKCQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAibG9uZ2l0dWRlIiwgdmFsdWUgPSAi57qs5bqmIiwgcGFyYW1UeXBlID0gInF1ZXJ5Iik=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtCgkJbGF0aXR1ZGU6IFN0cmluZz8sCgkJQFJlcXVlc3RQYXJhbQoJCWxvbmdpdHVkZTogU3RyaW5nPw==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">Ci8vCQl2YWwgdGltZXpvbmUgPSBtYXBTZXJ2aWNlLmdldFRpbWVab25lKGxhdGl0dWRlISEsIGxvbmdpdHVkZSEhKQoJCS8v6K+35rGC5L2N572u55qE5a6e6ZmF5pe26Ze0PeS8oOWFpeeahHRpbWVzdGFtcCsgZHN0X29mZnNldCsgcmF3X29mZnNldAoJCS8vCQlMb25nIHRpbWUgPSB0aW1lem9uZS5nZXREYXRhKCkuZ2V0VGltZXN0YW1wKCkgKyBMb25nLnZhbHVlT2YodGltZXpvbmUuZ2V0RGF0YSgpLmdldERzdE9mZnNldCgpKSArIExvbmcudmFsdWVPZih0aW1lem9uZS5nZXREYXRhKCkuZ2V0UmF3T2Zmc2V0KCkpOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJ0aW1lem9uZSIsIHZhbHVlID0gIuaXtuWMuiIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJLmFudE1hdGNoZXJzKCIvKioiKS5oYXNSb2xlKCJVU0VSIikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCXJldHVybiBVc2VyKDEsIjEiLCIyIiwiMyIsIjQiKQo=</text>
+        <text encoding="base64">CQkJLmFudE1hdGNoZXJzKCIvKioiKS5oYXNSb2xlKCJVU0VSIikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
