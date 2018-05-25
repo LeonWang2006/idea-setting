@@ -312,11 +312,10 @@
       <file name="/sys_notify_action [dev - wos_common@10.10.18.130]" timestamp="1525685917846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1527242666041">
-        <mark key="[" line="195" column="16" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
-        <mark key="^" line="205" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1527247631092">
+        <mark key="[" line="93" column="95" />
+        <mark key="]" line="93" column="95" />
+        <mark key="." line="99" column="35" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1527220300239">
         <mark key="[" line="139" column="8" />
@@ -678,10 +677,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${response.body}</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>${response.body}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -689,35 +688,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJbG9nZ2VyLmluZm8oIldPU+i/lOWbniAtICR7cmVzcG9uc2UuYm9keX0iKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJ0aW1lem9uZSIsIHZhbHVlID0gIuaXtuWMuiIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAibGF0aXR1ZGUiLCB2YWx1ZSA9ICLnu4/luqYiLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwKCQlBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAibG9uZ2l0dWRlIiwgdmFsdWUgPSAi57qs5bqmIiwgcGFyYW1UeXBlID0gInF1ZXJ5Iik=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtCgkJbGF0aXR1ZGU6IFN0cmluZz8sCgkJQFJlcXVlc3RQYXJhbQoJCWxvbmdpdHVkZTogU3RyaW5nPw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLmFudE1hdGNoZXJzKCIvKioiKS5oYXNSb2xlKCJVU0VSIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCXJldHVybiBVc2VyKDEsIjEiLCIyIiwiMyIsIjQiKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Ci8vCQl2YWwgdGltZXpvbmUgPSBtYXBTZXJ2aWNlLmdldFRpbWVab25lKGxhdGl0dWRlISEsIGxvbmdpdHVkZSEhKQoJCS8v6K+35rGC5L2N572u55qE5a6e6ZmF5pe26Ze0PeS8oOWFpeeahHRpbWVzdGFtcCsgZHN0X29mZnNldCsgcmF3X29mZnNldAoJCS8vCQlMb25nIHRpbWUgPSB0aW1lem9uZS5nZXREYXRhKCkuZ2V0VGltZXN0YW1wKCkgKyBMb25nLnZhbHVlT2YodGltZXpvbmUuZ2V0RGF0YSgpLmdldERzdE9mZnNldCgpKSArIExvbmcudmFsdWVPZih0aW1lem9uZS5nZXREYXRhKCkuZ2V0UmF3T2Zmc2V0KCkpOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLwkJcmV0dXJuIFVzZXIoMSwiMSIsIjIiLCIzIiwiNCIpCg==</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKHJlcXVpcmVkID0gdHJ1ZSwgbmFtZSA9ICJ0aW1lem9uZSIsIHZhbHVlID0gIuaXtuWMuiIsIHBhcmFtVHlwZSA9ICJxdWVyeSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbG9nZ2VyCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLmFudE1hdGNoZXJzKCIvKioiKS5oYXNSb2xlKCJVU0VSIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCXJldHVybiBVc2VyKDEsIjEiLCIyIiwiMyIsIjQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
