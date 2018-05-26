@@ -18,8 +18,8 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1527256923277">
-        <mark key="'" line="943" column="28" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1527303602501">
+        <mark key="'" line="652" column="0" />
         <mark key="[" line="1063" column="118" />
         <mark key="]" line="943" column="28" />
         <mark key="." line="943" column="28" />
@@ -53,7 +53,7 @@
         <mark key="]" line="75" column="24" />
         <mark key="." line="75" column="24" />
       </file>
-      <file name="/app_blog_token [prd - app@192.168.10.20]" timestamp="1527292713157">
+      <file name="/app_blog_token [prd - app@192.168.10.20]" timestamp="1527303337521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_ehr_member [prd - wos_hrs@192.168.10.112]" timestamp="1524463986173">
@@ -192,7 +192,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1527293105378">
+      <file name="/a.sql" timestamp="1527303849617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1525505125571">
@@ -262,7 +262,7 @@
       <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1527216706270">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1526604876786">
+      <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1527304373548">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
@@ -325,7 +325,7 @@
         <mark key="]" line="93" column="95" />
         <mark key="." line="99" column="35" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1527220300239">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1527304324587">
         <mark key="[" line="139" column="8" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
@@ -491,7 +491,7 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1527293107486">
+      <file name="/dummy.sql" timestamp="1527304456483">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -503,7 +503,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1524464006973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527292678644">
+      <file name="/Dummy.txt" timestamp="1527304360680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -583,7 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="18" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="1077" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="1081" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="336" column="97" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -683,6 +682,7 @@
       <jump line="471" column="121" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="484" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="943" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
+      <jump line="652" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -693,7 +693,7 @@
         <text>首页及微博模块UI升级</text>
       </register>
       <register name="/" type="4">
-        <text>friend</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJbG9nZ2VyLmluZm8oIldPU+i/lOWbniAtICR7cmVzcG9uc2UuYm9keX0iKQo=</text>
@@ -734,9 +734,9 @@
       </register>
     </registers>
     <search>
-      <last-search>friend</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>friend</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>MY_TABLE</last-substitute>
       <last-dir>1</last-dir>
@@ -744,7 +744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry>buildConfig</entry>
         <entry>my</entry>
         <entry>ids</entry>
@@ -764,6 +763,7 @@
         <entry>Bean</entry>
         <entry>avatar</entry>
         <entry>friend</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = null/,/g</entry>
