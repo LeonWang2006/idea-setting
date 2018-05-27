@@ -61,6 +61,11 @@
       <file name="/app_user_logs [prd - app@192.168.10.20]" timestamp="1524277877361">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1527430100462">
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2dfe8f-5078-4ca7-b3dc-0dd4a8cf8fdc/console_1.sql" timestamp="1524291783234">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
@@ -398,10 +403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
