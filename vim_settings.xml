@@ -247,6 +247,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
+      <file name="/hrs_evaluate [dev - wos_hrs@10.10.18.130]" timestamp="1527476233623">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1527216484615">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="24" />
@@ -276,6 +279,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8fb17ebd-a547-45a4-b946-fbb085cf01d3/console.sql" timestamp="1527476185795">
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="52" />
+      </file>
+      <file name="/hrs_evaluate_log [dev - wos_hrs@10.10.18.130]" timestamp="1527476389935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1526439114014">
@@ -469,7 +480,7 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1527475527117">
+      <file name="/dummy.sql" timestamp="1527476391973">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -660,11 +671,11 @@
       <jump line="652" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQludWxsLAo=</text>
+      <register name="&quot;" type="4">
+        <text>121041</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgIElGKGZpbmRfaW5fc2V0KCcwMzEwMDAwMScsIGxvZy5ldmFsdWF0ZV93c19pZCkgPiAwLCAxLCAwKSA9IDAp</text>
+        <text>121041</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
