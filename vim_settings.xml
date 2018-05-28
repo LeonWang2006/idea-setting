@@ -181,6 +181,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OrgService.kt" timestamp="1524465595760">
         <mark key="[" line="54" column="35" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" timestamp="1527523482935">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1522832398781">
         <mark key="[" line="0" column="0" />
       </file>
@@ -203,7 +208,6 @@
       <file name="/hrs_cache_vdepartment [prd - wos_hrs@192.168.10.112]" timestamp="1523245863977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUtil.kt" timestamp="1527436470511" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinToken.kt" timestamp="1523157171762">
         <mark key="[" line="2" column="0" />
       </file>
@@ -212,6 +216,12 @@
       </file>
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1524292258136">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1527523740479">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1524530249255">
         <mark key="p" line="0" column="1" />
@@ -247,7 +257,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/JwtAuthenticationFilter.kt" timestamp="1527428568348" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1524487620256">
         <mark key="[" line="88" column="86" />
         <mark key="]" line="88" column="86" />
@@ -298,6 +307,12 @@
       </file>
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/UsersService.kt" timestamp="1527524000772">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="26" column="55" />
+        <mark key="." line="26" column="55" />
+        <mark key="^" line="26" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -404,46 +419,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CuS9nOiAhe+8muaOpeeBsOeahOeUteWtkOS6p+WTgQrpk77mjqXvvJpodHRwczovL3d3dy5qaWFuc2h1LmNvbS9wLzYzMDdjODlmZTNmYQrkvobmupDvvJrnroDkuaYK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
+        <text>: JdbcTemplate</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>: JdbcTemplate</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0aGlzLmFwcEpkYmNUZW1wbGF0ZSA9IGFwcEpkYmNUZW1wbGF0ZQo=</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgbGF0ZWluaXQgdmFyIHZpc2l0VGVtcGxhdGU6IEpkYmNUZW1wbGF0ZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CuS9nOiAhe+8muaOpeeBsOeahOeUteWtkOS6p+WTgQrpk77mjqXvvJpodHRwczovL3d3dy5qaWFuc2h1LmNvbS9wLzYzMDdjODlmZTNmYQrkvobmupDvvJrnroDkuaYK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+      <register name="2" type="4">
+        <text>作者：接灰的电子产品
+链接：https://www.jianshu.com/p/6307c89fe3fa
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。`
+@RestController</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgb3BlbmlkOiBvcGVuaWQKICAgICAgICAgICAgfSw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPScuL2pzL21kNS5qcycgY2hhcnNldD0ndXRmLTgnPjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyB2b2lkIGNvbmZpZ3VyZUF1dGhlbnRpY2F0aW9uKEF1dGhlbnRpY2F0aW9uTWFuYWdlckJ1aWxkZXIgYXV0aGVudGljYXRpb25NYW5hZ2VyQnVpbGRlcikgdGhyb3dzIEV4Y2VwdGlvbiB7CgkJYXV0aGVudGljYXRpb25NYW5hZ2VyQnVpbGRlcgoJCQkvLyDorr7nva5Vc2VyRGV0YWlsc1NlcnZpY2UKCQkJLnVzZXJEZXRhaWxzU2VydmljZSh0aGlzLnVzZXJEZXRhaWxzU2VydmljZSkKCQkJLy8g5L2/55SoQkNyeXB06L+b6KGM5a+G56CB55qEaGFzaAoJCQkucGFzc3dvcmRFbmNvZGVyKHBhc3N3b3JkRW5jb2RlcigpKTsKCX0=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdzSWQ6ICQoIiN1c2VybmFtZSIpLnZhbCgpLAogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IGhleF9tZDUoJCgiI3Bhc3N3b3JkIikudmFsKCkp</text>
+        <text encoding="base64">CgnkvZzogIXvvJrmjqXngbDnmoTnlLXlrZDkuqflk4EKCemTvuaOpe+8mmh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvNjMwN2M4OWZlM2ZhCgnkvobmupDvvJrnroDkuaYKCeiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAgg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CWZ1biBtYXBUb0dyYW50ZWRBdXRob3JpdGllcyhhdXRob3JpdGllczpMaXN0PFN0cmluZz4pOkxpc3Q8R3JhbnRlZEF1dGhvcml0eT4gIHsKCQlyZXR1cm4gYXV0aG9yaXRpZXMuc3RyZWFtKCkKCQkJLm1hcChTaW1wbGVHcmFudGVkQXV0aG9yaXR5OjpuZXcpCgkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpCgl9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICQoIiNzYnRuIikub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CeS9nOiAhe+8muaOpeeBsOeahOeUteWtkOS6p+WTgQoJ6ZO+5o6l77yaaHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC82MzA3Yzg5ZmUzZmEKCeS+hua6kO+8mueugOS5pgoJ6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CC</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
