@@ -226,6 +226,7 @@
       <file name="/sys_user [wos_common@10.10.18.130]" timestamp="1527216564785">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/JwtTokenProvider.kt" timestamp="1527584822638" />
       <file name="/hrs_yiilog_debug [prd - wos_hrs@192.168.10.112]" timestamp="1526003752825">
         <mark key="[" line="0" column="0" />
       </file>
@@ -380,10 +381,10 @@
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/UserRepository.kt" timestamp="1527144284101">
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/UserRepository.kt" timestamp="1527583418405">
+        <mark key="[" line="17" column="77" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
       </file>
       <file name="/hrs_arecord_import [prd - wos_hrs@192.168.10.112]" timestamp="1527495454418">
         <mark key="[" line="0" column="0" />
@@ -545,10 +546,11 @@
         <mark key="]" line="19" column="74" />
         <mark key="." line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/AuthService.kt" timestamp="1527581378594">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/AuthService.kt" timestamp="1527584882828">
+        <mark key="[" line="81" column="37" />
+        <mark key="]" line="81" column="37" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="81" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
@@ -696,28 +698,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGF0ZWluaXQg</text>
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF0ZWluaXQg</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">CWZ1biBmaW5kQnlVc2VybmFtZU9yRW1haWwodXNlcm5hbWU6IFN0cmluZywgZW1haWw6IFN0cmluZyk6IE9wdGlvbmFsPFVzZXI+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+      <register name="1" type="4">
+        <text>作者：接灰的电子产品
+链接：https://www.jianshu.com/p/6307c89fe3fa
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBRdWFsaWZpZXIoIkp3dFVzZXJEZXRhaWxzU2VydmljZUltcGwiKQo=</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBRdWFsaWZpZXIoIkp3dFVzZXJEZXRhaWxzU2VydmljZUltcGwiKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
