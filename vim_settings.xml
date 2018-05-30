@@ -558,11 +558,11 @@
         <mark key="]" line="19" column="74" />
         <mark key="." line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/AuthService.kt" timestamp="1527584882828">
-        <mark key="[" line="81" column="37" />
-        <mark key="]" line="81" column="37" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/AuthService.kt" timestamp="1527663311737">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
         <mark key="^" line="31" column="24" />
-        <mark key="." line="81" column="37" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
@@ -710,7 +710,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQljb25zdCB2YWwgTUVTU0FHRV9BQ1RJT04gPSAiMCwxLDYsOCwxMiwxMywxOCwxOSwyMCwyMiwyMywyNSwzMiwzNywzOCIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>//1.@;2.申请关注;3.同意关注;4.请求被关注;5.接受邀请,6.日志留言@,7.日志未读消息,8.jira逾期消息, 9.考勤异常消息(自己),10.考勤异常消息(上级),11.OA消息,12.日志评分,13.日志留言消息, 14.考勤异常消息(hrbp) ,15.排行榜赞消息, 16上榜通知(给本人的通知), 17.上榜通知(给领导通知), 18.日志评分提醒(hrbp),19.日志评分提醒(hrm), 20.日志评分提醒(hrd),21.日志未评消息,22.日志内容@消息, 23.日志补写,24.合同续签,25.群发消息//rest端 - 2调整为新闻消息，3调整为微博@消息</text>
@@ -722,31 +722,31 @@
         <text encoding="base64">CWZ1biBmaW5kQnlVc2VybmFtZU9yRW1haWwodXNlcm5hbWU6IFN0cmluZywgZW1haWw6IFN0cmluZyk6IE9wdGlvbmFsPFVzZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb25zdCB2YWwgTUVTU0FHRV9BQ1RJT04gPSAiMCwxLDYsOCwxMiwxMywxOCwxOSwyMCwyMiwyMywyNSwzMiwzNywzOCIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQljb25zdCB2YWwgTUVTU0FHRV9BQ1RJT04gPSAiMCwxLDYsOCwxMiwxMywxOCwxOSwyMCwyMiwyMywyNSwzMiwzNywzOCIgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQljb25zdCB2YWwgTUVTU0FHRV9BQ1RJT04gPSAiMCwxLDYsOCwxMiwxMywxOCwxOSwyMCwyMiwyMywyNSwzMiwzNywzOCIgLy8xLkA7Mi7nlLPor7flhbPms6g7My7lkIzmhI/lhbPms6g7NC7or7fmsYLooqvlhbPms6g7NS7mjqXlj5fpgoDor7csNi7ml6Xlv5fnlZnoqIBALDcu5pel5b+X5pyq6K+75raI5oGvLDguamlyYemAvuacn+a2iOaBrywgOS7ogIPli6TlvILluLjmtojmga8o6Ieq5bexKSwxMC7ogIPli6TlvILluLjmtojmga8o5LiK57qnKSwxMS5PQea2iOaBrywxMi7ml6Xlv5for4TliIYsMTMu5pel5b+X55WZ6KiA5raI5oGvLCAxNC7ogIPli6TlvILluLjmtojmga8oaHJicCkgLDE1LuaOkuihjOamnOi1nua2iOaBrywgMTbkuIrmppzpgJrnn6Uo57uZ5pys5Lq655qE6YCa55+lKSwgMTcu5LiK5qac6YCa55+lKOe7memihuWvvOmAmuefpSksIDE4LuaXpeW/l+ivhOWIhuaPkOmGkihocmJwKSwxOS7ml6Xlv5for4TliIbmj5DphpIoaHJtKSwgMjAu5pel5b+X6K+E5YiG5o+Q6YaSKGhyZCksMjEu5pel5b+X5pyq6K+E5raI5oGvLDIyLuaXpeW/l+WGheWuuUDmtojmga8sIDIzLuaXpeW/l+ihpeWGmSwyNC7lkIjlkIznu63nrb4sMjUu576k5Y+R5raI5oGvLy9yZXN056uvIC0gMuiwg+aVtOS4uuaWsOmXu+a2iOaBr++8jDPosIPmlbTkuLrlvq7ljZpA5raI5oGvCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>作者：接灰的电子产品
 链接：https://www.jianshu.com/p/6307c89fe3fa
 來源：简书
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CUBRdWFsaWZpZXIoIkp3dFVzZXJEZXRhaWxzU2VydmljZUltcGwiKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBRdWFsaWZpZXIoIkp3dFVzZXJEZXRhaWxzU2VydmljZUltcGwiKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
