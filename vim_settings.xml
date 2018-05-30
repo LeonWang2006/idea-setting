@@ -33,7 +33,7 @@
       <file name="/user_ext [prd - oa_new@192.168.10.6]" timestamp="1526384232263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1527262215630">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1527677893786">
         <mark key="[" line="43" column="32" />
         <mark key="]" line="43" column="33" />
         <mark key="." line="43" column="33" />
@@ -145,8 +145,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1524011752497">
         <mark key="[" line="0" column="501" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1527258908514">
-        <mark key="[" line="87" column="67" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1527678022240">
+        <mark key="[" line="87" column="76" />
         <mark key="]" line="87" column="67" />
         <mark key="." line="87" column="67" />
       </file>
@@ -430,7 +430,7 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1527576057251">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1527677881639">
         <mark key="[" line="143" column="35" />
         <mark key="]" line="143" column="36" />
         <mark key="." line="143" column="36" />
@@ -678,11 +678,11 @@
       <jump line="377" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>新增微博账号切换，</text>
       </register>
       <register name="-" type="4">
-        <text>//1.@;2.申请关注;3.同意关注;4.请求被关注;5.接受邀请,6.日志留言@,7.日志未读消息,8.jira逾期消息, 9.考勤异常消息(自己),10.考勤异常消息(上级),11.OA消息,12.日志评分,13.日志留言消息, 14.考勤异常消息(hrbp) ,15.排行榜赞消息, 16上榜通知(给本人的通知), 17.上榜通知(给领导通知), 18.日志评分提醒(hrbp),19.日志评分提醒(hrm), 20.日志评分提醒(hrd),21.日志未评消息,22.日志内容@消息, 23.日志补写,24.合同续签,25.群发消息//rest端 - 2调整为新闻消息，3调整为微博@消息</text>
+        <text>新增微博账号切换，</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
