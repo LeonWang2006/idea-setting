@@ -123,16 +123,16 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1527746084369">
-        <mark key="[" line="352" column="28" />
-        <mark key="]" line="588" column="0" />
-        <mark key="^" line="585" column="8" />
-        <mark key="." line="588" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1527754230821">
+        <mark key="[" line="702" column="4" />
+        <mark key="]" line="702" column="4" />
+        <mark key="." line="702" column="4" />
+        <mark key="^" line="330" column="0" />
       </file>
       <file name="/users [prd - codepush@192.168.10.73]" timestamp="1527727075375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_contacts [dev - ws_app@10.10.18.132]" timestamp="1527745842241">
+      <file name="/app_contacts [dev - ws_app@10.10.18.132]" timestamp="1527753390373">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/news_forceread_log [dev - oa_new@10.10.18.133]" timestamp="1525952081544">
@@ -158,7 +158,7 @@
       <file name="/app_weixin [prd - app@192.168.10.20]" timestamp="1526526505410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1527745899606">
+      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1527753390320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1527142380990">
@@ -269,7 +269,7 @@
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1527507982045">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1527745714764">
+      <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1527753390205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
@@ -494,6 +494,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" timestamp="1527753062842">
+        <mark key="[" line="12" column="91" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="12" column="89" />
+      </file>
       <file name="/hrs_yiilog_operation_category [prd - wos_hrs@192.168.10.112]" timestamp="1526261414431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -520,13 +526,13 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1527745947646">
+      <file name="/dummy.sql" timestamp="1527753589864">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1527745725102">
+      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1527753390394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1524464006973">
@@ -715,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">b3BlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">b3BlbiA=</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
@@ -733,28 +739,29 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CQl2YWwgdXNlckNvbnRhY3RzU3RyID0gdXNlckNvbnRhY3RzLmNvbnRhY3RzCgkJaWYgKCIiICE9IGF1dGhVc2VybmFtZSkgewoJCQlkYXRhLmZpbHRlciB7IHVzZXJDb250YWN0c1N0ci5jb250YWlucyhpdC5lbXBsb3llZUlkISEpIH0uZm9yRWFjaCB7IGl0LmNvbGxlY3QgPSAxIH0KCQl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCWlmICgpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZGF0YS5maWx0ZXIgeyB1c2VyQ29udGFjdHNTdHIuY29udGFpbnMoaXQuZW1wbG95ZWVJZCEhKSB9LmZvckVhY2ggeyBpdC5jb2xsZWN0ID0gMSB9Cg==</text>
+      <register name="4" type="4">
+        <text>LocalDateTime.parse(user.createAt).format(
+			DateTimeFormatter.ISO_DATE_TIME</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YWwgdXNlckNvbnRhY3RzU3RyID0gdXNlckNvbnRhY3RzLmNvbnRhY3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAodXNlckNvbnRhY3RzKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CQl2YWwgdXNlckNvbnRhY3RzU3RyID0gdXNlckNvbnRhY3RzLmNvbnRhY3RzCgkJaWYgKCIiICE9IGF1dGhVc2VybmFtZSkgewoJCQlkYXRhLmZpbHRlciB7IHVzZXJDb250YWN0c1N0ci5jb250YWlucyhpdC5lbXBsb3llZUlkISEpIH0uZm9yRWFjaCB7IGl0LmNvbGxlY3QgPSAxIH0KCQl9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGF0YS5maWx0ZXIgeyB1c2VyQ29udGFjdHNTdHIuY29udGFpbnMoaXQuZW1wbG95ZWVJZCEhKSB9LmZvckVhY2ggeyBpdC5jb2xsZWN0ID0gMSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zdCB2YWwgTUVTU0FHRV9BQ1RJT04gPSAiMCwxLDYsOCwxMiwxMywxOCwxOSwyMCwyMiwyMywyNSwzMiwzNywzOCIgCg==</text>
+        <text encoding="base64">CQl2YWwgdXNlckNvbnRhY3RzU3RyID0gdXNlckNvbnRhY3RzLmNvbnRhY3RzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
