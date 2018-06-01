@@ -340,11 +340,10 @@
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/UsersService.kt" timestamp="1527852037769">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-        <mark key="^" line="39" column="88" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/UsersService.kt" timestamp="1527852926276">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1526969180964">
         <mark key="[" line="0" column="0" />
@@ -494,6 +493,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtUserDetailsServiceImpl.kt" timestamp="1527852880093" />
       <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1526439114014">
         <mark key="[" line="0" column="0" />
       </file>
@@ -638,7 +638,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" timestamp="1527838871798">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" timestamp="1527852869649">
         <mark key="[" line="12" column="91" />
         <mark key="]" line="14" column="8" />
         <mark key="." line="14" column="8" />
@@ -804,8 +804,8 @@
       <jump line="947" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QFBlcnNpc3RlbmNlQ29uc3RydWN0b3Ig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1VTRVInKSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QFBlcnNpc3RlbmNlQ29uc3RydWN0b3Ig</text>
@@ -816,39 +816,39 @@
       <register name="0" type="2">
         <text encoding="base64">CWZ1biBmaW5kQnlVc2VybmFtZSh1c2VybmFtZTogU3RyaW5nKTogT3B0aW9uYWw8VXNlcj4K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CUBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1VTRVInKSIpCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>{
 	constructor():this(0, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;)
 
 }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>//		val sql = &quot;select * from users where username = '$username' and password = '$password'&quot;
 //		return visitTemplate.queryForObject(sql, BeanPropertyRowMapper(User::class.java))</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG9yZy5oaWJlcm5hdGUudHlwZS5kZXNjcmlwdG9yLnNxbDogdHJhY2UK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJLmh0dHBCYXNpYygpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJLmFuZCgpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJLnBlcm1pdEFsbCgpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
