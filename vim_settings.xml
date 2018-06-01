@@ -275,7 +275,7 @@
         <mark key="^" line="80" column="47" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1527841844120">
+      <file name="/dummy.sql" timestamp="1527849981289">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -340,10 +340,10 @@
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/UsersService.kt" timestamp="1527843007055">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/UsersService.kt" timestamp="1527849793831">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
         <mark key="^" line="37" column="88" />
       </file>
       <file name="/fragment.java" timestamp="1526969180964">
@@ -803,11 +803,11 @@
       <jump line="947" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UGF0aFZhcmlhYmxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>userRepository.findByUsernameAndPassword(username,password).orElse(null)</text>
+        <text encoding="base64">UGF0aFZhcmlhYmxlIA==</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
