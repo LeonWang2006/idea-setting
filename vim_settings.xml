@@ -90,7 +90,7 @@
       <file name="/users [prd - codepush@192.168.10.73]" timestamp="1527727075375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_contacts [dev - ws_app@10.10.18.132]" timestamp="1527766156910">
+      <file name="/app_contacts [dev - ws_app@10.10.18.132]" timestamp="1527818602493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/news_forceread_log [dev - oa_new@10.10.18.133]" timestamp="1525952081544">
@@ -140,7 +140,7 @@
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1525505125571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_point_type [prd - wos_hrs@192.168.10.112]" timestamp="1527766156648">
+      <file name="/hrs_point_type [prd - wos_hrs@192.168.10.112]" timestamp="1527818602385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_vdepartment [prd - wos_hrs@192.168.10.112]" timestamp="1526004980396">
@@ -225,6 +225,9 @@
       <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1527664777989">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/hrs_cache_empshift [prd - wos_hrs@192.168.10.112]" timestamp="1527818892003">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
         <mark key="[" line="0" column="0" />
       </file>
@@ -261,7 +264,7 @@
       <file name="/sys_notify_action [dev - wos_common@10.10.18.130]" timestamp="1525685917846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1527733788828">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1527818950750">
         <mark key="[" line="187" column="21" />
         <mark key="]" line="93" column="95" />
         <mark key="." line="99" column="35" />
@@ -404,7 +407,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1527760619524">
+      <file name="/dummy.sql" timestamp="1527818892886">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -437,8 +440,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1527768372659">
-        <mark key="'" line="377" column="39" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1527819154460">
+        <mark key="'" line="947" column="24" />
         <mark key="[" line="915" column="16" />
         <mark key="]" line="915" column="17" />
         <mark key="." line="915" column="17" />
@@ -473,11 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="991" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
-      <jump line="1037" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
-      <jump line="448" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
-      <jump line="303" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
-      <jump line="569" column="55" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="2" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="3" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="968" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -573,6 +571,11 @@
       <jump line="271" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="282" column="36" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="377" column="39" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="933" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="938" column="47" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="943" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="946" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="947" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -582,7 +585,7 @@
         <text encoding="base64">b3BlbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>comment</text>
+        <text>details</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJbWFwLmFkZCgidGltZV96b25lIiwgdGltZXpvbmUuZGF0YT8udGltZXpvbmVJZCkK</text>
@@ -623,9 +626,9 @@
       </register>
     </registers>
     <search>
-      <last-search>comment</last-search>
+      <last-search>details</last-search>
       <last-offset />
-      <last-pattern>comment</last-pattern>
+      <last-pattern>details</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>MY_TABLE</last-substitute>
       <last-dir>1</last-dir>
@@ -633,8 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>my</entry>
-        <entry>ids</entry>
         <entry>mood</entry>
         <entry>info</entry>
         <entry>sqlSet</entry>
@@ -653,6 +654,8 @@
         <entry>friend</entry>
         <entry>init</entry>
         <entry>comment</entry>
+        <entry>log</entry>
+        <entry>details</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = null/,/g</entry>
