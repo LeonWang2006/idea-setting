@@ -398,7 +398,12 @@
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtUserDetailsServiceImpl.kt" timestamp="1528084525271" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtUserDetailsServiceImpl.kt" timestamp="1528091580595">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="24" column="45" />
+      </file>
       <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1526439114014">
         <mark key="[" line="0" column="0" />
       </file>
@@ -542,7 +547,7 @@
       <file name="/sys_user_notify [dev - wos_common@10.10.18.130]" timestamp="1527133625387">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/AuthService.kt" timestamp="1528084822698">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/AuthService.kt" timestamp="1528091374613">
         <mark key="[" line="60" column="17" />
         <mark key="]" line="60" column="17" />
         <mark key="." line="60" column="17" />
@@ -661,10 +666,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>JwtUserFactory.create(user)</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>JwtUserFactory.create(user)</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
