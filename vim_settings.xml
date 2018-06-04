@@ -180,7 +180,7 @@
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtAuthenticationFilter.kt" timestamp="1527852129113" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtAuthenticationFilter.kt" timestamp="1528084594420" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/datasource/BlogDataSourceJpaConfig.kt" timestamp="1528082000623" />
       <file name="/hrs_evaluate_log [dev - wos_hrs@10.10.18.130]" timestamp="1527476389935">
         <mark key="[" line="0" column="0" />
@@ -276,11 +276,11 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1528082179807">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="72" column="47" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1528084553480">
+        <mark key="[" line="72" column="33" />
+        <mark key="]" line="72" column="33" />
+        <mark key="^" line="72" column="37" />
+        <mark key="." line="72" column="33" />
       </file>
       <file name="/dummy.sql" timestamp="1528078040338">
         <mark key="p" line="0" column="1" />
@@ -326,13 +326,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1527819154460">
-        <mark key="'" line="947" column="24" />
-        <mark key="[" line="915" column="16" />
-        <mark key="]" line="915" column="17" />
-        <mark key="." line="915" column="17" />
-        <mark key="^" line="915" column="17" />
       </file>
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
@@ -505,7 +498,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtUserDetailsServiceImpl.kt" timestamp="1527852880093" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtUserDetailsServiceImpl.kt" timestamp="1528084525271" />
       <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1526439114014">
         <mark key="[" line="0" column="0" />
       </file>
@@ -651,12 +644,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" timestamp="1528082162391">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" timestamp="1528084462542">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/hrs_yiilog_operation_category [prd - wos_hrs@192.168.10.112]" timestamp="1526261414431">
         <mark key="[" line="0" column="0" />
@@ -818,11 +810,11 @@
       <jump line="9" column="4" filename="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlvYmplY3RNYXBwZXJhOk9iamVjdE1hcHBlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbWFwcGVyKCk=</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
@@ -831,34 +823,34 @@
         <text encoding="base64">CWZ1biBmaW5kQnlVc2VybmFtZSh1c2VybmFtZTogU3RyaW5nKTogT3B0aW9uYWw8VXNlcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlvYmplY3RNYXBwZXJhOk9iamVjdE1hcHBlcgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5SZXBvc2l0b3J5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gaWYgKCFhdmF0YXJSZXN1bHQuaXNOdWxsT3JFbXB0eSgpKSBSZXNwb25zZVdyYXBwZXIoYXZhdGFyUmVzdWx0KSBlbHNlIFJlc3BvbnNlV3JhcHBlcigiX25vYXZhdGFyX3VzZXIuZ2lmIikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgbGF0ZWluaXQgdmFyIG9iamVjdE1hcHBlcjogT2JqZWN0TWFwcGVyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YWwgb2JqZWN0TWFwcGVyOiBPYmplY3RNYXBwZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1VTRVInKSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
