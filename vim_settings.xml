@@ -53,14 +53,17 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1527839762095">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1528077850541">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="44" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppRepository.kt" timestamp="1527745388564">
-        <mark key="[" line="14" column="46" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppRepository.kt" timestamp="1528078054758">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="39" />
+        <mark key="^" line="29" column="39" />
+        <mark key="." line="29" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console_1.sql" timestamp="1526041676421">
         <mark key="[" line="3" column="69" />
@@ -151,12 +154,12 @@
       <file name="/hrs_evaluate [dev - wos_hrs@10.10.18.130]" timestamp="1527476233623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1527745875068">
-        <mark key="[" line="0" column="260" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528077778933">
+        <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="260" />
         <mark key="." line="0" column="260" />
       </file>
-      <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1527216706270">
+      <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1528077534273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1527507982045">
@@ -275,7 +278,7 @@
         <mark key="^" line="72" column="47" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1527851267195">
+      <file name="/dummy.sql" timestamp="1528078040338">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -352,6 +355,7 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/BeanConfig.kt" timestamp="1528077012620" />
       <file name="/posts_comments_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884590182">
         <mark key="[" line="0" column="0" />
       </file>
@@ -391,11 +395,10 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1527754230821">
-        <mark key="[" line="702" column="4" />
-        <mark key="]" line="702" column="4" />
-        <mark key="." line="702" column="4" />
-        <mark key="^" line="330" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1528078220148">
+        <mark key="[" line="789" column="0" />
+        <mark key="]" line="789" column="0" />
+        <mark key="." line="789" column="0" />
       </file>
       <file name="/news_forceread_log [dev - oa_new@10.10.18.133]" timestamp="1525952081544">
         <mark key="[" line="0" column="0" />
@@ -437,7 +440,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_point_type [prd - wos_hrs@192.168.10.112]" timestamp="1527821754099">
+      <file name="/hrs_point_type [prd - wos_hrs@192.168.10.112]" timestamp="1528077487669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_vdepartment [prd - wos_hrs@192.168.10.112]" timestamp="1526004980396">
@@ -478,7 +481,7 @@
       <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1527664777989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_cache_empshift [prd - wos_hrs@192.168.10.112]" timestamp="1527821754172">
+      <file name="/hrs_cache_empshift [prd - wos_hrs@192.168.10.112]" timestamp="1528077487766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
@@ -518,10 +521,11 @@
         <mark key="]" line="93" column="95" />
         <mark key="." line="99" column="35" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1527749142664">
-        <mark key="[" line="139" column="8" />
-        <mark key="]" line="139" column="8" />
-        <mark key="." line="139" column="8" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1528078569945">
+        <mark key="[" line="143" column="8" />
+        <mark key="]" line="143" column="10" />
+        <mark key="." line="143" column="10" />
+        <mark key="^" line="143" column="10" />
       </file>
       <file name="/sys_content_publish_message [prd - wos_common@192.168.10.112]" timestamp="1527596493399">
         <mark key="[" line="0" column="0" />
@@ -634,11 +638,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" timestamp="1527852869649">
-        <mark key="[" line="13" column="91" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="13" column="89" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" timestamp="1528077074064">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/hrs_yiilog_operation_category [prd - wos_hrs@192.168.10.112]" timestamp="1526261414431">
         <mark key="[" line="0" column="0" />
@@ -652,7 +656,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526901411947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1527766156980">
+      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1528077493760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/LogDetail.kt" timestamp="1527477669649">
@@ -698,8 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="3" column="22" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="968" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1706" column="23" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1485" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -798,13 +800,15 @@
       <jump line="943" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="946" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="947" column="24" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="11" column="33" filename="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" />
+      <jump line="9" column="4" filename="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CUBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1VTRVInKSIpCg==</text>
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QFBlcnNpc3RlbmNlQ29uc3RydWN0b3Ig</text>
+        <text>isNotEmpty</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
@@ -813,35 +817,34 @@
         <text encoding="base64">CWZ1biBmaW5kQnlVc2VybmFtZSh1c2VybmFtZTogU3RyaW5nKTogT3B0aW9uYWw8VXNlcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1VTRVInKSIpCg==</text>
+        <text encoding="base64">IC8qQGZvcm1hdHRlcjpvbiovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlyZXR1cm4gaWYgKCFhdmF0YXJSZXN1bHQuaXNOdWxsT3JFbXB0eSgpKSBSZXNwb25zZVdyYXBwZXIoYXZhdGFyUmVzdWx0KSBlbHNlIFJlc3BvbnNlV3JhcHBlcigiX25vYXZhdGFyX3VzZXIuZ2lmIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl2YWwgb2JqZWN0TWFwcGVyOiBPYmplY3RNYXBwZXIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlAQXV0b3dpcmVkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CUBQcmVBdXRob3JpemUoImhhc1JvbGUoJ1VTRVInKSIpCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>{
 	constructor():this(0, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;)
 
 }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>//		val sql = &quot;select * from users where username = '$username' and password = '$password'&quot;
-//		return visitTemplate.queryForObject(sql, BeanPropertyRowMapper(User::class.java))</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9yZy5oaWJlcm5hdGUudHlwZS5kZXNjcmlwdG9yLnNxbDogdHJhY2UK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJLmh0dHBCYXNpYygpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJLmFuZCgpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJLnBlcm1pdEFsbCgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
