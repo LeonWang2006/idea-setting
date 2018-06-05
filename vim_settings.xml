@@ -376,15 +376,15 @@
       <file name="/apps [prd - codepush@192.168.10.73]" timestamp="1527727004048">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/exception/AppException.kt" timestamp="1528190511110">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1527265126609">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/BeanConfig.kt" timestamp="1528179062922">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/IAuth.kt" timestamp="1528179923177">
         <mark key="[" line="4" column="14" />
@@ -848,11 +848,11 @@
       <jump line="43" column="4" filename="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>constructor</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>constructor</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
