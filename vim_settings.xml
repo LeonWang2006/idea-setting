@@ -286,7 +286,11 @@
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/UserPrincipal.kt" timestamp="1528186048328" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/UserPrincipal.kt" timestamp="1528187031965">
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="/hrs_log_detail [prd - wos_hrs@192.168.10.112]" timestamp="1526001534469">
         <mark key="[" line="0" column="0" />
       </file>
@@ -500,6 +504,7 @@
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/JwtUserFactory.kt" timestamp="1528186934907" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8fb17ebd-a547-45a4-b946-fbb085cf01d3/console.sql" timestamp="1528117953511">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="9" column="0" />
@@ -643,10 +648,10 @@
       <file name="/sys_notify_action [prd - wos_common@192.168.10.112]" timestamp="1527646594904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/CustomUserDetailsService.kt" timestamp="1528185980321">
-        <mark key="[" line="21" column="71" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/CustomUserDetailsService.kt" timestamp="1528187003241">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/JwtUserFactory.kt" timestamp="1528084462542">
         <mark key="[" line="4" column="0" />
@@ -808,11 +813,11 @@
       <jump line="43" column="4" filename="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>JwtUser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>JwtUser</text>
+        <text>JwtUserFactory</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
@@ -826,29 +831,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CUBCZWFuCglmdW4gcGFzc3dvcmRFbmNvZGVyKCk6IFBhc3N3b3JkRW5jb2RlciB7CgkJcmV0dXJuIEJDcnlwdFBhc3N3b3JkRW5jb2RlcigpCgl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CUBCZWFuCglmdW4gcGFzc3dvcmRFbmNvZGVyKCk6IFBhc3N3b3JkRW5jb2RlciB7CgkJcmV0dXJuIEJDcnlwdFBhc3N3b3JkRW5jb2RlcigpCgl9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl1c2VyPy5sZXQgewoJCQlyZXR1cm4gTG9naW5SZXNwb25zZSh1c2VyLHRva2VuKQoJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPSAK</text>
+        <text encoding="base64">CQl1c2VyPy5sZXQgewoJCQlyZXR1cm4gTG9naW5SZXNwb25zZSh1c2VyLHRva2VuKQoJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gand0VG9rZW5VdGlsLmdlbmVyYXRlVG9rZW4odXNlckRldGFpbHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5SZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">CQkJPSAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
