@@ -492,6 +492,11 @@
       <file name="/sys_user_notify [prd - wos_common@192.168.10.112]" timestamp="1526096554867">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/exception/BadRequestException.kt" timestamp="1528196212128">
+        <mark key="[" line="11" column="75" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="11" column="75" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
@@ -835,10 +840,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>constructor</text>
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>constructor</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
