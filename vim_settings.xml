@@ -277,13 +277,6 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1528179202030">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="51" column="27" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1528339925288">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
@@ -329,12 +322,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1528341192061">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1528344097345">
         <mark key="'" line="947" column="24" />
-        <mark key="[" line="1114" column="9" />
-        <mark key="]" line="915" column="17" />
-        <mark key="." line="915" column="17" />
-        <mark key="^" line="915" column="17" />
+        <mark key="[" line="1724" column="0" />
+        <mark key="]" line="1724" column="0" />
+        <mark key="." line="1724" column="0" />
       </file>
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
@@ -844,16 +836,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQludWxsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>direct</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQludWxsLAo=</text>
+        <text encoding="base64">CQkJCXVybCA9IGhyc0hvc3QgKyAiaHJzLWVtcGxveWVlL2dldC1yZWxhdGUtZGF0YT9kYXRhX2ZpZWxkcz1kZXBfcGVyc29ucyZmb3JtYXQ9bm9ybSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -862,7 +854,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vR1JPVVBfQ09OQ0FUKGxvZy5ldmFsdWF0ZV93c19pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -871,10 +863,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IGRhdGUobm93KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZ1biBhZGRDb3JzTWFwcGluZ3MocmVnaXN0cnk6IENvcnNSZWdpc3RyeT8pIHsKCQlyZWdpc3RyeSEhLmFkZE1hcHBpbmcoIi8qKiIpCgl9Cg==</text>
+        <text encoding="base64">CS8vR1JPVVBfQ09OQ0FUKGxvZy5ldmFsdWF0ZV93c19pZCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -882,8 +874,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CW92ZXJyaWRlIGZ1biBnZXRQYXNzd29yZCgpOiBTdHJpbmcgewoJCXJldHVybiBwYXNzd29yZAoJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">c2VsZWN0IGRhdGUobm93KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
