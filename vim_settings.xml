@@ -3,12 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1528394841909">
+      <file name="/Dummy.txt" timestamp="1528394889280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/users [@visit.db.cc]" timestamp="1528394737180">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/users [visit@visit.db.cc]" timestamp="1528477818119">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/rest_visit/src/main/kotlin/org/anlu/controller/UsersController.kt" timestamp="1528477839485" />
     </filemarks>
     <jumps />
     <registers />
@@ -25,6 +29,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
