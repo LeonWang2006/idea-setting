@@ -61,9 +61,6 @@
       <file name="/user_tokens [prd - codepush@192.168.10.73]" timestamp="1527727041219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1527766204860">
-        <mark key="[" line="133" column="178" />
-      </file>
       <file name="/users [prd - codepush@192.168.10.73]" timestamp="1527727075375">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,7 +88,7 @@
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1524277963057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1528682857681">
+      <file name="/a.sql" timestamp="1528684152274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1525505125571">
@@ -246,7 +243,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1528682027021">
+      <file name="/dummy.sql" timestamp="1528684155450">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -302,10 +299,10 @@
       <file name="/apps [prd - codepush@192.168.10.73]" timestamp="1527727004048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/UsersController.kt" timestamp="1528515310435">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/UsersController.kt" timestamp="1528683891614">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/posts_comments_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884590182">
         <mark key="[" line="0" column="0" />
@@ -574,9 +571,6 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526901411947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/SignUpRequest.kt" timestamp="1528524820544">
-        <mark key="[" line="6" column="19" />
-      </file>
       <file name="/app_user [prd - app@192.168.10.20]" timestamp="1528201194575">
         <mark key="[" line="0" column="0" />
       </file>
@@ -709,11 +703,11 @@
       <jump line="43" column="4" filename="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>吴太兵给你的2018年06月09的日志留言了，请及时查看</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
@@ -722,34 +716,34 @@
         <text encoding="base64">CQkJCXVybCA9IGhyc0hvc3QgKyAiaHJzLWVtcGxveWVlL2dldC1yZWxhdGUtZGF0YT9kYXRhX2ZpZWxkcz1kZXBfcGVyc29ucyZmb3JtYXQ9bm9ybSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxvY2F0aW9uID0gU2VydmxldFVyaUNvbXBvbmVudHNCdWlsZGVyLmZyb21DdXJyZW50Q29udGV4dFBhdGgoKS5wYXRoKCIvdXNlcnMvaW5mbyIpLmJ1aWxkKCkudG9VcmkoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkub2s8QW55Pz4ocnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlclJvbGUgPSByb2xlUmVwb3NpdG9yeS5maW5kQnlOYW1lKFJvbGVOYW1lLlJPTEVfVVNFUikub3JFbHNlVGhyb3coeyBBcHBFeGNlcHRpb24oIlVzZXIgUm9sZSBub3Qgc2V0LiIpIH0pCg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlclJvbGUgPSByb2xlUmVwb3NpdG9yeS5maW5kQnlOYW1lKFJvbGVOYW1lLlJPTEVfVVNFUikub3JFbHNlVGhyb3coeyBBcHBFeGNlcHRpb24oIlVzZXIgUm9sZSBub3Qgc2V0LiIpIH0pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBNYW55VG9NYW55KGZldGNoID0gRmV0Y2hUeXBlLkxBWlkpCiAgICBASm9pblRhYmxlKG5hbWUgPSAidXNlcl9yb2xlcyIsIGpvaW5Db2x1bW5zID0gSm9pbkNvbHVtbihuYW1lID0gInVzZXJfaWQiKSwgaW52ZXJzZUpvaW5Db2x1bW5zID0gSm9pbkNvbHVtbihuYW1lID0gInJvbGVfaWQiKSk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
