@@ -371,11 +371,11 @@
       <file name="/apps [prd - codepush@192.168.10.73]" timestamp="1527727004048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/UsersController.kt" timestamp="1528774999273">
-        <mark key="[" line="35" column="87" />
-        <mark key="]" line="39" column="71" />
-        <mark key="." line="39" column="71" />
-        <mark key="^" line="39" column="71" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/UsersController.kt" timestamp="1528783038942">
+        <mark key="[" line="41" column="73" />
+        <mark key="]" line="41" column="73" />
+        <mark key="." line="41" column="73" />
+        <mark key="^" line="41" column="80" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/exception/AppException.kt" timestamp="1528190511110">
         <mark key="[" line="7" column="18" />
@@ -857,11 +857,11 @@
       <jump line="43" column="4" filename="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmlmUHJlc2VudCB7IHJldHVybkBpZlByZXNlbnQgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>NOT_FOUND</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>NOT_FOUND</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
