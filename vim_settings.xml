@@ -294,7 +294,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1528766075499">
+      <file name="/dummy.sql" timestamp="1528773605163">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -370,7 +370,12 @@
       <file name="/apps [prd - codepush@192.168.10.73]" timestamp="1527727004048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/UsersController.kt" timestamp="1528765718117" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/UsersController.kt" timestamp="1528774100430">
+        <mark key="[" line="33" column="87" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="40" />
+      </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/exception/AppException.kt" timestamp="1528190511110">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="10" column="4" />
@@ -456,10 +461,10 @@
       <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1528766074258">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1528531338353">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1528773716093">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1528721900884">
         <mark key="[" line="87" column="67" />
@@ -612,7 +617,7 @@
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1528106108611">
+      <file name="/fragment.kt" timestamp="1528773887020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -626,10 +631,10 @@
       <file name="/token [prd - oa_new@192.168.10.6]" timestamp="1526605003746">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtTokenProvider.kt" timestamp="1528188705759">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtTokenProvider.kt" timestamp="1528773476926">
         <mark key="[" line="26" column="52" />
         <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="52" />
+        <mark key="." line="39" column="57" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SwaggerConfig.kt" timestamp="1527218918527">
         <mark key="[" line="13" column="21" />
@@ -851,11 +856,11 @@
       <jump line="43" column="4" filename="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Wi-Fi快速签到许可增加WS-Office连接源，修复若干bug，日志默认筛选项优化</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLmlmUHJlc2VudCB7IHJldHVybkBpZlByZXNlbnQgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Wi-Fi快速签到许可增加WS-Office连接源，修复若干bug，日志默认筛选项优化</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
@@ -864,38 +869,38 @@
         <text encoding="base64">ICBBTkQgZS5mZF9uYW1lIElTIE5PVCBOVUxMCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBBTkQgcm93ID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLmlmUHJlc2VudCB7IHJldHVybkBpZlByZXNlbnQgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBBTkQgcm93ID0gMQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>, CONCAT('{&quot;value&quot;:&quot;',CONVERT (
         CHAR (19),
         t.fd_create_time,
         20
   ),'&quot;}') ASC</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ck9SREVSIEJZIGVtcGxveWVlSWQgQVNDLCBrZXl3b3JkMiBBU0M=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGxvY2F0aW9uID0gU2VydmxldFVyaUNvbXBvbmVudHNCdWlsZGVyLmZyb21DdXJyZW50Q29udGV4dFBhdGgoKS5wYXRoKCIvdXNlcnMvaW5mbyIpLmJ1aWxkKCkudG9VcmkoKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkub2s8QW55Pz4ocnMpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
