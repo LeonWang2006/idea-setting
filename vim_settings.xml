@@ -97,7 +97,7 @@
       <file name="/app_contacts [dev - ws_app@10.10.18.132]" timestamp="1527818602493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/oauth_request_token [prd - sharetronix@192.168.10.65]" timestamp="1526259102793">
+      <file name="/oauth_request_token [prd - sharetronix@192.168.10.65]" timestamp="1528879781741">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_yiilog_error [prd - wos_hrs@192.168.10.112]" timestamp="1526036417786">
@@ -178,7 +178,7 @@
       <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1528117842659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1527507982045">
+      <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1528880091801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1527753390205">
@@ -310,7 +310,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1528869124159">
+      <file name="/dummy.sql" timestamp="1528880383155">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -408,7 +408,7 @@
       <file name="/posts_comments_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884590182">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_blog_token [prd - app@192.168.10.20]" timestamp="1527507957013">
+      <file name="/app_blog_token [prd - app@192.168.10.20]" timestamp="1528879696745">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/packages [prd - codepush@192.168.10.73]" timestamp="1527727016367">
@@ -570,7 +570,7 @@
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1527047398485">
+      <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1528880362006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1528701388455">
@@ -592,7 +592,7 @@
         <mark key="]" line="93" column="95" />
         <mark key="." line="99" column="35" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1528852455843">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1528880238002">
         <mark key="[" line="143" column="8" />
         <mark key="]" line="143" column="10" />
         <mark key="." line="143" column="10" />
@@ -724,7 +724,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526901411947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1528714058929">
+      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1528880383007">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/WebMvcConfig.kt" timestamp="1528197400322">
@@ -872,10 +872,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>查无此人</text>
+        <text>access_token = '1e945eb956ae426035c359e6aaaf0947'</text>
       </register>
       <register name="-" type="4">
-        <text>查无此人</text>
+        <text>access_token = '1e945eb956ae426035c359e6aaaf0947'</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
