@@ -124,11 +124,11 @@
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1525505125571">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e000b24b-6049-446f-b91c-b94afb71bd96/console.sql" timestamp="1528940484629">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e000b24b-6049-446f-b91c-b94afb71bd96/console.sql" timestamp="1528944576198">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="56" />
         <mark key="^" line="0" column="69" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="34" column="56" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1527760262561">
         <mark key="[" line="42" column="73" />
@@ -880,10 +880,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user.get()</text>
+        <text encoding="base64">IHdoZXJlIGVtcGxveWVlSWQ9JzE3MDQyNzMxJw==</text>
       </register>
       <register name="-" type="4">
-        <text>user.get()</text>
+        <text encoding="base64">IHdoZXJlIGVtcGxveWVlSWQ9JzE3MDQyNzMxJw==</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
