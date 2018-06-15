@@ -136,6 +136,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/3.17/9d185f2c484774285585e76f5f1d887208482f93/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/CellType.java" timestamp="1529041885895" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1529052871887" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1524011752497">
         <mark key="[" line="0" column="501" />
       </file>
@@ -199,6 +200,11 @@
       <file name="/news [prd - oa_new@192.168.10.6]" timestamp="1525661398293">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/Office.kt" timestamp="1529052910668">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
       <file name="/hrs_arecord [prd - wos_hrs@192.168.10.112]" timestamp="1528275377465">
         <mark key="[" line="0" column="0" />
       </file>
@@ -261,6 +267,11 @@
       </file>
       <file name="/sys_notify_todo [ekpwondersharetest_20180428@192.168.10.163]" timestamp="1528701388388">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/TargetCategory.kt" timestamp="1529052938197">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="/hrs_evaluate_log [dev - wos_hrs@10.10.18.130]" timestamp="1527476389935">
         <mark key="[" line="0" column="0" />
@@ -330,6 +341,17 @@
       </file>
       <file name="/posts_attachments [dev - sharetronix@192.168.10.61]" timestamp="1523497636726">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/Department.kt" timestamp="1529052903860">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/TargetRelation.kt" timestamp="1529052953283">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1528944676764">
         <mark key="[" line="33" column="18" />
@@ -461,6 +483,11 @@
       </file>
       <file name="/hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1526261580347">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/TargetBase.kt" timestamp="1529052924213">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console_2.sql" timestamp="1526460863310">
         <mark key="[" line="0" column="0" />
@@ -659,10 +686,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>it2.numericCellValue</text>
+        <text>department</text>
       </register>
       <register name="-" type="4">
-        <text>it2.numericCellValue</text>
+        <text>department</text>
       </register>
       <register name="/" type="4">
         <text>details</text>
@@ -670,35 +697,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4oIiR7aXQyLmFkZHJlc3MuZm9ybWF0QXNTdHJpbmcoKX0gLSAke2l0Mi5kYXRlQ2VsbFZhbHVlfSIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNkZi5mb3JtYXQoaXQyLmNlbGxTdHlsZS5kYXRhRm9ybWF0U3RyaW5nKQo=</text>
+      <register name="1" type="4">
+        <text>, uniqueConstraints = [
+    (UniqueConstraint(columnNames = [&quot;username&quot;])),
+    (UniqueConstraint(columnNames = [&quot;email&quot;]))
+]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNkZi5mb3JtYXQoaXQyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNkZi5mb3JtYXQoaXQyLmNlbGxTdHlsZS5kYXRhRm9ybWF0U3RyaW5nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNkZi5mb3JtYXQoaXQyKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigiJHtpdDIuYWRkcmVzcy5mb3JtYXRBc1N0cmluZygpfSAtICR7aXQyLm51bWVyaWNDZWxsVmFsdWV9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigiJHtpdDIuYWRkcmVzcy5mb3JtYXRBc1N0cmluZygpfSAtICR7aXQyLm51bWVyaWNDZWxsVmFsdWV9IikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIiR7aXQyLmFkZHJlc3MuZm9ybWF0QXNTdHJpbmcoKX0gLSAke2l0Mi5zdHJpbmdDZWxsVmFsdWV9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB4c3NmQ2VsbCA9IGl0MiBhcyBDZWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIiR7aXQyLmFkZHJlc3MuZm9ybWF0QXNTdHJpbmcoKX0gLSAke2l0Mi5zdHJpbmdDZWxsVmFsdWV9IikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
