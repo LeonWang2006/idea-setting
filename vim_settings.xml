@@ -47,6 +47,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1529886323363">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
       <file name="/target_category [@visit.db.cc]" timestamp="1529457250837">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,7 +166,7 @@
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/target_base [@visit.db.cc]" timestamp="1529497414875">
+      <file name="/target_base [@visit.db.cc]" timestamp="1529886147313">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1525505125571">
@@ -296,7 +301,7 @@
       <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1528701388455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [@visit.db.cc]" timestamp="1529497419308">
+      <file name="/users [@visit.db.cc]" timestamp="1529886147425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
@@ -337,11 +342,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1529497112780">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="/sys_user_accounts [prd - wos_common@192.168.10.112]" timestamp="1527216705088">
         <mark key="[" line="0" column="0" />
@@ -489,7 +489,7 @@
       <file name="/app_user [prd - app@192.168.10.20]" timestamp="1529730692293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529499112207">
+      <file name="/Dummy.txt" timestamp="1529886358830">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -661,11 +661,11 @@
       <jump line="24" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBDYWNoZUV2aWN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>visit</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>visit</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
