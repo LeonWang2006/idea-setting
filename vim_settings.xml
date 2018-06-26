@@ -355,12 +355,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1530001884057">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1530003205119">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="141" column="0" />
-        <mark key="]" line="137" column="47" />
-        <mark key="." line="137" column="47" />
-        <mark key="^" line="136" column="45" />
+        <mark key="]" line="147" column="47" />
+        <mark key="." line="147" column="47" />
+        <mark key="^" line="147" column="47" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/build.gradle" timestamp="1529995422560" />
       <file name="/sys_user_accounts [prd - wos_common@192.168.10.112]" timestamp="1527216705088">
@@ -393,10 +393,10 @@
       <file name="/arecord [prd - oa_new@192.168.10.6]" timestamp="1527496017289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1529999831305">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/fragment.kt" timestamp="1530003188705">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
@@ -698,10 +698,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/$userId.${file.contentType?.replace(&quot;image/&quot;,&quot;&quot;)}</text>
+        <text>fileSystem.getPath(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>/$userId.${file.contentType?.replace(&quot;image/&quot;,&quot;&quot;)}</text>
+        <text>fileSystem.getPath(&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>fav</text>
