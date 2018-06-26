@@ -555,11 +555,11 @@
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1529925830187">
-        <mark key="[" line="158" column="80" />
-        <mark key="]" line="158" column="80" />
-        <mark key="." line="158" column="80" />
-        <mark key="^" line="169" column="58" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1529981719171">
+        <mark key="[" line="1929" column="0" />
+        <mark key="]" line="1929" column="0" />
+        <mark key="^" line="1932" column="20" />
+        <mark key="." line="1929" column="0" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -693,11 +693,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Paths.get(&quot;../images/avatar/$userId.${file.contentType}&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Paths.get(&quot;../images/avatar/$userId.${file.contentType}&quot;)</text>
+        <text>ResponseWrapper(null)</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -706,34 +706,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IFBhdGhzLmdldCgiLi4vaW1hZ2VzL2F2YXRhci8kdXNlcklkLiR7ZmlsZS5jb250ZW50VHlwZX0iKQogICAgICAgICAgICB2YWwgc2F2ZVJlc3VsdCA9IEZpbGVzLndyaXRlKHBhdGgsZmlsZS5ieXRlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJaXQuYXZhdGFyID0gLmdldChpdC5iYWRnZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXZhbCBhdmF0YXJNYXAgPSAuZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL+iwg+aOpeWPo+afpeivouaVsOaNrgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBSZXNwb25zZVdyYXBwZXIoYXR0ZW50aW9uUmVzcG9uc2UuZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXVzZXJBdHRlbnRpb25EZXBhcnRtZW50ID0gbXV0YWJsZUxpc3RPZigpCg==</text>
+        <text encoding="base64">CQkJCQkJaXQuYXZhdGFyID0gLmdldChpdC5iYWRnZSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewoJCQl1c2VyQXR0ZW50aW9uRGVwYXJ0bWVudCA9IG11dGFibGVMaXN0T2YoKQoJCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCXZhbCBhdmF0YXJNYXAgPSAuZGF0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
