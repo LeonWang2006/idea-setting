@@ -355,12 +355,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1530003205119">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1530006307350">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="147" column="47" />
-        <mark key="." line="147" column="47" />
-        <mark key="^" line="147" column="47" />
+        <mark key="[" line="147" column="43" />
+        <mark key="]" line="147" column="42" />
+        <mark key="." line="147" column="42" />
+        <mark key="^" line="147" column="42" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/build.gradle" timestamp="1529995422560" />
       <file name="/sys_user_accounts [prd - wos_common@192.168.10.112]" timestamp="1527216705088">
@@ -698,10 +698,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fileSystem.getPath(&quot;&quot;)</text>
+        <text>&quot;.png&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>fileSystem.getPath(&quot;&quot;)</text>
+        <text>&quot;.png&quot;</text>
       </register>
       <register name="/" type="4">
         <text>fav</text>
