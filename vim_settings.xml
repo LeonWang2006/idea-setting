@@ -392,16 +392,13 @@
       <file name="/arecord [prd - oa_new@192.168.10.6]" timestamp="1527496017289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1530012683338">
-        <mark key="[" line="0" column="19" />
+      <file name="/fragment.kt" timestamp="1530019296207">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1529909356569">
-        <mark key="[" line="118" column="71" />
       </file>
       <file name="/deployments [prd - codepush@192.168.10.73]" timestamp="1527726906642">
         <mark key="[" line="0" column="0" />
@@ -506,6 +503,11 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526901411947">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1530017228481">
+        <mark key="[" line="74" column="43" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
+      </file>
       <file name="/dummy.sql" timestamp="1529920034731">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
@@ -523,7 +525,7 @@
       <file name="/app_user [prd - app@192.168.10.20]" timestamp="1529730692293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529997736454">
+      <file name="/Dummy.txt" timestamp="1530019675312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -539,6 +541,12 @@
       </file>
       <file name="/sys_task [prd - wos_common@192.168.10.112]" timestamp="1523500261985">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/WebMvcConfig.kt" timestamp="1530019531992">
+        <mark key="[" line="29" column="57" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
@@ -696,11 +704,11 @@
       <jump line="1382" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>System.getProperty(&quot;user.home&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>.toString()</text>
+        <text>System.getProperty(&quot;user.home&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>fav</text>
