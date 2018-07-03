@@ -278,7 +278,7 @@
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1530512282539">
+      <file name="/dummy.sql" timestamp="1530598476964">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -292,7 +292,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1524464006973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530585186477">
+      <file name="/Dummy.txt" timestamp="1530598078267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -321,11 +321,11 @@
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1530590407557">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1530597333235">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1126" column="35" />
-        <mark key="]" line="1129" column="0" />
-        <mark key="." line="1129" column="0" />
+        <mark key="[" line="1127" column="83" />
+        <mark key="]" line="1127" column="83" />
+        <mark key="." line="1127" column="83" />
         <mark key="^" line="1127" column="95" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
@@ -723,11 +723,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5lbXBsb3llZV9pZCA9ICcke3BhcmFtTG9nLndzSWR9JykiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>paramLogBuild.underling</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>paramLogBuild.underling</text>
       </register>
       <register name="/" type="4">
         <text>fav</text>
