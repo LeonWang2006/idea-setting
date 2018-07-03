@@ -252,6 +252,9 @@
         <mark key="]" line="94" column="37" />
         <mark key="." line="94" column="37" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/AuthController.kt" timestamp="1530609999549">
+        <mark key="." line="64" column="83" />
+      </file>
       <file name="/hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1526261580347">
         <mark key="[" line="0" column="0" />
       </file>
@@ -269,7 +272,7 @@
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1530605676688">
+      <file name="/dummy.sql" timestamp="1530610354640">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -331,6 +334,11 @@
       <file name="/posts_comments [dev - sharetronix@192.168.10.61]" timestamp="1525268820962">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/LoginRequest.kt" timestamp="1530610070510">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
       </file>
@@ -377,12 +385,6 @@
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1527232248680">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1530101281791">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="19" column="53" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/.gitignore" timestamp="1528937347274">
         <mark key="[" line="15" column="9" />
       </file>
@@ -405,6 +407,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1527252422119">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/users [visit@yun.db.org]" timestamp="1530610354320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1523153012160">
@@ -720,8 +725,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IE9SIGxvZy5ocmRfaWQgTElLRSAnJTAzMTAwMDA0JScgT1IKICBsb2cuaHJtX2lkIExJS0UgJyUwMzEwMDAwNCUnIE9SIGxvZy5ocmJwX2lkIExJS0UgJyUwMzEwMDAwNCUn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
       </register>
       <register name="-" type="4">
         <text>paramLogBuild.underling</text>
@@ -732,35 +737,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5lbXBsb3llZV9pZCBJTiAoJyR7cGVyc29ucy5qb2luVG9TdHJpbmcoICInLCciICl9JykpIikK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IE9SIGxvZy5ocmRfaWQgTElLRSAnJTAzMTAwMDA0JScgT1IKICBsb2cuaHJtX2lkIExJS0UgJyUwMzEwMDAwNCUnIE9SIGxvZy5ocmJwX2lkIExJS0UgJyUwMzEwMDAwNCUn</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IEFORAogICAgICAgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDA0JywgbG9nLnJlYWRfd3NfaWQpID4gMCwgMSwgMCkgPSAw</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IE9SIGxvZy5ocmRfaWQgTElLRSAnJTAzMTAwMDA0JScgT1IKICBsb2cuaHJtX2lkIExJS0UgJyUwMzEwMDAwNCUnIE9SIGxvZy5ocmJwX2lkIExJS0UgJyUwMzEwMDAwNCUn</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IEFORAogICAgICAgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDA0JywgbG9nLnJlYWRfd3NfaWQpID4gMCwgMSwgMCkgPSAw</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IEFORAogICAgICAgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDA0JywgbG9nLnJlYWRfd3NfaWQpID4gMCwgMSwgMCkgPSAwKQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5lbXBsb3llZV9pZCA9ICcke3BhcmFtTG9nLndzSWR9JykiKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5lbXBsb3llZV9pZCBJTiAoJyR7cGVyc29ucy5qb2luVG9TdHJpbmcoICInLCciICl9JykpIikK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">LnByb2plY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNwcmluZ2ZveC5kb2N1bWVudGF0aW9uLnNwcmluZy53ZWIuanNvbi5Kc29uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
