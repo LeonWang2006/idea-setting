@@ -321,12 +321,12 @@
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1530587673399">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1530590343209">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1696" column="86" />
-        <mark key="]" line="1294" column="46" />
-        <mark key="." line="1294" column="0" />
-        <mark key="^" line="1286" column="44" />
+        <mark key="[" line="1126" column="35" />
+        <mark key="]" line="1129" column="0" />
+        <mark key="." line="1129" column="0" />
+        <mark key="^" line="1127" column="95" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -724,7 +724,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5lbXBsb3llZV9pZCA9ICcke3BhcmFtTG9nLndzSWR9JykiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -733,25 +733,25 @@
         <text>fav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAiIgo=</text>
+        <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5lbXBsb3llZV9pZCBJTiAoJyR7cGVyc29ucy5qb2luVG9TdHJpbmcoICInLCciICl9JykpIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5lbXBsb3llZV9pZCA9ICcke3BhcmFtTG9nLndzSWR9JykiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5lbXBsb3llZV9pZCBJTiAoJyR7cGVyc29ucy5qb2luVG9TdHJpbmcoICInLCciICl9JykpIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LnByb2plY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNwcmluZ2ZveC5kb2N1bWVudGF0aW9uLnNwcmluZy53ZWIuanNvbi5Kc29uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZUV2aWN0Cg==</text>
+        <text encoding="base64">LnByb2plY3QK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHNwcmluZ2ZveC5kb2N1bWVudGF0aW9uLnNwcmluZy53ZWIuanNvbi5Kc29uCg==</text>
@@ -760,10 +760,10 @@
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZUV2aWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNwcmluZ2ZveC5kb2N1bWVudGF0aW9uLnNwcmluZy53ZWIuanNvbi5Kc29uCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQkJCXZhbCBzYiA9IFN0cmluZ0J1aWxkZXIoKQoJCQkJCWZvciAoc3RyOiBTdHJpbmcgaW4gZmF2b3JpdGVQZXJzb25zKSB7CgkJCQkJCXNiLmFwcGVuZChzdHIpLmFwcGVuZCgiJywnIikKCQkJCQl9</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZUV2aWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
