@@ -413,11 +413,10 @@
       <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1530604280790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1530621674735">
-        <mark key="[" line="63" column="54" />
-        <mark key="]" line="87" column="82" />
-        <mark key="." line="87" column="82" />
-        <mark key="^" line="87" column="82" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1530696566661">
+        <mark key="[" line="72" column="33" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/hrs_log_stat [prd - wos_hrs@192.168.10.112]" timestamp="1529586165071">
         <mark key="[" line="0" column="0" />
@@ -748,11 +747,11 @@
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>message</text>
@@ -761,34 +760,34 @@
         <text encoding="base64">CQkJCWtleSA9IHJlcXVlc3QudXNlclByaW5jaXBhbD8ubmFtZS50b1N0cmluZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWtleSA9ICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCWtleSA9ICIiCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UpCgkJd3NJZDogU3RyaW5nPyw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWtleSA9ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YWwgZGVwID0gcGFyYW1Mb2cuZGVwLnRvU3RyaW5nKCkudG9VcHBlckNhc2UoKQo=</text>
+        <text encoding="base64">CQkJCWtleSA9ICIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQl2YWwgZGVwID0gcGFyYW1Mb2cuZGVwLnRvU3RyaW5nKCkudG9VcHBlckNhc2UoKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IE9SIGxvZy5ocmRfaWQgTElLRSAnJTAzMTAwMDA0JScgT1IKICBsb2cuaHJtX2lkIExJS0UgJyUwMzEwMDAwNCUnIE9SIGxvZy5ocmJwX2lkIExJS0UgJyUwMzEwMDAwNCUn</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEFORAogICAgICAgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDA0JywgbG9nLnJlYWRfd3NfaWQpID4gMCwgMSwgMCkgPSAw</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IEFORAogICAgICAgSUYoZmluZF9pbl9zZXQoJzAzMTAwMDA0JywgbG9nLnJlYWRfd3NfaWQpID4gMCwgMSwgMCkgPSAwKQ==</text>
+        <text encoding="base64">IE9SIGxvZy5ocmRfaWQgTElLRSAnJTAzMTAwMDA0JScgT1IKICBsb2cuaHJtX2lkIExJS0UgJyUwMzEwMDAwNCUnIE9SIGxvZy5ocmJwX2lkIExJS0UgJyUwMzEwMDAwNCUn</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
