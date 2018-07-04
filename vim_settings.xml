@@ -278,7 +278,7 @@
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1530671200690">
+      <file name="/dummy.sql" timestamp="1530684252423">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -321,12 +321,12 @@
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1530671730138">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1530684654578">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1062" column="121" />
-        <mark key="]" line="154" column="8" />
-        <mark key="." line="154" column="8" />
-        <mark key="^" line="154" column="8" />
+        <mark key="[" line="1437" column="32" />
+        <mark key="]" line="1437" column="32" />
+        <mark key="." line="1437" column="32" />
+        <mark key="^" line="132" column="32" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -442,11 +442,11 @@
       <file name="/hrs_cache_vdepartment [prd - wos_hrs@192.168.10.112]" timestamp="1526004980396">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a36e08a0-f78f-4ef3-b426-f61502fe88cc/console.sql" timestamp="1530602157862">
-        <mark key="[" line="11" column="62" />
-        <mark key="]" line="11" column="62" />
-        <mark key="." line="11" column="62" />
-        <mark key="^" line="11" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a36e08a0-f78f-4ef3-b426-f61502fe88cc/console.sql" timestamp="1530684594715">
+        <mark key="[" line="24" column="67" />
+        <mark key="]" line="24" column="66" />
+        <mark key="^" line="24" column="66" />
+        <mark key="." line="24" column="66" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WeixinToken.kt" timestamp="1523157171762">
         <mark key="[" line="2" column="0" />
@@ -743,16 +743,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>(&quot; AND (log.indirect LIKE '%${paramLog.wsId}%' OR log.report_to = '${paramLog.wsId}')&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>(&quot; AND (log.indirect LIKE '%${paramLog.wsId}%' OR log.report_to = '${paramLog.wsId}')&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXZhciB1cGRhdGVEZXNjcmlwdGlvbjogTGlzdDxBbnk/Pgo=</text>
+        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5kZXAgPSAoIiBBTkQgKGxvZy5pbmRpcmVjdCBMSUtFICclJHtwYXJhbUxvZy53c0lkfSUnIE9SIGxvZy5yZXBvcnRfdG8gPSAnJHtwYXJhbUxvZy53c0lkfScpIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
