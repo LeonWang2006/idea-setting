@@ -228,7 +228,7 @@
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1522832353006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1530770476581">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1530771321387">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
@@ -424,7 +424,7 @@
       <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1530604280790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1530703776684">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1530770995523">
         <mark key="[" line="73" column="33" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
@@ -435,7 +435,7 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1527252422119">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1530623505212">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1530771133329">
         <mark key="'" line="211" column="9" />
         <mark key="[" line="415" column="21" />
         <mark key="]" line="415" column="22" />
@@ -584,6 +584,11 @@
       </file>
       <file name="/hrs_toplist_like [dev - wos_hrs@10.10.18.130]" timestamp="1529567500630">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1530771335231">
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="150" column="0" />
       </file>
       <file name="/hrs_log_comment [dev - wos_hrs@10.10.18.130]" timestamp="1524282364281">
         <mark key="[" line="0" column="0" />
@@ -764,10 +769,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>志</text>
+        <text>appUserRepository</text>
       </register>
       <register name="-" type="4">
-        <text>志</text>
+        <text>appUserRepository</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
