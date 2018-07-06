@@ -19,19 +19,10 @@
       <file name="/user_ext [prd - oa_new@192.168.10.6]" timestamp="1526384232263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/OfficeRepository.kt" timestamp="1529391842282">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1530697894367">
-        <mark key="[" line="43" column="32" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-      </file>
       <file name="/user_ext [dev - oa_new@10.10.18.133]" timestamp="1524050656859">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/ResponseOK.kt" timestamp="1530152652192" />
       <file name="/hrs_cache_ehr_member [prd - wos_hrs@192.168.10.112]" timestamp="1527470069958">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,11 +32,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1530585229766">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="22" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppRepository.kt" timestamp="1529926582136">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -53,11 +39,6 @@
       </file>
       <file name="/target_category [@visit.db.cc]" timestamp="1529457250837">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/DepartmentRepository.kt" timestamp="1529391903517">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="/hrs_log_comment [prd - wos_hrs@192.168.10.112]" timestamp="1524296219055">
         <mark key="[" line="0" column="0" />
@@ -176,11 +157,7 @@
       <file name="/sys_notify_todo [ekpwondersharetest_20180428@192.168.10.163]" timestamp="1528701388388">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/TargetCategory.kt" timestamp="1529410055025">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-      </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/ResponseError.kt" timestamp="1530155804233" />
       <file name="/hrs_evaluate_log [dev - wos_hrs@10.10.18.130]" timestamp="1527476389935">
         <mark key="[" line="0" column="0" />
       </file>
@@ -205,13 +182,14 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/build.gradle" timestamp="1529995422560" />
       <file name="/sys_user_accounts [prd - wos_common@192.168.10.112]" timestamp="1527216705088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/users [@10.10.18.132]" timestamp="1527838368910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [dev - sharetronix@192.168.10.61]" timestamp="1530846225658">
+      <file name="/users [dev - sharetronix@192.168.10.61]" timestamp="1530871103309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1527470074300">
@@ -226,7 +204,7 @@
       <file name="/arecord [prd - oa_new@192.168.10.6]" timestamp="1527496017289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1530846225700">
+      <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1530871103367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1530771321387">
@@ -258,10 +236,11 @@
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/UserService.kt" timestamp="1530069923736" />
       <file name="/target_relation [@10.10.18.132]" timestamp="1527837724329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1530690927067">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/Env.kt" timestamp="1530871174453">
         <mark key="[" line="84" column="40" />
         <mark key="]" line="94" column="37" />
         <mark key="." line="94" column="37" />
@@ -320,6 +299,7 @@
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1530871160638" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d93af9e8-f52c-47e9-b82b-09c83a133959/console.sql" timestamp="1524218355186">
         <mark key="[" line="0" column="89" />
       </file>
@@ -338,11 +318,6 @@
       <file name="/posts_comments [dev - sharetronix@192.168.10.61]" timestamp="1525268820962">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/LoginRequest.kt" timestamp="1530610070510">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
       </file>
@@ -351,11 +326,6 @@
       </file>
       <file name="/apps [prd - codepush@192.168.10.73]" timestamp="1527727004048">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1529909388692">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/.gitignore" timestamp="1530190967945">
         <mark key="[" line="15" column="0" />
@@ -386,7 +356,7 @@
       <file name="/department [@visit.db.cc]" timestamp="1529047423220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1530846245044">
+      <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1530871103162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1530706429934">
@@ -421,7 +391,7 @@
       <file name="/hrs_log_stat [prd - wos_hrs@192.168.10.112]" timestamp="1529586165071">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1530846225619">
+      <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1530871103279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1530771133329">
@@ -463,11 +433,6 @@
       <file name="/component_locker_main [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759376468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/Office.kt" timestamp="1529463742852">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console.sql" timestamp="1526477277366">
         <mark key="[" line="60" column="67" />
       </file>
@@ -504,7 +469,7 @@
       <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1530512281435">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1530846225566">
+      <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1530871103124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
@@ -515,11 +480,6 @@
       </file>
       <file name="/sys_content_publish_message [prd - wos_common@192.168.10.112]" timestamp="1527596493399">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1529907414165">
-        <mark key="[" line="143" column="8" />
-        <mark key="]" line="143" column="8" />
-        <mark key="." line="143" column="8" />
       </file>
       <file name="/sys_notify [prd - wos_common@192.168.10.112]" timestamp="1528446008687">
         <mark key="[" line="0" column="0" />
@@ -538,6 +498,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestExceptionHandler.kt" timestamp="1530693368381" />
       <file name="/hrs_attention [dev - wos_hrs@10.10.18.130]" timestamp="1525490886611">
         <mark key="[" line="0" column="0" />
       </file>
@@ -596,11 +557,6 @@
       <file name="/MySQL Fragment (MsgService.kt:9860).sql" timestamp="1525692306073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1530697881609">
-        <mark key="[" line="143" column="35" />
-        <mark key="]" line="143" column="36" />
-        <mark key="." line="143" column="36" />
-      </file>
       <file name="/hrs_stat_job_evaluate_manage [prd - wos_hrs@192.168.10.112]" timestamp="1526107660442">
         <mark key="[" line="0" column="0" />
       </file>
@@ -612,11 +568,6 @@
       </file>
       <file name="/hrs_yiilog_operation_category [prd - wos_hrs@192.168.10.112]" timestamp="1526261414431">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/settings.gradle" timestamp="1529890018454">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/packages_diff [prd - codepush@192.168.10.73]" timestamp="1527727035605">
         <mark key="[" line="0" column="0" />
@@ -648,6 +599,7 @@
       <file name="/posts_comments [prd - sharetronix@192.168.10.65]" timestamp="1525884316910">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/util/Util.kt" timestamp="1529925631983" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1525745307195">
         <mark key="[" line="20" column="47" />
       </file>
