@@ -307,12 +307,12 @@
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1531278499197">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1531279812898">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1052" column="0" />
-        <mark key="]" line="1052" column="0" />
-        <mark key="." line="1052" column="0" />
-        <mark key="^" line="1052" column="0" />
+        <mark key="[" line="1245" column="74" />
+        <mark key="]" line="1245" column="74" />
+        <mark key="." line="1245" column="74" />
+        <mark key="^" line="1310" column="0" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -502,7 +502,7 @@
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1531274340309">
+      <file name="/fragment.kt" timestamp="1531279261470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -693,11 +693,11 @@
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>username</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
@@ -706,34 +706,34 @@
         <text encoding="base64">CQkJCWtleSA9IHJlcXVlc3QudXNlclByaW5jaXBhbD8ubmFtZS50b1N0cmluZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmYXZvcml0ZVNldDogU2V0PFN0cmluZz4gPSBzZXRPZigpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcGFyYW1Mb2dCdWlsZC5mYXZvcml0ZSA9ICIgQU5EIGxvZy5lbXBsb3llZV9pZCBJTiAoJyR7ZmF2b3JpdGVQZXJzb25zLmpvaW5Ub1N0cmluZygiJywnIil9JykiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQlAUmVxdWVzdFBhcmFtKHJlcXVpcmVkID0gZmFsc2UpCgkJd3NJZDogU3RyaW5nPyw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCXZhbCBmYXZvcml0ZVBlcnNvbnMgPSBnZXRNeUF0dGVudGlvbihwYXJhbUxvZ0J1aWxkLndzSWQsIHJlcXVlc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWtleSA9ICIiCg==</text>
+        <text encoding="base64">CQkJCS8vCQkJCXZhbCBmYXZvcml0ZVBlcnNvbnMgPSBVc2VyU2VydmljZShocnNKZGJjVGVtcGxhdGUpLmdldEZhdm9yaXRlTGlzdChwYXJhbUxvZ0J1aWxkLndzSWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWtleSA9ICIiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">CQkJCQkJCXZhbCBzYiA9IFN0cmluZ0J1aWxkZXIoKQoJCQkJCQkJZm9yIChzdHI6IFN0cmluZyBpbiBmYXZvcml0ZVNldCkgewoJCQkJCQkJCXNiLmFwcGVuZChzdHIpLmFwcGVuZCgiJywnIikKCQkJCQkJCX0=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2YWwgZGVwID0gcGFyYW1Mb2cuZGVwLnRvU3RyaW5nKCkudG9VcHBlckNhc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
+        <text encoding="base64">CQkJCQkJCSl9JykkbG9nSWRTZXRTdHJpbmciCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
