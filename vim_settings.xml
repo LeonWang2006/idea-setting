@@ -275,7 +275,7 @@
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1531402423720">
+      <file name="/dummy.sql" timestamp="1531404038643">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -319,12 +319,12 @@
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1531402978459">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1531404776114">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1160" column="97" />
-        <mark key="]" line="1160" column="95" />
-        <mark key="." line="1160" column="95" />
-        <mark key="^" line="1160" column="95" />
+        <mark key="[" line="1413" column="0" />
+        <mark key="]" line="1413" column="0" />
+        <mark key="." line="1413" column="0" />
+        <mark key="^" line="1413" column="0" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -371,6 +371,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/versions [prd - codepush@192.168.10.73]" timestamp="1527727086198">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/hrs_cache_vdepartment [dev - wos_hrs@10.10.18.130]" timestamp="1531404038383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/department [@visit.db.cc]" timestamp="1529047423220">
@@ -710,8 +713,8 @@
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.isNotEmpty()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.isNotEmpty()</text>
@@ -723,34 +726,38 @@
         <text encoding="base64">CQkJCWtleSA9IHJlcXVlc3QudXNlclByaW5jaXBhbD8ubmFtZS50b1N0cmluZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAgICAgaWYgKGF0dGVudGlvblJlc3BvbnNlLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">NAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+      <register name="3" type="4">
+        <text>//			paramLogBuild.dep = if (!paramLogBuild.underling.isNullOrEmpty()) {
+//				&quot;&quot;
+//			} else {
+//				paramLogBuild.dep
+//			}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvKkBmb3JtYXR0ZXI6b2ZmKi8K</text>
+        <text encoding="base64">CSAgICAgICAgaWYgKGF0dGVudGlvblJlc3BvbnNlLikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlwYXJhbUxvZ0J1aWxkLmRlcCA9ICIiCg==</text>
+        <text encoding="base64">NAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmYXZvcml0ZVNldDogU2V0PFN0cmluZz4gPSBzZXRPZigpLAo=</text>
+        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvKkBmb3JtYXR0ZXI6b2ZmKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlwYXJhbUxvZ0J1aWxkLmRlcCA9ICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXZhbCBmYXZvcml0ZVBlcnNvbnMgPSBnZXRNeUF0dGVudGlvbihwYXJhbUxvZ0J1aWxkLndzSWQsIHJlcXVlc3QpCg==</text>
+        <text encoding="base64">CQlmYXZvcml0ZVNldDogU2V0PFN0cmluZz4gPSBzZXRPZigpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
