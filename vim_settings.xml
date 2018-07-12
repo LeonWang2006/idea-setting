@@ -289,7 +289,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1524464006973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531364226453">
+      <file name="/Dummy.txt" timestamp="1531398201647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -319,12 +319,12 @@
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1531379912241">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1531397784107">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1825" column="45" />
-        <mark key="]" line="1414" column="0" />
-        <mark key="." line="1414" column="0" />
-        <mark key="^" line="1414" column="41" />
+        <mark key="[" line="1160" column="97" />
+        <mark key="]" line="1160" column="95" />
+        <mark key="." line="1160" column="95" />
+        <mark key="^" line="1160" column="95" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -379,10 +379,10 @@
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1531104234173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1531379831139">
-        <mark key="[" line="1691" column="0" />
-        <mark key="]" line="1691" column="0" />
-        <mark key="." line="1691" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1531398125056">
+        <mark key="[" line="1753" column="45" />
+        <mark key="]" line="1753" column="45" />
+        <mark key="." line="1753" column="45" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/.gitignore" timestamp="1528937347274">
         <mark key="[" line="15" column="9" />
@@ -710,11 +710,11 @@
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAgICAgaWYgKGF0dGVudGlvblJlc3BvbnNlLikK</text>
+      <register name="&quot;" type="4">
+        <text>.isNotEmpty()</text>
       </register>
       <register name="-" type="4">
-        <text>2.3.9</text>
+        <text>.isNotEmpty()</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
