@@ -336,7 +336,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1524464006973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531446374610">
+      <file name="/Dummy.txt" timestamp="1531451959932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -467,10 +467,10 @@
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1531443240640">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1531450610772">
-        <mark key="[" line="65" column="38" />
-        <mark key="]" line="65" column="36" />
-        <mark key="." line="65" column="36" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1531451932606">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="/hrs_log_stat [prd - wos_hrs@192.168.10.112]" timestamp="1529586165071">
         <mark key="[" line="0" column="0" />
@@ -807,8 +807,8 @@
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>本</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCB1cGRhdGVEZXNjcmlwdGlvbiA9IGxpc3RPZigi5pu05paw5YaF5a65OiIsIuS8mOWMluaXpeW/l+WFs+azqOaOqOiNkOinhOWImSIsIuWNh+e6p+aXpeW/l+WFs+azqOmrmOe6p+aQnOe0oiIsIuaUr+aMgeW+ruWNmuaWh+acrOWGheWuueWkjeWItueymOi0tCIsIuWFtuS7lue7huiKguS8mOWMluWPimJ1Z+S/ruWkjSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>本</text>
@@ -819,17 +819,17 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCWtleSA9IHJlcXVlc3QudXNlclByaW5jaXBhbD8ubmFtZS50b1N0cmluZygpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHsKfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbCB1cGRhdGVEZXNjcmlwdGlvbiA9IGxpc3RPZigi5pu05paw5YaF5a65OiIsIuS8mOWMluaXpeW/l+WFs+azqOaOqOiNkOinhOWImSIsIuWNh+e6p+aXpeW/l+WFs+azqOmrmOe6p+aQnOe0oiIsIuaUr+aMgeW+ruWNmuaWh+acrOWGheWuueWkjeWItueymOi0tCIsIuWFtuS7lue7huiKguS8mOWMluWPimJ1Z+S/ruWkjSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciB0b2tlblR5cGUgPSAiQmVhcmVyIgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHsKfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0b2tlblR5cGUgPSAiQmVhcmVyIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -837,21 +837,21 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>//			paramLogBuild.dep = if (!paramLogBuild.underling.isNullOrEmpty()) {
 //				&quot;&quot;
 //			} else {
 //				paramLogBuild.dep
 //			}</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CSAgICAgICAgaWYgKGF0dGVudGlvblJlc3BvbnNlLikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">NAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8qQGZvcm1hdHRlcjpvZmYqLwo=</text>
+        <text encoding="base64">NAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
