@@ -108,7 +108,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1524011752497">
         <mark key="[" line="0" column="501" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1531702310758">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/ParamLog.kt" timestamp="1531703259836">
         <mark key="[" line="40" column="91" />
         <mark key="]" line="40" column="91" />
         <mark key="." line="40" column="91" />
@@ -351,11 +351,11 @@
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1531702476452">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1531703466341">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1123" column="0" />
-        <mark key="]" line="1123" column="0" />
-        <mark key="." line="1123" column="0" />
+        <mark key="[" line="1123" column="33" />
+        <mark key="]" line="1123" column="33" />
+        <mark key="." line="1123" column="33" />
         <mark key="^" line="1130" column="0" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
@@ -384,10 +384,10 @@
       <file name="/apps [prd - codepush@192.168.10.73]" timestamp="1527727004048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1529909388692">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1531703072118">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/.gitignore" timestamp="1530190967945">
         <mark key="[" line="15" column="0" />
@@ -782,11 +782,11 @@
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEFORCAobG9nLmluZGlyZWN0IExJS0UgJyUke3BhcmFtTG9nLndzSWR9JScgT1IgbG9nLnJlcG9ydF90byA9ICcke3BhcmFtTG9nLndzSWR9Jyk=</text>
       </register>
       <register name="-" type="4">
-        <text>workLog</text>
+        <text encoding="base64">IEFORCAobG9nLmluZGlyZWN0IExJS0UgJyUke3BhcmFtTG9nLndzSWR9JScgT1IgbG9nLnJlcG9ydF90byA9ICcke3BhcmFtTG9nLndzSWR9Jyk=</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
