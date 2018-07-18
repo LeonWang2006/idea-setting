@@ -199,12 +199,10 @@
       <file name="/sys_notify_action [dev - wos_common@10.10.18.130]" timestamp="1525685917846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1531901911600">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1531921647002">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="173" column="46" />
-        <mark key="]" line="185" column="32" />
-        <mark key="." line="185" column="139" />
-        <mark key="^" line="185" column="32" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1531377669592">
         <mark key="[" line="374" column="0" />
@@ -337,7 +335,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531884304924">
+      <file name="/Dummy.txt" timestamp="1531921792712">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -579,7 +577,7 @@
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1531919624045">
+      <file name="/fragment.kt" timestamp="1531920495417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -620,10 +618,10 @@
       <file name="/target_relation [@visit.db.cc]" timestamp="1529497405268">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/FileStorageService.kt" timestamp="1531919849406">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/service/FileStorageService.kt" timestamp="1531921521559">
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="8" />
       </file>
       <file name="/users [dev - ws_app@10.10.18.132]" timestamp="1527145669752">
         <mark key="[" line="0" column="0" />
@@ -666,7 +664,7 @@
       <file name="/app_user [prd - app@192.168.10.20]" timestamp="1531722405176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/WebMvcConfig.kt" timestamp="1531904278141">
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/WebMvcConfig.kt" timestamp="1531920901973">
         <mark key="[" line="29" column="57" />
         <mark key="]" line="30" column="4" />
         <mark key="^" line="30" column="4" />
@@ -795,7 +793,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.fileName.toString()</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
@@ -809,15 +807,14 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBwYXRoOlBhdGgKLy8gICAgICAgIHJldHVybiBpZiAodXNlcklkICE9IG51bGwgJiYgdXNlcklkID4gMCApewovLwovLyAgICAgICAgICAgIHZhbCBmaWxlTmFtZSA9ICIkdXNlcklkLiR7ZmlsZS5jb250ZW50VHlwZT8ucmVwbGFjZSgiaW1hZ2UvIiwiIil9IgovLyAgICAgICAgICAgIHBhdGggPSBQYXRocy5nZXQoIi4uL2ltYWdlcy9hdmF0YXJzIikKLy8gICAgICAgICAgICBpZiAoRmlsZXMubm90RXhpc3RzKHBhdGgpKXsKLy8gICAgICAgICAgICAgICAgRmlsZXMuY3JlYXRlRGlyZWN0b3JpZXMocGF0aCkKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgdmFsIGZpbGVQYXRoID0gUGF0aHMuZ2V0KCIkcGF0aC8kZmlsZU5hbWUiKQovLyAgICAgICAgICAgIEZpbGVzLndyaXRlKGZpbGVQYXRoLGZpbGUuYnl0ZXMpCi8vICAgICAgICAgICAgUmVzcG9uc2VFbnRpdHkub2s8QW55PihSZXNwb25zZU9LKEh0dHBTdGF0dXMuT0ssZmlsZU5hbWUpKQovLwovLyAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICBwYXRoID0gRmlsZXMuY3JlYXRlVGVtcEZpbGUoIiIsIi4ke2ZpbGUuY29udGVudFR5cGU/LnJlcGxhY2UoImltYWdlLyIsIiIpfSIpCi8vICAgICAgICAgICAgdmFsIHNhdmVSZXN1bHQgPSBGaWxlcy53cml0ZShwYXRoLGZpbGUuYnl0ZXMpCi8vICAgICAgICAgICAgUmVzcG9uc2VFbnRpdHkub2s8QW55PihSZXNwb25zZU9LKEh0dHBTdGF0dXMuT0ssc2F2ZVJlc3VsdC50b1VyaSgpLnBhdGgpKQovLyAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I+aWh+S7tuS4iuS8oOmFjee9rgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>file:
-  upload-dir: ./uploads</text>
+        <text encoding="base64">ICAgICAgICAvL+S4tOaXtuaWh+S7tuebruW9lQovLyAgICAgICAgU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmlvLnRtcGRpciIpCgoKLy8gICAgICAgIHZhbCBwYXRoID0gRmlsZXMuY3JlYXRlVGVtcEZpbGUoIiIsICIuJHtmaWxlLmNvbnRlbnRUeXBlPy5yZXBsYWNlKCJpbWFnZS8iLCAiIil9IikKLy8gICAgICAgIHZhbCBzYXZlUmVzdWx0ID0gRmlsZXMud3JpdGUocGF0aCwgZmlsZS5ieXRlcyk=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -826,13 +823,14 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBob20K</text>
+        <text encoding="base64">I+aWh+S7tuS4iuS8oOmFjee9rgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHVwbG9hZERpcjogU3RyaW5nPyA9IG51bGwK</text>
+      <register name="8" type="4">
+        <text>file:
+  upload-dir: ./uploads</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
