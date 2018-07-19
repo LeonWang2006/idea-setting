@@ -395,6 +395,12 @@
       <file name="/posts_comments_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884590182">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/TargetRequest.kt" timestamp="1531997310078">
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="46" />
+        <mark key="^" line="32" column="46" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cb09dc-e603-4c01-9fb3-9b1d47fb5489/console.sql" timestamp="1531987781820">
         <mark key="[" line="0" column="100" />
         <mark key="]" line="0" column="100" />
@@ -799,17 +805,17 @@
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
-      <register name="0" type="4">
-        <text>targetRelationBase</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBhcHBlYWw6IFN0cmluZz8gPSBudWxsLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
