@@ -325,7 +325,7 @@
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1532004775163">
+      <file name="/dummy.sql" timestamp="1532055264329">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -404,10 +404,11 @@
         <mark key="." line="32" column="46" />
         <mark key="^" line="32" column="46" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cb09dc-e603-4c01-9fb3-9b1d47fb5489/console.sql" timestamp="1531987781820">
-        <mark key="[" line="0" column="100" />
-        <mark key="]" line="0" column="100" />
-        <mark key="." line="0" column="100" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cb09dc-e603-4c01-9fb3-9b1d47fb5489/console.sql" timestamp="1532055408585">
+        <mark key="[" line="23" column="143" />
+        <mark key="]" line="23" column="134" />
+        <mark key="." line="23" column="134" />
+        <mark key="^" line="23" column="133" />
       </file>
       <file name="/app_blog_token [prd - app@192.168.10.20]" timestamp="1529730692401">
         <mark key="[" line="0" column="0" />
@@ -547,7 +548,7 @@
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1531309541922">
+      <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1532055118369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_blog_token [dev - ws_app@10.10.18.132]" timestamp="1531104234121">
@@ -809,10 +810,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
