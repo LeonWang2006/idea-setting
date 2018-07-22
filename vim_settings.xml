@@ -128,11 +128,11 @@
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1531475919997">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1532224236035">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="42" column="10" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1532228878587">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="10" />
+        <mark key="^" line="43" column="10" />
+        <mark key="." line="43" column="10" />
       </file>
       <file name="/sys_yiilog_operation [prd - wos_common@192.168.10.112]" timestamp="1526005487619">
         <mark key="[" line="0" column="0" />
@@ -466,8 +466,8 @@
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1531104234173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1532228014841">
-        <mark key="'" line="1410" column="26" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1532228666932">
+        <mark key="'" line="1636" column="31" />
         <mark key="[" line="1532" column="0" />
         <mark key="]" line="1532" column="0" />
         <mark key="." line="1532" column="0" />
@@ -744,7 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1114" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="946" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="1137" column="68" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="88" column="19" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -844,16 +843,17 @@
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="1730" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="1410" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>add-</text>
+        <text>operation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWNhY2hlIikK</text>
@@ -889,13 +889,13 @@
         <text encoding="base64">CQk8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzdHlsZT0id2lkdGg6IDUwJTsgaGVpZ2h0OiA1MCUiIHNyYz0iL2ltYWdlcy9hcHBfcXIucG5nIj48L2Rpdj4tLT4K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/MY_TABLE/user/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>add-</last-search>
+      <last-search>operation</last-search>
       <last-offset />
-      <last-pattern>add-</last-pattern>
+      <last-pattern>operation</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>MY_TABLE</last-substitute>
       <last-dir>1</last-dir>
@@ -903,7 +903,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ifnull</entry>
         <entry>orLimit</entry>
         <entry>initToken</entry>
         <entry>detail</entry>
@@ -923,6 +922,7 @@
         <entry>cancel_type</entry>
         <entry>add-attentios</entry>
         <entry>add-</entry>
+        <entry>operation</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = null/,/g</entry>
@@ -941,10 +941,10 @@
         <entry>id</entry>
         <entry>ids</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>1493</entry>
         <entry>1267</entry>
         <entry>%s/MY_TABLE/user/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
