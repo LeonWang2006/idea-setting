@@ -128,6 +128,12 @@
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1531475919997">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/BasicAuthenticationProvider.kt" timestamp="1532224236035">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="42" column="10" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="/sys_yiilog_operation [prd - wos_common@192.168.10.112]" timestamp="1526005487619">
         <mark key="[" line="0" column="0" />
       </file>
@@ -214,13 +220,6 @@
       <file name="/sys_notify_action [dev - wos_common@10.10.18.130]" timestamp="1525685917846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1531994003602">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="131" column="43" />
-        <mark key="]" line="131" column="42" />
-        <mark key="." line="131" column="42" />
-        <mark key="^" line="131" column="42" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1532005231273">
         <mark key="[" line="374" column="0" />
         <mark key="]" line="374" column="0" />
@@ -244,7 +243,7 @@
       <file name="/users [dev - sharetronix@192.168.10.61]" timestamp="1531878301355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1531723109573">
+      <file name="/hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1532224359651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_arecord_import [prd - wos_hrs@192.168.10.112]" timestamp="1527495454418">
@@ -340,7 +339,7 @@
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1532056055880">
+      <file name="/dummy.sql" timestamp="1532224360682">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -467,10 +466,11 @@
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1531104234173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1531721690261">
-        <mark key="[" line="1753" column="45" />
-        <mark key="]" line="1753" column="45" />
-        <mark key="." line="1753" column="45" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1532225058781">
+        <mark key="'" line="1732" column="12" />
+        <mark key="[" line="1532" column="0" />
+        <mark key="]" line="1532" column="0" />
+        <mark key="." line="1532" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/.gitignore" timestamp="1528937347274">
         <mark key="[" line="15" column="9" />
@@ -595,8 +595,8 @@
       <file name="/sys_content_publish_message [prd - wos_common@192.168.10.112]" timestamp="1527596493399">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1532066298301">
-        <mark key="[" line="57" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1532224261112">
+        <mark key="[" line="147" column="8" />
         <mark key="]" line="147" column="8" />
         <mark key="." line="147" column="8" />
       </file>
@@ -741,7 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1534" column="71" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1172" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1114" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="946" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -841,58 +840,59 @@
       <jump line="398" column="75" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
+      <jump line="1730" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>日志关注推荐规则</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>日志关注推荐规则</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text>cancel_type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWNhY2hlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAuYWRkKCJjYW5jZWxfdHlwZSIsIGNhbmNlbF90eXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKCkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CTwhLS08ZGl2Pi0tPgoJCTwhLS08aDU+5ZGY5bel5LmL5a62QVBQ5LiL6L29PC9oNT4tLT4KCQk8IS0tPGltZyBzcmM9ImFwcF9xci5wbmciIGFsdD0iQVBQIi8+LS0+Cgk8IS0tPC9kaXY+LS0+</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3QtZGV2dG9vbHMnLCB2ZXJzaW9uOiAnMS40LjMuUkVMRUFTRScK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQk8aW1nIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSBsb2dpbi1saWZlLW1hcmdpbiIgc3JjPSIvaW1hZ2VzL2xvZ2luX2xpZmUucG5nIj4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQk8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzdHlsZT0id2lkdGg6IDUwJTsgaGVpZ2h0OiA1MCUiIHNyYz0iL2ltYWdlcy9hcHBfcXIucG5nIj48L2Rpdj4tLT4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CTxkaXYgY2xhc3M9ImRlbW8taGVhZGVyIj4KCQk8dWwgY2xhc3M9Im5hdmJhciBvdiI+CQkJCgkJCQoJCQk8bGk+PGEgZGF0YS1pZD0icHJldmlldy1wYyIgY2xhc3M9InBvc3RpIGFydmUiIGhyZWY9ImphdmFzY3JpcHQ6OyI+PGkgY2xhc3M9InVlIj7un7w8L2k+PC9hPjwvbGk+CQkJCQkKCQkJPGxpPjxhIGRhdGEtaWQ9InByZXZpZXctcG9ydHJhaXQiIGNsYXNzPSJwb3N0aSIgaHJlZj0iamF2YXNjcmlwdDo7Ij48aSBjbGFzcz0idWUiPu6YnzwvaT48L2E+PC9saT4JCgkJCTxsaT48YSBkYXRhLWlkPSJwcmV2aWV3LWxhbmRzY2FwZSIgY2xhc3M9InBvc3RpIiBocmVmPSJqYXZhc2NyaXB0OjsiPjxpIGNsYXNzPSJ1ZSI+7p+9PC9pPjwvYT48L2xpPgkKCQkJPGxpPjxhIGRhdGEtaWQ9InByZXZpZXctcGhvbmUiIGNsYXNzPSJwb3N0aSIgaWQ9InBob25lIiBocmVmPSJqYXZhc2NyaXB0OjsiPjxpIGNsYXNzPSJ1ZSI+7pimPC9pPjwvYT48L2xpPgkKCQkJPGxpPjxhIGRhdGEtaWQ9InByZXZpZXctcGhvbmUyIiBjbGFzcz0icG9zdGkiIGhyZWY9ImphdmFzY3JpcHQ6OyI+PGkgY2xhc3M9InVlIj7un748L2k+PC9hPjwvbGk+CgkJCTxsaT48YSBjbGFzcz0ibWEiIGhyZWY9ImphdmFzY3JpcHQ6a3VhbmdodWFuKCk7Ij48aSBjbGFzcz0idWUiPu6YlzwvaT4mbmJzcDvmiavnoIHpooTop4gKCQkJCTxkaXYgY2xhc3M9ImVybCI+CgkJCQkJPGltZyBpZD0ibWEiIHNyYz0iLi9pbWFnZXMvYmFyQ29kZSI+CgkJCQkJPHA+5omr5LiA5omr77yM55u05o6l5Zyo5omL5py65LiK5omT5byAPC9wPgoJCQkJPC9kaXY+CgkJCQk8L2E+CgkJCTwvbGk+CQkJCgkJCTxsaT48c3Bhbj7lvohs55qENDA0572R6aG15qih5p2/6aG16Z2i5rqQ56CBPC9zcGFuPjwvbGk+CgkJCTxsaSBjbGFzcz0iZnIiPjxhIHRpdGxlPSLnp7vpmaTmoYbmnrYiIGhyZWY9ImphdmFzY3JpcHQ6Y29scygpOyIgY2xhc3M9IiI+PGkgY2xhc3M9InVlIj7unKw8L2k+PC9hPjwvbGk+CgkJPC91bD4KCQkJPC9kaXY+CQ==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CTwhLS08ZGl2Pi0tPgoJCTwhLS08aDU+5ZGY5bel5LmL5a62QVBQ5LiL6L29PC9oNT4tLT4KCQk8IS0tPGltZyBzcmM9ImFwcF9xci5wbmciIGFsdD0iQVBQIi8+LS0+Cgk8IS0tPC9kaXY+LS0+</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3QtZGV2dG9vbHMnLCB2ZXJzaW9uOiAnMS40LjMuUkVMRUFTRScK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQk8aW1nIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSBsb2dpbi1saWZlLW1hcmdpbiIgc3JjPSIvaW1hZ2VzL2xvZ2luX2xpZmUucG5nIj4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQk8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzdHlsZT0id2lkdGg6IDUwJTsgaGVpZ2h0OiA1MCUiIHNyYz0iL2ltYWdlcy9hcHBfcXIucG5nIj48L2Rpdj4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/MY_TABLE/user/g</text>
       </register>
     </registers>
     <search>
-      <last-search>message</last-search>
+      <last-search>cancel_type</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern>cancel_type</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>MY_TABLE</last-substitute>
       <last-dir>1</last-dir>
@@ -900,7 +900,6 @@
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry>and</entry>
         <entry>MY_TABLE</entry>
         <entry>ifnull</entry>
@@ -920,6 +919,7 @@
         <entry>fave</entry>
         <entry>fav</entry>
         <entry>message</entry>
+        <entry>cancel_type</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = null/,/g</entry>
