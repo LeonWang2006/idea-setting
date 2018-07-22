@@ -466,8 +466,8 @@
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1531104234173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1532225058781">
-        <mark key="'" line="1732" column="12" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1532227112828">
+        <mark key="'" line="1410" column="26" />
         <mark key="[" line="1532" column="0" />
         <mark key="]" line="1532" column="0" />
         <mark key="." line="1532" column="0" />
@@ -744,7 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1172" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="1114" column="50" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="946" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="1137" column="68" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -844,6 +843,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="211" column="9" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
       <jump line="1730" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
+      <jump line="1410" column="26" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -853,7 +853,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>cancel_type</text>
+        <text>add-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWNhY2hlIikK</text>
@@ -893,9 +893,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cancel_type</last-search>
+      <last-search>add-</last-search>
       <last-offset />
-      <last-pattern>cancel_type</last-pattern>
+      <last-pattern>add-</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>MY_TABLE</last-substitute>
       <last-dir>1</last-dir>
@@ -903,8 +903,6 @@
     </search>
     <history>
       <history-search>
-        <entry>and</entry>
-        <entry>MY_TABLE</entry>
         <entry>ifnull</entry>
         <entry>orLimit</entry>
         <entry>initToken</entry>
@@ -923,6 +921,8 @@
         <entry>fav</entry>
         <entry>message</entry>
         <entry>cancel_type</entry>
+        <entry>add-attentios</entry>
+        <entry>add-</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ = null/,/g</entry>
