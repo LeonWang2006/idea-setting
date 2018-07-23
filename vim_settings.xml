@@ -37,6 +37,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/20b38913-ecdc-4ce5-ab58-817ca4788d82/console.sql" timestamp="1524724770721">
         <mark key="[" line="56" column="50" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1532325354853">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e03810c-b47c-4933-840f-4b4d4e6b06f2/console.sql" timestamp="1531117214357">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
@@ -544,7 +549,7 @@
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1532314405163">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1532325254040">
         <mark key="[" line="53" column="29" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
@@ -802,7 +807,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1kZXZ0b29scyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>compile</text>
@@ -814,31 +819,31 @@
         <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWNhY2hlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1kZXZ0b29scyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGltZyBzcmM9Imh0dHBzOi8vcmVzLndvbmRlcnNoYXJlLmNuL29yY29yZGUucG5nIiBhbHQ9IuWRmOW3peS5i+WutmFwcOS6jOe7tOeggSIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CTxkaXYgY2xhc3M9ImJ1dHRvbiI+CgkJPGEgaHJlZj0iaHR0cHM6Ly9yZXMud29uZGVyc2hhcmUuY24vIiB0aXRsZT0i5LiL6L29QVBQIiB0YXJnZXQ9Il9ibGFuayI+5LiL6L29QVBQPC9hPgoJPC9kaXY+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJ1bnRpbWUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1kZXZ0b29scyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAuYWRkKCJjYW5jZWxfdHlwZSIsIGNhbmNlbF90eXBlKQo=</text>
+        <text encoding="base64">PGltZyBzcmM9Imh0dHBzOi8vcmVzLndvbmRlcnNoYXJlLmNuL29yY29yZGUucG5nIiBhbHQ9IuWRmOW3peS5i+WutmFwcOS6jOe7tOeggSIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CTxkaXYgY2xhc3M9ImJ1dHRvbiI+CgkJPGEgaHJlZj0iaHR0cHM6Ly9yZXMud29uZGVyc2hhcmUuY24vIiB0aXRsZT0i5LiL6L29QVBQIiB0YXJnZXQ9Il9ibGFuayI+5LiL6L29QVBQPC9hPgoJPC9kaXY+</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
