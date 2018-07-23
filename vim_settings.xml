@@ -207,8 +207,11 @@
         <mark key="]" line="374" column="0" />
         <mark key="." line="374" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/build.gradle" timestamp="1531902964842">
-        <mark key="[" line="79" column="68" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/build.gradle" timestamp="1532317545642">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="81" column="85" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/hrs_focus [dev - wos_hrs@10.10.18.130]" timestamp="1531462343405">
         <mark key="[" line="0" column="0" />
@@ -798,11 +801,11 @@
       <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>compileOnly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJ1bnRpbWUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1kZXZ0b29scyIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>compileOnly</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
@@ -811,34 +814,34 @@
         <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWNhY2hlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGltZyBzcmM9Imh0dHBzOi8vcmVzLndvbmRlcnNoYXJlLmNuL29yY29yZGUucG5nIiBhbHQ9IuWRmOW3peS5i+WutmFwcOS6jOe7tOeggSIvPgo=</text>
+        <text encoding="base64">ICAgIHJ1bnRpbWUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1kZXZ0b29scyIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">PGltZyBzcmM9Imh0dHBzOi8vcmVzLndvbmRlcnNoYXJlLmNuL29yY29yZGUucG5nIiBhbHQ9IuWRmOW3peS5i+WutmFwcOS6jOe7tOeggSIvPgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CTxkaXYgY2xhc3M9ImJ1dHRvbiI+CgkJPGEgaHJlZj0iaHR0cHM6Ly9yZXMud29uZGVyc2hhcmUuY24vIiB0aXRsZT0i5LiL6L29QVBQIiB0YXJnZXQ9Il9ibGFuayI+5LiL6L29QVBQPC9hPgoJPC9kaXY+</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAuYWRkKCJjYW5jZWxfdHlwZSIsIGNhbmNlbF90eXBlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBtYXAuYWRkKCJjYW5jZWxfdHlwZSIsIGNhbmNlbF90eXBlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CTwhLS08ZGl2Pi0tPgoJCTwhLS08aDU+5ZGY5bel5LmL5a62QVBQ5LiL6L29PC9oNT4tLT4KCQk8IS0tPGltZyBzcmM9ImFwcF9xci5wbmciIGFsdD0iQVBQIi8+LS0+Cgk8IS0tPC9kaXY+LS0+</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
