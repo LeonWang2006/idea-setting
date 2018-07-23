@@ -62,10 +62,10 @@
       <file name="/sys_yiilog_debug [prd - wos_common@192.168.10.112]" timestamp="1525504879049">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/public/error/404.html" timestamp="1532082247624">
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/public/error/404.html" timestamp="1532309347932">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/hrs_cache_ehr_work [prd - wos_hrs@192.168.10.112]" timestamp="1523172339801">
         <mark key="[" line="0" column="0" />
@@ -243,7 +243,7 @@
       <file name="/users [dev - sharetronix@192.168.10.61]" timestamp="1531878301355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1532308312069">
+      <file name="/hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1532309279280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_arecord_import [prd - wos_hrs@192.168.10.112]" timestamp="1527495454418">
@@ -619,7 +619,7 @@
       <file name="/hrs_attention [dev - wos_hrs@10.10.18.130]" timestamp="1531402422883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_focus [prd - wos_hrs@192.168.10.112]" timestamp="1532308313431">
+      <file name="/hrs_focus [prd - wos_hrs@192.168.10.112]" timestamp="1532309280778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_user_logs [prd - app@192.168.10.20]" timestamp="1530753097975">
@@ -845,8 +845,8 @@
       <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -863,29 +863,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAuYWRkKCJjYW5jZWxfdHlwZSIsIGNhbmNlbF90eXBlKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CTxkaXYgY2xhc3M9ImJ1dHRvbiI+CgkJPGEgaHJlZj0iaHR0cHM6Ly9yZXMud29uZGVyc2hhcmUuY24vIiB0aXRsZT0i5LiL6L29QVBQIiB0YXJnZXQ9Il9ibGFuayI+5LiL6L29QVBQPC9hPgoJPC9kaXY+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAuYWRkKCJjYW5jZWxfdHlwZSIsIGNhbmNlbF90eXBlKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKCkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CTwhLS08ZGl2Pi0tPgoJCTwhLS08aDU+5ZGY5bel5LmL5a62QVBQ5LiL6L29PC9oNT4tLT4KCQk8IS0tPGltZyBzcmM9ImFwcF9xci5wbmciIGFsdD0iQVBQIi8+LS0+Cgk8IS0tPC9kaXY+LS0+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3QtZGV2dG9vbHMnLCB2ZXJzaW9uOiAnMS40LjMuUkVMRUFTRScK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQk8aW1nIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSBsb2dpbi1saWZlLW1hcmdpbiIgc3JjPSIvaW1hZ2VzL2xvZ2luX2xpZmUucG5nIj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzdHlsZT0id2lkdGg6IDUwJTsgaGVpZ2h0OiA1MCUiIHNyYz0iL2ltYWdlcy9hcHBfcXIucG5nIj48L2Rpdj4tLT4K</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnLCBuYW1lOiAnc3ByaW5nLWJvb3QtZGV2dG9vbHMnLCB2ZXJzaW9uOiAnMS40LjMuUkVMRUFTRScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
