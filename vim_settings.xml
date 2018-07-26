@@ -96,7 +96,7 @@
       <file name="/hrs_yiilog_error [prd - wos_hrs@192.168.10.112]" timestamp="1526036417786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_weixin [prd - app@192.168.10.20]" timestamp="1531302095806">
+      <file name="/app_weixin [prd - app@192.168.10.20]" timestamp="1532587941167">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1524011752497">
@@ -154,7 +154,7 @@
       <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1532584200670">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1532505491693">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1532587962559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -316,7 +316,7 @@
         <mark key="]" line="74" column="43" />
         <mark key="." line="74" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1532584359264">
+      <file name="/dummy.sql" timestamp="1532587953708">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -416,10 +416,11 @@
       <file name="/hrs_cache_vdepartment [dev - wos_hrs@10.10.18.130]" timestamp="1531404038383">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/PushService.kt" timestamp="1532585059559">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/PushService.kt" timestamp="1532588368241">
+        <mark key="[" line="149" column="57" />
+        <mark key="]" line="149" column="15" />
+        <mark key="." line="149" column="15" />
+        <mark key="^" line="149" column="13" />
       </file>
       <file name="/department [@visit.db.cc]" timestamp="1529047423220">
         <mark key="[" line="0" column="0" />
@@ -518,7 +519,7 @@
       <file name="/hrs_yiilog_error_category [prd - wos_hrs@192.168.10.112]" timestamp="1524009235001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1528711617661">
+      <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1532587899937">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
@@ -797,11 +798,11 @@
       <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAqCg==</text>
+      <register name="&quot;" type="4">
+        <text>logger.info(</text>
       </register>
       <register name="-" type="4">
-        <text>( &quot;wsId&quot; )</text>
+        <text>logger.info(</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
