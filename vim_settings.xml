@@ -463,6 +463,7 @@
       <file name="/hrs_stat_job_evaluate_manage [prd - wos_hrs@192.168.10.112]" timestamp="1531878286218">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/AuthController.kt" timestamp="1532744604862" />
       <file name="/user [visit@localhost]" timestamp="1526896113754">
         <mark key="[" line="0" column="0" />
       </file>
@@ -567,6 +568,12 @@
       </file>
       <file name="/posts_comments [dev - sharetronix@192.168.10.61]" timestamp="1525268820962">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/LoginRequest.kt" timestamp="1532744641965">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
@@ -681,47 +688,47 @@
       <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcm5hbWVPckVtYWlsID0gdXNlclJlcXVlc3QudXNlcm5hbWVPckVtYWlsID86ICIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>usernameOrEmail</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWNhY2hlIikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBATm90QmxhbmsKICAgICAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICLnlKjmiLflr4bnoIEiKQogICAgICAgIHZhciBwYXNzd29yZDogU3RyaW5n</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcm5hbWVPckVtYWlsID0gdXNlclJlcXVlc3QudXNlcm5hbWVPckVtYWlsID86ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlcm5hbWVPckVtYWlsID0gdXNlclJlcXVlc3QudXNlcm5hbWVPckVtYWlsID86ICIiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CSAqCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CglAQXV0b3dpcmVkCglAUXVhbGlmaWVyKCJhcHBKVCIpCglwcml2YXRlIGxhdGVpbml0IHZhciBhcHBKZGJjVGVtcGxhdGU6IEpkYmNUZW1wbGF0ZQoKCUBBdXRvd2lyZWQKCXByaXZhdGUgbGF0ZWluaXQgdmFyIHJlc3RUZW1wbGF0ZUJ1aWxkZXI6IFJlc3RUZW1wbGF0ZUJ1aWxkZXI=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAqCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgQU5EIGRhdGUgPiAodW5peF90aW1lc3RhbXAoKSAtIDM2MDAgKiAyNCAqIDcp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICB0YWdfbmFtZSBJTiAoCiAgICAgICAgICAgICAgICAgICAgICAgICflrabkuaDliIbkuqvpooTlkYonLAogICAgICAgICAgICAgICAgICAgICAgICAn6aG555uu56uL6aG55b+r5oqlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ+mhueebruivhOWuoeW/q+aKpScsCiAgICAgICAgICAgICAgICAgICAgICAgICfpobnnm67nu5Ppobnlv6vmiqUnLAogICAgICAgICAgICAgICAgICAgICAgICAn5YWs5Y+46YCa55+lJywKICAgICAgICAgICAgICAgICAgICAgICAgJ+W8uuihjOetvumAgOmAmuefpScsCiAgICAgICAgICAgICAgICAgICAgICAgICfnlJ/ml6XnpZ3npo8nLAogICAgICAgICAgICAgICAgICAgICAgICAn5LuK5pel6K+35YGH5oOF5Ya1JywKICAgICAgICAgICAgICAgICAgICAgICAgJ+S6p+WTgeW3ruivhCcsCiAgICAgICAgICAgICAgICAgICAgICAgICfkuqflk4Hlpb3or4QnLAogICAgICAgICAgICAgICAgICAgICAgICAn5Lia5Yqh6KeE5YiS5a6h5om55b+r5oqlJwogICAgICAgICAgICAgICAgICAgICAgKQ==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgQU5EIGRhdGUgPiAodW5peF90aW1lc3RhbXAoKSAtIDM2MDAgKiAyNCAqIDcp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
