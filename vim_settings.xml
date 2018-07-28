@@ -17,7 +17,12 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1532700072650" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1532771893767">
+        <mark key="[" line="437" column="73" />
+        <mark key="]" line="437" column="73" />
+        <mark key="^" line="433" column="12" />
+        <mark key="." line="437" column="73" />
+      </file>
       <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1526089101044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -700,11 +705,11 @@
       <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">WyJST0xFX0FETUlOIl0K</text>
+      <register name="&quot;" type="4">
+        <text>count</text>
       </register>
       <register name="-" type="4">
-        <text>USER</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
