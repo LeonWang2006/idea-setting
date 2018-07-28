@@ -79,12 +79,6 @@
       <file name="/hrs_cache_vdepartment [dev - wos_hrs@10.10.18.130]" timestamp="1531404038383">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/PushService.kt" timestamp="1532588368241">
-        <mark key="[" line="149" column="57" />
-        <mark key="]" line="149" column="15" />
-        <mark key="." line="149" column="15" />
-        <mark key="^" line="149" column="13" />
-      </file>
       <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1527124807389">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,7 +147,7 @@
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [visit@yun.db.org]" timestamp="1531899097872">
+      <file name="/users [visit@yun.db.org]" timestamp="1532757308660">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1532505411123">
@@ -204,10 +198,10 @@
       <file name="/meeting_logs [prd - oa_new@192.168.10.6]" timestamp="1529386315168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1532606911944">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1532757315923">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/hrs_arecord [dev - wos_hrs@10.10.18.130]" timestamp="1528197256728">
         <mark key="[" line="0" column="0" />
@@ -379,6 +373,11 @@
       <file name="/arecord [prd - oa_new@192.168.10.6]" timestamp="1527496017289">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.kt" timestamp="1532756336342">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -456,7 +455,12 @@
       <file name="/MySQL Fragment (MsgService.kt:9860).sql" timestamp="1525692306073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/AuthResponse.kt" timestamp="1532749793780" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/AuthResponse.kt" timestamp="1532756987158">
+        <mark key="[" line="2" column="73" />
+        <mark key="]" line="2" column="73" />
+        <mark key="^" line="2" column="88" />
+        <mark key="." line="2" column="73" />
+      </file>
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -469,11 +473,11 @@
       <file name="/hrs_stat_job_evaluate_manage [prd - wos_hrs@192.168.10.112]" timestamp="1531878286218">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/AuthController.kt" timestamp="1532749979071">
-        <mark key="[" line="56" column="9" />
-        <mark key="]" line="55" column="45" />
-        <mark key="." line="55" column="45" />
-        <mark key="^" line="55" column="45" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/AuthController.kt" timestamp="1532757038459">
+        <mark key="[" line="52" column="89" />
+        <mark key="]" line="52" column="86" />
+        <mark key="." line="52" column="86" />
+        <mark key="^" line="52" column="86" />
       </file>
       <file name="/user [visit@localhost]" timestamp="1526896113754">
         <mark key="[" line="0" column="0" />
@@ -516,7 +520,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526901411947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1532655404470">
+      <file name="/dummy.sql" timestamp="1532757310132">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -699,11 +703,11 @@
       <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>USER</text>
       </register>
       <register name="-" type="4">
-        <text>,loginRequest.type</text>
+        <text>USER</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
