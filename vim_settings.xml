@@ -145,6 +145,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/JwtAuthenticationResponse.kt" timestamp="1532749745866">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
@@ -451,6 +456,7 @@
       <file name="/MySQL Fragment (MsgService.kt:9860).sql" timestamp="1525692306073">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/AuthResponse.kt" timestamp="1532749793780" />
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -463,7 +469,12 @@
       <file name="/hrs_stat_job_evaluate_manage [prd - wos_hrs@192.168.10.112]" timestamp="1531878286218">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/AuthController.kt" timestamp="1532748346284" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/AuthController.kt" timestamp="1532749979071">
+        <mark key="[" line="56" column="9" />
+        <mark key="]" line="55" column="45" />
+        <mark key="." line="55" column="45" />
+        <mark key="^" line="55" column="45" />
+      </file>
       <file name="/user [visit@localhost]" timestamp="1526896113754">
         <mark key="[" line="0" column="0" />
       </file>
@@ -688,47 +699,47 @@
       <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>password</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>,loginRequest.type</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBATm90QmxhbmsKICAgICAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICLnlKjmiLflr4bnoIEiKQogICAgICAgIHZhciBwYXNzd29yZDogU3RyaW5n</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXV0aFJlc3BvbnNlKGp3dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlcm5hbWVPckVtYWlsID0gdXNlclJlcXVlc3QudXNlcm5hbWVPckVtYWlsID86ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICBATm90QmxhbmsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlcm5hbWVPckVtYWlsID0gdXNlclJlcXVlc3QudXNlcm5hbWVPckVtYWlsID86ICIiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CSAqCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CglAQXV0b3dpcmVkCglAUXVhbGlmaWVyKCJhcHBKVCIpCglwcml2YXRlIGxhdGVpbml0IHZhciBhcHBKZGJjVGVtcGxhdGU6IEpkYmNUZW1wbGF0ZQoKCUBBdXRvd2lyZWQKCXByaXZhdGUgbGF0ZWluaXQgdmFyIHJlc3RUZW1wbGF0ZUJ1aWxkZXI6IFJlc3RUZW1wbGF0ZUJ1aWxkZXI=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAqCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgQU5EIGRhdGUgPiAodW5peF90aW1lc3RhbXAoKSAtIDM2MDAgKiAyNCAqIDcp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
