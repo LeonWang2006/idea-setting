@@ -199,10 +199,11 @@
       <file name="/arecord [prd - oa_new@192.168.10.6]" timestamp="1527496017289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1533031230055">
-        <mark key="[" line="44" column="82" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1533039796130">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="37" />
       </file>
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234431">
         <mark key="[" line="0" column="0" />
@@ -284,7 +285,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532952419736">
+      <file name="/Dummy.txt" timestamp="1533039768012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -729,7 +730,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE15QmFzaWNBdXRoZW50aWNhdGlvbkVudHJ5UG9pbnQK</text>
       </register>
       <register name="-" type="4">
         <text>Configuration</text>
@@ -741,7 +742,7 @@
         <text encoding="base64">CQlsYXRlaW5pdCB2YXIgYmxvZ01lbnRpb25zVXJsOiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE15QmFzaWNBdXRoZW50aWNhdGlvbkVudHJ5UG9pbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -749,26 +750,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgbGF0ZWluaXQgdmFyIHVuYXV0aG9yaXplZEhhbmRsZXI6IE15QmFzaWNBdXRoZW50aWNhdGlvbkVudHJ5UG9pbnQ=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHN0YXRpYy1wYXRoLXBhdHRlcm46IC8qKgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHN0YXRpYy1sb2NhdGlvbnM6IGNsYXNzcGF0aDovcmVzb3VyY2VzLyxjbGFzc3BhdGg6L3N0YXRpYy8sY2xhc3NwYXRoOi9wdWJsaWMvLGNsYXNzcGF0aDovc3RhdGljL2ltYWdlcy8K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmZpZ3VyYXRpb24K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW4K</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CUBUaHJvd3MoRXhjZXB0aW9uOjpjbGFzcykKCW92ZXJyaWRlIGZ1biBhZnRlclByb3BlcnRpZXNTZXQoKSB7CgkJcmVhbG1OYW1lID0gIkJhZWxkdW5nIgoJCXN1cGVyLmFmdGVyUHJvcGVydGllc1NldCgpCgl9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
