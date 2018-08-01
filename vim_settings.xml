@@ -81,7 +81,7 @@
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1533087142590">
+      <file name="/a.sql" timestamp="1533088959227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1531475919997">
@@ -138,6 +138,12 @@
       </file>
       <file name="/users [dev - visit@10.10.18.132]" timestamp="1527158031905">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e000b24b-6049-446f-b91c-b94afb71bd96/console.sql" timestamp="1533088999999">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+        <mark key="^" line="31" column="10" />
       </file>
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
@@ -278,7 +284,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SecurityConfig.kt" timestamp="1533027948708" />
-      <file name="/dummy.sql" timestamp="1533087146918">
+      <file name="/dummy.sql" timestamp="1533089947963">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -612,6 +618,9 @@
       <file name="/app_user [prd - app@192.168.10.20]" timestamp="1532948851017">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/cus_push_audited [ekpwondershare@192.168.10.136]" timestamp="1533089544668">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/posts_mentioned [dev - sharetronix@192.168.10.61]" timestamp="1525329664465">
         <mark key="[" line="0" column="0" />
       </file>
@@ -732,11 +741,11 @@
       <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IE15QmFzaWNBdXRoZW50aWNhdGlvbkVudHJ5UG9pbnQK</text>
+      <register name="&quot;" type="4">
+        <text>employeeId</text>
       </register>
       <register name="-" type="4">
-        <text>Configuration</text>
+        <text>employeeId</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
