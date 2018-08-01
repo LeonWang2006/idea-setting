@@ -421,10 +421,10 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1533126038745">
-        <mark key="[" line="732" column="31" />
-        <mark key="]" line="732" column="4" />
-        <mark key="." line="732" column="4" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1533126832681">
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="25" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533027811947">
         <mark key="[" line="0" column="0" />
@@ -748,11 +748,11 @@
       <jump line="1636" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QEVuYWJsZUNhY2hpbmcK</text>
+      <register name="&quot;" type="4">
+        <text>orgService</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3ZlcnJpZGUg</text>
+        <text>orgService</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
