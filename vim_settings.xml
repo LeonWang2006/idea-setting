@@ -378,6 +378,7 @@
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1531104234173">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1533122013365" />
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/.gitignore" timestamp="1528937347274">
         <mark key="[" line="15" column="9" />
       </file>
@@ -410,11 +411,10 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1533118054812">
-        <mark key="[" line="785" column="0" />
-        <mark key="]" line="785" column="0" />
-        <mark key="." line="785" column="0" />
-        <mark key="^" line="757" column="23" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1533122574284">
+        <mark key="[" line="746" column="16" />
+        <mark key="]" line="744" column="0" />
+        <mark key="." line="744" column="0" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533027811947">
         <mark key="[" line="0" column="0" />
@@ -739,10 +739,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCW51bGwK</text>
       </register>
       <register name="-" type="4">
-        <text>发送模版消息用</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
@@ -751,7 +751,7 @@
         <text encoding="base64">CQlsYXRlaW5pdCB2YXIgYmxvZ01lbnRpb25zVXJsOiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCW51bGwK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -760,25 +760,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IE15QmFzaWNBdXRoZW50aWNhdGlvbkVudHJ5UG9pbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE15QmFzaWNBdXRoZW50aWNhdGlvbkVudHJ5UG9pbnQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgbGF0ZWluaXQgdmFyIHVuYXV0aG9yaXplZEhhbmRsZXI6IE15QmFzaWNBdXRoZW50aWNhdGlvbkVudHJ5UG9pbnQ=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHN0YXRpYy1wYXRoLXBhdHRlcm46IC8qKgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYy1sb2NhdGlvbnM6IGNsYXNzcGF0aDovcmVzb3VyY2VzLyxjbGFzc3BhdGg6L3N0YXRpYy8sY2xhc3NwYXRoOi9wdWJsaWMvLGNsYXNzcGF0aDovc3RhdGljL2ltYWdlcy8K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgIHN0YXRpYy1sb2NhdGlvbnM6IGNsYXNzcGF0aDovcmVzb3VyY2VzLyxjbGFzc3BhdGg6L3N0YXRpYy8sY2xhc3NwYXRoOi9wdWJsaWMvLGNsYXNzcGF0aDovc3RhdGljL2ltYWdlcy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
