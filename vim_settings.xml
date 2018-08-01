@@ -205,11 +205,11 @@
       <file name="/arecord [prd - oa_new@192.168.10.6]" timestamp="1527496017289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1533039796130">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="37" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1533116568613">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="39" />
+        <mark key="." line="48" column="39" />
+        <mark key="^" line="48" column="39" />
       </file>
       <file name="/oauth_request_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234431">
         <mark key="[" line="0" column="0" />
@@ -742,10 +742,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>employeeId</text>
+        <text>.authorizeRequests().</text>
       </register>
       <register name="-" type="4">
-        <text>employeeId</text>
+        <text>.authorizeRequests().</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
