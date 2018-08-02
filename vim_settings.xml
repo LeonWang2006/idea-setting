@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1533179425925" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1533191976854" />
       <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1532780138018">
         <mark key="[" line="0" column="0" />
       </file>
@@ -414,11 +414,11 @@
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1533190808617">
-        <mark key="[" line="756" column="0" />
-        <mark key="]" line="756" column="0" />
-        <mark key="." line="756" column="0" />
-        <mark key="^" line="869" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1533194495830">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="872" column="0" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533171724464">
         <mark key="[" line="0" column="0" />
@@ -535,13 +535,18 @@
       <file name="/app_user_logs [prd - app@192.168.10.20]" timestamp="1533104688321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/CacheService.kt" timestamp="1533190299605">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/CacheService.kt" timestamp="1533191991907">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppWeixin.kt" timestamp="1533193105630">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
       </file>
       <file name="/deployments [prd - codepush@192.168.10.73]" timestamp="1527726906642">
         <mark key="[" line="0" column="0" />
@@ -634,8 +639,10 @@
       <file name="/posts_comments [prd - sharetronix@192.168.10.65]" timestamp="1532780120476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1531468229881">
-        <mark key="[" line="13" column="47" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppUserRepository.kt" timestamp="1533192579884">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -745,7 +752,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>&quot;2&quot;</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
@@ -759,17 +766,17 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CglAQXV0b3dpcmVkCglwcml2YXRlIGxhdGVpbml0IHZhciBhcHBVc2VyUmVwb3NpdG9yeTogQXBwVXNlclJlcG9zaXRvcnk=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CS8qKgoJICog6I635Y+WYWNjZXNzIHRva2VuCgkgKiBAcmV0dXJuIGJvb2x8bWl4ZWQKCSAqLwoJLy8JQENhY2hlYWJsZShjYWNoZU5hbWVzID0gWyJ3ZWl4aW5BY2Nlc3NUb2tlbiJdLCB1bmxlc3MgPSAiI3Jlc3VsdCAhPSBudWxsIiwgY2FjaGVNYW5hZ2VyID0gImNhY2hlTWFuYWdlcjJIIikKCS8vCWZ1biBnZXRBY2Nlc3NUb2tlbkJ5V2VpeGluKGNvZGU6IFN0cmluZz8sIHJlcXVlc3Q6IEh0dHBTZXJ2bGV0UmVxdWVzdCk6IFdlaXhpbkFjY2Vzc1Rva2VuPyB7CgkvLwoJLy8JCS8vICRkYXRhIOWcqOe8k+WtmOS4reayoeacieaJvuWIsO+8jOWImemHjeaWsOiuoeeul+Wug+eahOWAvAoJLy8JCXZhbCBhY2Nlc3NUb2tlblVybCA9ICIkYXBpSG9zdC9jZ2ktYmluL3Rva2VuP2dyYW50X3R5cGU9Y2xpZW50X2NyZWRlbnRpYWwmYXBwaWQ9JGFwcElEJnNlY3JldD0kYXBwU2VjcmV0IgoJLy8JCWxvZ2dlci5pbmZvKCJnZXRBY2Nlc3NUb2tlbkJ5V2VpeGluIC0gdXJsOiRhY2Nlc3NUb2tlblVybCIpCgkvLwkJdmFsIHJlc3RUZW1wbGF0ZSA9IFV0aWwuZ2V0UmVzdFRlbXBsYXRlKGFjY2Vzc1Rva2VuVXJsLCByZXN0VGVtcGxhdGVCdWlsZGVyLCByZXF1ZXN0KQoJLy8JCXZhbCByZXN1bHQgPSByZXN0VGVtcGxhdGUuZ2V0Rm9yRW50aXR5KGFjY2Vzc1Rva2VuVXJsLCBTdHJpbmc6OmNsYXNzLmphdmEpCgkvLwkJbG9nZ2VyLmluZm8oImdldEFjY2Vzc1Rva2VuQnlXZWl4aW46JHJlc3VsdCIpCgkvLwoJLy8JCWlmIChyZXN1bHQuc3RhdHVzQ29kZVZhbHVlID09IDIwMCkgewoJLy8JCQlyZXR1cm4gaWYgKHJlc3VsdC50b1N0cmluZygpLmNvbnRhaW5zKCJlcnJjb2RlIikpIHsKCS8vCQkJCWxvZ2dlci5lcnJvcigiZ2V0QWNjZXNzVG9rZW5CeVdlaXhpbiAtIOW+ruS/oeacjeWKoeWZqOi/lOWbnumUmeivr++8miR7cmVzdWx0LmJvZHl9IikKCS8vCQkJCW51bGwKCS8vCQkJfSBlbHNlIHsKCS8vCQkJCXZhbCBnc29uID0gR3NvbigpCgkvLwkJCQlnc29uLmZyb21Kc29uPFdlaXhpbkFjY2Vzc1Rva2VuPihyZXN1bHQuYm9keSwgb2JqZWN0IDogVHlwZVRva2VuPFdlaXhpbkFjY2Vzc1Rva2VuPigpIHt9LnR5cGUpCgkvLwkJCX0KCS8vCQl9CgkvLwoJLy8JCWxvZ2dlci5lcnJvcigiZ2V0QWNjZXNzVG9rZW5CeVdlaXhpbiAtIOW+ruS/oeacjeWKoeWZqOi/lOWbnumdnjIwMOeKtuaAgeeggemUmeivr++8miR7cmVzdWx0LmJvZHl9IikKCS8vCQlyZXR1cm4gbnVsbAoJLy8JfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZUV2aWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQK</text>
+        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkuYXBwLkFwcFJlcG9zaXRvcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIEBzCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gUmVzcG9uc2VXcmFwcGVyKHVzZXJMaXN0KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -777,11 +784,11 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QEpzb25UeXBlSW5mbyh1c2UgPSBKc29uVHlwZUluZm8uSWQuQ0xBU1MsIGluY2x1ZGUgPSBKc29uVHlwZUluZm8uQXMuUFJPUEVSVFksIHByb3BlcnR5ID0gIkBjbGFzcyIpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgkJCQkJaWYgKHVzZXJMaXN0Py5kYXRhPy5vcGVuaWQ/LmNvbnRhaW5zKGFwcFd4VXNlcj8ub3BlbmlkKSl7CgoJCQkJCX0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25TdWJUeXBlcwo=</text>
+        <text encoding="base64">CQkJdmFsIHVzZXJMaXN0ID0gY2FjaGVTZXJ2aWNlLmdldFd4VXNlcnMocmVxdWVzdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
