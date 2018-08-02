@@ -135,6 +135,11 @@
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1530605673185">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestConfig.kt" timestamp="1533173463956">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,7 +207,7 @@
       <file name="/arecord [prd - oa_new@192.168.10.6]" timestamp="1527496017289">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1533172347778">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1533173163281">
         <mark key="[" line="46" column="74" />
         <mark key="]" line="46" column="74" />
         <mark key="." line="46" column="74" />
@@ -282,7 +287,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533172132129">
+      <file name="/Dummy.txt" timestamp="1533173650246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -327,6 +332,7 @@
       <file name="/apps [prd - codepush@192.168.10.73]" timestamp="1527727004048">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1533172979869" />
       <file name="/posts_comments_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884590182">
         <mark key="[" line="0" column="0" />
       </file>
@@ -743,7 +749,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CgkJcmVnaXN0cnkuYWRkUmVzb3VyY2VIYW5kbGVyKCIvd2ViamFycy8qKiIpLmFkZFJlc291cmNlTG9jYXRpb25zKCJjbGFzc3BhdGg6L01FVEEtSU5GL3Jlc291cmNlcy93ZWJqYXJzLyIp</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -754,35 +760,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQlsYXRlaW5pdCB2YXIgYmxvZ01lbnRpb25zVXJsOiBTdHJpbmcK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCXVzZXJJbmZvLmhyVHlwZSA9IHVzZXIuaHJUeXBlPy50b0xvd2VyQ2FzZSgpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgkJcmVnaXN0cnkuYWRkUmVzb3VyY2VIYW5kbGVyKCIvd2ViamFycy8qKiIpLmFkZFJlc291cmNlTG9jYXRpb25zKCJjbGFzc3BhdGg6L01FVEEtSU5GL3Jlc291cmNlcy93ZWJqYXJzLyIp</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5CYXNlNjRVdGlscwo=</text>
+        <text encoding="base64">CQkJCXVzZXJJbmZvLmhyVHlwZSA9IHVzZXIuaHJUeXBlPy50b0xvd2VyQ2FzZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlJlc3VsdFNldAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5CYXNlNjRVdGlscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTEVuY29kZXIK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlJlc3VsdFNldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY295b3RlLmh0dHAxMS5Db25zdGFudHMuYQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTEVuY29kZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkud3BzLk5ld3MK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY295b3RlLmh0dHAxMS5Db25zdGFudHMuYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnV0aWwuVXRpbC5TTVNzZW5kCg==</text>
+        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnJlcG9zaXRvcnkud3BzLk5ld3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54YWxhbi5pbnRlcm5hbC54c2x0Yy5jb21waWxlci51dGlsLlV0aWwK</text>
+        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnV0aWwuVXRpbC5TTVNzZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNuLndvbmRlcnNoYXJlLnV0aWwuVXRpbC5sb2dnZXIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54YWxhbi5pbnRlcm5hbC54c2x0Yy5jb21waWxlci51dGlsLlV0aWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
