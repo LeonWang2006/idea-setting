@@ -414,11 +414,11 @@
         <mark key="." line="47" column="30" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1533179891925">
-        <mark key="[" line="121" column="14" />
-        <mark key="]" line="122" column="28" />
-        <mark key="." line="122" column="28" />
-        <mark key="^" line="122" column="28" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1533181661771">
+        <mark key="[" line="139" column="34" />
+        <mark key="]" line="139" column="37" />
+        <mark key="^" line="139" column="37" />
+        <mark key="." line="139" column="37" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533171724464">
         <mark key="[" line="0" column="0" />
@@ -742,53 +742,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CS8qCglUb1VzZXJOYW1lCeW8gOWPkeiAheW+ruS/oeWPtwpGcm9tVXNlck5hbWUJ5Y+R6YCB5pa55biQ5Y+377yI5LiA5LiqT3BlbklE77yJCkNyZWF0ZVRpbWUJ5raI5oGv5Yib5bu65pe26Ze0IO+8iOaVtOWei++8iQpNc2dUeXBlCea2iOaBr+exu+Wei++8jGV2ZW50CkV2ZW50CeS6i+S7tuexu+Wei++8jHN1YnNjcmliZSjorqLpmIUp44CBdW5zdWJzY3JpYmUo5Y+W5raI6K6i6ZiFKQoJICov</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Jm5leHRfb3BlbmlkPQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQkidW5zdWJzY3JpYmUiIC0+IHsKCQkJCQkJLy8gdG9kbyDnlKjmiLflj5bmtojlhbPms6jvvIzmm7TmlrDnvJPlrZgKCQkJCQl9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CS8qCglUb1VzZXJOYW1lCeW8gOWPkeiAheW+ruS/oeWPtwpGcm9tVXNlck5hbWUJ5Y+R6YCB5pa55biQ5Y+377yI5LiA5LiqT3BlbklE77yJCkNyZWF0ZVRpbWUJ5raI5oGv5Yib5bu65pe26Ze0IO+8iOaVtOWei++8iQpNc2dUeXBlCea2iOaBr+exu+Wei++8jGV2ZW50CkV2ZW50CeS6i+S7tuexu+Wei++8jHN1YnNjcmliZSjorqLpmIUp44CBdW5zdWJzY3JpYmUo5Y+W5raI6K6i6ZiFKQoJICov</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCXJlc3VsdCA9ICIyMiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmICh3eEV2ZW50LmV2ZW50ID09ICJ1bnN1YnNjcmliZSIpewoJCQkJCS8vIHRvZG8g55So5oi35Y+W5raI5YWz5rOoCgkJCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXN3aXRjaCgpCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CQkvKgoJCXsidG90YWwiOjIsCiJjb3VudCI6MiwKImRhdGEiOnsKIm9wZW5pZCI6WyJPUEVOSUQxIiwiT1BFTklEMiJdfSwKIm5leHRfb3BlbmlkIjoiTkVYVF9PUEVOSUQiCn0KCQkgKi8=</text>
+        <text encoding="base64">CQkJcmVxdWVzdC5zZXNzaW9uLmlkLAoJCQlzaWduYXR1cmUsCgkJCXRpbWVzdGFtcCwKCQkJbm9uY2UsCgkJCWVjaG9zdHI=</text>
       </register>
-      <register name="5" type="2">
+      <register name="5" type="4">
+        <text>signature: String?,
+		@RequestParam(required = false)
+		timestamp: String?,
+		@RequestParam(required = false)
+		nonce: String?,
+		@RequestParam(required = false)
+		echostr: String?</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CS8qCglUb1VzZXJOYW1lCeW8gOWPkeiAheW+ruS/oeWPtwpGcm9tVXNlck5hbWUJ5Y+R6YCB5pa55biQ5Y+377yI5LiA5LiqT3BlbklE77yJCkNyZWF0ZVRpbWUJ5raI5oGv5Yib5bu65pe26Ze0IO+8iOaVtOWei++8iQpNc2dUeXBlCea2iOaBr+exu+Wei++8jGV2ZW50CkV2ZW50CeS6i+S7tuexu+Wei++8jHN1YnNjcmliZSjorqLpmIUp44CBdW5zdWJzY3JpYmUo5Y+W5raI6K6i6ZiFKQoJICov</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25JZ25vcmUK</text>
-      </register>
-      <register name="7" type="4">
-        <text>/*
-{&quot;total&quot;:2,
-&quot;count&quot;:2,
-&quot;data&quot;:{
-&quot;openid&quot;:[&quot;OPENID1&quot;,&quot;OPENID2&quot;]},
-&quot;next_openid&quot;:&quot;NEXT_OPENID&quot;
-}
- */</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHsKCn0=</text>
+        <text encoding="base64">CQkvKgoJCXsidG90YWwiOjIsCiJjb3VudCI6MiwKImRhdGEiOnsKIm9wZW5pZCI6WyJPUEVOSUQxIiwiT1BFTklEMiJdfSwKIm5leHRfb3BlbmlkIjoiTkVYVF9PUEVOSUQiCn0KCQkgKi8=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
