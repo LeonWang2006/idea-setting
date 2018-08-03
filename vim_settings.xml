@@ -324,11 +324,11 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533295211072">
+      <file name="/dummy.sql" timestamp="1533299761186">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
@@ -462,10 +462,10 @@
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1531443240640">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1533294932150">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1533299587547">
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="43" />
+        <mark key="." line="65" column="43" />
       </file>
       <file name="/hrs_log_stat [prd - wos_hrs@192.168.10.112]" timestamp="1533111514800">
         <mark key="[" line="0" column="0" />
@@ -845,11 +845,11 @@
       <jump line="736" column="31" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>openid = 'oXZms0VzKXf-FKW-hklla3HGkrec'</text>
       </register>
       <register name="-" type="4">
-        <text>我的、动态模块</text>
+        <text>openid = 'oXZms0VzKXf-FKW-hklla3HGkrec'</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
