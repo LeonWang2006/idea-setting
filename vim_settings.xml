@@ -32,6 +32,7 @@
       <file name="/news_info [prd - oa_new@192.168.10.6]" timestamp="1525661378077">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/resources/application-dev.yml" timestamp="1533648482724" />
       <file name="/target_category [@visit.db.cc]" timestamp="1529457250837">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,7 +83,7 @@
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1533535823609">
+      <file name="/a.sql" timestamp="1533647503013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1531475919997">
@@ -163,6 +164,12 @@
       <file name="/sys_org_element [ekpwondersharetest_20180428@192.168.10.163]" timestamp="1528955086782">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtAuthenticationFilter.kt" timestamp="1533648903039">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="49" column="24" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="/sys_notify_todo [ekpwondersharetest_20180428@192.168.10.163]" timestamp="1528701388388">
         <mark key="[" line="0" column="0" />
       </file>
@@ -195,11 +202,11 @@
       <file name="/sys_notify_action [dev - wos_common@10.10.18.130]" timestamp="1525685917846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1533645545471">
-        <mark key="[" line="162" column="46" />
-        <mark key="]" line="162" column="46" />
-        <mark key="." line="162" column="46" />
-        <mark key="^" line="162" column="34" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/TargetController.kt" timestamp="1533647946228">
+        <mark key="[" line="67" column="107" />
+        <mark key="]" line="67" column="107" />
+        <mark key="." line="67" column="107" />
+        <mark key="^" line="67" column="107" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/build.gradle" timestamp="1533644773676">
         <mark key="[" line="2" column="29" />
@@ -248,7 +255,7 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" timestamp="1533529644744">
         <mark key="'" line="121" column="48" />
       </file>
-      <file name="/target_base [visit@yun.db.org]" timestamp="1532505355499">
+      <file name="/target_base [visit@yun.db.org]" timestamp="1533647085101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/office [@10.10.18.132]" timestamp="1527837727692">
@@ -326,6 +333,11 @@
       <file name="/hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1526261580347">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/TargetBase.kt" timestamp="1533647665523">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+      </file>
       <file name="/office [visit@aliyun.db.org]" timestamp="1529907351536">
         <mark key="[" line="0" column="0" />
       </file>
@@ -338,7 +350,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533539980316">
+      <file name="/dummy.sql" timestamp="1533648102701">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -348,7 +360,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533210558005">
+      <file name="/Dummy.txt" timestamp="1533649042578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -401,11 +413,10 @@
       <file name="/apps [prd - codepush@192.168.10.73]" timestamp="1527727004048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/UsersController.kt" timestamp="1532766326929">
-        <mark key="[" line="62" column="55" />
-        <mark key="]" line="60" column="30" />
-        <mark key="." line="60" column="30" />
-        <mark key="^" line="60" column="30" />
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/controller/UsersController.kt" timestamp="1533646830219">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/component/MessageReceiver.kt" timestamp="1533212184420">
         <mark key="[" line="6" column="23" />
@@ -421,6 +432,7 @@
       <file name="/hrs_log_detail [dev - wos_hrs@10.10.18.130]" timestamp="1533539978774">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/TargetRequest.kt" timestamp="1533646987654" />
       <file name="/app_blog_token [prd - app@192.168.10.20]" timestamp="1529730692401">
         <mark key="[" line="0" column="0" />
       </file>
@@ -640,10 +652,10 @@
       <file name="/ogs_positions_water [dev - wos_ogs@10.10.18.130]" timestamp="1533282849656">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1533034479229">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+      <file name="/fragment.kt" timestamp="1533647921995">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/app/AppWeixin.kt" timestamp="1533195908320">
         <mark key="[" line="2" column="0" />
@@ -659,6 +671,7 @@
       <file name="/token [prd - oa_new@192.168.10.6]" timestamp="1526605003746">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtTokenProvider.kt" timestamp="1533648937395" />
       <file name="/department_sway [dev - sharetronix@192.168.10.61]" timestamp="1531879240531">
         <mark key="[" line="0" column="0" />
       </file>
@@ -691,6 +704,7 @@
       <file name="/target_relation [@visit.db.cc]" timestamp="1529497405268">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtAuthenticationEntryPoint.kt" timestamp="1533648814699" />
       <file name="/users [dev - ws_app@10.10.18.132]" timestamp="1527145669752">
         <mark key="[" line="0" column="0" />
       </file>
@@ -859,47 +873,47 @@
       <jump line="121" column="48" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiQ291bGQgbm90IHNldCB1c2VyIGF1dGhlbnRpY2F0aW9uIGluIHNlY3VyaXR5IGNvbnRleHQiLCBleCkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ISO_LOCAL_DATE_TIME</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb250YWluZXIuYWRkTWVzc2FnZUxpc3RlbmVyKGxpc3RlbmVyQWRhcHRlciwgUGF0dGVyblRvcGljKCJjaGF0IikpCg==</text>
+        <text encoding="base64">CQkJbG9nZ2VyLmVycm9yKCJDb3VsZCBub3Qgc2V0IHVzZXIgYXV0aGVudGljYXRpb24gaW4gc2VjdXJpdHkgY29udGV4dCIsIGV4KQogICAgICAgICAgICByZXNwb25zZS5zZW5kRXJyb3IoIEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfVU5BVVRIT1JJWkVELCAiU29ycnksIFlvdSdyZSBub3QgYXV0aG9yaXplZCB0byBhY2Nlc3MgdGhpcyByZXNvdXJjZS4iICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiQ291bGQgbm90IHNldCB1c2VyIGF1dGhlbnRpY2F0aW9uIGluIHNlY3VyaXR5IGNvbnRleHQiLCBleCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0YXJnZXRMaXN0LmNvbnRlbnQgPSB0YXJnZXRMaXN0LmNvbnRlbnQgYXMgTXV0YWJsZUxpc3Q8VGFyZ2V0QmFzZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cGRhdGVEZXNjcmlwdGlvbiA9IGxpc3RPZigi5pu05paw5YaF5a65IiwiMS7mm7TmlrDlvq7ljZrlr7zoiKrpobXnrb7vvIzmlrDlop7kuIrnuqfjgIHkuIvlsZ7lvq7ljZrmn6XnnIvmqKHlnZciLCIyLuW+ruS/oeWFrOS8l+WPt+e7keWumuWRmOW3peS5i+WutkFQUOWPiuWFs+azqOW8leWvvCIsIjMu5paw5aKe5b6u5Y2a5pCc57Si5Yqf6IO9IiwiNC7nu4boioLkvZPpqozkvJjljJblj4pidWfkv67lpI0iKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5re75Yqg55So5oi3IiwgcmVzcG9uc2UgPSBSZXNwb25zZUVudGl0eTo6Y2xhc3MpCiAgICBAUG9zdE1hcHBpbmcoIiIpCiAgICBmdW4gYWRkVXNlcihAUmVxdWVzdFBhcmFtIHVzZXJuYW1lT3JFbWFpbDogU3RyaW5nKTogUmVzcG9uc2VFbnRpdHk8QW55PiB7CgogICAgICAgIHZhbCB1c2VyID0gdXNlclJlcG9zaXRvcnkuZmluZEJ5VXNlcm5hbWVPckVtYWlsKHVzZXJuYW1lT3JFbWFpbCwgdXNlcm5hbWVPckVtYWlsKQoKICAgICAgICByZXR1cm4gaWYgKHVzZXIuaXNQcmVzZW50KSB7CiAgICAgICAgICAgIFJlc3BvbnNlRW50aXR5Lm9rPEFueT4oUmVzcG9uc2VPSyhIdHRwU3RhdHVzLk9LLCB1c2VyLmdldCgpKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBSZXNwb25zZUVudGl0eShSZXNwb25zZUVycm9yKEh0dHBTdGF0dXMuTk9UX0ZPVU5ELCAi6K6w5b2V5LiN5a2Y5ZyoIiwgIi91c2Vycy9pbmZvIiksIEh0dHBTdGF0dXMuTk9UX0ZPVU5EKQogICAgICAgIH0KCiAgICB9</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRhcmdldFJlcXVlc3QgPSBUYXJnZXRSZXF1ZXN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKHRhcmdldC5nZXQoKSwgdGFyZ2V0UmVxdWVzdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
