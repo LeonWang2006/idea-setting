@@ -51,6 +51,11 @@
       <file name="/hrs_cache_ehr_work [prd - wos_hrs@192.168.10.112]" timestamp="1523172339801">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a06ba61e-0063-462d-b546-f5a4ab3ebf92/console.sql" timestamp="1534227532544">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+      </file>
       <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1532951835888">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,12 +152,6 @@
       <file name="/sys_org_element [ekpwondersharetest_20180428@192.168.10.163]" timestamp="1528955086782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/jwt/JwtAuthenticationFilter.kt" timestamp="1533648903039">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="49" column="24" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="/sys_notify_todo [ekpwondersharetest_20180428@192.168.10.163]" timestamp="1528701388388">
         <mark key="[" line="0" column="0" />
       </file>
@@ -206,12 +205,6 @@
       </file>
       <file name="/arecord [prd - oa_new@192.168.10.6]" timestamp="1527496017289">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestSecurityConfig.kt" timestamp="1533890192464">
-        <mark key="[" line="47" column="55" />
-        <mark key="]" line="47" column="74" />
-        <mark key="." line="47" column="74" />
-        <mark key="^" line="48" column="17" />
       </file>
       <file name="/hrs_cache_vjob [prd - wos_hrs@192.168.10.112]" timestamp="1534208688471">
         <mark key="[" line="0" column="0" />
@@ -495,6 +488,7 @@
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1534228205369" />
       <file name="/group_notifications [dev - sharetronix@192.168.10.61]" timestamp="1523497661798">
         <mark key="[" line="0" column="0" />
       </file>
@@ -745,10 +739,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cn.wondershare.repository.pojo.</text>
+        <text>push_status = 1</text>
       </register>
       <register name="-" type="4">
-        <text>cn.wondershare.repository.pojo.</text>
+        <text>push_status = 1</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
