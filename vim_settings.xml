@@ -30,7 +30,7 @@
       <file name="/hrs_cache_ehr_member [prd - wos_hrs@192.168.10.112]" timestamp="1527470069958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ogs_department [dev - wos_ogs@10.10.18.130]" timestamp="1533806741116">
+      <file name="/ogs_department [dev - wos_ogs@10.10.18.130]" timestamp="1534409152438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/news_info [prd - oa_new@192.168.10.6]" timestamp="1525661378077">
@@ -129,13 +129,13 @@
       <file name="/office [visit@yun.db.org]" timestamp="1532505394987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ogs_persons [dev - wos_ogs@10.10.18.130]" timestamp="1533798464342">
+      <file name="/ogs_persons [dev - wos_ogs@10.10.18.130]" timestamp="1534409706857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_evaluate [dev - wos_hrs@10.10.18.130]" timestamp="1527476233623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1534232557594">
+      <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1534409581596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1533697003956">
@@ -278,7 +278,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1534391958801">
+      <file name="/dummy.sql" timestamp="1534411012460">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -307,6 +307,12 @@
       </file>
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1534411685174">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="85" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
@@ -371,6 +377,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_vdepartment [dev - wos_hrs@10.10.18.130]" timestamp="1531404038383">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ogs_users [dev - wos_ogs@10.10.18.130]" timestamp="1534409567156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/department [@visit.db.cc]" timestamp="1529047423220">
@@ -749,10 +758,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>d.*,</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>d.*,</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
@@ -760,35 +769,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJbG9nZ2VyLmVycm9yKCJDb3VsZCBub3Qgc2V0IHVzZXIgYXV0aGVudGljYXRpb24gaW4gc2VjdXJpdHkgY29udGV4dCIsIGV4KQogICAgICAgICAgICByZXNwb25zZS5zZW5kRXJyb3IoIEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfVU5BVVRIT1JJWkVELCAiU29ycnksIFlvdSdyZSBub3QgYXV0aG9yaXplZCB0byBhY2Nlc3MgdGhpcyByZXNvdXJjZS4iICkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICBpZCwKICAgICAgIHVzZXI=</text>
+      <register name="1" type="2">
+        <text encoding="base64">U0VMRUNUCiAgICAgICBNQVgoaWQpIEFTIGxhc3RJZCwKICAgICAgIFVTRVIKRlJPTQogICAgIHN5c191c2VyX25vdGlmeQpXSEVSRSBwdXNoX3N0YXR1cyA9IDEKICBBTkQgc3RhdHVzID0gMQogIEFORCBpc19yZWFkID0gMEdST1VQIEJZIGB1c2VyYAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgogICAgaHJzX2NhY2hlX3ZlbXBsb3llZQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiQ291bGQgbm90IHNldCB1c2VyIGF1dGhlbnRpY2F0aW9uIGluIHNlY3VyaXR5IGNvbnRleHQiLCBleCkK</text>
+        <text encoding="base64">T1JERVIgQlkgaWQgREVTQwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICBpZCwKICAgICAgIHVzZXI=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgogICAgaHJzX2NhY2hlX3ZlbXBsb3llZQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiQ291bGQgbm90IHNldCB1c2VyIGF1dGhlbnRpY2F0aW9uIGluIHNlY3VyaXR5IGNvbnRleHQiLCBleCkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5re75Yqg55So5oi3IiwgcmVzcG9uc2UgPSBSZXNwb25zZUVudGl0eTo6Y2xhc3MpCiAgICBAUG9zdE1hcHBpbmcoIiIpCiAgICBmdW4gYWRkVXNlcihAUmVxdWVzdFBhcmFtIHVzZXJuYW1lT3JFbWFpbDogU3RyaW5nKTogUmVzcG9uc2VFbnRpdHk8QW55PiB7CgogICAgICAgIHZhbCB1c2VyID0gdXNlclJlcG9zaXRvcnkuZmluZEJ5VXNlcm5hbWVPckVtYWlsKHVzZXJuYW1lT3JFbWFpbCwgdXNlcm5hbWVPckVtYWlsKQoKICAgICAgICByZXR1cm4gaWYgKHVzZXIuaXNQcmVzZW50KSB7CiAgICAgICAgICAgIFJlc3BvbnNlRW50aXR5Lm9rPEFueT4oUmVzcG9uc2VPSyhIdHRwU3RhdHVzLk9LLCB1c2VyLmdldCgpKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBSZXNwb25zZUVudGl0eShSZXNwb25zZUVycm9yKEh0dHBTdGF0dXMuTk9UX0ZPVU5ELCAi6K6w5b2V5LiN5a2Y5ZyoIiwgIi91c2Vycy9pbmZvIiksIEh0dHBTdGF0dXMuTk9UX0ZPVU5EKQogICAgICAgIH0KCiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRhcmdldFJlcXVlc3QgPSBUYXJnZXRSZXF1ZXN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
