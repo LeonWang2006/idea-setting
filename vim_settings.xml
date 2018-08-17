@@ -18,6 +18,7 @@
       <file name="/user_ext [prd - oa_new@192.168.10.6]" timestamp="1526384232263">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1534503019537" />
       <file name="/ogs_department_version [dev - wos_ogs@10.10.18.130]" timestamp="1533728410230">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,6 +84,7 @@
       <file name="/app_weixin [prd - app@192.168.10.20]" timestamp="1534231612030">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/ArchivesService.kt" timestamp="1534389635375" />
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
@@ -384,6 +386,7 @@
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1531104234173">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1534209557608" />
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/.gitignore" timestamp="1528937347274">
         <mark key="[" line="15" column="9" />
       </file>
@@ -405,11 +408,10 @@
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1531443240640">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1534501938139">
-        <mark key="[" line="72" column="46" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="73" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1534503313242">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="/hrs_log_stat [prd - wos_hrs@192.168.10.112]" timestamp="1533111514800">
         <mark key="[" line="0" column="0" />
@@ -502,6 +504,7 @@
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1534344146119" />
       <file name="/group_notifications [dev - sharetronix@192.168.10.61]" timestamp="1523497661798">
         <mark key="[" line="0" column="0" />
       </file>
@@ -747,8 +750,8 @@
       <jump line="121" column="48" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8JdmFsIHVwZGF0ZURlc2NyaXB0aW9uID0gbGlzdE9mKCLmm7TmlrDlhoXlrrkiLCIxLuaIkeeahOa2iOaBr+WFqOmDqOW3suivu+WKn+iDvSIsIjIu5raI5oGv5o6o6YCB6Ieq5a6a5LmJIiwiMy7lvq7ljZrlm77niYfkuIrkvKDkvJjljJYiLCI0Lue7huiKguS9k+mqjOS8mOWMluWPimJ1Z+S/ruWkjSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -760,34 +763,34 @@
         <text encoding="base64">CQkJbG9nZ2VyLmVycm9yKCJDb3VsZCBub3Qgc2V0IHVzZXIgYXV0aGVudGljYXRpb24gaW4gc2VjdXJpdHkgY29udGV4dCIsIGV4KQogICAgICAgICAgICByZXNwb25zZS5zZW5kRXJyb3IoIEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfVU5BVVRIT1JJWkVELCAiU29ycnksIFlvdSdyZSBub3QgYXV0aG9yaXplZCB0byBhY2Nlc3MgdGhpcyByZXNvdXJjZS4iICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2V0IGkgPSBpKzE7Cg==</text>
+        <text encoding="base64">Ly8JdmFsIHVwZGF0ZURlc2NyaXB0aW9uID0gbGlzdE9mKCLmm7TmlrDlhoXlrrkiLCIxLuaIkeeahOa2iOaBr+WFqOmDqOW3suivu+WKn+iDvSIsIjIu5raI5oGv5o6o6YCB6Ieq5a6a5LmJIiwiMy7lvq7ljZrlm77niYfkuIrkvKDkvJjljJYiLCI0Lue7huiKguS9k+mqjOS8mOWMluWPimJ1Z+S/ruWkjSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQ7Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0IGkgPSBpKzE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZCB3aGlsZTsK</text>
+        <text encoding="base64">ICBlbmQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZCB3aGlsZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUCiAgICAgICBNQVgoaWQpIEFTIGxhc3RJZCwKICAgICAgIFVTRVIKRlJPTQogICAgIHN5c191c2VyX25vdGlmeQpXSEVSRSBwdXNoX3N0YXR1cyA9IDEKICBBTkQgc3RhdHVzID0gMQogIEFORCBpc19yZWFkID0gMEdST1VQIEJZIGB1c2VyYAo=</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">U0VMRUNUCiAgICAgICBNQVgoaWQpIEFTIGxhc3RJZCwKICAgICAgIFVTRVIKRlJPTQogICAgIHN5c191c2VyX25vdGlmeQpXSEVSRSBwdXNoX3N0YXR1cyA9IDEKICBBTkQgc3RhdHVzID0gMQogIEFORCBpc19yZWFkID0gMEdST1VQIEJZIGB1c2VyYAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">T1JERVIgQlkgaWQgREVTQwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICBpZCwKICAgICAgIHVzZXI=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CgogICAgaHJzX2NhY2hlX3ZlbXBsb3llZQ==</text>
+        <text encoding="base64">CiAgICAgICBpZCwKICAgICAgIHVzZXI=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
