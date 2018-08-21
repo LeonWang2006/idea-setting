@@ -277,7 +277,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1534850393419">
+      <file name="/dummy.sql" timestamp="1534852135216">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -446,8 +446,8 @@
       <file name="/ogs_department_water [dev - wos_ogs@10.10.18.130]" timestamp="1533728461520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1534835751149">
-        <mark key="[" line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1534852071471">
+        <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -633,7 +633,7 @@
       <file name="/app_message_custom [prd - app@192.168.10.20]" timestamp="1534506044022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ogs_permission_department [dev - wos_ogs@10.10.18.130]" timestamp="1534836297347">
+      <file name="/ogs_permission_department [dev - wos_ogs@10.10.18.130]" timestamp="1534851879196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/post_tags [prd - sharetronix@192.168.10.65]" timestamp="1531989045195">
@@ -746,11 +746,11 @@
       <jump line="121" column="48" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MQo=</text>
+      <register name="&quot;" type="4">
+        <text>badge = '17032663'</text>
       </register>
       <register name="-" type="4">
-        <text>employee_id = '09080661'</text>
+        <text>badge = '17032663'</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
