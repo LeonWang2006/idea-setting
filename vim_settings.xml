@@ -30,7 +30,7 @@
       <file name="/hrs_cache_ehr_member [prd - wos_hrs@192.168.10.112]" timestamp="1527470069958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ogs_department [dev - wos_ogs@10.10.18.130]" timestamp="1534409152438">
+      <file name="/ogs_department [dev - wos_ogs@10.10.18.130]" timestamp="1534836219384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/news_info [prd - oa_new@192.168.10.6]" timestamp="1525661378077">
@@ -86,7 +86,7 @@
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1534747675415">
+      <file name="/a.sql" timestamp="1534836430912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1534730209946">
@@ -128,7 +128,7 @@
       <file name="/office [visit@yun.db.org]" timestamp="1532505394987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ogs_persons [dev - wos_ogs@10.10.18.130]" timestamp="1534409706857">
+      <file name="/ogs_persons [dev - wos_ogs@10.10.18.130]" timestamp="1534836193778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_evaluate [dev - wos_hrs@10.10.18.130]" timestamp="1527476233623">
@@ -280,7 +280,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1534831961186">
+      <file name="/dummy.sql" timestamp="1534836663408">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -455,10 +455,10 @@
       <file name="/ogs_department_water [dev - wos_ogs@10.10.18.130]" timestamp="1533728461520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1534562464306">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="217" />
-        <mark key="." line="0" column="217" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1534835751149">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/target_type [visit@yun.db.org]" timestamp="1532505345190">
         <mark key="[" line="0" column="0" />
@@ -636,7 +636,7 @@
       <file name="/app_message_custom [prd - app@192.168.10.20]" timestamp="1534506044022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ogs_permission_department [dev - wos_ogs@10.10.18.130]" timestamp="1534580314562">
+      <file name="/ogs_permission_department [dev - wos_ogs@10.10.18.130]" timestamp="1534836297347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/post_tags [prd - sharetronix@192.168.10.65]" timestamp="1531989045195">
@@ -749,8 +749,8 @@
       <jump line="121" column="48" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>employee_id = '09080661'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="-" type="4">
         <text>employee_id = '09080661'</text>
@@ -762,34 +762,34 @@
         <text encoding="base64">CQkJCSIxODA2Mjk4OCIgdG8gIuadjua1qSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FsbCBwd2hpbGUoKTsK</text>
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JdmFsIHVwZGF0ZURlc2NyaXB0aW9uID0gbGlzdE9mKCLmm7TmlrDlhoXlrrkiLCIxLuaIkeeahOa2iOaBr+WFqOmDqOW3suivu+WKn+iDvSIsIjIu5raI5oGv5o6o6YCB6Ieq5a6a5LmJIiwiMy7lvq7ljZrlm77niYfkuIrkvKDkvJjljJYiLCI0Lue7huiKguS9k+mqjOS8mOWMluWPimJ1Z+S/ruWkjSIpCg==</text>
+        <text encoding="base64">LTEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2V0IGkgPSBpKzE7Cg==</text>
+        <text encoding="base64">Y2FsbCBwd2hpbGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQ7Cg==</text>
+        <text encoding="base64">Ly8JdmFsIHVwZGF0ZURlc2NyaXB0aW9uID0gbGlzdE9mKCLmm7TmlrDlhoXlrrkiLCIxLuaIkeeahOa2iOaBr+WFqOmDqOW3suivu+WKn+iDvSIsIjIu5raI5oGv5o6o6YCB6Ieq5a6a5LmJIiwiMy7lvq7ljZrlm77niYfkuIrkvKDkvJjljJYiLCI0Lue7huiKguS9k+mqjOS8mOWMluWPimJ1Z+S/ruWkjSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZCB3aGlsZTsK</text>
+        <text encoding="base64">ICAgICAgc2V0IGkgPSBpKzE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUCiAgICAgICBNQVgoaWQpIEFTIGxhc3RJZCwKICAgICAgIFVTRVIKRlJPTQogICAgIHN5c191c2VyX25vdGlmeQpXSEVSRSBwdXNoX3N0YXR1cyA9IDEKICBBTkQgc3RhdHVzID0gMQogIEFORCBpc19yZWFkID0gMEdST1VQIEJZIGB1c2VyYAo=</text>
+        <text encoding="base64">ICAgIGVuZCB3aGlsZTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">T1JERVIgQlkgaWQgREVTQwo=</text>
+        <text encoding="base64">U0VMRUNUCiAgICAgICBNQVgoaWQpIEFTIGxhc3RJZCwKICAgICAgIFVTRVIKRlJPTQogICAgIHN5c191c2VyX25vdGlmeQpXSEVSRSBwdXNoX3N0YXR1cyA9IDEKICBBTkQgc3RhdHVzID0gMQogIEFORCBpc19yZWFkID0gMEdST1VQIEJZIGB1c2VyYAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
