@@ -270,7 +270,7 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535112049612">
+      <file name="/dummy.sql" timestamp="1535113302564">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -295,11 +295,11 @@
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1535112039463">
-        <mark key="[" line="12" column="90" />
-        <mark key="]" line="12" column="90" />
-        <mark key="." line="12" column="90" />
-        <mark key="^" line="7" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1535113280715">
+        <mark key="[" line="12" column="95" />
+        <mark key="]" line="12" column="95" />
+        <mark key="." line="12" column="95" />
+        <mark key="^" line="12" column="98" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
@@ -730,10 +730,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T3.1&quot;,&quot;T3.3&quot;,&quot;T4.1</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>T3.1&quot;,&quot;T3.3&quot;,&quot;T4.1</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
