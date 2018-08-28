@@ -282,11 +282,11 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535455821226">
+      <file name="/dummy.sql" timestamp="1535457446330">
         <mark key="p" line="0" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
@@ -771,10 +771,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'%OGS%</text>
+        <text>个人中心-我</text>
       </register>
       <register name="-" type="4">
-        <text>'%OGS%</text>
+        <text>个人中心-我</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
