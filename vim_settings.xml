@@ -81,10 +81,16 @@
       <file name="/app_weixin [prd - app@192.168.10.20]" timestamp="1534231612030">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/wos_common.sys_auth_item_child [dev - wos_common@10.10.18.130]" timestamp="1535454213048">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wos_common.sys_user2018060101 [dev - wos_common@10.10.18.130]" timestamp="1535454330905">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1535453771443">
+      <file name="/a.sql" timestamp="1535455544086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1534730209946">
@@ -142,6 +148,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wos_common.sys_user [dev - wos_common@10.10.18.130]" timestamp="1535454255202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/users [dev - visit@10.10.18.132]" timestamp="1527158031905">
@@ -273,11 +282,11 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535453543745">
+      <file name="/dummy.sql" timestamp="1535455821226">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
@@ -347,6 +356,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_ehr_job [prd - wos_hrs@192.168.10.112]" timestamp="1531462065537">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wos_common.sys_bind_wx [dev - wos_common@10.10.18.130]" timestamp="1535454231959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/wos_ogs.ogs_permission_category [dev - wos_ogs@10.10.18.130]" timestamp="1535453347275">
@@ -445,7 +457,7 @@
       <file name="/ogs_department_water [dev - wos_ogs@10.10.18.130]" timestamp="1533728461520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1535453802268">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1535455573991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -528,6 +540,9 @@
       <file name="/app_user_logs [prd - app@192.168.10.20]" timestamp="1534489219839">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/wos_common.sys_auth_assignment [dev - wos_common@10.10.18.130]" timestamp="1535454239114">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
         <mark key="[" line="0" column="0" />
       </file>
@@ -594,6 +609,9 @@
       <file name="/sys_notify_action [prd - wos_common@192.168.10.112]" timestamp="1532935136768">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/wos_common.sys_auth_rule [dev - wos_common@10.10.18.130]" timestamp="1535454225277">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/hrs_yiilog_operation_category [prd - wos_hrs@192.168.10.112]" timestamp="1526261414431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -631,6 +649,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_message_custom [prd - app@192.168.10.20]" timestamp="1534506044022">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wos_common.sys_auth_item [dev - wos_common@10.10.18.130]" timestamp="1535454206050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ogs_permission_department [dev - wos_ogs@10.10.18.130]" timestamp="1535426383121">
@@ -749,11 +770,11 @@
       <jump line="121" column="48" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/OaService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhbmQgb2dzX2RlcGFydG1lbnQuc3RhdHVzID0gMQo=</text>
+      <register name="&quot;" type="4">
+        <text>'%OGS%</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>'%OGS%</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
