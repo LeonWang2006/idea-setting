@@ -316,11 +316,10 @@
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1535953523919">
-        <mark key="[" line="2" column="141" />
-        <mark key="]" line="2" column="189" />
-        <mark key="." line="2" column="180" />
-        <mark key="^" line="2" column="179" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1535954507339">
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
@@ -791,10 +790,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t4.dep_id</text>
+        <text>ogs_department</text>
       </register>
       <register name="-" type="4">
-        <text>t4.dep_id</text>
+        <text>ogs_department</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
