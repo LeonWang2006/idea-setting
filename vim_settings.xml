@@ -352,6 +352,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/component/MessageReceiver.kt" timestamp="1534214009449">
         <mark key="[" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/build.gradle" timestamp="1535944607071">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="/sys_vemployee [prd - wos_common@192.168.10.112]" timestamp="1535348624952">
         <mark key="[" line="0" column="0" />
       </file>
@@ -828,7 +833,7 @@
         <text encoding="base64">WyIxNjk3IiwgIjE3NjciXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>451</text>
       </register>
     </registers>
     <search>
@@ -864,7 +869,6 @@
         <entry>ids</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ = null/,/g</entry>
         <entry>s/? = null/,/g</entry>
         <entry>%,s/? = null/,/g</entry>
         <entry>%s/example = &quot;万兴科技&quot;//g</entry>
@@ -884,6 +888,7 @@
         <entry>1267</entry>
         <entry>%s/MY_TABLE/user/g</entry>
         <entry>w</entry>
+        <entry>451</entry>
       </history-cmd>
       <history-expr />
       <history-input />
