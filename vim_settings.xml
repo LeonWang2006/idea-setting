@@ -316,11 +316,11 @@
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1535942154944">
-        <mark key="[" line="0" column="128" />
-        <mark key="]" line="0" column="129" />
-        <mark key="." line="0" column="129" />
-        <mark key="^" line="0" column="71" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1535946713886">
+        <mark key="[" line="2" column="141" />
+        <mark key="]" line="2" column="189" />
+        <mark key="." line="2" column="180" />
+        <mark key="^" line="2" column="179" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
@@ -791,16 +791,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t4.dep_id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t4.dep_id</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
       </register>
-      <register name="0" type="4">
-        <text>t2.dep_name as lev4</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDT0FMRVNDRSAoIHQzLmRlcF9pZC5kZXBfaWQsICcnICkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIExFRlQgSk9JTiBvZ3NfZGVwYXJ0bWVudCBBUyB0NSBPTiB0NS5kZXBfaWQgPSB0NC5wYXJlbnRfaWQK</text>
