@@ -291,11 +291,11 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535935971847">
+      <file name="/dummy.sql" timestamp="1535941442672">
         <mark key="p" line="0" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
@@ -316,11 +316,11 @@
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1535936784971">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="90" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1535942154944">
+        <mark key="[" line="0" column="128" />
+        <mark key="]" line="0" column="129" />
+        <mark key="." line="0" column="129" />
+        <mark key="^" line="0" column="71" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
@@ -786,10 +786,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, t1.dep_name as lev5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, t1.dep_name as lev5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ids</text>
