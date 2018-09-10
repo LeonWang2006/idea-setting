@@ -1,7 +1,19 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
-    <driver id="com.mysql.cj.jdbc.Driver" name="com.mysql.cj.jdbc.Driver" dialect="MySQL" driver-class="com.mysql.cj.jdbc.Driver">
-      <option name="auto-commit" value="true" />
+    <driver id="db2">
+      <artifact name="DB2" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="db2.jtopen">
+      <artifact name="JTOpen (DB2 iSeries)" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="derby.remote">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.embedded">
+      <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="azure.ms">
@@ -9,17 +21,25 @@
       <option name="auto-sync" value="false" />
       <option name="send-app-info" value="false" />
     </driver>
-    <driver id="net.sourceforge.jtds.jdbc.Driverdbc.Driver" name="net.sourceforge.jtds.jdbc.Driverdbc.Driver" driver-class="null">
+    <driver id="sqlserver.ms">
+      <artifact name="SQL Server" use="true" version="7.0.0" />
+      <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="true" />
       <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
-    <driver id="derby.embedded">
-      <artifact name="Apache Derby" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="abca2ed7-2c10-4a9e-94f9-33edb2845a45" name="org.gjt.mm.mysql.Driver" driver-class="org.gjt.mm.mysql.Driver">
+    <driver id="sqlserver.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1" />
+      <option name="auto-sync" value="false" />
       <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.2.5.jar</url>
+      </library>
     </driver>
     <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
@@ -31,45 +51,8 @@
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.2.5.jar</url>
       </library>
     </driver>
-    <driver id="hsqldb.local">
-      <artifact name="HSQLDB" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="derby.remote">
-      <artifact name="Apache Derby" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="org.gjt.mm.mysql.Driveriver" name="org.gjt.mm.mysql.Driveriver" driver-class="null">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="org.gjt.mm.mysql.Driverr" name="org.gjt.mm.mysql.Driverr" driver-class="null">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="sqlite.xerial">
-      <artifact name="Xerial SQLiteJDBC" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-    </driver>
-    <driver id="redshift">
-      <artifact name="Redshift" use="true" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-    </driver>
-    <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" version="6.4.0" />
-      <option name="auto-sync" value="false" />
-      <option name="send-app-info" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
       <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
@@ -84,9 +67,24 @@
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.34-bin.jar</url>
       </library>
     </driver>
-    <driver id="16b4d86e-ac49-4db6-92ad-e2cf8c643649" name="org.gjt.mm.mysql.Driverr" driver-class="org.gjt.mm.mysql.Driverr">
-      <option name="auto-commit" value="true" />
+    <driver id="mariadb">
+      <artifact name="MariaDB Connector J" use="true" />
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle">
+      <artifact name="Oracle" use="true" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+    </driver>
+    <driver id="postgresql">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="redshift">
+      <artifact name="Redshift" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
@@ -98,54 +96,61 @@
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
       </library>
     </driver>
-    <driver id="org.gjt.mm.mysql.Driver" name="org.gjt.mm.mysql.Driver" driver-class="null">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="exasol">
-      <artifact name="Exasol" use="true" />
+    <driver id="hsqldb.local">
+      <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="h2.unified">
       <artifact name="H2" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="oracle">
-      <artifact name="Oracle" use="true" />
-      <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="false" />
+    <driver id="sqlite.xerial">
+      <artifact name="Xerial SQLiteJDBC" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="exasol">
+      <artifact name="Exasol" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="clickhouse">
+      <artifact name="ClickHouse" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="com.mysql.cj.jdbc.Driver" name="com.mysql.cj.jdbc.Driver" dialect="MySQL" driver-class="com.mysql.cj.jdbc.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="net.sourceforge.jtds.jdbc.Driverdbc.Driver" name="net.sourceforge.jtds.jdbc.Driverdbc.Driver" driver-class="null">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="abca2ed7-2c10-4a9e-94f9-33edb2845a45" name="org.gjt.mm.mysql.Driver" driver-class="org.gjt.mm.mysql.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="org.gjt.mm.mysql.Driveriver" name="org.gjt.mm.mysql.Driveriver" driver-class="null">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="org.gjt.mm.mysql.Driverr" name="org.gjt.mm.mysql.Driverr" driver-class="null">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="16b4d86e-ac49-4db6-92ad-e2cf8c643649" name="org.gjt.mm.mysql.Driverr" driver-class="org.gjt.mm.mysql.Driverr">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="org.gjt.mm.mysql.Driver" name="org.gjt.mm.mysql.Driver" driver-class="null">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="1e0e2791-f525-4703-a8ea-604a664d65ba" name="net.sourceforge.jtds.jdbc.Driverdbc.Driver" driver-class="net.sourceforge.jtds.jdbc.Driverdbc.Driver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1" />
-      <option name="auto-sync" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-license.txt</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.2.5.jar</url>
-      </library>
-    </driver>
-    <driver id="mariadb">
-      <artifact name="MariaDB Connector J" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
     <driver id="6b80b374-8dbd-4225-83ff-4d6d46ca8508" name="org.gjt.mm.mysql.Driveriver" driver-class="org.gjt.mm.mysql.Driveriver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="db2">
-      <artifact name="DB2" use="true" />
-      <option name="auto-sync" value="false" />
-    </driver>
-    <driver id="db2.jtopen">
-      <artifact name="JTOpen (DB2 iSeries)" use="true" />
-      <option name="auto-sync" value="false" />
     </driver>
   </component>
 </application>
