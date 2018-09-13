@@ -309,7 +309,7 @@
       <file name="/app.app_weixin [prd - app@192.168.10.20]" timestamp="1536657782777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1536737766868">
+      <file name="/dummy.sql" timestamp="1536804045768">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -465,11 +465,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1536736828267">
-        <mark key="[" line="903" column="54" />
-        <mark key="]" line="903" column="37" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1536804021409">
+        <mark key="[" line="886" column="17" />
+        <mark key="]" line="886" column="17" />
         <mark key="^" line="903" column="37" />
-        <mark key="." line="903" column="37" />
+        <mark key="." line="886" column="17" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533644739795">
         <mark key="[" line="0" column="0" />
@@ -523,6 +523,9 @@
       </file>
       <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1535426383460">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a36e08a0-f78f-4ef3-b426-f61502fe88cc/console.sql" timestamp="1536804039928">
+        <mark key="[" line="0" column="47" />
       </file>
       <file name="/hrs_cache_empshift [prd - wos_hrs@192.168.10.112]" timestamp="1528077487766">
         <mark key="[" line="0" column="0" />
@@ -869,11 +872,11 @@
       <jump line="7" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b183eb7-d068-42c3-b4a7-53d6cbe8ac81/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">e30ge30g</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">e30ge30g</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
