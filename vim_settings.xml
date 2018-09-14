@@ -101,7 +101,7 @@
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1536214266112">
+      <file name="/a.sql" timestamp="1536889666247">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1534730209946">
@@ -296,8 +296,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1524011752497">
         <mark key="[" line="0" column="501" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b183eb7-d068-42c3-b4a7-53d6cbe8ac81/console.sql" timestamp="1536882882877">
-        <mark key="[" line="0" column="169" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b183eb7-d068-42c3-b4a7-53d6cbe8ac81/console.sql" timestamp="1536889898826">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1526261580347">
         <mark key="[" line="0" column="0" />
@@ -314,7 +316,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1536882725624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1536883768741">
+      <file name="/dummy.sql" timestamp="1536889666253">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -322,9 +324,6 @@
         <mark key="^" line="0" column="1" />
       </file>
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1536582946605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -440,13 +439,13 @@
       <file name="/department [@visit.db.cc]" timestamp="1529047423220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app.app_user [prd - app@192.168.10.20]" timestamp="1536716714334">
+      <file name="/app.app_user [prd - app@192.168.10.20]" timestamp="1536887450075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/posts [dev - sharetronix@192.168.10.61]" timestamp="1531104234173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app.app_user_logs [prd - app@192.168.10.20]" timestamp="1536629241460">
+      <file name="/app.app_user_logs [prd - app@192.168.10.20]" timestamp="1536886875079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/.gitignore" timestamp="1528937347274">
@@ -519,6 +518,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f926812f-41e6-499c-a60e-45df3923fda3/console.sql" timestamp="1536888930261">
+        <mark key="[" line="5" column="95" />
+        <mark key="]" line="55" column="59" />
+        <mark key="." line="55" column="59" />
       </file>
       <file name="/target_type [visit@yun.db.org]" timestamp="1532505345190">
         <mark key="[" line="0" column="0" />
@@ -882,10 +886,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">e30ge30g</text>
+        <text encoding="base64">CgoKc3RhdHVz</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e30ge30g</text>
+        <text encoding="base64">U0VMRUNUIHRva2VuLHNlY3JldCBGcm9tIGBhcHBfYmxvZ190b2tlbmAgV0hFUkUgYGVtYWlsYCA9ICdjZW9Ad29uZGVyc2hhcmUuY24nIEFORCBgZW1wbG95ZWVfcGFzc3dvcmRgID0gJzc0ODNmZDJhNDJlNDNlYzFhY2U5ZTRkYzVkZTA5MWNiJyBhbmQgbW9kaWZ5X2F0ID49ICcxNTM2ODgyNjU2Jzs=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -893,8 +897,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDT0FMRVNDRSAoIHQzLmRlcF9pZC5kZXBfaWQsICcnICkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgoKc3RhdHVz</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -905,27 +909,27 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>select u.employee_id, u.name, u.email, u.status, u.emp_grade, w.openid
 from app_user u
        left join app_weixin w on (w.ws_id = u.employee_id)
 where  left(u.emp_grade, 1) = 'M';</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">c2VsZWN0IEBvcGVuaWQgKAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>(`ogs_department`.`status` = 1)
   AND (`ogs_permission_department`.`status` = 1)</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIExFRlQgSk9JTiBvZ3NfZGVwYXJ0bWVudCBBUyB0NSBPTiB0NS5kZXBfaWQgPSB0NC5wYXJlbnRfaWQK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LyoKeyJsb2ciOiBbeyJ2aWV3IjogeyJkZXAiOiBbeyJpZCI6ICIxMDM4IiwgIm5hbWUiOiAi6JGj5LqL5Lya5Yqe5YWs5a6kIiwgImxldmVsIjogWyJhbGwiXX1dLCAiZ3JhZGUiOiBbXSwgImFzc2lnbiI6IFtdLCAiZXhjZXB0IjogW119fSwgeyJldmFsdWF0ZSI6IHsiZGVwIjogW3siaWQiOiAiMTAzOCIsICJuYW1lIjogIuiRo+S6i+S8muWKnuWFrOWupCIsICJsZXZlbCI6IFsiYWxsIl19XSwgImdyYWRlIjogW10sICJhc3NpZ24iOiBbXSwgImV4Y2VwdCI6IFtdfX1dfQogKi8KdXBkYXRlIG9nc19wZXJtaXNzaW9uX3Njb3BlCnNldCBwZXJtaXNzaW9uID0gSlNPTl9TRVQocGVybWlzc2lvbiwgIiQubG9nIiwgIkkgYW0gSUQzIikKd2hlcmUgaWQgPSA1MTsKCgpzZWxlY3QganNvbl9zZWFyY2gocGVybWlzc2lvbiwgJ2FsbCcsICdkZXAnKQpmcm9tIG9nc19wZXJtaXNzaW9uX3Njb3BlCndoZXJlIGlkID0gNTI7CnNlbGVjdCBwZXJtaXNzaW9uIC0+ICckLipbKl0nCmZyb20gb2dzX3Blcm1pc3Npb25fc2NvcGUKd2hlcmUgYmFkZ2UgPSAnMTEwMTEwMjYnOwoKCnNlbGVjdCAqCmZyb20gb2dzX3BlcnNvbnMgcAogICAgICAgbGVmdCBqb2luIG9nc19jb25maWdfZ3JhZGUgZyBvbiAocC5iYWRnZSA9IGcuKQp3aGVyZSBzdGF0dXMgaW4gKDEsIDIsIDMpCiAgYW5kIHdhaXRpbmdfZW50cnkgPD4gMTEKCnVwZGF0ZSBvZ3NfcGVybWlzc2lvbl9zY29wZQpzZXQgcGVybWlzc2lvbiA9IHJlcGxhY2UocGVybWlzc2lvbiwgJyJncmFkZSI6IFsiYWxsIl0nLCAnImdyYWRlIjogWyJUMy4zIiwiVDMuMSJdJyk7CgoKc2VsZWN0IG9nc19wZXJtaXNzaW9uX2RlcGFydG1lbnQuKiwgZ3JvdXBfY29uY2F0KG9nc19kZXBhcnRtZW50LmRlcF9pZCkgYXMgZGVwX2lkLGdyb3VwX2NvbmNhdChvZ3NfcGVyc29uc19wb3NpdGlvbnNfZXh0ZW5kLmRlcF9pZCkgYXMgZGVwX2V4dGVuZApmcm9tIG9nc19wZXJtaXNzaW9uX2RlcGFydG1lbnQKICAgICAgIGxlZnQgam9pbiBvZ3NfcGVyc29ucyBvbiAob2dzX3Blcm1pc3Npb25fZGVwYXJ0bWVudC5iYWRnZSA9IG9nc19wZXJzb25zLmJhZGdlKQogICAgICAgbGVmdCBqb2luIG9nc19kZXBhcnRtZW50IG9uIChvZ3NfZGVwYXJ0bWVudC5kaXJlY3Rvcl9wZXJzb25faWQgPSBvZ3NfcGVyc29ucy5wZXJzb25faWQpCiAgICAgICBsZWZ0IGpvaW4gb2dzX2NvbmZpZ19ncmFkZSBvbiAob2dzX2NvbmZpZ19ncmFkZS5pZCA9IG9nc19wZXJzb25zLmdyYWRlX2lkKQogICAgICAgbGVmdCBqb2luIG9nc19wZXJzb25zX3Bvc2l0aW9uc19leHRlbmQgb24gKG9nc19wZXJzb25zLmJhZGdlID0gb2dzX3BlcnNvbnNfcG9zaXRpb25zX2V4dGVuZC5iYWRnZSkKd2hlcmUgb2dzX2RlcGFydG1lbnQuc3RhdHVzID0gMQpncm91cCBieSBvZ3NfcGVyc29ucy5iYWRnZQpvcmRlciBieSBvZ3NfcGVyc29ucy5iYWRnZQoKCiAgICB1cGRhdGUgb2dzX3Blcm1pc3Npb25fc2NvcGUgc2V0IHBlcm1pc3Npb24gPSAne1wibG9nXCI6W3tcImV2YWx1YXRlXCI6e1wiZGVwXCI6W3tcImlkXCI6XCIxNzAwLDE4ODUsMTg4NiwxODg3LDE5MDcsMjA2MFwiLFwibmFtZVwiOm51bGwsXCJsZXZlbFwiOltcImFsbFwiXX1dLFwiZ3JhZGVcIjpbXSxcImFzc2lnblwiOltdLFwiZXhjZXB0XCI6W119fSx7XCJjb21tZW50XCI6e1wiZGVwXCI6W3tcImlkXCI6XCIxNzAwLDE4ODUsMTg4NiwxODg3LDE5MDcsMjA2MFwiLFwibmFtZVwiOm51bGwsXCJsZXZlbFwiOltcImFsbFwiXX1dLFwiZ3JhZGVcIjpbXSxcImFzc2lnblwiOltdLFwiZXhjZXB0XCI6W119fSx7XCJwcm9qZWN0X3ZpZXdcIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19LHtcImdvYWxfdmlld1wiOntcImRlcFwiOlt7XCJpZFwiOlwiMTcwMCwxODg1LDE4ODYsMTg4NywxOTA3LDIwNjBcIixcIm5hbWVcIjpudWxsLFwibGV2ZWxcIjpbXCJhbGxcIl19XSxcImdyYWRlXCI6W10sXCJhc3NpZ25cIjpbXSxcImV4Y2VwdFwiOltdfX0se1wiZHV0eV92aWV3XCI6e1wiZGVwXCI6W3tcImlkXCI6XCIxNzAwLDE4ODUsMTg4NiwxODg3LDE5MDcsMjA2MFwiLFwibmFtZVwiOm51bGwsXCJsZXZlbFwiOltcImFsbFwiXX1dLFwiZ3JhZGVcIjpbXSxcImFzc2lnblwiOltdLFwiZXhjZXB0XCI6W119fV0sXCJnb2FsXCI6W3tcImVtcGxveWVlX3ZpZXdcIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19LHtcImVtcGxveWVlX2FwcHJvdmFsXCI6e1wiZGVwXCI6W3tcImlkXCI6XCIxNzAwLDE4ODUsMTg4NiwxODg3LDE5MDcsMjA2MFwiLFwibmFtZVwiOm51bGwsXCJsZXZlbFwiOltcImFsbFwiXX1dLFwiZ3JhZGVcIjpbXSxcImFzc2lnblwiOltdLFwiZXhjZXB0XCI6W119fSx7XCJlbXBsb3llZV9hc3NpZ25cIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19LHtcImVtcGxveWVlX21vZGlmeVwiOntcImRlcFwiOlt7XCJpZFwiOlwiMTcwMCwxODg1LDE4ODYsMTg4NywxOTA3LDIwNjBcIixcIm5hbWVcIjpudWxsLFwibGV2ZWxcIjpbXCJhbGxcIl19XSxcImdyYWRlXCI6W10sXCJhc3NpZ25cIjpbXSxcImV4Y2VwdFwiOltdfX1dLFwic2V0dGluZ1wiOlt7XCJnb2FsX2dyYWRlX3NldHRpbmdcIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19LHtcInBlcmZvcm1hbmNlX3NldHRpbmdcIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19LHtcInBlcmZvcm1hbmNlX2dyYWRlX3NldHRpbmdcIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19XSxcInBsYXRmb3JtXCI6W3tcIm1hbmFnZW1lbnRfaW5mb3JtYXRpb25cIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19LHtcIm1hbmFnZW1lbnRfZ29hbFwiOntcImRlcFwiOlt7XCJpZFwiOlwiMTcwMCwxODg1LDE4ODYsMTg4NywxOTA3LDIwNjBcIixcIm5hbWVcIjpudWxsLFwibGV2ZWxcIjpbXCJhbGxcIl19XSxcImdyYWRlXCI6W10sXCJhc3NpZ25cIjpbXSxcImV4Y2VwdFwiOltdfX0se1wibWFuYWdlbWVudF9wZXJmb3JtYW5jZVwiOntcImRlcFwiOlt7XCJpZFwiOlwiMTcwMCwxODg1LDE4ODYsMTg4NywxOTA3LDIwNjBcIixcIm5hbWVcIjpudWxsLFwibGV2ZWxcIjpbXCJhbGxcIl19XSxcImdyYWRlXCI6W10sXCJhc3NpZ25cIjpbXSxcImV4Y2VwdFwiOltdfX0se1wibWFuYWdlbWVudF92aWV3XCI6e1wiZGVwXCI6W3tcImlkXCI6XCIxNzAwLDE4ODUsMTg4NiwxODg3LDE5MDcsMjA2MFwiLFwibmFtZVwiOm51bGwsXCJsZXZlbFwiOltcImFsbFwiXX1dLFwiZ3JhZGVcIjpbXSxcImFzc2lnblwiOltdLFwiZXhjZXB0XCI6W119fV0sXCJwZXJmb3JtYW5jZVwiOlt7XCJlbXBsb3llZV9yZXZpZXdcIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19LHtcImVtcGxveWVlX3JlcG9ydFwiOntcImRlcFwiOlt7XCJpZFwiOlwiMTcwMCwxODg1LDE4ODYsMTg4NywxOTA3LDIwNjBcIixcIm5hbWVcIjpudWxsLFwibGV2ZWxcIjpbXCJhbGxcIl19XSxcImdyYWRlXCI6W10sXCJhc3NpZ25cIjpbXSxcImV4Y2VwdFwiOltdfX0se1wiZW1wbG95ZWVfZXZhbHVhdGVcIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19LHtcImVtcGxveWVlX3ZpZXdcIjp7XCJkZXBcIjpbe1wiaWRcIjpcIjE3MDAsMTg4NSwxODg2LDE4ODcsMTkwNywyMDYwXCIsXCJuYW1lXCI6bnVsbCxcImxldmVsXCI6W1wiYWxsXCJdfV0sXCJncmFkZVwiOltdLFwiYXNzaWduXCI6W10sXCJleGNlcHRcIjpbXX19XX0sIHVwZGF0ZV90aW1lID0gJzIwMTgtMDgtMzEgMTQ6MDA6MjMnIHdoZXJlIGJhZGdlID0gJzE4MDMyODk2Jw==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBhbmQgb2dzX2RlcGFydG1lbnQuc3RhdHVzID0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//g</text>
