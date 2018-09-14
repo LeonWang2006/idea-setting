@@ -251,7 +251,7 @@
       <file name="/office [@10.10.18.132]" timestamp="1527837727692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wos_ogs.ogs_permission_department [dev - wos_ogs@10.10.18.130]" timestamp="1536632876453">
+      <file name="/wos_ogs.ogs_permission_department [dev - wos_ogs@10.10.18.130]" timestamp="1536918555569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/posts_pr_comments_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884570326">
@@ -316,7 +316,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1536882725624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1536914646955">
+      <file name="/dummy.sql" timestamp="1536918596102">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -346,8 +346,8 @@
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1536311089033">
-        <mark key="[" line="25" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1536918900711">
+        <mark key="[" line="39" column="31" />
         <mark key="]" line="36" column="6" />
         <mark key="." line="36" column="6" />
         <mark key="^" line="15" column="23" />
@@ -519,8 +519,8 @@
       <file name="/ogs_department_water [dev - wos_ogs@10.10.18.130]" timestamp="1533728461520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1536738263238">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1536918604448">
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -891,10 +891,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修复app个人档案的间接下属查看问题</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>修复app个人档案的间接下属查看问题</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
