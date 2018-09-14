@@ -316,7 +316,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1536882725624">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1536893400434">
+      <file name="/dummy.sql" timestamp="1536894545336">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -326,8 +326,10 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536891861720">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1536894976738">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
         <mark key="[" line="0" column="0" />
@@ -353,7 +355,7 @@
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/sharetronix.oauth_request_token [prd - sharetronix@192.168.10.65]" timestamp="1536882767184">
+      <file name="/sharetronix.oauth_request_token [prd - sharetronix@192.168.10.65]" timestamp="1536894545164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
@@ -889,15 +891,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886926, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 2265, '万兴科技全球协同办公系统升级专项行动', 0, '项目日志', '[&quot;&quot;]', null, 0, null, 0, null, '一般', null, '18052957', '金雷', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 1, 1);
-INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886927, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 2480, '万兴科技企业管理系统OA2.0升级与适配专项行动', 0, '项目日志', '[&quot;&quot;]', null, 0, null, 0, null, '一般', null, '18052957', '金雷', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 1, 1);
-INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886928, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 2309, '万兴科技企业管理系统OGS1.5开发与上线行动', 50, '项目日志', '[&quot;参加OGS1.5遗留问题沟通会议，敲定实现方案，确认安全边界外的关联操作不做处理，弹窗让操作人员手动处理。&quot;]', null, 0, null, 0, null, '一般', null, '18052957', '金雷', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 1, 1);
-INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886929, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 22, '主导项目核心代码编写，技术难点攻关，开发任务分配，工作推进。', 40, '职责日志', '[&quot;参加OGS1.5遗留问题沟通会议，敲定实现方案，确认安全边界外的关联操作不做处理，弹窗让操作人员手动处理。\\nwos微信绑定问题处理，bug排查。因测试服务器和生产服务器争抢token，导致测试不顺利，手工调整解决。&quot;]', null, 0, null, 0, null, '一般', null, '18052957,17052768,09080661', '金雷,彭江远,王飞龙', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 8, 9);
-INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886930, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 23, '主导客户端和服务端系统架构规划与设计。', 40, '职责日志', '[&quot;&quot;]', null, 0, null, 0, null, '一般', null, '18052957,17052768,09080661', '金雷,彭江远,王飞龙', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 8, 9);
-INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886931, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 25, '负责团队人员招聘，培养，开发指导。', 20, '职责日志', '[&quot;&quot;]', null, 0, null, 0, null, '一般', null, '18052957,17052768,09080661', '金雷,彭江远,王飞龙', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 8, 9);</text>
+        <text>修复app个人档案的间接下属查看问题</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U0VMRUNUIHRva2VuLHNlY3JldCBGcm9tIGBhcHBfYmxvZ190b2tlbmAgV0hFUkUgYGVtYWlsYCA9ICdjZW9Ad29uZGVyc2hhcmUuY24nIEFORCBgZW1wbG95ZWVfcGFzc3dvcmRgID0gJzc0ODNmZDJhNDJlNDNlYzFhY2U5ZTRkYzVkZTA5MWNiJyBhbmQgbW9kaWZ5X2F0ID49ICcxNTM2ODgyNjU2Jzs=</text>
+        <text>修复app个人档案的间接下属查看问题</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
