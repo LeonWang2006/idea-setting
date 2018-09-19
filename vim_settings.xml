@@ -323,7 +323,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1537323002495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1537348292466">
+      <file name="/dummy.sql" timestamp="1537350710094">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -347,6 +347,12 @@
       </file>
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1537351059352">
+        <mark key="[" line="57" column="46" />
+        <mark key="]" line="55" column="32" />
+        <mark key="." line="53" column="47" />
+        <mark key="^" line="55" column="32" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
@@ -657,7 +663,7 @@
       <file name="/deployments_versions [prd - codepush@192.168.10.73]" timestamp="1527736464494">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wos_ogs.ogs_persons_positions_extend [dev - wos_ogs@10.10.18.130]" timestamp="1535452988139">
+      <file name="/wos_ogs.ogs_persons_positions_extend [dev - wos_ogs@10.10.18.130]" timestamp="1537350709962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_toplist_like [dev - wos_hrs@10.10.18.130]" timestamp="1529567500630">
@@ -883,11 +889,11 @@
       <jump line="1681" column="70" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bmFtZSBsaWtlICIl5ZC05pmT5paHJSIK</text>
+      <register name="&quot;" type="4">
+        <text>03100003</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>03100003</text>
       </register>
       <register name="/" type="4">
         <text>initToken</text>
