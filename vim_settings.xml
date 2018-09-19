@@ -348,10 +348,10 @@
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1537351059352">
-        <mark key="[" line="57" column="46" />
-        <mark key="]" line="55" column="32" />
-        <mark key="." line="53" column="47" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1537351218973">
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="49" column="66" />
+        <mark key="." line="49" column="66" />
         <mark key="^" line="55" column="32" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
@@ -890,10 +890,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>03100003</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>03100003</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>initToken</text>
