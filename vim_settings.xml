@@ -101,7 +101,7 @@
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1537348249413">
+      <file name="/a.sql" timestamp="1537354674532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1534730209946">
@@ -215,6 +215,9 @@
       <file name="/app.app_follow [prd - app@192.168.10.20]" timestamp="1537348262960">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/wos_ogs.ogs_config_grade [dev - wos_ogs@10.10.18.130]" timestamp="1537353840322">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/hrs_focus [dev - wos_hrs@10.10.18.130]" timestamp="1531462343405">
         <mark key="[" line="0" column="0" />
       </file>
@@ -257,7 +260,7 @@
       <file name="/office [@10.10.18.132]" timestamp="1527837727692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wos_ogs.ogs_permission_department [dev - wos_ogs@10.10.18.130]" timestamp="1537271070104">
+      <file name="/wos_ogs.ogs_permission_department [dev - wos_ogs@10.10.18.130]" timestamp="1537354192203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/codepush.deployments_history [prd - codepush@192.168.10.73]" timestamp="1537264992322">
@@ -323,7 +326,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1537323002495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1537350710094">
+      <file name="/dummy.sql" timestamp="1537355107549">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -348,11 +351,11 @@
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1537351218973">
-        <mark key="[" line="49" column="66" />
-        <mark key="]" line="49" column="66" />
-        <mark key="." line="49" column="66" />
-        <mark key="^" line="55" column="32" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1537353878953">
+        <mark key="[" line="61" column="238" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
@@ -523,7 +526,7 @@
       <file name="/ogs_department_water [dev - wos_ogs@10.10.18.130]" timestamp="1533728461520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1537346123399">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1537355001301">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -600,7 +603,7 @@
       <file name="/posts_attachments [dev - sharetronix@192.168.10.61]" timestamp="1523497636726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wos_ogs.ogs_permission_scope [dev - wos_ogs@10.10.18.130]" timestamp="1537271072443">
+      <file name="/wos_ogs.ogs_permission_scope [dev - wos_ogs@10.10.18.130]" timestamp="1537354556427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/wos_common.sys_notify [prd - wos_common@192.168.10.112]" timestamp="1536649774507">
@@ -890,10 +893,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>supervise_department</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>supervise_department</text>
       </register>
       <register name="/" type="4">
         <text>initToken</text>
