@@ -340,7 +340,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1537323002495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1537434447694">
+      <file name="/dummy.sql" timestamp="1537435039977">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -365,11 +365,11 @@
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1537434324964">
-        <mark key="[" line="53" column="152" />
-        <mark key="]" line="53" column="152" />
-        <mark key="." line="53" column="152" />
-        <mark key="^" line="55" column="127" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1537435746409">
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="49" column="36" />
+        <mark key="." line="49" column="36" />
+        <mark key="^" line="49" column="72" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
@@ -920,16 +920,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>initToken</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDT0FMRVNDRSAoIHQzLmRlcF9pZC5kZXBfaWQsICcnICkK</text>
+        <text encoding="base64">IyAgICAgICAgICAgIGdyb3VwX2NvbmNhdChvZ3NfZGVwYXJ0bWVudC5kZXBfaWQpICAgICAgICAgICAgICAgYXMgZGVwX2lkLAojICAgICAgICAgICAgZ3JvdXBfY29uY2F0KGV4dGVuZF9wZXJzb24uZGVwX2lkKSBhcyBkZXBfZXh0ZW5kCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgQU5EIChgb2dzX3BlcnNvbnNgLmBiYWRnZWAgaW4gKCcwOTA4MDY2MScsICcwMzEwMDAwMycpKQ==</text>
