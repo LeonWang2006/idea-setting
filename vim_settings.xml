@@ -224,7 +224,11 @@
       <file name="/wos_ogs.ogs_config_grade [dev - wos_ogs@10.10.18.130]" timestamp="1537353840322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1537405677000" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1537410426018">
+        <mark key="[" line="434" column="26" />
+        <mark key="]" line="434" column="26" />
+        <mark key="." line="434" column="26" />
+      </file>
       <file name="/hrs_focus [dev - wos_hrs@10.10.18.130]" timestamp="1531462343405">
         <mark key="[" line="0" column="0" />
       </file>
@@ -321,6 +325,9 @@
       <file name="/hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1526261580347">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/wos_hrs.hrs_log_list [dev - wos_hrs@10.10.18.130]" timestamp="1537410740230">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/office [visit@aliyun.db.org]" timestamp="1529907351536">
         <mark key="[" line="0" column="0" />
       </file>
@@ -333,7 +340,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1537323002495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1537407597082">
+      <file name="/dummy.sql" timestamp="1537411141790">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -644,7 +651,7 @@
       <file name="/wos_common.sys_auth_assignment [dev - wos_common@10.10.18.130]" timestamp="1536581431708">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wos_hrs.hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1537364504016">
+      <file name="/wos_hrs.hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1537410946806">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1526261424819">
@@ -913,10 +920,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>ws_id = '18083041'</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>ws_id = '18083041'</text>
       </register>
       <register name="/" type="4">
         <text>initToken</text>
