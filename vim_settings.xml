@@ -70,6 +70,7 @@
       <file name="/user_tokens [prd - codepush@192.168.10.73]" timestamp="1527727041219">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1538184530411" />
       <file name="/meeting_regular [prd - oa_new@192.168.10.6]" timestamp="1529386315969">
         <mark key="[" line="0" column="0" />
       </file>
@@ -217,16 +218,17 @@
       <file name="/sys_notify_action [dev - wos_common@10.10.18.130]" timestamp="1525685917846">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/UserInfo.kt" timestamp="1538185260161">
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="16" />
+        <mark key="." line="63" column="16" />
+        <mark key="^" line="63" column="16" />
+      </file>
       <file name="/app.app_follow [prd - app@192.168.10.20]" timestamp="1537348262960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/wos_ogs.ogs_config_grade [dev - wos_ogs@10.10.18.130]" timestamp="1537353840322">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1537442161471">
-        <mark key="[" line="434" column="26" />
-        <mark key="]" line="434" column="26" />
-        <mark key="." line="434" column="26" />
       </file>
       <file name="/hrs_focus [dev - wos_hrs@10.10.18.130]" timestamp="1531462343405">
         <mark key="[" line="0" column="0" />
@@ -268,10 +270,11 @@
       <file name="/target_base [visit@yun.db.org]" timestamp="1533647085101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/062f72c4-922b-41d0-a275-5b31e067841e/console.sql" timestamp="1538183395247">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/062f72c4-922b-41d0-a275-5b31e067841e/console.sql" timestamp="1538185090163">
+        <mark key="[" line="0" column="106" />
+        <mark key="]" line="0" column="106" />
+        <mark key="." line="0" column="106" />
+        <mark key="^" line="0" column="51" />
       </file>
       <file name="/office [@10.10.18.132]" timestamp="1527837727692">
         <mark key="[" line="0" column="0" />
@@ -309,11 +312,6 @@
       <file name="/sharetronix.users [dev - sharetronix@192.168.10.61]" timestamp="1536650552863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/component/Env.kt" timestamp="1537496233555">
-        <mark key="[" line="127" column="57" />
-        <mark key="]" line="127" column="57" />
-        <mark key="." line="127" column="57" />
-      </file>
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -350,7 +348,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1537323002495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1538182260300">
+      <file name="/dummy.sql" timestamp="1538185553867">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -360,7 +358,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537496611074">
+      <file name="/Dummy.txt" timestamp="1538185574454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -377,6 +375,12 @@
       </file>
       <file name="/target_base [@10.10.18.132]" timestamp="1527837727085">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52eb1921-3809-4671-9a21-453658186c80/console.sql" timestamp="1537445855373">
+        <mark key="[" line="57" column="127" />
+        <mark key="]" line="49" column="60" />
+        <mark key="." line="49" column="60" />
+        <mark key="^" line="49" column="60" />
       </file>
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
@@ -488,8 +492,11 @@
       <file name="/app.app_user_logs [prd - app@192.168.10.20]" timestamp="1538099367598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1538184435313">
-        <mark key="[" line="262" column="100" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1538185496689">
+        <mark key="[" line="134" column="53" />
+        <mark key="]" line="134" column="53" />
+        <mark key="." line="134" column="53" />
+        <mark key="^" line="279" column="61" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/.gitignore" timestamp="1528937347274">
         <mark key="[" line="15" column="9" />
@@ -512,17 +519,18 @@
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1531443240640">
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1537340629544">
-        <mark key="[" line="71" column="47" />
-        <mark key="]" line="71" column="47" />
-        <mark key="." line="71" column="47" />
-      </file>
       <file name="52eb1921-3809-4671-9a21-453658186c80/schema/wos_ogs/table/ogs_permission_department.sql" timestamp="1538137277387" />
       <file name="/hrs_log_stat [prd - wos_hrs@192.168.10.112]" timestamp="1535369852932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1538185530072">
+        <mark key="[" line="677" column="59" />
+        <mark key="]" line="677" column="68" />
+        <mark key="." line="677" column="59" />
+        <mark key="^" line="677" column="42" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533644739795">
         <mark key="[" line="0" column="0" />
@@ -556,11 +564,6 @@
       </file>
       <file name="/ogs_department_water [dev - wos_ogs@10.10.18.130]" timestamp="1533728461520">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1537506229151">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
       </file>
       <file name="/wos_hrs.hrs_user_permission_map [prd - wos_hrs@192.168.10.112]" timestamp="1538103634755">
         <mark key="[" line="0" column="0" />
@@ -923,16 +926,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHdzX2lkIEFTIEJhZGdlLCAwLjAwIEFTIGFubnVhbExlYXZlLCB0b3RhbEJhbCArIDAgQVMgdG90YWxMZWF2ZSA=</text>
+        <text>annualLeave</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdzX2lkIEFTIEJhZGdlLCAwLjAwIEFTIGFubnVhbExlYXZlLCB0b3RhbEJhbCArIDAgQVMgdG90YWxMZWF2ZSA=</text>
+        <text>annualLeave</text>
       </register>
       <register name="/" type="4">
         <text>initToken</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCW9hSG9zdCA9ICJodHRwczovL29hMTcwLndvbmRlcnNoYXJlLmNuL2VrcC8iCg==</text>
+      <register name="0" type="4">
+        <text>haveLeave</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgQU5EIChgb2dzX3BlcnNvbnNgLmBiYWRnZWAgaW4gKCcwOTA4MDY2MScsICcwMzEwMDAwMycpKQ==</text>
