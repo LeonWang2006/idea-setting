@@ -268,6 +268,11 @@
       <file name="/target_base [visit@yun.db.org]" timestamp="1533647085101">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/062f72c4-922b-41d0-a275-5b31e067841e/console.sql" timestamp="1538183395247">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="/office [@10.10.18.132]" timestamp="1527837727692">
         <mark key="[" line="0" column="0" />
       </file>
@@ -483,7 +488,9 @@
       <file name="/app.app_user_logs [prd - app@192.168.10.20]" timestamp="1538099367598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1537940875045" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1538184435313">
+        <mark key="[" line="262" column="100" />
+      </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/.gitignore" timestamp="1528937347274">
         <mark key="[" line="15" column="9" />
       </file>
@@ -916,10 +923,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_setting</text>
+        <text encoding="base64">IHdzX2lkIEFTIEJhZGdlLCAwLjAwIEFTIGFubnVhbExlYXZlLCB0b3RhbEJhbCArIDAgQVMgdG90YWxMZWF2ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>_setting</text>
+        <text encoding="base64">IHdzX2lkIEFTIEJhZGdlLCAwLjAwIEFTIGFubnVhbExlYXZlLCB0b3RhbEJhbCArIDAgQVMgdG90YWxMZWF2ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>initToken</text>
