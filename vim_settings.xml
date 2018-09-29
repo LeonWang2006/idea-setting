@@ -70,7 +70,12 @@
       <file name="/user_tokens [prd - codepush@192.168.10.73]" timestamp="1527727041219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1538184530411" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AnalyticsService.kt" timestamp="1538191887902">
+        <mark key="[" line="518" column="27" />
+        <mark key="]" line="518" column="36" />
+        <mark key="." line="518" column="27" />
+        <mark key="^" line="518" column="58" />
+      </file>
       <file name="/meeting_regular [prd - oa_new@192.168.10.6]" timestamp="1529386315969">
         <mark key="[" line="0" column="0" />
       </file>
@@ -270,10 +275,11 @@
       <file name="/target_base [visit@yun.db.org]" timestamp="1533647085101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/062f72c4-922b-41d0-a275-5b31e067841e/console.sql" timestamp="1538190305000">
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="45" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/062f72c4-922b-41d0-a275-5b31e067841e/console.sql" timestamp="1538192335633">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="0" column="161" />
+        <mark key="]" line="0" column="161" />
+        <mark key="." line="0" column="161" />
         <mark key="^" line="0" column="51" />
       </file>
       <file name="/office [@10.10.18.132]" timestamp="1527837727692">
@@ -318,6 +324,12 @@
       <file name="/ogs_permission_category [dev - wos_ogs@10.10.18.130]" timestamp="1537144119198">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/StatUserAttend.kt" timestamp="1538191869450">
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="23" column="64" />
+      </file>
       <file name="/target_relation [@10.10.18.132]" timestamp="1527837724329">
         <mark key="[" line="0" column="0" />
       </file>
@@ -348,7 +360,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1537323002495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1538187334832">
+      <file name="/dummy.sql" timestamp="1538191399004">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -358,7 +370,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538185574454">
+      <file name="/Dummy.txt" timestamp="1538191895278">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -390,9 +402,6 @@
       </file>
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1537941148256">
-        <mark key="'" line="117" column="12" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -492,11 +501,11 @@
       <file name="/app.app_user_logs [prd - app@192.168.10.20]" timestamp="1538099367598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1538185496689">
-        <mark key="[" line="134" column="53" />
-        <mark key="]" line="134" column="53" />
-        <mark key="." line="134" column="53" />
-        <mark key="^" line="279" column="61" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1538191716603">
+        <mark key="[" line="263" column="191" />
+        <mark key="]" line="263" column="191" />
+        <mark key="." line="263" column="191" />
+        <mark key="^" line="263" column="198" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/.gitignore" timestamp="1528937347274">
         <mark key="[" line="15" column="9" />
@@ -823,7 +832,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="800" column="75" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="801" column="65" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="1124" column="107" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
       <jump line="1127" column="107" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" />
@@ -923,6 +931,7 @@
       <jump line="1425" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="75" column="16" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="1681" column="70" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
+      <jump line="5" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/062f72c4-922b-41d0-a275-5b31e067841e/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -932,7 +941,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>initToken</text>
+        <text encoding="base64">XDxGUk9NXD4=</text>
       </register>
       <register name="0" type="4">
         <text>haveLeave</text>
@@ -980,9 +989,9 @@ where  left(u.emp_grade, 1) = 'M';</text>
       </register>
     </registers>
     <search>
-      <last-search>initToken</last-search>
+      <last-search encoding="base64">XDxGUk9NXD4=</last-search>
       <last-offset />
-      <last-pattern>initToken</last-pattern>
+      <last-pattern encoding="base64">XDxGUk9NXD4=</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -990,7 +999,6 @@ where  left(u.emp_grade, 1) = 'M';</text>
     </search>
     <history>
       <history-search>
-        <entry>details</entry>
         <entry>avatars</entry>
         <entry>port</entry>
         <entry>avatar</entry>
@@ -1010,6 +1018,7 @@ where  left(u.emp_grade, 1) = 'M';</text>
         <entry>status</entry>
         <entry>token</entry>
         <entry>initToken</entry>
+        <entry encoding="base64">XDxGUk9NXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,s/, example = &quot;万兴科技&quot;//g</entry>
