@@ -18,11 +18,6 @@
       <file name="/user_ext [prd - oa_new@192.168.10.6]" timestamp="1526384232263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/manifest.plist" timestamp="1539067004950">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-      </file>
       <file name="/ogs_permission_scope [dev - wos_ogs@10.10.18.130]" timestamp="1539173968435">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,6 +31,9 @@
         <mark key="[" line="0" column="89" />
       </file>
       <file name="/codepush.deployments_versions [prd - codepush@192.168.10.73]" timestamp="1537264965541">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/sys_content_publish [prd - wos_common@192.168.10.112]" timestamp="1539605395415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_ehr_member [prd - wos_hrs@192.168.10.112]" timestamp="1527470069958">
@@ -62,6 +60,7 @@
       <file name="/hrs_cache_ehr_work [prd - wos_hrs@192.168.10.112]" timestamp="1523172339801">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a06ba61e-0063-462d-b546-f5a4ab3ebf92/console.sql" timestamp="1539605525563" />
       <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1532951835888">
         <mark key="[" line="0" column="0" />
       </file>
@@ -215,6 +214,9 @@
       <file name="/hrs_cache_user_ext [wos_hrs@192.168.10.112]" timestamp="1527216461530">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/sys_content_publish_category [prd - wos_common@192.168.10.112]" timestamp="1539605395341">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/users [@visit.db.cc]" timestamp="1529886147425">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,7 +250,7 @@
       <file name="/users [dev - sharetronix@192.168.10.61]" timestamp="1531878301355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1534831860394">
+      <file name="/hrs_cache_vemployee [prd - wos_hrs@192.168.10.112]" timestamp="1539605395735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_arecord_import [prd - wos_hrs@192.168.10.112]" timestamp="1527495454418">
@@ -308,7 +310,6 @@
       <file name="/sharetronix.users [dev - sharetronix@192.168.10.61]" timestamp="1536650552863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1539334639735" />
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -348,7 +349,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1537323002495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1539573106608">
+      <file name="/dummy.sql" timestamp="1539605413310">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -383,6 +384,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/packages_metrics [prd - codepush@192.168.10.73]" timestamp="1527727037631">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539605395383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
@@ -550,6 +554,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1539348747749">
         <mark key="[" line="0" column="615" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f926812f-41e6-499c-a60e-45df3923fda3/console.sql" timestamp="1539605545477">
+        <mark key="[" line="62" column="13" />
+      </file>
       <file name="/wos_hrs.hrs_user_permission_map [prd - wos_hrs@192.168.10.112]" timestamp="1538103634755">
         <mark key="[" line="0" column="0" />
       </file>
@@ -559,7 +566,7 @@
       <file name="/wos_common.sys_user_notify [dev - wos_common@10.10.18.130]" timestamp="1536219112164">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/sys_user_notify [prd - wos_common@192.168.10.112]" timestamp="1535348625829">
+      <file name="/sys_user_notify [prd - wos_common@192.168.10.112]" timestamp="1539605394484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mobile_auth_logs [prd - oa_new@192.168.10.6]" timestamp="1534850353198">
@@ -610,7 +617,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cb09dc-e603-4c01-9fb3-9b1d47fb5489/console.sql" timestamp="1532417354364">
         <mark key="[" line="56" column="22" />
       </file>
-      <file name="/sys_content_publish_message [prd - wos_common@192.168.10.112]" timestamp="1527596493399">
+      <file name="/sys_content_publish_message [prd - wos_common@192.168.10.112]" timestamp="1539605395631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [prd - wos_common@192.168.10.112]" timestamp="1534387828266">
@@ -679,7 +686,7 @@
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/config/SwaggerConfig.kt" timestamp="1527218918527">
         <mark key="[" line="13" column="21" />
       </file>
-      <file name="/app.app_message_custom [prd - app@192.168.10.20]" timestamp="1537348260182">
+      <file name="/app.app_message_custom [prd - app@192.168.10.20]" timestamp="1539605411888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/post_like [prd - sharetronix@192.168.10.65]" timestamp="1532920675383">
@@ -715,11 +722,6 @@
       <file name="/MySQL Fragment (MsgService.kt:9860).sql" timestamp="1525692306073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/index.html" timestamp="1539067033435">
-        <mark key="[" line="180" column="75" />
-        <mark key="]" line="143" column="32" />
-        <mark key="." line="143" column="32" />
-      </file>
       <file name="/hrs_stat_job_evaluate_manage [prd - wos_hrs@192.168.10.112]" timestamp="1531878286218">
         <mark key="[" line="0" column="0" />
       </file>
@@ -729,7 +731,7 @@
       <file name="/app.app_blog_token [prd - app@192.168.10.20]" timestamp="1537348292357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/sys_notify_action [prd - wos_common@192.168.10.112]" timestamp="1532935136768">
+      <file name="/sys_notify_action [prd - wos_common@192.168.10.112]" timestamp="1539605395572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/wos_common.sys_auth_rule [dev - wos_common@10.10.18.130]" timestamp="1535454225277">
@@ -768,7 +770,7 @@
       <file name="/app_user [dev - wos_ogs@10.10.18.130]" timestamp="1534209024437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1534728130105">
+      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1539605395671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sharetronix.users [prd - sharetronix@192.168.10.65]" timestamp="1537508216484">
@@ -921,7 +923,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QmFkZ2UgPSAnJwo=</text>
+        <text encoding="base64">U0VMRUNUCg==</text>
       </register>
       <register name="-" type="4">
         <text>16032393</text>
@@ -933,21 +935,24 @@
         <text>haveLeave</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QmFkZ2UgPSAnJwo=</text>
+        <text encoding="base64">U0VMRUNUCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">QmFkZ2UgPSAnJwo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgQU5EIChgb2dzX3BlcnNvbnNgLmBiYWRnZWAgaW4gKCcwOTA4MDY2MScsICcwMzEwMDAwMycpKQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZGVwaWQxID0gJ0dMR0MwMDEnCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">bmFtZSBsaWtlICIl5ZC05pmT5paHJSIK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886926, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 2265, '万兴科技全球协同办公系统升级专项行动', 0, '项目日志', '[&quot;&quot;]', null, 0, null, 0, null, '一般', null, '18052957', '金雷', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 1, 1);
 INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886927, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 2480, '万兴科技企业管理系统OA2.0升级与适配专项行动', 0, '项目日志', '[&quot;&quot;]', null, 0, null, 0, null, '一般', null, '18052957', '金雷', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 1, 1);
 INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886928, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 2309, '万兴科技企业管理系统OGS1.5开发与上线行动', 50, '项目日志', '[&quot;参加OGS1.5遗留问题沟通会议，敲定实现方案，确认安全边界外的关联操作不做处理，弹窗让操作人员手动处理。&quot;]', null, 0, null, 0, null, '一般', null, '18052957', '金雷', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 1, 1);
@@ -955,11 +960,8 @@ INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name
 INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886930, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 23, '主导客户端和服务端系统架构规划与设计。', 40, '职责日志', '[&quot;&quot;]', null, 0, null, 0, null, '一般', null, '18052957,17052768,09080661', '金雷,彭江远,王飞龙', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 8, 9);
 INSERT INTO app.app_user_logs (log_id, detail_id, evaluate_id, employee_id, name, grade, job_cname, dep_cnname, email, signin, signout, evaluate_ws_id, evaluate_ws_name, evaluate_value, evaluate_stat, is_entirety, evaluate_num, evaluate_time, relate_resp_id, relate_resp_cur_desc, relate_resp_weight, log_detail_type, log_content, experience, experience_share, suggestion, suggestion_share, plan, feel, comment, read_ws_id, read_ws_name, indirect, report_to, hrd_id, hrm_id, hrbp_id, date, create_time, evaluate_count, evaluate_comment_count, evaluated_employees, word_count, view_count, operate_count) VALUES (195910, 886931, 0, '09080661', '王飞龙', 'T4.1', '资深后端软件开发工程师', '[&quot;董事长|总裁&quot;, &quot;总裁直属职能部门&quot;, &quot;管理工程部&quot;, &quot;系统开发组&quot;]', 'wangfl@wondershare.cn', null, null, null, null, null, null, null, null, null, 25, '负责团队人员招聘，培养，开发指导。', 20, '职责日志', '[&quot;&quot;]', null, 0, null, 0, null, '一般', null, '18052957,17052768,09080661', '金雷,彭江远,王飞龙', '[&quot;03100001&quot;]', '18052957', '[&quot;18083067&quot;]', '[]', '[&quot;17032645&quot;]', '2018-09-13', '2018-09-13 21:30:59', 0, 0, null, 144, 8, 9);</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgoKc3RhdHVz</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
