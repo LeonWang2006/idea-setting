@@ -309,10 +309,10 @@
       <file name="/deployments_history [prd - codepush@192.168.10.73]" timestamp="1527726977993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/CronService.kt" timestamp="1540286362884">
-        <mark key="[" line="173" column="29" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/CronService.kt" timestamp="1540430680171">
+        <mark key="[" line="177" column="41" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="/sharetronix.users [dev - sharetronix@192.168.10.61]" timestamp="1536650552863">
         <mark key="[" line="0" column="0" />
@@ -368,7 +368,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540288756994">
+      <file name="/Dummy.txt" timestamp="1540430859354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -434,11 +434,11 @@
       <file name="/sys_vemployee [prd - wos_common@192.168.10.112]" timestamp="1535348624952">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WxMessage.kt" timestamp="1540285709552">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/pojo/WxMessage.kt" timestamp="1540430646409">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="/posts_comments_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884590182">
         <mark key="[" line="0" column="0" />
@@ -488,11 +488,11 @@
       <file name="/wos_ogs.ogs_department [dev - wos_ogs@10.10.18.130]" timestamp="1535715012245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/PushService.kt" timestamp="1540286534080">
-        <mark key="[" line="136" column="28" />
-        <mark key="]" line="136" column="27" />
-        <mark key="^" line="136" column="27" />
-        <mark key="." line="136" column="27" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/PushService.kt" timestamp="1540430708533">
+        <mark key="[" line="135" column="26" />
+        <mark key="]" line="135" column="26" />
+        <mark key="^" line="137" column="27" />
+        <mark key="." line="135" column="26" />
       </file>
       <file name="/ogs_users [dev - wos_ogs@10.10.18.130]" timestamp="1534562504089">
         <mark key="[" line="0" column="0" />
@@ -539,11 +539,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1540429489871">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1540430659866">
         <mark key="'" line="347" column="30" />
-        <mark key="[" line="271" column="21" />
-        <mark key="]" line="270" column="28" />
-        <mark key="." line="270" column="28" />
+        <mark key="[" line="330" column="81" />
+        <mark key="]" line="330" column="82" />
+        <mark key="." line="330" column="82" />
+        <mark key="^" line="324" column="65" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533644739795">
         <mark key="[" line="0" column="0" />
@@ -960,17 +961,17 @@
       <jump line="348" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKAoJCQluYW1lID0gImtleXdvcmQyIiwKCQkJdmFsdWUgPSAi5o+Q5Lqk5pe26Ze0IC0ge3ZhbHVlOjIwMTYtMDgtMjQgMTU6MzM6NDMsY29sb3I6I2ZmMDAwfSIsCgkJCXBhcmFtVHlwZSA9ICJxdWVyeSIKCQkpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>待办消息\</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogTXV0YWJsZU1hcDxTdHJpbmcsU3RyaW5nPg==</text>
+        <text>待办消息\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKAoJCQluYW1lID0gImtleXdvcmQyIiwKCQkJdmFsdWUgPSAi5o+Q5Lqk5pe26Ze0IC0ge3ZhbHVlOjIwMTYtMDgtMjQgMTU6MzM6NDMsY29sb3I6I2ZmMDAwfSIsCgkJCXBhcmFtVHlwZSA9ICJxdWVyeSIKCQkpLAo=</text>
+        <text encoding="base64">CQkJIntcInZhbHVlXCI6XCLlvoXlip7mtojmga9cIn0iLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlsYXRlaW5pdCB2YXIgd3hUZW1wbGF0ZU1hcCA6IE11dGFibGVNYXA8U3RyaW5nLFN0cmluZz4K</text>
