@@ -6,7 +6,6 @@
       <file name="/ogs_department_temp [dev - wos_ogs@10.10.18.130]" timestamp="1533728496887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" timestamp="1540213136850" />
       <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1532780138018">
         <mark key="[" line="0" column="0" />
       </file>
@@ -528,7 +527,7 @@
       <file name="/post_likes [dev - sharetronix@192.168.10.61]" timestamp="1523546493674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1539326198963">
+      <file name="/app_user [dev - ws_app@10.10.18.132]" timestamp="1540429268083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/repository/User.kt" timestamp="1531443240640">
@@ -540,11 +539,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1540287721071">
-        <mark key="'" line="341" column="30" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1540429489871">
+        <mark key="'" line="347" column="30" />
+        <mark key="[" line="271" column="21" />
+        <mark key="]" line="270" column="28" />
+        <mark key="." line="270" column="28" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533644739795">
         <mark key="[" line="0" column="0" />
@@ -641,7 +640,6 @@
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1540213296324" />
       <file name="/group_notifications [dev - sharetronix@192.168.10.61]" timestamp="1523497661798">
         <mark key="[" line="0" column="0" />
       </file>
@@ -810,7 +808,7 @@
       <file name="/app_user [dev - wos_ogs@10.10.18.130]" timestamp="1534209024437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1539833932227">
+      <file name="/app_user [prd - app@192.168.10.20]" timestamp="1540429269371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sharetronix.users [prd - sharetronix@192.168.10.65]" timestamp="1537508216484">
@@ -962,8 +960,8 @@
       <jump line="348" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDogTXV0YWJsZU1hcDxTdHJpbmcsU3RyaW5nPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKAoJCQluYW1lID0gImtleXdvcmQyIiwKCQkJdmFsdWUgPSAi5o+Q5Lqk5pe26Ze0IC0ge3ZhbHVlOjIwMTYtMDgtMjQgMTU6MzM6NDMsY29sb3I6I2ZmMDAwfSIsCgkJCXBhcmFtVHlwZSA9ICJxdWVyeSIKCQkpLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDogTXV0YWJsZU1hcDxTdHJpbmcsU3RyaW5nPg==</text>
@@ -972,7 +970,7 @@
         <text encoding="base64">XDxodHRwc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiR7aXQucmVtYXJrfSIsCg==</text>
+        <text encoding="base64">CQlBcGlJbXBsaWNpdFBhcmFtKAoJCQluYW1lID0gImtleXdvcmQyIiwKCQkJdmFsdWUgPSAi5o+Q5Lqk5pe26Ze0IC0ge3ZhbHVlOjIwMTYtMDgtMjQgMTU6MzM6NDMsY29sb3I6I2ZmMDAwfSIsCgkJCXBhcmFtVHlwZSA9ICJxdWVyeSIKCQkpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlsYXRlaW5pdCB2YXIgd3hUZW1wbGF0ZU1hcCA6IE11dGFibGVNYXA8U3RyaW5nLFN0cmluZz4K</text>
