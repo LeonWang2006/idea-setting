@@ -204,6 +204,9 @@
       <file name="/hrs_evaluate_log [dev - wos_hrs@10.10.18.130]" timestamp="1527476389935">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/wos_hrs.hrs_pg [prd - wos_hrs@192.168.10.112]" timestamp="1540470082126">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/hrs_toplist_thirty_days_app [prd - wos_hrs@192.168.10.112]" timestamp="1534342673308">
         <mark key="[" line="0" column="0" />
       </file>
@@ -340,6 +343,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7d28aa02-904b-408c-aa21-c90df9f36ed4/console_3.sql" timestamp="1524011752497">
         <mark key="[" line="0" column="501" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b183eb7-d068-42c3-b4a7-53d6cbe8ac81/console.sql" timestamp="1540470848418">
+        <mark key="[" line="0" column="62" />
+      </file>
       <file name="/hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1526261580347">
         <mark key="[" line="0" column="0" />
       </file>
@@ -358,7 +364,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1540213693960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1540353384482">
+      <file name="/dummy.sql" timestamp="1540470089083">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -539,12 +545,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1540430659866">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1540471114815">
         <mark key="'" line="347" column="30" />
-        <mark key="[" line="330" column="81" />
-        <mark key="]" line="330" column="82" />
-        <mark key="." line="330" column="82" />
-        <mark key="^" line="324" column="65" />
+        <mark key="[" line="330" column="62" />
+        <mark key="]" line="324" column="114" />
+        <mark key="." line="324" column="114" />
+        <mark key="^" line="324" column="114" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533644739795">
         <mark key="[" line="0" column="0" />
@@ -584,8 +590,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f926812f-41e6-499c-a60e-45df3923fda3/console.sql" timestamp="1540469743918">
-        <mark key="[" line="63" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f926812f-41e6-499c-a60e-45df3923fda3/console.sql" timestamp="1540469907854">
+        <mark key="[" line="70" column="33" />
+        <mark key="]" line="70" column="33" />
+        <mark key="^" line="70" column="33" />
+        <mark key="." line="70" column="33" />
       </file>
       <file name="/wos_hrs.hrs_user_permission_map [prd - wos_hrs@192.168.10.112]" timestamp="1538103634755">
         <mark key="[" line="0" column="0" />
@@ -851,6 +860,9 @@
       <file name="/posts_comments [prd - sharetronix@192.168.10.65]" timestamp="1532780120476">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/wos_hrs.hrs_pg_cycle_detail [prd - wos_hrs@192.168.10.112]" timestamp="1540470088897">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/wos_hrs.hrs_vuser [prd - wos_hrs@192.168.10.112]" timestamp="1536731672885">
         <mark key="[" line="0" column="0" />
       </file>
@@ -962,10 +974,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>待办消息\</text>
+        <text encoding="base64">ID86ICIi</text>
       </register>
       <register name="-" type="4">
-        <text>待办消息\</text>
+        <text encoding="base64">ID86ICIi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
