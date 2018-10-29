@@ -556,12 +556,11 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1540801075359">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1540802431060">
         <mark key="'" line="347" column="30" />
-        <mark key="[" line="330" column="62" />
-        <mark key="]" line="324" column="114" />
-        <mark key="." line="324" column="114" />
-        <mark key="^" line="324" column="114" />
+        <mark key="[" line="347" column="16" />
+        <mark key="]" line="347" column="15" />
+        <mark key="." line="347" column="15" />
       </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533644739795">
         <mark key="[" line="0" column="0" />
@@ -768,7 +767,7 @@
       <file name="/hrs_toplist_like [dev - wos_hrs@10.10.18.130]" timestamp="1529567500630">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1540801298106" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/MsgService.kt" timestamp="1540802209250" />
       <file name="/hrs_log_comment [dev - wos_hrs@10.10.18.130]" timestamp="1524282364281">
         <mark key="[" line="0" column="0" />
       </file>
@@ -997,16 +996,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>.isNullOrBlank()</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.isNullOrBlank()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJIntcInZhbHVlXCI6XCLlvoXlip7mtojmga9cIn0iLAo=</text>
+        <text encoding="base64">CQl2YWwgcmVtYXJrID0gZ3Nvbi5mcm9tSnNvbjxXeE1lc3NhZ2VJdGVtPih3eE1lc3NhZ2UucmVtYXJrLCBvYmplY3QgOiBUeXBlVG9rZW48V3hNZXNzYWdlSXRlbT4oKSB7fS50eXBlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QEVuYWJsZUFzeW5jCg==</text>
