@@ -99,7 +99,7 @@
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1539933379828">
+      <file name="/a.sql" timestamp="1542013680754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1534730209946">
@@ -189,7 +189,7 @@
       <file name="/sys_org_element [ekpwondersharetest_20180428@192.168.10.163]" timestamp="1528955086782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ws_app.app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1540779648737">
+      <file name="/ws_app.app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1542013216478">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/codepush.versions [prd - codepush@192.168.10.73]" timestamp="1537265027770">
@@ -378,7 +378,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1540213693960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1541726303350">
+      <file name="/dummy.sql" timestamp="1542013673961">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -616,8 +616,10 @@
       <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1541466248395">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a36e08a0-f78f-4ef3-b426-f61502fe88cc/console.sql" timestamp="1540282818784">
-        <mark key="[" line="0" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a36e08a0-f78f-4ef3-b426-f61502fe88cc/console.sql" timestamp="1542013533075">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/hrs_cache_empshift [prd - wos_hrs@192.168.10.112]" timestamp="1528077487766">
         <mark key="[" line="0" column="0" />
@@ -855,7 +857,7 @@
       <file name="/app_message_custom [prd - app@192.168.10.20]" timestamp="1534506044022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ws_app.app_user [dev - ws_app@10.10.18.132]" timestamp="1540622183518">
+      <file name="/ws_app.app_user [dev - ws_app@10.10.18.132]" timestamp="1542013408841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/wos_common.sys_auth_item [dev - wos_common@10.10.18.130]" timestamp="1536581422528">
@@ -986,8 +988,8 @@
       <jump line="348" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -999,36 +1001,36 @@
         <text encoding="base64">CQl2YWwgcmVtYXJrID0gZ3Nvbi5mcm9tSnNvbjxXeE1lc3NhZ2VJdGVtPih3eE1lc3NhZ2UucmVtYXJrLCBvYmplY3QgOiBUeXBlVG9rZW48V3hNZXNzYWdlSXRlbT4oKSB7fS50eXBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZUFzeW5jCg==</text>
+        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Mzk1Cg==</text>
+        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsYXRlaW5pdCB2YXIgd3hUZW1wbGF0ZU1hcCA6IE11dGFibGVNYXA8U3RyaW5nLFN0cmluZz4K</text>
+        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QEVuYWJsZUFzeW5jCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Mzk1Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlsYXRlaW5pdCB2YXIgd3hUZW1wbGF0ZU1hcCA6IE11dGFibGVNYXA8U3RyaW5nLFN0cmluZz4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkvLwkJaWYgKCF3eE1lc3NhZ2UudXJsLmlzTgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>ullOrEmpty()){
 		//			baseArr[&quot;url&quot;] = wxMessage.url.toString()
 		//		}</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgkJLy8JCWRhdGFNYXBbImZpcnN0Il0gPSBtYXBPZigidmFsdWUiIHRvICLmtYvor5XotbbntKflpITnkIblvoXlip4iLCAiY29sb3IiIHRvICIjZmYwMDAwIikKCQkvLwkJZGF0YU1hcFsia2V5d29yZDEiXSA9IG1hcE9mKCJ2YWx1ZSIgdG8gIua1i+ivleWQjeensCIsICJjb2xvciIgdG8gIiNmZjAwMDAiKQoJCS8vCQlkYXRhTWFwWyJrZXl3b3JkMiJdID0gbWFwT2YoInZhbHVlIiB0byAi5rWL6K+V5pe26Ze0IiwgImNvbG9yIiB0byAiI2ZmMDAwMCIpCgkJLy8JCWRhdGFNYXBbInJlbWFyayJdID0gbWFwT2YoInZhbHVlIiB0byAi5L2g5pyJ5b6F5Yqe5LqGIiwgImNvbG9yIiB0byAiI2ZmMDAwMCIp</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cglwcml2YXRlIHZhciBhcGlIb3N0OiBTdHJpbmcgPSAiaHR0cHM6Ly9zei5hcGkud2VpeGluLnFxLmNvbSIKCXByaXZhdGUgdmFyIGFwcElEID0gInd4ODQ0YWU4Yjk3NGRkM2YzZSIKCXByaXZhdGUgdmFyIGFwcFNlY3JldCA9ICJlZjI1N2VhMDNlN2JlZDFjYmI1MmVmNTZmOWI1MTVmNiI=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiR7aXQudHlwZX0iLAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//g</text>
