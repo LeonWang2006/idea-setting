@@ -377,13 +377,13 @@
       <file name="/hrs_toplist_month [prd - wos_hrs@192.168.10.112]" timestamp="1526107437091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app.app_weixin [prd - app@192.168.10.20]" timestamp="1540518667545">
+      <file name="/app.app_weixin [prd - app@192.168.10.20]" timestamp="1542336607907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1540213693960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542332554448">
+      <file name="/dummy.sql" timestamp="1542336635900">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -600,8 +600,10 @@
       <file name="/ogs_department_water [dev - wos_ogs@10.10.18.130]" timestamp="1533728461520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1542112450038">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1542336644645">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/wos_hrs.hrs_user_permission_map [prd - wos_hrs@192.168.10.112]" timestamp="1538103634755">
         <mark key="[" line="0" column="0" />
@@ -803,7 +805,7 @@
       <file name="/wos_common.sys_auth_rule [dev - wos_common@10.10.18.130]" timestamp="1535454225277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ws_app.app_weixin [dev - ws_app@10.10.18.132]" timestamp="1540785463955">
+      <file name="/ws_app.app_weixin [dev - ws_app@10.10.18.132]" timestamp="1542336634959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/wos_hrs.hrs_attention [prd - wos_hrs@192.168.10.112]" timestamp="1539931796358">
@@ -994,8 +996,8 @@
       <jump line="348" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">T1JERVIgQlkgdHlwZSBBU0MsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">NTQ1Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">T1JERVIgQlkgdHlwZSBBU0MsIA==</text>
@@ -1007,7 +1009,7 @@
         <text encoding="base64">CQl2YWwgcmVtYXJrID0gZ3Nvbi5mcm9tSnNvbjxXeE1lc3NhZ2VJdGVtPih3eE1lc3NhZ2UucmVtYXJrLCBvYmplY3QgOiBUeXBlVG9rZW48V3hNZXNzYWdlSXRlbT4oKSB7fS50eXBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
+        <text encoding="base64">NTQ1Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1022,21 +1024,19 @@
         <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEVuYWJsZUFzeW5jCg==</text>
+        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Mzk1Cg==</text>
+        <text encoding="base64">QEVuYWJsZUFzeW5jCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsYXRlaW5pdCB2YXIgd3hUZW1wbGF0ZU1hcCA6IE11dGFibGVNYXA8U3RyaW5nLFN0cmluZz4K</text>
+        <text encoding="base64">Mzk1Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLwkJaWYgKCF3eE1lc3NhZ2UudXJsLmlzTgo=</text>
+        <text encoding="base64">CQlsYXRlaW5pdCB2YXIgd3hUZW1wbGF0ZU1hcCA6IE11dGFibGVNYXA8U3RyaW5nLFN0cmluZz4K</text>
       </register>
-      <register name="9" type="4">
-        <text>ullOrEmpty()){
-		//			baseArr[&quot;url&quot;] = wxMessage.url.toString()
-		//		}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkvLwkJaWYgKCF3eE1lc3NhZ2UudXJsLmlzTgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//g</text>
