@@ -183,11 +183,11 @@
       <file name="/users [dev - visit@10.10.18.132]" timestamp="1527158031905">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e000b24b-6049-446f-b91c-b94afb71bd96/console.sql" timestamp="1542633848558">
-        <mark key="[" line="138" column="134" />
-        <mark key="]" line="138" column="134" />
-        <mark key="." line="138" column="134" />
-        <mark key="^" line="138" column="81" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e000b24b-6049-446f-b91c-b94afb71bd96/console.sql" timestamp="1542676499570">
+        <mark key="[" line="125" column="24" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="113" column="0" />
       </file>
       <file name="/rss_news [prd - oa_new@192.168.10.6]" timestamp="1523925418721">
         <mark key="[" line="0" column="0" />
@@ -350,6 +350,7 @@
       <file name="/ogs_permission_category [dev - wos_ogs@10.10.18.130]" timestamp="1538990529116">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/static/weixin/login.html" timestamp="1542677078617" />
       <file name="/target_relation [@10.10.18.132]" timestamp="1527837724329">
         <mark key="[" line="0" column="0" />
       </file>
@@ -389,7 +390,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1540213693960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1542627348342">
+      <file name="/dummy.sql" timestamp="1542676094303">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -570,6 +571,12 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1542677167020">
+        <mark key="'" line="347" column="30" />
+        <mark key="[" line="377" column="33" />
+        <mark key="]" line="377" column="33" />
+        <mark key="." line="377" column="33" />
+      </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533644739795">
         <mark key="[" line="0" column="0" />
       </file>
@@ -680,7 +687,7 @@
       <file name="/sys_content_publish_message [prd - wos_common@192.168.10.112]" timestamp="1539833932159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1542012192291">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1542676704076">
         <mark key="[" line="133" column="33" />
         <mark key="]" line="133" column="33" />
         <mark key="." line="133" column="33" />
@@ -1000,10 +1007,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>08030295</text>
+        <text encoding="base64">IGFuZCB0LmZkX3R5cGUgPD4gMg==</text>
       </register>
       <register name="-" type="4">
-        <text>08030295</text>
+        <text encoding="base64">IGFuZCB0LmZkX3R5cGUgPD4gMg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
