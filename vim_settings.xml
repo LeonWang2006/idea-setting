@@ -385,7 +385,7 @@
       <file name="/sharetronix.oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1540213693960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1543455560189">
+      <file name="/dummy.sql" timestamp="1543456375462">
         <mark key="p" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -624,12 +624,6 @@
       <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1541466248395">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a36e08a0-f78f-4ef3-b426-f61502fe88cc/console.sql" timestamp="1542855500758">
-        <mark key="[" line="5" column="96" />
-        <mark key="]" line="5" column="94" />
-        <mark key="." line="5" column="94" />
-        <mark key="^" line="5" column="94" />
-      </file>
       <file name="/hrs_cache_empshift [prd - wos_hrs@192.168.10.112]" timestamp="1528077487766">
         <mark key="[" line="0" column="0" />
       </file>
@@ -684,7 +678,7 @@
         <mark key="]" line="133" column="33" />
         <mark key="." line="133" column="33" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1542965073765" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1543457169826" />
       <file name="/sys_notify [prd - wos_common@192.168.10.112]" timestamp="1534387828266">
         <mark key="[" line="0" column="0" />
       </file>
@@ -847,7 +841,7 @@
       <file name="/app_user [prd - app@192.168.10.20]" timestamp="1541726297376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/sharetronix.users [prd - sharetronix@192.168.10.65]" timestamp="1537508216484">
+      <file name="/sharetronix.users [prd - sharetronix@192.168.10.65]" timestamp="1543456374611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/cus_push_audited [ekpwondershare@192.168.10.136]" timestamp="1533089544668">
@@ -1000,10 +994,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>name like &quot;%邓&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>name like &quot;%邓&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwc1w+</text>
