@@ -162,7 +162,7 @@
       <file name="/hrs_evaluate [dev - wos_hrs@10.10.18.130]" timestamp="1527476233623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1541656308954">
+      <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1543825981095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1537338091611">
@@ -243,7 +243,6 @@
       <file name="/wos_common.sys_content_publish_category [prd - wos_common@192.168.10.112]" timestamp="1539572001226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EtlService.kt" timestamp="1543388625374" />
       <file name="/hrs_focus [dev - wos_hrs@10.10.18.130]" timestamp="1531462343405">
         <mark key="[" line="0" column="0" />
       </file>
@@ -339,7 +338,6 @@
       <file name="/sharetronix.users [dev - sharetronix@192.168.10.61]" timestamp="1536650552863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/component/Env.kt" timestamp="1543226472141" />
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -419,7 +417,6 @@
       <file name="/test_users [dev - wos_common@10.10.18.130]" timestamp="1523152993143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/NewsService.kt" timestamp="1542872621855" />
       <file name="/sharetronix.oauth_request_token [prd - sharetronix@192.168.10.65]" timestamp="1536894545164">
         <mark key="[" line="0" column="0" />
       </file>
@@ -429,7 +426,6 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1542855775104" />
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -487,6 +483,9 @@
       <file name="/hrs_log_detail [dev - wos_hrs@10.10.18.130]" timestamp="1533694446983">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/hrs_update_pwd_log [prd - wos_hrs@192.168.10.112]" timestamp="1543825982676">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/app_blog_token [prd - app@192.168.10.20]" timestamp="1537338091060">
         <mark key="[" line="0" column="0" />
       </file>
@@ -511,7 +510,7 @@
       <file name="/sys_yiilog_operation_category [prd - wos_common@192.168.10.112]" timestamp="1526005484413">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hrs_cache_user_ext [prd - wos_hrs@192.168.10.112]" timestamp="1541726297401">
+      <file name="/hrs_cache_user_ext [prd - wos_hrs@192.168.10.112]" timestamp="1543825979996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_yiilog_debug_category [prd - wos_common@192.168.10.112]" timestamp="1526005492294">
@@ -554,6 +553,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/target_category [@10.10.18.132]" timestamp="1527837726253">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/vemployee [prd - oa_new@192.168.10.6]" timestamp="1543825981827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/post_likes [dev - sharetronix@192.168.10.61]" timestamp="1523546493674">
@@ -651,7 +653,7 @@
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1532948720638">
+      <file name="/users [prd - sharetronix@192.168.10.65]" timestamp="1543825981862">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/wos_hrs.hrs_attention [dev - wos_hrs@10.10.18.130]" timestamp="1540778300778">
@@ -663,7 +665,6 @@
       <file name="/app_follow [dev - ws_app@10.10.18.132]" timestamp="1523190269889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-dev.yml" timestamp="1543809488755" />
       <file name="/group_notifications [dev - sharetronix@192.168.10.61]" timestamp="1523497661798">
         <mark key="[" line="0" column="0" />
       </file>
@@ -681,7 +682,6 @@
         <mark key="]" line="133" column="33" />
         <mark key="." line="133" column="33" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AttendanceService.kt" timestamp="1543485090225" />
       <file name="/sys_notify [prd - wos_common@192.168.10.112]" timestamp="1534387828266">
         <mark key="[" line="0" column="0" />
       </file>
@@ -787,7 +787,6 @@
       <file name="/MySQL Fragment (MsgService.kt:9860).sql" timestamp="1525692306073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/oa/NotifyTodoRepository.java" timestamp="1543485259236" />
       <file name="/hrs_stat_job_evaluate_manage [prd - wos_hrs@192.168.10.112]" timestamp="1531878286218">
         <mark key="[" line="0" column="0" />
       </file>
