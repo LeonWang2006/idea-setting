@@ -162,12 +162,15 @@
       <file name="/hrs_evaluate [dev - wos_hrs@10.10.18.130]" timestamp="1527476233623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1543923163796">
-        <mark key="[" line="22" column="54" />
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1545878203229">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/sys_user [prd - wos_common@192.168.10.112]" timestamp="1543825981095">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/repository/wps/MobileUsersRepository.java" timestamp="1545877991177" />
       <file name="/oauth_access_token [prd - sharetronix@192.168.10.65]" timestamp="1537338091611">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,6 +315,7 @@
       <file name="/ogs_persons_family [dev - wos_ogs@10.10.18.130]" timestamp="1533282840489">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/EvaluateService.kt" timestamp="1545878700696" />
       <file name="/app_user_logs [prd - app@192.168.10.73]" timestamp="1526467382529">
         <mark key="[" line="0" column="0" />
       </file>
@@ -420,6 +424,7 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1545878956709" />
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -567,12 +572,6 @@
       <file name="/oauth_access_token [dev - sharetronix@192.168.10.61]" timestamp="1531104234393">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" timestamp="1543922289546">
-        <mark key="[" line="799" column="48" />
-        <mark key="]" line="582" column="19" />
-        <mark key="." line="582" column="19" />
-        <mark key="^" line="582" column="19" />
-      </file>
       <file name="/users [visit@yun.db.org]" timestamp="1533644739795">
         <mark key="[" line="0" column="0" />
       </file>
@@ -672,7 +671,7 @@
       <file name="/sys_content_publish_message [prd - wos_common@192.168.10.112]" timestamp="1539833932159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1545720615265">
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1545878235100">
         <mark key="[" line="133" column="33" />
         <mark key="]" line="133" column="33" />
         <mark key="." line="133" column="33" />
@@ -995,8 +994,8 @@
       <jump line="348" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/WxService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>unless = &quot;#result == null&quot;, cacheManager = &quot;cacheManager2H&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>unless = &quot;#result == null&quot;, cacheManager = &quot;cacheManager2H&quot;</text>
@@ -1007,35 +1006,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQl2YWwgcmVtYXJrID0gZ3Nvbi5mcm9tSnNvbjxXeE1lc3NhZ2VJdGVtPih3eE1lc3NhZ2UucmVtYXJrLCBvYmplY3QgOiBUeXBlVG9rZW48V3hNZXNzYWdlSXRlbT4oKSB7fS50eXBlKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnNob3cgc3RhdHVzOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgbGF0ZWluaXQgdmFyIHd4U2VydmljZTogV3hTZXJ2aWNl</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CnNob3cgc3RhdHVzOw==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IAogICAgICAgICAgICBBTkQg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">NTQ1Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
+        <text encoding="base64">NTQ1Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEVuYWJsZUFzeW5jCg==</text>
+        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Mzk1Cg==</text>
+        <text encoding="base64">c2VsZWN0IG9wZW5pZCBmcm9tIGFwcF93ZWl4aW4gd2hlcmUgd3NfaWQgPSAnMTMwNDE4OTEnIGxpbWl0IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//g</text>
