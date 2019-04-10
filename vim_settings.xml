@@ -60,7 +60,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9ac163ec-2a53-45ea-9875-bdb4678121d2/console.sql" timestamp="1523496685522">
         <mark key="[" line="0" column="59" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/.gitignore" timestamp="1554868639120" />
       <file name="/wos_hrs.hrs_update_pwd_log [prd - wos_hrs@192.168.10.112]" timestamp="1543462476524">
         <mark key="[" line="0" column="0" />
       </file>
@@ -401,7 +400,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554870495555">
+      <file name="/Dummy.txt" timestamp="1554874637092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -433,6 +432,12 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1551229866533">
         <mark key="'" line="435" column="13" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1554874840958">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="71" column="4" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -1019,7 +1024,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>192.168.10.203</text>
@@ -1031,34 +1036,34 @@
         <text encoding="base64">CQl2YWwgcmVtYXJrID0gZ3Nvbi5mcm9tSnNvbjxXeE1lc3NhZ2VJdGVtPih3eE1lc3NhZ2UucmVtYXJrLCBvYmplY3QgOiBUeXBlVG9rZW48V3hNZXNzYWdlSXRlbT4oKSB7fS50eXBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3JjL2RvYy9taXguc3dhZ2dlci5qc29uCg==</text>
+        <text encoding="base64">CQnmiJHku6wK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3JjL2RvYy9taXguc3dhZ2dlci5qc29uCg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3JjL2RvYy9taXguc3dhZ2dlci5qc29uCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">c3JjL2RvYy9taXguc3dhZ2dlci5qc29uCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgbGF0ZWluaXQgdmFyIHd4U2VydmljZTogV3hTZXJ2aWNl</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CnNob3cgc3RhdHVzOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICBBTkQg</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgbGF0ZWluaXQgdmFyIHd4U2VydmljZTogV3hTZXJ2aWNl</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">NTQ1Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CnNob3cgc3RhdHVzOw==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;//g</text>
