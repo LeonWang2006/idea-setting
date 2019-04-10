@@ -433,12 +433,12 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1551229866533">
         <mark key="'" line="435" column="13" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1554876941903">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1554877533320">
         <mark key="'" line="80" column="29" />
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="15" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="25" column="15" />
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -1067,7 +1067,7 @@
         <text encoding="base64">CQnmiJEK</text>
       </register>
       <register name=":" type="4">
-        <text>set keep-english-in-normal</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1123,6 +1123,8 @@
         <entry>%s/&quot;//g</entry>
         <entry>select</entry>
         <entry>set keep-english-in-normal</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
