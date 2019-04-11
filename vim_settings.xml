@@ -263,7 +263,6 @@
       <file name="/app.app_follow [prd - app@192.168.10.20]" timestamp="1537348262960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1554882286131" />
       <file name="/wos_ogs.ogs_config_grade [dev - wos_ogs@10.10.18.130]" timestamp="1537353840322">
         <mark key="[" line="0" column="0" />
       </file>
@@ -450,11 +449,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1551229866533">
         <mark key="'" line="435" column="13" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1554953782211">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1554961973940">
         <mark key="'" line="50" column="29" />
-        <mark key="[" line="51" column="55" />
-        <mark key="]" line="51" column="54" />
-        <mark key="." line="51" column="54" />
+        <mark key="[" line="51" column="17" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="17" />
         <mark key="^" line="51" column="54" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
@@ -695,7 +694,7 @@
       <file name="/sys_menu [dev - wos_common@10.10.18.130]" timestamp="1524218007093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1554954942385">
+      <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1554961848551">
         <mark key="[" line="2296" column="20" />
         <mark key="]" line="2296" column="19" />
         <mark key="^" line="2296" column="19" />
@@ -1057,7 +1056,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>nil</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -1106,7 +1105,7 @@
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1132,8 +1131,6 @@
         <entry>avatar</entry>
       </history-search>
       <history-cmd>
-        <entry>.,$s/, example = &quot;万兴科技&quot;//g</entry>
-        <entry>%s/03100004/03100001/g</entry>
         <entry>634</entry>
         <entry>%s/`user`.//g</entry>
         <entry>%.,2s/`user`.//g</entry>
