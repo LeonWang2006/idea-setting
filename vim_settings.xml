@@ -10,16 +10,6 @@
         <mark key="." line="63" column="5" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/analyticsService.go" timestamp="1555054726858" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1555037568032">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/swaggerui/index.html" timestamp="1554946206526">
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="42" column="35" />
-        <mark key="." line="42" column="35" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/server.go" timestamp="1554944362238">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="34" column="0" />
@@ -28,52 +18,36 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/http/http.go" timestamp="1555054234641" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/message/en/en.yaml" timestamp="1555055170463" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1554868741104">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/interceptor/WxInterceptor.kt" timestamp="1545878203229">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/lang.go" timestamp="1555054635079" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1550125083045">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appUserService.go" timestamp="1555054782389" />
+      <file name="/Dummy.txt" timestamp="1555060477702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/swaggeruiasset.go" timestamp="1554902955475">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555060435094">
+        <mark key="[" line="51" column="40" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appUserService.go" timestamp="1555054782389" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555059627433" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/model/ogs_persons_user.go" timestamp="1555054793492" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-usa.yml" timestamp="1551689732158">
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555059616520" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/message/zh/zh.yaml" timestamp="1555055184897" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/blogService.go" timestamp="1555054842656" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b183eb7-d068-42c3-b4a7-53d6cbe8ac81/console.sql" timestamp="1554861514388">
-        <mark key="[" line="52" column="40" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1555054552436" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1553570291276">
-        <mark key="[" line="133" column="33" />
-        <mark key="]" line="133" column="33" />
-        <mark key="." line="133" column="33" />
+      <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1554961848551">
+        <mark key="[" line="2296" column="20" />
+        <mark key="]" line="2296" column="19" />
+        <mark key="^" line="2296" column="19" />
+        <mark key="." line="2296" column="19" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1555054751540" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/json/timefmt.go" timestamp="1555054657703" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/email/email.go" timestamp="1555055096022" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555060348760">
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="62" column="36" />
+        <mark key="." line="62" column="36" />
+        <mark key="^" line="62" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="7" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -182,7 +156,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>开发框架集成swagger数据与swaggerui在线展示，访问地址http://localhost:8081/swaggerui/</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
