@@ -20,7 +20,7 @@
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/message/en/en.yaml" timestamp="1555055170463" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/lang.go" timestamp="1555054635079" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appUserService.go" timestamp="1555054782389" />
-      <file name="/Dummy.txt" timestamp="1555060477702">
+      <file name="/Dummy.txt" timestamp="1555074977596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -29,8 +29,16 @@
         <mark key="[" line="51" column="40" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/model/ogs_persons_user.go" timestamp="1555054793492" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555074087953">
-        <mark key="[" line="70" column="31" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555076255594">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+        <mark key="^" line="18" column="40" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555076672588">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="61" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/message/zh/zh.yaml" timestamp="1555055184897" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/blogService.go" timestamp="1555054842656" />
@@ -158,7 +166,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0cmluZ3MuSm9pbihtZXRob2RzLCAiLCIp</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -167,34 +175,34 @@
         <text encoding="base64">CXcuSGVhZGVyKCkuU2V0KCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzIiwgc3RyaW5ncy5Kb2luKG1ldGhvZHMsICIsIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vCWhlYWRlcignQWNjZXNzLUNvbnRyb2wtQWxsb3ctQ3JlZGVudGlhbHM6IHRydWUnKTsK</text>
+        <text encoding="base64">CW4uVXNlKG5lZ3JvbmkuSGFuZGxlckZ1bmMoand0TWlkZGxld2FyZS5IYW5kbGVyV2l0aE5leHQpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3JjL2RvYy8K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgkJZm9yIGssIHYgOj0gcmFuZ2UgdG9rZW4uQ2xhaW1zIHsKCQkJZm10LkZwcmludGYodywgIiVzIDpcdCUjdlxuIiwgaywgdikKCQl9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W25lZ3JvbmldIDIwMTktMDQtMTJUMjE6MzE6MDkrMDg6MDAgfCA0MDEgfCAJIDQuNjU0ODA3NzE4cyB8IDEyNy4wLjAuMTo4MDgwIHwgR0VUIC9hcHAvdmVyc2lvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2RncmlqYWx2YS9qd3QtZ28iCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CeaIkeS5iAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgkiZ2l0aHViLmNvbS9kZ3JpamFsdmEvand0LWdvIg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vaHR0cC5IYW5kbGUoIi8iLCBzZXJ2ZXIuU3dhZ2dlclVJSGFuZGxlcigpKQo=</text>
+        <text encoding="base64">CS8vbi5IYW5kbGVyRnVuYyhqd3RNaWRkbGV3YXJlLkhhbmRsZXJXaXRoTmV4dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vbXV4LkhhbmRsZSgiL3N3YWdnZXJ1aS8iLCBzZXJ2ZXIuU3dhZ2dlclVJSGFuZGxlckZ1bmMoIi4uL3N3YWdnZXJ1aS8iKSkK</text>
+        <text encoding="base64">CW4uVXNlKG5lZ3JvbmkuV3JhcChnYXRld2F5LkpXVEhhbmRsZXIoKSkpCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Cgo+MS7kuIvovb3lr7nlupTns7vnu5/niYjmnKzvvIjop6PljovniYjmnKzvvIzlronoo4XniYjmnKzvvIlnb+eJiOacrOW/hemhuzEuMTHku6XkuIouIFtnb2xhbmflrpjmlrnkuIvovb1dKGh0dHBzOi8vc3R1ZHlnb2xhbmcuY29tL2RsKQo+Mi7op6PljovmiJbogIXlronoo4XliLBD55uYCj4zLumFjee9rmdvcm9vdCxwYXRoLGdvcGF0aCxHTzExMU1PRFVMRSjkuI3kvJrnmoTnmb7luqYpCj40Lmdvcm9vdCBnb+eahOWuieijheebruagh2M6XGdvCj41LnBhdGggYzpcZ29cYmluCj42LmdvcGF0aCBkOlxnb3BhdGgKPjcuR08xMTFNT0RVTEUgb24=</text>
+        <text encoding="base64">CnZhciBteUhhbmRsZXIgPSBodHRwLkhhbmRsZXJGdW5jKGZ1bmModyBodHRwLlJlc3BvbnNlV3JpdGVyLCByICpodHRwLlJlcXVlc3QpIHsKCXVzZXIgOj0gY29udGV4dC5HZXQociwgInVzZXIiKQoJZm10LkZwcmludGYodywgIlRoaXMgaXMgYW4gYXV0aGVudGljYXRlZCByZXF1ZXN0IikKCWZtdC5GcHJpbnRmKHcsICJDbGFpbSBjb250ZW50OlxuIikKCWZvciBrLCB2IDo9IHJhbmdlIHVzZXIuKCpqd3QuVG9rZW4pLkNsYWltcyB7CgkgIGZtdC5GcHJpbnRmKHcsICIlcyA6XHQlI3ZcbiIsIGssIHYpCgl9CiAgfSk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KioqCg==</text>
+        <text encoding="base64">CS8vCWhlYWRlcignQWNjZXNzLUNvbnRyb2wtQWxsb3ctQ3JlZGVudGlhbHM6IHRydWUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
