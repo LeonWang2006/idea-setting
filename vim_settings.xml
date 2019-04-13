@@ -162,6 +162,10 @@
       <file name="/users [visit@localhost]" timestamp="1527127943068">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/use.md" timestamp="1555144532552">
+        <mark key="[" line="1" column="0" />
+        <mark key="^" line="0" column="13" />
+      </file>
       <file name="/posts_comments_mentioned [dev - sharetronix@192.168.10.61]" timestamp="1525329757795">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,6 +226,7 @@
       <file name="/hrs_toplist_thirty_days_app [prd - wos_hrs@192.168.10.112]" timestamp="1534342673308">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1555143626352" />
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -397,7 +402,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555136126256">
+      <file name="/Dummy.txt" timestamp="1555144221282">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -429,8 +434,10 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555142232646">
-        <mark key="[" line="51" column="40" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555144259785">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="42" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -628,6 +635,7 @@
       <file name="/ogs_department_water [dev - wos_ogs@10.10.18.130]" timestamp="1533728461520">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/swaggerUI.md" timestamp="1555144418803" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7b7937c2-c8cb-4339-a548-310de407f021/console_2.sql" timestamp="1526460863310">
         <mark key="[" line="0" column="0" />
       </file>
@@ -862,10 +870,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555137058826">
-        <mark key="[" line="51" column="54" />
-        <mark key="]" line="51" column="53" />
-        <mark key="." line="51" column="53" />
-        <mark key="^" line="51" column="53" />
+        <mark key="[" line="50" column="54" />
+        <mark key="]" line="50" column="53" />
+        <mark key="." line="50" column="53" />
+        <mark key="^" line="50" column="53" />
       </file>
       <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/demo/rest_visit/src/main/kotlin/org/anlu/pojo/SignUpRequest.kt" timestamp="1531443760574">
         <mark key="[" line="9" column="0" />
@@ -1039,43 +1047,43 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>到</text>
+        <text>安装 go-swagger</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vYmxvZyjmmoLml7bkuI3ni6znq4vmnI3liqEpCglTZXJ2ZXJNYXBbImJsb2ciXSA9IFtdaW50ZXJmYWNle317IjEyNy4wLjAuMTo1MDA1MSIsIHBiLlJlZ2lzdGVyQmxvZ0hhbmRsZXJGcm9tRW5kcG9pbnR9CgkvL29hKOaaguaXtuS4jeeLrOeri+acjeWKoSkKCVNlcnZlck1hcFsib2EiXSA9IFtdaW50ZXJmYWNle317IjEyNy4wLjAuMTo1MDA1MSIsIHBiLlJlZ2lzdGVyT2FIYW5kbGVyRnJvbUVuZHBvaW50fQoJLy93cHMo5pqC5pe25LiN54us56uL5pyN5YqhKQoJU2VydmVyTWFwWyJuZXdzIl0gPSBbXWludGVyZmFjZXt9eyIxMjcuMC4wLjE6NTAwNTEiLCBwYi5SZWdpc3Rlck5ld3NIYW5kbGVyRnJvbUVuZHBvaW50fQoKCS8vYXBw5pyN5YqhCglTZXJ2ZXJNYXBbImFwcCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgcGIuUmVnaXN0ZXJBcHBIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJoZWxsbyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgcGIuUmVnaXN0ZXJIZWxsb1dvcmxkSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsibG9nIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmFwcCIpLCBwYi5SZWdpc3RlckxvZ0hhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbIm1hcCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgcGIuUmVnaXN0ZXJNYXBIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJtc2ciXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuYXBwIiksIHBiLlJlZ2lzdGVyTXNnSGFuZGxlckZyb21FbmRwb2ludH0KCgkvL2hyc+acjeWKoQoJU2VydmVyTWFwWyJhbmFseXRpY3MiXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIiksIHBiLlJlZ2lzdGVyQW5hbHl0aWNzSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsidGFyZ2V0Il0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpLCBwYi5SZWdpc3RlclRhcmdldEhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbIm9yZyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgcGIuUmVnaXN0ZXJPcmdIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJldmFsdWF0ZSJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgcGIuUmVnaXN0ZXJFdmFsdWF0ZUhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbImZvY3VzIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpLCBwYi5SZWdpc3RlckZvY3VzSGFuZGxlckZyb21FbmRwb2ludH0KCgkvL0ZvY3VzU2VydmVyCgoJLy9vZ3PmnI3liqEKCVNlcnZlck1hcFsidXNlciJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgcGIuUmVnaXN0ZXJVc2VySGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsiYXJjaGl2ZXMiXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMub2dzIiksIHBiLlJlZ2lzdGVyQXJjaGl2ZXNIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJwZXJzb24iXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMub2dzIiksIHBiLlJlZ2lzdGVyUGVyc29uSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsiZGVwYXJ0bWVudCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgcGIuUmVnaXN0ZXJEZXBhcnRtZW50SGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsid29yayJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgcGIuUmVnaXN0ZXJXb3JrSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsiY29tbXVuaWNhdGlvbiJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgcGIuUmVnaXN0ZXJDb21tdW5pY2F0aW9uSGFuZGxlckZyb21FbmRwb2ludH0K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJzZXJ2aWNlIGF0IGRldiBtb2RlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdvIGdldCAtdSBnaXRodWIuY29tL2dvLXN3YWdnZXIvZ28tc3dhZ2dlci9jbWQvc3dhZ2dlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigic2VydmljZSBhdCBwcmQgbW9kZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWd3LCBlcnIgOj0gZ2F0ZXdheS5OZXdHYXRld2F5KGN0eCwgc3J2LlNlcnZlck1hcCkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0K</text>
+        <text encoding="base64">CQlnbG9nLkluZm9sbigic2VydmljZSBhdCBwcmQgbW9kZSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlnbG9nLkluZm9sbigic2VydmljZSBhdCBkZXYgbW9kZSIpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CS8vIG11eCA6PSBodHRwLk5ld1NlcnZlTXV4KCkKCS8vIG11eC5IYW5kbGVGdW5jKCIvc3dhZ2dlci8iLCBnYXRld2F5LnN3YWdnZXJTZXJ2ZXIob3B0cy5Td2FnZ2VyRGlyKSkKCS8vIG11eC5IYW5kbGVGdW5jKCIvaGVhbHRoeiIsIGhlYWx0aHpTZXJ2ZXIoY29ubikpCgoK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CglpZiBlcnIgOj0gcnVuKCk7IGVyciAhPSBuaWwgewoJCWdsb2cuRmF0YWwoZXJyKQoJfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwYXJhbXNbMV0gPSByZWZsZWN0LlZhbHVlT2YoZ3dtdXgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlwYXJhbXNbMV0gPSByZWZsZWN0LlZhbHVlT2YoZ3dtdXgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CWFwcEVuZHBvaW50ICA9IGZsYWcuU3RyaW5nKCJhcHBfZW5kcG9pbnQiLCAiMTAuMTAuMTguODc6NTAwNTEiLCAiZW5kcG9pbnQgb2YgQXBwU2VydmljZSIpCgljb3JlRW5kcG9pbnQgPSBmbGFnLlN0cmluZygiY29yZV9lbmRwb2ludCIsICIxMC4xMC4xOC44Nzo1MDA1MSIsICJlbmRwb2ludCBvZiBDb3JlU2VydmljZSIpCglvYUVuZHBvaW50ICAgPSBmbGFnLlN0cmluZygib2FfZW5kcG9pbnQiLCAiMTAuMTEuNC45MDo1MDA1MSIsICJlbmRwb2ludCBvZiBPYVNlcnZpY2UiKQoKCXN3YWdnZXJEaXIgPSBmbGFnLlN0cmluZygic3dhZ2dlcl9kaXIiLCAiZXhhbXBsZXMvZXhhbXBsZXBiIiwgInBhdGggdG8gdGhlIGRpcmVjdG9yeSB3aGljaCBjb250YWlucyBzd2FnZ2VyIGRlZmluaXRpb25zIik=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWd3LCBlcnIgOj0gZ2F0ZXdheS5OZXdHYXRld2F5KGN0eCwgc3J2LlNlcnZlck1hcCkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
