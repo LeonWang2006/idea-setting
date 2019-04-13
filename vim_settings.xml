@@ -402,7 +402,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555144221282">
+      <file name="/Dummy.txt" timestamp="1555145599366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -434,10 +434,10 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555144259785">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="42" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555145974846">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -1047,7 +1047,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>安装 go-swagger</text>
+        <text>集成cors跨域支持</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -1056,34 +1056,34 @@
         <text encoding="base64">CWZtdC5QcmludGxuKCJzZXJ2aWNlIGF0IGRldiBtb2RlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdvIGdldCAtdSBnaXRodWIuY29tL2dvLXN3YWdnZXIvZ28tc3dhZ2dlci9jbWQvc3dhZ2dlcgo=</text>
+        <text encoding="base64">CQkvLyDlj6botbfov5vnqIvov5DooYwgZ3JwY+acjeWKoQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigic2VydmljZSBhdCBwcmQgbW9kZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlnbG9nLkluZm9sbigic2VydmljZSBhdCBwcmQgbW9kZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlnbG9nLkluZm9sbigic2VydmljZSBhdCBkZXYgbW9kZSIpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CS8vaWYgbGVuKG9zLkFyZ3MpID4gMSAmJiBvcy5BcmdzWzFdID09ICJkZXYiIHsKCS8vCWlmIGVyciA6PSBydW4oKTsgZXJyICE9IG5pbCB7CgkvLwkJZ2xvZy5GYXRhbChlcnIpCgkvLwl9CgkvL30gZWxzZSB7CgkvLwljdHgsIGNhbmNlbCA6PSBjb250ZXh0LldpdGhDYW5jZWwoY29udGV4dC5CYWNrZ3JvdW5kKCkpCgkvLwlkZWZlciBjYW5jZWwoKQoJLy8KCS8vCS8vIOWPpui1t+i/m+eoi+i/kOihjCBncnBj5pyN5YqhCgkvLwlzZXJ2ZXIuUnVuR3JwYyhjdHgsICJ0Y3AiLCAiOjUwMDUxIiwgc3J2LlNlcnZlck1hcCkKCS8vfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CglpZiBlcnIgOj0gcnVuKCk7IGVyciAhPSBuaWwgewoJCWdsb2cuRmF0YWwoZXJyKQoJfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdvIGdldCAtdSBnaXRodWIuY29tL2dvLXN3YWdnZXIvZ28tc3dhZ2dlci9jbWQvc3dhZ2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigic2VydmljZSBhdCBwcmQgbW9kZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlnbG9nLkluZm9sbigic2VydmljZSBhdCBwcmQgbW9kZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWd3LCBlcnIgOj0gZ2F0ZXdheS5OZXdHYXRld2F5KGN0eCwgc3J2LlNlcnZlck1hcCkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0K</text>
+        <text encoding="base64">CQlnbG9nLkluZm9sbigic2VydmljZSBhdCBkZXYgbW9kZSIpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CglpZiBlcnIgOj0gcnVuKCk7IGVyciAhPSBuaWwgewoJCWdsb2cuRmF0YWwoZXJyKQoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
