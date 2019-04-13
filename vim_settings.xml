@@ -238,6 +238,13 @@
       <file name="/sys_content_publish_category [prd - wos_common@192.168.10.112]" timestamp="1539833930676">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555137043315">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="40" column="125" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+      </file>
       <file name="/users [@visit.db.cc]" timestamp="1529886147425">
         <mark key="[" line="0" column="0" />
       </file>
@@ -396,7 +403,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555074977596">
+      <file name="/Dummy.txt" timestamp="1555136126256">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -428,7 +435,7 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555135328224">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555137067016">
         <mark key="[" line="51" column="40" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
@@ -513,11 +520,11 @@
       <file name="/wos_common.sys_user [prd - wos_common@192.168.10.112]" timestamp="1544600329047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555135976975">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555137215214">
         <mark key="[" line="58" column="30" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="57" column="28" />
+        <mark key="]" line="51" column="28" />
+        <mark key="." line="51" column="28" />
+        <mark key="^" line="51" column="28" />
       </file>
       <file name="/wos_ogs.ogs_permission_category [dev - wos_ogs@10.10.18.130]" timestamp="1538137441308">
         <mark key="[" line="0" column="0" />
@@ -852,6 +859,7 @@
       <file name="/ehr_employee [prd - oa_new@192.168.10.6]" timestamp="1532759020892">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1555137073632" />
       <file name="/packages_diff [prd - codepush@192.168.10.73]" timestamp="1527727035605">
         <mark key="[" line="0" column="0" />
       </file>
@@ -864,7 +872,7 @@
       <file name="/hrs_log_list [prd - wos_hrs@192.168.10.112]" timestamp="1526901411947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555135345943">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555137058826">
         <mark key="[" line="51" column="54" />
         <mark key="]" line="51" column="53" />
         <mark key="." line="51" column="53" />
@@ -890,6 +898,12 @@
       </file>
       <file name="/wos_common.sys_notify_action [prd - wos_common@192.168.10.112]" timestamp="1539573081969">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1555137268048">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/sys_user_notify [dev - wos_common@10.10.18.130]" timestamp="1534250637338">
         <mark key="[" line="0" column="0" />
@@ -929,7 +943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="8" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="9" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="10" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -1029,21 +1042,34 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
       <jump line="25" column="8" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
       <jump line="80" column="29" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
+      <jump line="22" column="18" filename="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>gateway</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXcuSGVhZGVyKCkuU2V0KCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzIiwgc3RyaW5ncy5Kb2luKG1ldGhvZHMsICIsIikpCg==</text>
+        <text encoding="base64">CS8vYmxvZyjmmoLml7bkuI3ni6znq4vmnI3liqEpCglTZXJ2ZXJNYXBbImJsb2ciXSA9IFtdaW50ZXJmYWNle317IjEyNy4wLjAuMTo1MDA1MSIsIHBiLlJlZ2lzdGVyQmxvZ0hhbmRsZXJGcm9tRW5kcG9pbnR9CgkvL29hKOaaguaXtuS4jeeLrOeri+acjeWKoSkKCVNlcnZlck1hcFsib2EiXSA9IFtdaW50ZXJmYWNle317IjEyNy4wLjAuMTo1MDA1MSIsIHBiLlJlZ2lzdGVyT2FIYW5kbGVyRnJvbUVuZHBvaW50fQoJLy93cHMo5pqC5pe25LiN54us56uL5pyN5YqhKQoJU2VydmVyTWFwWyJuZXdzIl0gPSBbXWludGVyZmFjZXt9eyIxMjcuMC4wLjE6NTAwNTEiLCBwYi5SZWdpc3Rlck5ld3NIYW5kbGVyRnJvbUVuZHBvaW50fQoKCS8vYXBw5pyN5YqhCglTZXJ2ZXJNYXBbImFwcCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgcGIuUmVnaXN0ZXJBcHBIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJoZWxsbyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgcGIuUmVnaXN0ZXJIZWxsb1dvcmxkSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsibG9nIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmFwcCIpLCBwYi5SZWdpc3RlckxvZ0hhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbIm1hcCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgcGIuUmVnaXN0ZXJNYXBIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJtc2ciXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuYXBwIiksIHBiLlJlZ2lzdGVyTXNnSGFuZGxlckZyb21FbmRwb2ludH0KCgkvL2hyc+acjeWKoQoJU2VydmVyTWFwWyJhbmFseXRpY3MiXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIiksIHBiLlJlZ2lzdGVyQW5hbHl0aWNzSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsidGFyZ2V0Il0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpLCBwYi5SZWdpc3RlclRhcmdldEhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbIm9yZyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgcGIuUmVnaXN0ZXJPcmdIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJldmFsdWF0ZSJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgcGIuUmVnaXN0ZXJFdmFsdWF0ZUhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbImZvY3VzIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpLCBwYi5SZWdpc3RlckZvY3VzSGFuZGxlckZyb21FbmRwb2ludH0KCgkvL0ZvY3VzU2VydmVyCgoJLy9vZ3PmnI3liqEKCVNlcnZlck1hcFsidXNlciJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgcGIuUmVnaXN0ZXJVc2VySGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsiYXJjaGl2ZXMiXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMub2dzIiksIHBiLlJlZ2lzdGVyQXJjaGl2ZXNIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJwZXJzb24iXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMub2dzIiksIHBiLlJlZ2lzdGVyUGVyc29uSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsiZGVwYXJ0bWVudCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgcGIuUmVnaXN0ZXJEZXBhcnRtZW50SGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsid29yayJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgcGIuUmVnaXN0ZXJXb3JrSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsiY29tbXVuaWNhdGlvbiJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgcGIuUmVnaXN0ZXJDb21tdW5pY2F0aW9uSGFuZGxlckZyb21FbmRwb2ludH0K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CWFwcEVuZHBvaW50ICA9IGZsYWcuU3RyaW5nKCJhcHBfZW5kcG9pbnQiLCAiMTAuMTAuMTguODc6NTAwNTEiLCAiZW5kcG9pbnQgb2YgQXBwU2VydmljZSIpCgljb3JlRW5kcG9pbnQgPSBmbGFnLlN0cmluZygiY29yZV9lbmRwb2ludCIsICIxMC4xMC4xOC44Nzo1MDA1MSIsICJlbmRwb2ludCBvZiBDb3JlU2VydmljZSIpCglvYUVuZHBvaW50ICAgPSBmbGFnLlN0cmluZygib2FfZW5kcG9pbnQiLCAiMTAuMTEuNC45MDo1MDA1MSIsICJlbmRwb2ludCBvZiBPYVNlcnZpY2UiKQoKCXN3YWdnZXJEaXIgPSBmbGFnLlN0cmluZygic3dhZ2dlcl9kaXIiLCAiZXhhbXBsZXMvZXhhbXBsZXBiIiwgInBhdGggdG8gdGhlIGRpcmVjdG9yeSB3aGljaCBjb250YWlucyBzd2FnZ2VyIGRlZmluaXRpb25zIik=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CgkvLyBlcnIgOj0gcGIuUmVnaXN0ZXJBcHBIYW5kbGVyRnJvbUVuZHBvaW50KGN0eCwgZ3dtdXgsICpvYUVuZHBvaW50LCBkaWFsT3B0cykKCS8vIGlmIGVyciAhPSBuaWwgewoJLy8gCXJldHVybiBuaWwsIGVycgoJLy8gfQoJLy8gZXJyID0gcGIuUmVnaXN0ZXJBbmFseXRpY3NIYW5kbGVyRnJvbUVuZHBvaW50KGN0eCwgZ3dtdXgsICpjb3JlRW5kcG9pbnQsIGRpYWxPcHRzKQoJLy8gaWYgZXJyICE9IG5pbCB7CgkvLyAJcmV0dXJuIG5pbCwgZXJyCgkvLyB9CgkvLyBlcnIgPSBwYi5SZWdpc3RlclVzZXJIYW5kbGVyRnJvbUVuZHBvaW50KGN0eCwgZ3dtdXgsICpvYUVuZHBvaW50LCBkaWFsT3B0cykKCS8vIGlmIGVyciAhPSBuaWwgewoJLy8gCXJldHVybiBuaWwsIGVycgoJLy8gfQo=</text>
+      </register>
+      <register name="4" type="4">
         <text>func SwaggerServer(dir string) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		if !strings.HasSuffix(r.URL.Path, &quot;swagger.json&quot;) {
@@ -1063,32 +1089,20 @@ func SwaggerUIHandler() http.Handler {
 	return http.FileServer(assetFS())
 }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CW4uVXNlKG5lZ3JvbmkuSGFuZGxlckZ1bmMoand0TWlkZGxld2FyZS5IYW5kbGVyV2l0aE5leHQpKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgkJZm9yIGssIHYgOj0gcmFuZ2UgdG9rZW4uQ2xhaW1zIHsKCQkJZm10LkZwcmludGYodywgIiVzIDpcdCUjdlxuIiwgaywgdikKCQl9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W25lZ3JvbmldIDIwMTktMDQtMTJUMjE6MzE6MDkrMDg6MDAgfCA0MDEgfCAJIDQuNjU0ODA3NzE4cyB8IDEyNy4wLjAuMTo4MDgwIHwgR0VUIC9hcHAvdmVyc2lvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2RncmlqYWx2YS9qd3QtZ28iCg==</text>
+        <text encoding="base64">CW4uVXNlKG5lZ3JvbmkuSGFuZGxlckZ1bmMoand0TWlkZGxld2FyZS5IYW5kbGVyV2l0aE5leHQpKQo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CgkiZ2l0aHViLmNvbS9kZ3JpamFsdmEvand0LWdvIg==</text>
+        <text encoding="base64">CgkJZm9yIGssIHYgOj0gcmFuZ2UgdG9rZW4uQ2xhaW1zIHsKCQkJZm10LkZwcmludGYodywgIiVzIDpcdCUjdlxuIiwgaywgdikKCQl9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vbi5IYW5kbGVyRnVuYyhqd3RNaWRkbGV3YXJlLkhhbmRsZXJXaXRoTmV4dCkK</text>
+        <text encoding="base64">W25lZ3JvbmldIDIwMTktMDQtMTJUMjE6MzE6MDkrMDg6MDAgfCA0MDEgfCAJIDQuNjU0ODA3NzE4cyB8IDEyNy4wLjAuMTo4MDgwIHwgR0VUIC9hcHAvdmVyc2lvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
