@@ -57,6 +57,11 @@
       <file name="/sys_yiilog_debug [prd - wos_common@192.168.10.112]" timestamp="1525504879049">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1555296379793">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="/hrs_cache_ehr_work [prd - wos_hrs@192.168.10.112]" timestamp="1523172339801">
         <mark key="[" line="0" column="0" />
       </file>
@@ -409,7 +414,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555295743410">
+      <file name="/Dummy.txt" timestamp="1555296469310">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1054,7 +1059,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICZzZXJ2aWNlLlB1YmxpY1NlcnZlcnt9LCBwYi5SZWdpc3RlclB1YmxpY1NlcnZlciw=</text>
+        <text>服务网关调整</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -1063,34 +1068,34 @@
         <text encoding="base64">CWZtdC5QcmludGxuKCJzZXJ2aWNlIGF0IGRldiBtb2RlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">c3JjL2RvYy8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CuS9nOiAhe+8mkNvZGVyTWluZXIK6ZO+5o6l77yaaHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81YjRkZDczYmU1MWQ0NTE4ZWYyY2Q1NzEK5p2l5rqQ77ya5o6Y6YeRCuiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAgg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CuS9nOiAhe+8mkNvZGVyTWluZXIK6ZO+5o6l77yaaHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81YjRkZDczYmU1MWQ0NTE4ZWYyY2Q1NzEK5p2l5rqQ77ya5o6Y6YeRCuiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAgg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CgrkvZzogIXvvJpDb2Rlck1pbmVyCumTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWI0ZGQ3M2JlNTFkNDUxOGVmMmNkNTcxCuadpea6kO+8muaOmOmHkQrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgII=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkvLyDlj6botbfov5vnqIvov5DooYwgZ3JwY+acjeWKoQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyDlj6botbfov5vnqIvov5DooYwgZ3JwY+acjeWKoQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CS8vaWYgbGVuKG9zLkFyZ3MpID4gMSAmJiBvcy5BcmdzWzFdID09ICJkZXYiIHsKCS8vCWlmIGVyciA6PSBydW4oKTsgZXJyICE9IG5pbCB7CgkvLwkJZ2xvZy5GYXRhbChlcnIpCgkvLwl9CgkvL30gZWxzZSB7CgkvLwljdHgsIGNhbmNlbCA6PSBjb250ZXh0LldpdGhDYW5jZWwoY29udGV4dC5CYWNrZ3JvdW5kKCkpCgkvLwlkZWZlciBjYW5jZWwoKQoJLy8KCS8vCS8vIOWPpui1t+i/m+eoi+i/kOihjCBncnBj5pyN5YqhCgkvLwlzZXJ2ZXIuUnVuR3JwYyhjdHgsICJ0Y3AiLCAiOjUwMDUxIiwgc3J2LlNlcnZlck1hcCkKCS8vfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGdvIGdldCAtdSBnaXRodWIuY29tL2dvLXN3YWdnZXIvZ28tc3dhZ2dlci9jbWQvc3dhZ2dlcgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigic2VydmljZSBhdCBwcmQgbW9kZSIpCg==</text>
+        <text encoding="base64">ICAgIGdvIGdldCAtdSBnaXRodWIuY29tL2dvLXN3YWdnZXIvZ28tc3dhZ2dlci9jbWQvc3dhZ2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
