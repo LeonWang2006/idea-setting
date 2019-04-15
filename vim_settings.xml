@@ -3,11 +3,56 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1555317862527">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/use.md" timestamp="1555144532552">
+        <mark key="[" line="1" column="0" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/jwt.go" timestamp="1555149214505">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="13" column="48" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1554961848551">
+        <mark key="[" line="2296" column="20" />
+        <mark key="]" line="2296" column="19" />
+        <mark key="^" line="2296" column="19" />
+        <mark key="." line="2296" column="19" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555316415626">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="44" column="67" />
+        <mark key="]" line="44" column="67" />
+        <mark key="^" line="43" column="166" />
+        <mark key="." line="44" column="67" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555317723642">
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="75" column="25" />
+        <mark key="." line="75" column="25" />
+      </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/auth0/go-jwt-middleware@v0.0.0-20170425171159-5493cabe49f7/jwtmiddleware.go" timestamp="1555058399344">
         <mark key="[" line="63" column="6" />
         <mark key="]" line="63" column="5" />
         <mark key="^" line="63" column="5" />
         <mark key="." line="63" column="5" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555317110586">
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="17" column="40" />
+        <mark key="^" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1555140652529">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="26" column="42" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1555309780424">
         <mark key="[" line="25" column="0" />
@@ -20,63 +65,16 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/.gitignore" timestamp="1555309663826" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/use.md" timestamp="1555144532552">
-        <mark key="[" line="1" column="0" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555293708452">
-        <mark key="'" line="22" column="18" />
-        <mark key="[" line="44" column="73" />
-        <mark key="]" line="44" column="73" />
-        <mark key="^" line="43" column="166" />
-        <mark key="." line="44" column="73" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/jwt.go" timestamp="1555149214505">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="13" column="48" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555310593913">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555145974846">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555293858862">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="110" column="17" />
-        <mark key="." line="126" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555310319057">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1554961848551">
-        <mark key="[" line="2296" column="20" />
-        <mark key="]" line="2296" column="19" />
-        <mark key="^" line="2296" column="19" />
-        <mark key="." line="2296" column="19" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555137058826">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555316733388">
         <mark key="[" line="50" column="54" />
         <mark key="]" line="50" column="53" />
         <mark key="." line="50" column="53" />
         <mark key="^" line="50" column="53" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1555140652529">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="26" column="42" />
-        <mark key="." line="34" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -186,7 +184,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>服务网关调整</text>
+        <text>忽略 DS_Store 文件</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -195,34 +193,34 @@
         <text encoding="base64">CWZtdC5QcmludGxuKCJzZXJ2aWNlIGF0IGRldiBtb2RlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3JjL2RvYy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CuS9nOiAhe+8mkNvZGVyTWluZXIK6ZO+5o6l77yaaHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81YjRkZDczYmU1MWQ0NTE4ZWYyY2Q1NzEK5p2l5rqQ77ya5o6Y6YeRCuiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAgg==</text>
+        <text encoding="base64">CW11eC5IYW5kbGVGdW5jKCIvIiwgZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCgl9KQ==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgrkvZzogIXvvJpDb2Rlck1pbmVyCumTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWI0ZGQ3M2JlNTFkNDUxOGVmMmNkNTcxCuadpea6kO+8muaOmOmHkQrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgII=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQl3LldyaXRlKFtdYnl0ZSgie1wiaGVsbG9cIjogXCJ3b3JsZFwifSIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyDlj6botbfov5vnqIvov5DooYwgZ3JwY+acjeWKoQo=</text>
+        <text encoding="base64">CW4uVXNlKGMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3JjL2RvYy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CS8vaWYgbGVuKG9zLkFyZ3MpID4gMSAmJiBvcy5BcmdzWzFdID09ICJkZXYiIHsKCS8vCWlmIGVyciA6PSBydW4oKTsgZXJyICE9IG5pbCB7CgkvLwkJZ2xvZy5GYXRhbChlcnIpCgkvLwl9CgkvL30gZWxzZSB7CgkvLwljdHgsIGNhbmNlbCA6PSBjb250ZXh0LldpdGhDYW5jZWwoY29udGV4dC5CYWNrZ3JvdW5kKCkpCgkvLwlkZWZlciBjYW5jZWwoKQoJLy8KCS8vCS8vIOWPpui1t+i/m+eoi+i/kOihjCBncnBj5pyN5YqhCgkvLwlzZXJ2ZXIuUnVuR3JwYyhjdHgsICJ0Y3AiLCAiOjUwMDUxIiwgc3J2LlNlcnZlck1hcCkKCS8vfQ==</text>
+        <text encoding="base64">CuS9nOiAhe+8mkNvZGVyTWluZXIK6ZO+5o6l77yaaHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81YjRkZDczYmU1MWQ0NTE4ZWYyY2Q1NzEK5p2l5rqQ77ya5o6Y6YeRCuiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAgg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGdvIGdldCAtdSBnaXRodWIuY29tL2dvLXN3YWdnZXIvZ28tc3dhZ2dlci9jbWQvc3dhZ2dlcgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgrkvZzogIXvvJpDb2Rlck1pbmVyCumTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWI0ZGQ3M2JlNTFkNDUxOGVmMmNkNTcxCuadpea6kO+8muaOmOmHkQrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgII=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
