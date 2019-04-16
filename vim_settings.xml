@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1555317862527">
+      <file name="/Dummy.txt" timestamp="1555384611859">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -23,6 +23,11 @@
         <mark key="]" line="2296" column="19" />
         <mark key="^" line="2296" column="19" />
         <mark key="." line="2296" column="19" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1555385063997">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555316415626">
         <mark key="'" line="22" column="18" />
@@ -71,11 +76,21 @@
         <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1555334299293" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/README.md" timestamp="1555385472001">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555316733388">
         <mark key="[" line="50" column="54" />
         <mark key="]" line="50" column="53" />
         <mark key="." line="50" column="53" />
         <mark key="^" line="50" column="53" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1555384041671">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -185,7 +200,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>忽略 DS_Store 文件</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -199,29 +214,31 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>[submodule &quot;proto&quot;]
+	path = proto
+	url = git@git.wondershare.cn:CPStudio/WOS_PROTO_GO.git</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CW11eC5IYW5kbGVGdW5jKCIvIiwgZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCgl9KQ==</text>
+        <text encoding="base64">CnNyYy9jb25maWcvLkRTX1N0b3JlCnNyYy9wYi8uRFNfU3RvcmUKc3JjL3V0aWwvLkRTX1N0b3Jl</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl3LldyaXRlKFtdYnl0ZSgie1wiaGVsbG9cIjogXCJ3b3JsZFwifSIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW4uVXNlKGMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3JjL2RvYy8K</text>
+      <register name="6" type="4">
+        <text encoding="base64">CW11eC5IYW5kbGVGdW5jKCIvIiwgZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCgl9KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQl3LldyaXRlKFtdYnl0ZSgie1wiaGVsbG9cIjogXCJ3b3JsZFwifSIpKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CuS9nOiAhe+8mkNvZGVyTWluZXIK6ZO+5o6l77yaaHR0cHM6Ly9qdWVqaW4uaW0vcG9zdC81YjRkZDczYmU1MWQ0NTE4ZWYyY2Q1NzEK5p2l5rqQ77ya5o6Y6YeRCuiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAgg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CW4uVXNlKGMpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgrkvZzogIXvvJpDb2Rlck1pbmVyCumTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWI0ZGQ3M2JlNTFkNDUxOGVmMmNkNTcxCuadpea6kO+8muaOmOmHkQrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgII=</text>
+      <register name="9" type="2">
+        <text encoding="base64">c3JjL2RvYy8K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
