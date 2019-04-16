@@ -1,0 +1,11 @@
+<templateSet group="Go">
+  <template name="/**" value="/**&#10; * $description$&#10; * @param &#9;$params$&#10; * @return &#9;$returns$&#10; * @date&#9;$date$&#10; * @author &#9;wangfl&#10; */" description="生成注释模版" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

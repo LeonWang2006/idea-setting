@@ -33,11 +33,11 @@
         <mark key="^" line="63" column="5" />
         <mark key="." line="63" column="5" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555420250834">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="106" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555422887219">
+        <mark key="[" line="136" column="16" />
+        <mark key="]" line="137" column="18" />
+        <mark key="." line="137" column="18" />
+        <mark key="^" line="137" column="18" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555414826729">
         <mark key="[" line="4" column="18" />
@@ -215,7 +215,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyIA==</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -224,36 +224,38 @@
         <text encoding="base64">CQkJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCgkJCQlfID0ganNvbi5OZXdFbmNvZGVyKHcpLkVuY29kZShwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8g6K+35rGC6Lqr5Lu96Ym05p2D5aSE55CGCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CQkJZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdmFyIHAgPSBwYXlsb2Fke21lc3NhZ2U6Im5vdCBhdXRob3JpemVkIixzdGF0dXM6aHR0cC5TdGF0dXNVbmF1dGhvcml6ZWR9Cg==</text>
+        <text encoding="base64">LyoqCiAqIHdlbGNvbWUKICogQHBhcmFtIAkKICogQHJldHVybiAJCiAqIEBkYXRlCTIwMTktMDQtMTYKICogQGF1dGhvciAJd2FuZ2ZsCiAqLwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ci8qKgogKiAKICogQHBhcmFtIAkKICogQHJldHVybiAJCiAqIEBkYXRlCQogKiBAYXV0aG9yIAl3YW5nZmwKICov</text>
       </register>
       <register name="5" type="4">
-        <text>[submodule &quot;proto&quot;]
-	path = proto
-	url = git@git.wondershare.cn:CPStudio/WOS_PROTO_GO.git</text>
+        <text encoding="base64">Ci8qKgogKiAKICogQHBhcmFtIAkKICogQGRhdGUJMjAxOS0wNC0xNgogKiBAcmV0dXJuIAkKICogQGF1dGhvciAJd2FuZ2ZsCiAqLw==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CnNyYy9jb25maWcvLkRTX1N0b3JlCnNyYy9wYi8uRFNfU3RvcmUKc3JjL3V0aWwvLkRTX1N0b3Jl</text>
+        <text>/**
+ * 鉴权处理，支持basic与jwt鉴权，优先basic鉴权
+ * @date	2019-04-16
+ * @author 	wangfl
+ */</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGF1dGhvciAJd2FuZ2ZsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8g6K+35rGC6Lqr5Lu96Ym05p2D5aSE55CGCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CW11eC5IYW5kbGVGdW5jKCIvIiwgZnVuYyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCgl9KQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
