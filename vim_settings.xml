@@ -20,17 +20,17 @@
         <mark key="^" line="122" column="21" />
         <mark key="." line="122" column="21" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.com/gomodule/redigo@v2.0.0+incompatible/redis/redis.go" timestamp="1555482135364" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555414826729">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="3" column="13" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/gredis/redis.go" timestamp="1555480677906">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/gredis/redis.go" timestamp="1555482491368">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/README.md" timestamp="1555385472001">
         <mark key="[" line="2" column="20" />
@@ -59,7 +59,7 @@
       <file name="/Go Application.txt.ft" timestamp="1555420218087">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555335119824">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555481935077">
         <mark key="[" line="77" column="25" />
         <mark key="]" line="77" column="25" />
         <mark key="." line="77" column="25" />
@@ -191,7 +191,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XyA9IA==</text>
+        <text>interface</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -199,38 +199,38 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJXyA9IGpzb24uTmV3RW5jb2Rlcih3KS5FbmNvZGUocCkKCQkJLy9oZWxwZXIuUmVzcG9uc2VXaXRoSnNvbih3LCBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgaGVscGVyLlJlc3BvbnNle0NvZGU6IGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBNc2c6ICJub3QgYXV0aG9yaXplZCJ9KQoJCQlyZXR1cm4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCS8vaGVscGVyLlJlc3BvbnNlV2l0aEpzb24odywgaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIGhlbHBlci5SZXNwb25zZXtDb2RlOiBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgTXNnOiAibm90IGF1dGhvcml6ZWQifSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmZ1bmMgZGVmZXJDbG9zZShhIGZ1bmMoKSkgIHsKCWVyciA6PSBhLkNsb3NlKCkKCWlmIGVyciAhPSBuaWwgewoJCXJlcnIgPSBlcnIKCX0KfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCS8vaGVscGVyLlJlc3BvbnNlV2l0aEpzb24odywgaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIGhlbHBlci5SZXNwb25zZXtDb2RlOiBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgTXNnOiAibm90IGF1dGhvcml6ZWQifSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZGVjb2RlU3RyIDo9IGJhc2U2NC5kZShzcGxpdFsxXSkK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLy8gdG9kbwo=</text>
+        <text encoding="base64">CQkJZGVjb2RlU3RyIDo9IGJhc2U2NC5kZShzcGxpdFsxXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0b2tlbiwgXyA6PSBqd3QuUGFyc2UodG9rZW5TdHIsIGZ1bmModG9rZW4gKmp3dC5Ub2tlbikgKGludGVyZmFjZXt9LCBlcnJvcikgewoJCQlpZiBfLCBvayA6PSB0b2tlbi5NZXRob2QuKCpqd3QuU2lnbmluZ01ldGhvZEhNQUMpOyAhb2sgewoJCQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJCV8gPSBqc29uLk5ld0VuY29kZXIodykuRW5jb2RlKHApCgkJCQkvL2hlbHBlci5SZXNwb25zZVdpdGhKc29uKHcsIGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBoZWxwZXIuUmVzcG9uc2V7Q29kZTogaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIE1zZzogIm5vdCBhdXRob3JpemVkIn0pCgkJCQlyZXR1cm4gbmlsLCBmbXQuRXJyb3JmKCJub3QgYXV0aG9yaXphdGlvbiIpCgkJCX0KCQkJcmV0dXJuIFtdYnl0ZSgic2VjcmV0IiksIG5pbAoJCX0pCgkJaWYgIXRva2VuLlZhbGlkIHsKCQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJXyA9IGpzb24uTmV3RW5jb2Rlcih3KS5FbmNvZGUocCkKCQkJLy9oZWxwZXIuUmVzcG9uc2VXaXRoSnNvbih3LCBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgaGVscGVyLlJlc3BvbnNle0NvZGU6IGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBNc2c6ICJub3QgYXV0aG9yaXplZCJ9KQoJCX0gZWxzZSB7CgkJCW5leHQuU2VydmVIVFRQKHcsIHIpCgkJfQo=</text>
+        <text encoding="base64">CQkJLy8gdG9kbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0b2tlbiwgXyA6PSBqd3QuUGFyc2UodG9rZW5TdHIsIGZ1bmModG9rZW4gKmp3dC5Ub2tlbikgKGludGVyZmFjZXt9LCBlcnJvcikgewoJCQlpZiBfLCBvayA6PSB0b2tlbi5NZXRob2QuKCpqd3QuU2lnbmluZ01ldGhvZEhNQUMpOyAhb2sgewoJCQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJCV8gPSBqc29uLk5ld0VuY29kZXIodykuRW5jb2RlKHApCgkJCQkvL2hlbHBlci5SZXNwb25zZVdpdGhKc29uKHcsIGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBoZWxwZXIuUmVzcG9uc2V7Q29kZTogaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIE1zZzogIm5vdCBhdXRob3JpemVkIn0pCgkJCQlyZXR1cm4gbmlsLCBmbXQuRXJyb3JmKCJub3QgYXV0aG9yaXphdGlvbiIpCgkJCX0KCQkJcmV0dXJuIFtdYnl0ZSgic2VjcmV0IiksIG5pbAoJCX0pCgkJaWYgIXRva2VuLlZhbGlkIHsKCQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJXyA9IGpzb24uTmV3RW5jb2Rlcih3KS5FbmNvZGUocCkKCQkJLy9oZWxwZXIuUmVzcG9uc2VXaXRoSnNvbih3LCBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgaGVscGVyLlJlc3BvbnNle0NvZGU6IGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBNc2c6ICJub3QgYXV0aG9yaXplZCJ9KQoJCX0gZWxzZSB7CgkJCW5leHQuU2VydmVIVFRQKHcsIHIpCgkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">CQkJZGQK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">LyoqCiAqIHdlbGNvbWUKICogQHBhcmFtIAkKICogQHJldHVybiAJCiAqIEBkYXRlCTIwMTktMDQtMTYKICogQGF1dGhvciAJd2FuZ2ZsCiAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8qKgogKiAKICogQHBhcmFtIAkKICogQHJldHVybiAJCiAqIEBkYXRlCQogKiBAYXV0aG9yIAl3YW5nZmwKICov</text>
-      </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -285,9 +285,9 @@
         <entry>select</entry>
         <entry>set keep-english-in-normal</entry>
         <entry>action Find</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
         <entry>actionlist</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
