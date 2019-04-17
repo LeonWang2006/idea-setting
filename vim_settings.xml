@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/client/client.go" timestamp="1555486589164" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1555385063997">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1555505883593">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555465465998">
         <mark key="[" line="141" column="58" />
@@ -192,12 +192,23 @@
         <text encoding="base64">CQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJXyA9IGpzb24uTmV3RW5jb2Rlcih3KS5FbmNvZGUocCkKCQkJLy9oZWxwZXIuUmVzcG9uc2VXaXRoSnNvbih3LCBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgaGVscGVyLlJlc3BvbnNle0NvZGU6IGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBNc2c6ICJub3QgYXV0aG9yaXplZCJ9KQoJCQlyZXR1cm4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWEuUXJjb2RlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>[submodule &quot;WOS_PROTO_GO&quot;]
+	path = WOS_PROTO_GO
+	url = git@git.wondershare.cn:CPStudio/WOS_PROTO_GO.git</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWEuUXJjb2RlKCkK</text>
+      </register>
+      <register name="5" type="4">
         <text>/**
  * 
  * @param 	
@@ -206,26 +217,17 @@
  * @author 	wangfl
  */</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmZ1bmMgZGVmZXJDbG9zZShhIGZ1bmMoKSkgIHsKCWVyciA6PSBhLkNsb3NlKCkKCWlmIGVyciAhPSBuaWwgewoJCXJlcnIgPSBlcnIKCX0KfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCS8vaGVscGVyLlJlc3BvbnNlV2l0aEpzb24odywgaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIGhlbHBlci5SZXNwb25zZXtDb2RlOiBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgTXNnOiAibm90IGF1dGhvcml6ZWQifSkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJZGVjb2RlU3RyIDo9IGJhc2U2NC5kZShzcGxpdFsxXSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gdG9kbwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl0b2tlbiwgXyA6PSBqd3QuUGFyc2UodG9rZW5TdHIsIGZ1bmModG9rZW4gKmp3dC5Ub2tlbikgKGludGVyZmFjZXt9LCBlcnJvcikgewoJCQlpZiBfLCBvayA6PSB0b2tlbi5NZXRob2QuKCpqd3QuU2lnbmluZ01ldGhvZEhNQUMpOyAhb2sgewoJCQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJCV8gPSBqc29uLk5ld0VuY29kZXIodykuRW5jb2RlKHApCgkJCQkvL2hlbHBlci5SZXNwb25zZVdpdGhKc29uKHcsIGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBoZWxwZXIuUmVzcG9uc2V7Q29kZTogaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIE1zZzogIm5vdCBhdXRob3JpemVkIn0pCgkJCQlyZXR1cm4gbmlsLCBmbXQuRXJyb3JmKCJub3QgYXV0aG9yaXphdGlvbiIpCgkJCX0KCQkJcmV0dXJuIFtdYnl0ZSgic2VjcmV0IiksIG5pbAoJCX0pCgkJaWYgIXRva2VuLlZhbGlkIHsKCQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJXyA9IGpzb24uTmV3RW5jb2Rlcih3KS5FbmNvZGUocCkKCQkJLy9oZWxwZXIuUmVzcG9uc2VXaXRoSnNvbih3LCBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgaGVscGVyLlJlc3BvbnNle0NvZGU6IGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBNc2c6ICJub3QgYXV0aG9yaXplZCJ9KQoJCX0gZWxzZSB7CgkJCW5leHQuU2VydmVIVFRQKHcsIHIpCgkJfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGVjb2RlU3RyIDo9IGJhc2U2NC5kZShzcGxpdFsxXSkK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
