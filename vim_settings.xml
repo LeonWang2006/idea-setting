@@ -33,11 +33,11 @@
         <mark key="^" line="63" column="5" />
         <mark key="." line="63" column="5" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555463497172">
-        <mark key="[" line="139" column="13" />
-        <mark key="]" line="136" column="91" />
-        <mark key="." line="136" column="91" />
-        <mark key="^" line="136" column="91" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555465465998">
+        <mark key="[" line="141" column="58" />
+        <mark key="]" line="141" column="56" />
+        <mark key="." line="141" column="56" />
+        <mark key="^" line="141" column="56" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555414826729">
         <mark key="[" line="4" column="18" />
@@ -215,7 +215,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>string(decodeBytes)</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
