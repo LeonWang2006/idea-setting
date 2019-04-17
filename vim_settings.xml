@@ -33,11 +33,11 @@
         <mark key="^" line="63" column="5" />
         <mark key="." line="63" column="5" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555422887219">
-        <mark key="[" line="136" column="16" />
-        <mark key="]" line="137" column="18" />
-        <mark key="." line="137" column="18" />
-        <mark key="^" line="137" column="18" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555459128316">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="139" column="8" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555414826729">
         <mark key="[" line="4" column="18" />
@@ -224,38 +224,38 @@
         <text encoding="base64">CQkJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCgkJCQlfID0ganNvbi5OZXdFbmNvZGVyKHcpLkVuY29kZShwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy8gdG9kbwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZGQK</text>
+        <text encoding="base64">CQl0b2tlbiwgXyA6PSBqd3QuUGFyc2UodG9rZW5TdHIsIGZ1bmModG9rZW4gKmp3dC5Ub2tlbikgKGludGVyZmFjZXt9LCBlcnJvcikgewoJCQlpZiBfLCBvayA6PSB0b2tlbi5NZXRob2QuKCpqd3QuU2lnbmluZ01ldGhvZEhNQUMpOyAhb2sgewoJCQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJCV8gPSBqc29uLk5ld0VuY29kZXIodykuRW5jb2RlKHApCgkJCQkvL2hlbHBlci5SZXNwb25zZVdpdGhKc29uKHcsIGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBoZWxwZXIuUmVzcG9uc2V7Q29kZTogaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIE1zZzogIm5vdCBhdXRob3JpemVkIn0pCgkJCQlyZXR1cm4gbmlsLCBmbXQuRXJyb3JmKCJub3QgYXV0aG9yaXphdGlvbiIpCgkJCX0KCQkJcmV0dXJuIFtdYnl0ZSgic2VjcmV0IiksIG5pbAoJCX0pCgkJaWYgIXRva2VuLlZhbGlkIHsKCQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJXyA9IGpzb24uTmV3RW5jb2Rlcih3KS5FbmNvZGUocCkKCQkJLy9oZWxwZXIuUmVzcG9uc2VXaXRoSnNvbih3LCBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgaGVscGVyLlJlc3BvbnNle0NvZGU6IGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBNc2c6ICJub3QgYXV0aG9yaXplZCJ9KQoJCX0gZWxzZSB7CgkJCW5leHQuU2VydmVIVFRQKHcsIHIpCgkJfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZGQK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">LyoqCiAqIHdlbGNvbWUKICogQHBhcmFtIAkKICogQHJldHVybiAJCiAqIEBkYXRlCTIwMTktMDQtMTYKICogQGF1dGhvciAJd2FuZ2ZsCiAqLwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ci8qKgogKiAKICogQHBhcmFtIAkKICogQHJldHVybiAJCiAqIEBkYXRlCQogKiBAYXV0aG9yIAl3YW5nZmwKICov</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Ci8qKgogKiAKICogQHBhcmFtIAkKICogQGRhdGUJMjAxOS0wNC0xNgogKiBAcmV0dXJuIAkKICogQGF1dGhvciAJd2FuZ2ZsCiAqLw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>/**
  * 鉴权处理，支持basic与jwt鉴权，优先basic鉴权
  * @date	2019-04-16
  * @author 	wangfl
  */</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQGF1dGhvciAJd2FuZ2ZsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8g6K+35rGC6Lqr5Lu96Ym05p2D5aSE55CGCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICogQGF1dGhvciAJd2FuZ2ZsCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
