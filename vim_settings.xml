@@ -5,9 +5,9 @@
     <filemarks>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/client/client.go" timestamp="1555486589164" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1555505883593">
-        <mark key="[" line="2" column="58" />
-        <mark key="]" line="2" column="58" />
-        <mark key="." line="2" column="58" />
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="58" />
+        <mark key="." line="0" column="58" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555552307412">
         <mark key="[" line="144" column="31" />
@@ -29,9 +29,9 @@
         <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/gredis/redis.go" timestamp="1555482491368">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/README.md" timestamp="1555385472001">
         <mark key="[" line="2" column="20" />
@@ -39,22 +39,16 @@
         <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555316733388">
-        <mark key="[" line="51" column="54" />
-        <mark key="]" line="51" column="53" />
-        <mark key="." line="51" column="53" />
-        <mark key="^" line="51" column="53" />
+        <mark key="[" line="54" column="54" />
+        <mark key="]" line="54" column="53" />
+        <mark key="." line="54" column="53" />
+        <mark key="^" line="54" column="53" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1555384041671">
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555506303350">
+      <file name="/Dummy.txt" timestamp="1555572638729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/go.mod" timestamp="1555547960041" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555481935077">
         <mark key="[" line="77" column="25" />
         <mark key="]" line="77" column="25" />
@@ -190,7 +184,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XywgXyA=</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -199,7 +193,7 @@
         <text encoding="base64">CQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJXyA9IGpzb24uTmV3RW5jb2Rlcih3KS5FbmNvZGUocCkKCQkJLy9oZWxwZXIuUmVzcG9uc2VXaXRoSnNvbih3LCBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgaGVscGVyLlJlc3BvbnNle0NvZGU6IGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBNc2c6ICJub3QgYXV0aG9yaXplZCJ9KQoJCQlyZXR1cm4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3JjL2NvbmZpZy8uRFNfU3RvcmUKc3JjL3BiLy5EU19TdG9yZQpzcmMvdXRpbC8uRFNfU3RvcmUK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -207,15 +201,18 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>[submodule &quot;WOS_PROTO_GO&quot;]
 	path = WOS_PROTO_GO
 	url = git@git.wondershare.cn:CPStudio/WOS_PROTO_GO.git</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CWEuUXJjb2RlKCkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
  * 
  * @param 	
@@ -224,17 +221,14 @@
  * @author 	wangfl
  */</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CmZ1bmMgZGVmZXJDbG9zZShhIGZ1bmMoKSkgIHsKCWVyciA6PSBhLkNsb3NlKCkKCWlmIGVyciAhPSBuaWwgewoJCXJlcnIgPSBlcnIKCX0KfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCS8vaGVscGVyLlJlc3BvbnNlV2l0aEpzb24odywgaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIGhlbHBlci5SZXNwb25zZXtDb2RlOiBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgTXNnOiAibm90IGF1dGhvcml6ZWQifSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZGVjb2RlU3RyIDo9IGJhc2U2NC5kZShzcGxpdFsxXSkK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
