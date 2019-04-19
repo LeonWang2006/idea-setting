@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1555659869252" />
+      <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1555680220611" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1555505883593">
         <mark key="[" line="0" column="58" />
         <mark key="]" line="0" column="58" />
@@ -16,7 +16,7 @@
         <mark key="^" line="17" column="102" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/auth0/go-jwt-middleware@v0.0.0-20170425171159-5493cabe49f7/jwtmiddleware.go" timestamp="1555673250368" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555663786102">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555679720103">
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
         <mark key="^" line="149" column="23" />
@@ -66,10 +66,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1555663635067">
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555676524559">
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="104" column="18" />
-        <mark key="." line="104" column="18" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555680276232">
+        <mark key="[" line="69" column="21" />
+        <mark key="]" line="71" column="51" />
+        <mark key="." line="71" column="51" />
+        <mark key="^" line="71" column="49" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/publicService.go" timestamp="1555486857808">
         <mark key="[" line="23" column="0" />
@@ -211,13 +212,13 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>忽略 mac DS_Store 文件</text>
+        <text>HandlerWithNext</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWxvZy5GYXRhbGYoImNvdWxkIG5vdCBncmVldDogJXYiLCBlcnIpCgkJCQlyZXR1cm4K</text>
+        <text encoding="base64">CS8vbi5Vc2UobmVncm9uaS5IYW5kbGVyRnVuYyhqd3RNaWRkbGV3YXJlLkhhbmRsZXJXaXRoTmV4dCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
