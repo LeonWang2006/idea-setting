@@ -26,12 +26,14 @@
         <mark key="]" line="153" column="8" />
         <mark key="." line="153" column="8" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1555663216326" />
       <file name="$USER_HOME$/go/pkg/mod/github.com/gomodule/redigo@v2.0.0+incompatible/redis/pool.go" timestamp="1555473367151">
         <mark key="[" line="122" column="22" />
         <mark key="]" line="122" column="21" />
         <mark key="^" line="122" column="21" />
         <mark key="." line="122" column="21" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1555666269903">
+        <mark key="[" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555641716602">
         <mark key="[" line="4" column="18" />
@@ -55,10 +57,15 @@
         <mark key="." line="55" column="53" />
         <mark key="^" line="55" column="53" />
       </file>
+      <file name="/Dummy.txt" timestamp="1555666199848">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1555663635067">
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555662975681">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555665504047">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="104" column="18" />
         <mark key="." line="104" column="18" />
@@ -78,7 +85,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555661515591">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555666240909">
         <mark key="[" line="35" column="33" />
         <mark key="]" line="21" column="204" />
         <mark key="." line="21" column="102" />
@@ -203,7 +210,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JnNlcnZpY2UuT2FTZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJPYVNlcnZlciwg</text>
+        <text>忽略 mac DS_Store 文件</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
