@@ -3,17 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/client/client.go" timestamp="1555486589164" />
+      <file name="/Dummy.txt" timestamp="1555577982711">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1555505883593">
         <mark key="[" line="0" column="58" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555552307412">
-        <mark key="[" line="144" column="31" />
-        <mark key="]" line="145" column="64" />
-        <mark key="." line="145" column="64" />
-        <mark key="^" line="145" column="64" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555481935077">
+        <mark key="[" line="77" column="25" />
+        <mark key="]" line="77" column="25" />
+        <mark key="." line="77" column="25" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/publicService.go" timestamp="1555486857808">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555636209446">
+        <mark key="[" line="145" column="31" />
+        <mark key="]" line="146" column="64" />
+        <mark key="." line="146" column="64" />
+        <mark key="^" line="146" column="64" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1555309780424">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/gomodule/redigo@v2.0.0+incompatible/redis/pool.go" timestamp="1555473367151">
         <mark key="[" line="122" column="22" />
@@ -21,13 +40,18 @@
         <mark key="^" line="122" column="21" />
         <mark key="." line="122" column="21" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/github.com/gomodule/redigo@v2.0.0+incompatible/redis/redis.go" timestamp="1555482135364" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555507762009">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555414826729">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="3" column="13" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1555636204060" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/gredis/redis.go" timestamp="1555482491368">
         <mark key="[" line="183" column="0" />
         <mark key="]" line="183" column="0" />
@@ -44,38 +68,6 @@
         <mark key="." line="54" column="53" />
         <mark key="^" line="54" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555577982711">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555481935077">
-        <mark key="[" line="77" column="25" />
-        <mark key="]" line="77" column="25" />
-        <mark key="." line="77" column="25" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/publicService.go" timestamp="1555486857808">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1555309780424">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/gredis/redis.go" timestamp="1555549913004" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/app.proto" timestamp="1555414797855" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/personService.go" timestamp="1555550083860" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555507762009">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1555334299293" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/client/client.go" timestamp="1555552278814" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/meetingService.go" timestamp="1555503892130" />
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1555470266206" />
     </filemarks>
     <jumps>
       <jump line="8" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -267,8 +259,6 @@
         <entry>avatar</entry>
       </history-search>
       <history-cmd>
-        <entry>634</entry>
-        <entry>%s/`user`.//g</entry>
         <entry>%.,2s/`user`.//g</entry>
         <entry>dis</entry>
         <entry>id</entry>
