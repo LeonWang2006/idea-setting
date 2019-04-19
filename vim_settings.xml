@@ -8,26 +8,27 @@
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555640608461">
-        <mark key="[" line="44" column="71" />
-        <mark key="]" line="44" column="71" />
-        <mark key="." line="44" column="71" />
-        <mark key="^" line="37" column="74" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555641372702">
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="66" />
+        <mark key="." line="32" column="66" />
+        <mark key="^" line="32" column="66" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555639148492">
-        <mark key="[" line="146" column="31" />
-        <mark key="]" line="147" column="64" />
-        <mark key="." line="147" column="64" />
-        <mark key="^" line="147" column="64" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555642731696">
+        <mark key="[" line="151" column="17" />
+        <mark key="]" line="151" column="23" />
+        <mark key="." line="151" column="23" />
+        <mark key="^" line="151" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1555640322182" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1555641416612" />
       <file name="$USER_HOME$/go/pkg/mod/github.com/gomodule/redigo@v2.0.0+incompatible/redis/pool.go" timestamp="1555473367151">
         <mark key="[" line="122" column="22" />
         <mark key="]" line="122" column="21" />
         <mark key="^" line="122" column="21" />
         <mark key="." line="122" column="21" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555414826729">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/account.pb.go" timestamp="1555642417283" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555641716602">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="3" column="13" />
@@ -76,6 +77,7 @@
         <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1555636204060" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/client/client.go" timestamp="1555641585141" />
     </filemarks>
     <jumps>
       <jump line="8" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -184,51 +186,46 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICZzZXJ2aWNlLlRvZG9TZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJUb2RvU2VydmVyLCA=</text>
+        <text>移到下一个拦截点</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCQkJXyA9IGpzb24uTmV3RW5jb2Rlcih3KS5FbmNvZGUocCkKCQkJLy9oZWxwZXIuUmVzcG9uc2VXaXRoSnNvbih3LCBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgaGVscGVyLlJlc3BvbnNle0NvZGU6IGh0dHAuU3RhdHVzVW5hdXRob3JpemVkLCBNc2c6ICJub3QgYXV0aG9yaXplZCJ9KQoJCQlyZXR1cm4K</text>
+        <text encoding="base64">CQkJCWxvZy5GYXRhbGYoImNvdWxkIG5vdCBncmVldDogJXYiLCBlcnIpCgkJCQlyZXR1cm4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3JjL2NvbmZpZy8uRFNfU3RvcmUKc3JjL3BiLy5EU19TdG9yZQpzcmMvdXRpbC8uRFNfU3RvcmUK</text>
+        <text encoding="base64">CQkJLy8vLyDmoKHpqozmiJDlip/lk40K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>应
+			//w.Header().Set(&quot;Content-Type&quot;, &quot;application/json&quot;)
+			//p = payload{message:&quot;success&quot;,status:http.StatusOK,data:response.Data}
+			//_ = json.NewEncoder(w).Encode(p)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCW5leHQuU2VydmVIVFRQKHcscikK</text>
       </register>
-      <register name="4" type="4">
-        <text>[submodule &quot;WOS_PROTO_GO&quot;]
-	path = WOS_PROTO_GO
-	url = git@git.wondershare.cn:CPStudio/WOS_PROTO_GO.git</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWEuUXJjb2RlKCkK</text>
+        <text encoding="base64">CQkJCQl3LkhlYWRlcigpLlNldCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
- * 
- * @param 	
- * @return 	
- * @date	2019-04-17
- * @author 	wangfl
- */</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmZ1bmMgZGVmZXJDbG9zZShhIGZ1bmMoKSkgIHsKCWVyciA6PSBhLkNsb3NlKCkKCWlmIGVyciAhPSBuaWwgewoJCXJlcnIgPSBlcnIKCX0KfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vaGVscGVyLlJlc3BvbnNlV2l0aEpzb24odywgaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIGhlbHBlci5SZXNwb25zZXtDb2RlOiBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgTXNnOiAibm90IGF1dGhvcml6ZWQifSkK</text>
+        <text encoding="base64">CQkJZm10LlByaW50ZigibWVzc2FnZTogJXYiLCByLkRhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJPSBncmVkaXMuR1JlZGlzLlNlbGVjdERiKCJocnMiKS5HZXQoInVzZXIiICsgdXNlcm5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
