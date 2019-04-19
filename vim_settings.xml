@@ -61,10 +61,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555481935077">
-        <mark key="[" line="77" column="25" />
-        <mark key="]" line="77" column="25" />
-        <mark key="." line="77" column="25" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555659440276">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="104" column="18" />
+        <mark key="." line="104" column="18" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/publicService.go" timestamp="1555486857808">
         <mark key="[" line="23" column="0" />
@@ -192,7 +192,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>gwOpts</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -201,37 +201,37 @@
         <text encoding="base64">CQkJCWxvZy5GYXRhbGYoImNvdWxkIG5vdCBncmVldDogJXYiLCBlcnIpCgkJCQlyZXR1cm4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8vLyDmoKHpqozmiJDlip/lk40K</text>
+        <text encoding="base64">CWd3T3B0cyA9IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkJLy8vLyDmoKHpqozmiJDlip/lk40K</text>
+      </register>
+      <register name="3" type="4">
         <text>应
 			//w.Header().Set(&quot;Content-Type&quot;, &quot;application/json&quot;)
 			//p = payload{message:&quot;success&quot;,status:http.StatusOK,data:response.Data}
 			//_ = json.NewEncoder(w).Encode(p)</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCW5leHQuU2VydmVIVFRQKHcscikK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQl3LkhlYWRlcigpLlNldCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQo=</text>
+        <text encoding="base64">CQkJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCg==</text>
+        <text encoding="base64">CQkJCQl3LkhlYWRlcigpLlNldCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikK</text>
+        <text encoding="base64">CQkJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50ZigibWVzc2FnZTogJXYiLCByLkRhdGEpCg==</text>
+        <text encoding="base64">CQkJdy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJPSBncmVkaXMuR1JlZGlzLlNlbGVjdERiKCJocnMiKS5HZXQoInVzZXIiICsgdXNlcm5hbWUpCg==</text>
+        <text encoding="base64">CQkJZm10LlByaW50ZigibWVzc2FnZTogJXYiLCByLkRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
