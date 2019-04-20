@@ -34,10 +34,10 @@
         <mark key="." line="11" column="57" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1555744712604" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1555743256404">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1555752257187">
+        <mark key="[" line="53" column="46" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/gredis/redis.go" timestamp="1555482491368">
         <mark key="[" line="183" column="0" />
@@ -84,10 +84,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555748144586">
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="41" />
-        <mark key="." line="24" column="41" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555752432513">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/app.pb.go" timestamp="1555744698968" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1555742955750">
@@ -215,42 +215,40 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vbi5Vc2UobmVncm9uaS5IYW5kbGVyRnVuYyhqd3RNaWRkbGV3YXJlLkhhbmRsZXJXaXRoTmV4dCkpCg==</text>
+        <text encoding="base64">CWdvIHNlcnZlci5SdW5HcnBjKGN0eCwgInRjcCIsICI6NTAwNTkiLCBzcnYuU2VydmVyTWFwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIGFwcEVyciA6PSBnZXREQkNvbm4oY29uZmlnLCBBcHBEQikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUFwcERCLkRCKCkuU2V0TWF4T3BlbkNvbm5zKDUpCg==</text>
+        <text encoding="base64">CWZsYWcgOj0gb3MuQXJnc1sxXQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ly8gdHlwZSBzZXJ2aWNlIGludGVyZmFjZXt9Ci8vIHR5cGUgU2VydmljZUxpc3QgW11zZXJ2aWNlCnZhciBnd09wdHMgPSBbXXJ1bnRpbWUuU2VydmVNdXhPcHRpb257CglydW50aW1lLldpdGhJbmNvbWluZ0hlYWRlck1hdGNoZXIocnVudGltZS5EZWZhdWx0SGVhZGVyTWF0Y2hlciksCglydW50aW1lLldpdGhNYXJzaGFsZXJPcHRpb24ocnVudGltZS5NSU1FV2lsZGNhcmQsICZydW50aW1lLkpTT05QYntPcmlnTmFtZTogdHJ1ZSwgRW1pdERlZmF1bHRzOiB0cnVlfSksCn0=</text>
+        <text encoding="base64">CWlmIG9zLkFyZ3NbMV0gIT0gbmlsIHsKCQkKCX0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIGVycgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gc2VydmVyLlJ1bkdycGMoY3R4KQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>var (
-	profile = flag.String(&quot;profile&quot;, &quot;dev&quot;, &quot;boot http server and listen grpc server&quot;)
-)</text>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vIGFwcEVyciA6PSBnZXREQkNvbm4oY29uZmlnLCBBcHBEQikK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CWlmICpwcm9maWxlID09ICJkZXYiIHsKCQlpZiBlcnIgOj0gcnVuKCk7IGVyciAhPSBuaWwgewoJCQlnbG9nLkZhdGFsKGVycikKCQl9Cgl9</text>
+      <register name="7" type="2">
+        <text encoding="base64">CUFwcERCLkRCKCkuU2V0TWF4T3BlbkNvbm5zKDUpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gdHlwZSBzZXJ2aWNlIGludGVyZmFjZXt9Ci8vIHR5cGUgU2VydmljZUxpc3QgW11zZXJ2aWNlCnZhciBnd09wdHMgPSBbXXJ1bnRpbWUuU2VydmVNdXhPcHRpb257CglydW50aW1lLldpdGhJbmNvbWluZ0hlYWRlck1hdGNoZXIocnVudGltZS5EZWZhdWx0SGVhZGVyTWF0Y2hlciksCglydW50aW1lLldpdGhNYXJzaGFsZXJPcHRpb24ocnVudGltZS5NSU1FV2lsZGNhcmQsICZydW50aW1lLkpTT05QYntPcmlnTmFtZTogdHJ1ZSwgRW1pdERlZmF1bHRzOiB0cnVlfSksCn0=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
