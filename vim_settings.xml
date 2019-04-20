@@ -49,7 +49,7 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555744837142">
+      <file name="/Dummy.txt" timestamp="1555748175471">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -79,7 +79,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555744843331">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555748144586">
         <mark key="[" line="24" column="40" />
         <mark key="]" line="24" column="41" />
         <mark key="." line="24" column="41" />
@@ -89,6 +89,12 @@
         <mark key="[" line="7" column="34" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1555748204505">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="32" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1555664036070">
         <mark key="[" line="7" column="33" />
@@ -212,37 +218,37 @@
       <register name="0" type="2">
         <text encoding="base64">CS8vbi5Vc2UobmVncm9uaS5IYW5kbGVyRnVuYyhqd3RNaWRkbGV3YXJlLkhhbmRsZXJXaXRoTmV4dCkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gdHlwZSBzZXJ2aWNlIGludGVyZmFjZXt9Ci8vIHR5cGUgU2VydmljZUxpc3QgW11zZXJ2aWNlCnZhciBnd09wdHMgPSBbXXJ1bnRpbWUuU2VydmVNdXhPcHRpb257CglydW50aW1lLldpdGhJbmNvbWluZ0hlYWRlck1hdGNoZXIocnVudGltZS5EZWZhdWx0SGVhZGVyTWF0Y2hlciksCglydW50aW1lLldpdGhNYXJzaGFsZXJPcHRpb24ocnVudGltZS5NSU1FV2lsZGNhcmQsICZydW50aW1lLkpTT05QYntPcmlnTmFtZTogdHJ1ZSwgRW1pdERlZmF1bHRzOiB0cnVlfSksCn0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CS8vIGFwcEVyciA6PSBnZXREQkNvbm4oY29uZmlnLCBBcHBEQikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CUFwcERCLkRCKCkuU2V0TWF4T3BlbkNvbm5zKDUpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gdHlwZSBzZXJ2aWNlIGludGVyZmFjZXt9Ci8vIHR5cGUgU2VydmljZUxpc3QgW11zZXJ2aWNlCnZhciBnd09wdHMgPSBbXXJ1bnRpbWUuU2VydmVNdXhPcHRpb257CglydW50aW1lLldpdGhJbmNvbWluZ0hlYWRlck1hdGNoZXIocnVudGltZS5EZWZhdWx0SGVhZGVyTWF0Y2hlciksCglydW50aW1lLldpdGhNYXJzaGFsZXJPcHRpb24ocnVudGltZS5NSU1FV2lsZGNhcmQsICZydW50aW1lLkpTT05QYntPcmlnTmFtZTogdHJ1ZSwgRW1pdERlZmF1bHRzOiB0cnVlfSksCn0=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>var (
 	profile = flag.String(&quot;profile&quot;, &quot;dev&quot;, &quot;boot http server and listen grpc server&quot;)
 )</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CWlmICpwcm9maWxlID09ICJkZXYiIHsKCQlpZiBlcnIgOj0gcnVuKCk7IGVyciAhPSBuaWwgewoJCQlnbG9nLkZhdGFsKGVycikKCQl9Cgl9</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZnVuYyBXZWxjb21lKHcgaHR0cC5SZXNwb25zZVdyaXRlciwgciAqaHR0cC5SZXF1ZXN0KSB7CgkvLyBXZSBjYW4gb2J0YWluIHRoZSBzZXNzaW9uIHRva2VuIGZyb20gdGhlIHJlcXVlc3RzIGNvb2tpZXMsIHdoaWNoIGNvbWUgd2l0aCBldmVyeSByZXF1ZXN0CgljLCBlcnIgOj0gci5Db29raWUoInRva2VuIikKCWlmIGVyciAhPSBuaWwgewoJCWlmIGVyciA9PSBodHRwLkVyck5vQ29va2llIHsKCQkJLy8gSWYgdGhlIGNvb2tpZSBpcyBub3Qgc2V0LCByZXR1cm4gYW4gdW5hdXRob3JpemVkIHN0YXR1cwoJCQl3LldyaXRlSGVhZGVyKGh0dHAuU3RhdHVzVW5hdXRob3JpemVkKQoJCQlyZXR1cm4KCQl9CgkJLy8gRm9yIGFueSBvdGhlciB0eXBlIG9mIGVycm9yLCByZXR1cm4gYSBiYWQgcmVxdWVzdCBzdGF0dXMKCQl3LldyaXRlSGVhZGVyKGh0dHAuU3RhdHVzQmFkUmVxdWVzdCkKCQlyZXR1cm4KCX0KCgkvLyBHZXQgdGhlIEpXVCBzdHJpbmcgZnJvbSB0aGUgY29va2llCgl0a25TdHIgOj0gYy5WYWx1ZQoKCS8vIEluaXRpYWxpemUgYSBuZXcgaW5zdGFuY2Ugb2YgYENsYWltc2AKCWNsYWltcyA6PSAmQ2xhaW1ze30KCgkvLyBQYXJzZSB0aGUgSldUIHN0cmluZyBhbmQgc3RvcmUgdGhlIHJlc3VsdCBpbiBgY2xhaW1zYC4KCS8vIE5vdGUgdGhhdCB3ZSBhcmUgcGFzc2luZyB0aGUga2V5IGluIHRoaXMgbWV0aG9kIGFzIHdlbGwuIFRoaXMgbWV0aG9kIHdpbGwgcmV0dXJuIGFuIGVycm9yCgkvLyBpZiB0aGUgdG9rZW4gaXMgaW52YWxpZCAoaWYgaXQgaGFzIGV4cGlyZWQgYWNjb3JkaW5nIHRvIHRoZSBleHBpcnkgdGltZSB3ZSBzZXQgb24gc2lnbiBpbiksCgkvLyBvciBpZiB0aGUgc2lnbmF0dXJlIGRvZXMgbm90IG1hdGNoCgl0a24sIGVyciA6PSBqd3QuUGFyc2VXaXRoQ2xhaW1zKHRrblN0ciwgY2xhaW1zLCBmdW5jKHRva2VuICpqd3QuVG9rZW4pIChpbnRlcmZhY2V7fSwgZXJyb3IpIHsKCQlyZXR1cm4gand0S2V5LCBuaWwKCX0pCglpZiAhdGtuLlZhbGlkIHsKCQl3LldyaXRlSGVhZGVyKGh0dHAuU3RhdHVzVW5hdXRob3JpemVkKQoJCXJldHVybgoJfQoJaWYgZXJyICE9IG5pbCB7CgkJaWYgZXJyID09IGp3dC5FcnJTaWduYXR1cmVJbnZhbGlkIHsKCQkJdy5Xcml0ZUhlYWRlcihodHRwLlN0YXR1c1VuYXV0aG9yaXplZCkKCQkJcmV0dXJuCgkJfQoJCXcuV3JpdGVIZWFkZXIoaHR0cC5TdGF0dXNCYWRSZXF1ZXN0KQoJCXJldHVybgoJfQoKCS8vIEZpbmFsbHksIHJldHVybiB0aGUgd2VsY29tZSBtZXNzYWdlIHRvIHRoZSB1c2VyLCBhbG9uZyB3aXRoIHRoZWlyCgkvLyB1c2VybmFtZSBnaXZlbiBpbiB0aGUgdG9rZW4KCXcuV3JpdGUoW11ieXRlKGZtdC5TcHJpbnRmKCJXZWxjb21lICVzISIsIGNsYWltcy5Vc2VybmFtZSkpKQp9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3JjL3NlcnZpY2UvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
