@@ -12,11 +12,11 @@
         <mark key="^" line="17" column="102" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/auth0/go-jwt-middleware@v0.0.0-20170425171159-5493cabe49f7/jwtmiddleware.go" timestamp="1555673250368" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555919350311">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/handlers.go" timestamp="1555923998567">
+        <mark key="[" line="199" column="1" />
+        <mark key="]" line="282" column="0" />
         <mark key="^" line="149" column="23" />
-        <mark key="." line="200" column="0" />
+        <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1555912800923">
         <mark key="[" line="15" column="92" />
@@ -36,11 +36,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/go.mod" timestamp="1555750055518" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555918825288">
-        <mark key="[" line="111" column="17" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="115" column="57" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555924031240">
+        <mark key="[" line="78" column="50" />
+        <mark key="]" line="78" column="50" />
+        <mark key="^" line="78" column="29" />
+        <mark key="." line="78" column="50" />
       </file>
       <file name="/fragment.go" timestamp="1555913657175">
         <mark key="[" line="0" column="0" />
@@ -186,7 +186,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>os.Args[1]</text>
+        <text>(mux)</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -195,19 +195,19 @@
         <text encoding="base64">CWdvIHNlcnZlci5SdW5HcnBjKGN0eCwgInRjcCIsICI6NTAwNTkiLCBzcnYuU2VydmVyTWFwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW4uVXNlKGdhdGV3YXkuQXV0aEhhbmRsZXIobXV4KSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -216,13 +216,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIEFkZHIgaXMgdGhlIGFkZHJlc3MgdG8gbGlzdGVuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CS8vIFN3YWdnZXJEaXIgaXMgYSBwYXRoIHRvIGEgZGlyZWN0b3J5IGZyb20gd2hpY2ggdGhlIHNlcnZlcgoJLy8gc2VydmVzIHN3YWdnZXIgc3BlY3Mu</text>
+      <register name="8" type="2">
+        <text encoding="base64">CS8vIEFkZHIgaXMgdGhlIGFkZHJlc3MgdG8gbGlzdGVuCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
