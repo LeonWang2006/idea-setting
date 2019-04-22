@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1555743073786" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1555930390903">
+        <mark key="[" line="34" column="5" />
+      </file>
       <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1555680220611" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555900702435">
         <mark key="[" line="17" column="103" />
@@ -76,21 +78,23 @@
         <mark key="^" line="98" column="6" />
         <mark key="." line="98" column="6" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555918204551">
-        <mark key="[" line="55" column="60" />
-        <mark key="]" line="55" column="60" />
-        <mark key="." line="55" column="60" />
-        <mark key="^" line="29" column="33" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555932043587">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="42" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1555915160095">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1555932647485">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="13" />
         <mark key="^" line="5" column="6" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/app.pb.go" timestamp="1555901693249" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-prd.go" timestamp="1555915151239">
-        <mark key="[" line="3" column="12" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-prd.go" timestamp="1555932616075">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1555900710490" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/client/client.go" timestamp="1555927139086" />
@@ -103,10 +107,10 @@
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1555912792351">
         <mark key="[" line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1555915184246">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1555932312343">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -216,27 +220,30 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>grpc-port</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvZ3M6IHJwYy1vZ3Mud29uZGVyc2hhcmUuY246NTAwNTEK</text>
+        <text encoding="base64">CWdycGNQb3J0ID0gZmxhZy5TdHJpbmcoImdycGMtcG9ydCIsIGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJzZXJ2ZXIuZ3JwYyIpLCAibGlzdGVuaW5nIGdycGMgcG9ydCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWh0dHBQb3J0ID0gZmxhZy5TdHJpbmcoImh0dHAtcG9ydCIsY29uZmlnLlZpcC5HZXRTdHJpbmcoInNlcnZlci5ncnBjIiksImxpc3RlbmluZyBodHRwIHBvcnQiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8vIHByZWZsaWdodEhhbmRsZXIgYWRkcyB0aGUgbmVjZXNzYXJ5IGhlYWRlcnMgaW4gb3JkZXIgdG8gc2VydmUKLy8gQ09SUyBmcm9tIGFueSBvcmlnaW4gdXNpbmcgdGhlIG1ldGhvZHMgIkdFVCIsICJIRUFEIiwgIlBPU1QiLCAiUFVUIiwgIkRFTEVURSIKLy8gV2UgaW5zaXN0LCBkb24ndCBkbyB0aGlzIHdpdGhvdXQgY29uc2lkZXJhdGlvbiBpbiBwcm9kdWN0aW9uIHN5c3RlbXMuCmZ1bmMgcHJlZmxpZ2h0SGFuZGxlcih3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJaGVhZGVycyA6PSBbXXN0cmluZ3siQ29udGVudC1UeXBlIiwgIkFjY2VwdCJ9Cgl3LkhlYWRlcigpLlNldCgiQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycyIsIHN0cmluZ3MuSm9pbihoZWFkZXJzLCAiLCIpKQoJbWV0aG9kcyA6PSBbXXN0cmluZ3siR0VUIiwgIkhFQUQiLCAiUE9TVCIsICJQVVQiLCAiREVMRVRFIn0KCXcuSGVhZGVyKCkuU2V0KCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzIiwgc3RyaW5ncy5Kb2luKG1ldGhvZHMsICIsIikpCglnbG9nLkluZm9mKCJwcmVmbGlnaHQgcmVxdWVzdCBmb3IgJXMiLCByLlVSTC5QYXRoKQp9</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ly8gYWxsb3dDT1JTIGFsbG93cyBDcm9zcyBPcmlnaW4gUmVzb3J1Y2UgU2hhcmluZyBmcm9tIGFueSBvcmlnaW4uCi8vIERvbid0IGRvIHRoaXMgd2l0aG91dCBjb25zaWRlcmF0aW9uIGluIHByb2R1Y3Rpb24gc3lzdGVtcy4KZnVuYyBhbGxvd0NPUlMoaCBodHRwLkhhbmRsZXIpIGh0dHAuSGFuZGxlciB7CglyZXR1cm4gaHR0cC5IYW5kbGVyRnVuYyhmdW5jKHcgaHR0cC5SZXNwb25zZVdyaXRlciwgciAqaHR0cC5SZXF1ZXN0KSB7CgkJaWYgb3JpZ2luIDo9IHIuSGVhZGVyLkdldCgiT3JpZ2luIik7IG9yaWdpbiAhPSAiIiB7CgkJCXcuSGVhZGVyKCkuU2V0KCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4iLCBvcmlnaW4pCgkJCWlmIHIuTWV0aG9kID09ICJPUFRJT05TIiAmJiByLkhlYWRlci5HZXQoIkFjY2Vzcy1Db250cm9sLVJlcXVlc3QtTWV0aG9kIikgIT0gIiIgewoJCQkJcHJlZmxpZ2h0SGFuZGxlcih3LCByKQoJCQkJcmV0dXJuCgkJCX0KCQl9CgkJaC5TZXJ2ZUhUVFAodywgcikKCX0pCn0=</text>
+        <text encoding="base64">Ci8vIHByZWZsaWdodEhhbmRsZXIgYWRkcyB0aGUgbmVjZXNzYXJ5IGhlYWRlcnMgaW4gb3JkZXIgdG8gc2VydmUKLy8gQ09SUyBmcm9tIGFueSBvcmlnaW4gdXNpbmcgdGhlIG1ldGhvZHMgIkdFVCIsICJIRUFEIiwgIlBPU1QiLCAiUFVUIiwgIkRFTEVURSIKLy8gV2UgaW5zaXN0LCBkb24ndCBkbyB0aGlzIHdpdGhvdXQgY29uc2lkZXJhdGlvbiBpbiBwcm9kdWN0aW9uIHN5c3RlbXMuCmZ1bmMgcHJlZmxpZ2h0SGFuZGxlcih3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHIgKmh0dHAuUmVxdWVzdCkgewoJaGVhZGVycyA6PSBbXXN0cmluZ3siQ29udGVudC1UeXBlIiwgIkFjY2VwdCJ9Cgl3LkhlYWRlcigpLlNldCgiQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycyIsIHN0cmluZ3MuSm9pbihoZWFkZXJzLCAiLCIpKQoJbWV0aG9kcyA6PSBbXXN0cmluZ3siR0VUIiwgIkhFQUQiLCAiUE9TVCIsICJQVVQiLCAiREVMRVRFIn0KCXcuSGVhZGVyKCkuU2V0KCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzIiwgc3RyaW5ncy5Kb2luKG1ldGhvZHMsICIsIikpCglnbG9nLkluZm9mKCJwcmVmbGlnaHQgcmVxdWVzdCBmb3IgJXMiLCByLlVSTC5QYXRoKQp9</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">Ly8gYWxsb3dDT1JTIGFsbG93cyBDcm9zcyBPcmlnaW4gUmVzb3J1Y2UgU2hhcmluZyBmcm9tIGFueSBvcmlnaW4uCi8vIERvbid0IGRvIHRoaXMgd2l0aG91dCBjb25zaWRlcmF0aW9uIGluIHByb2R1Y3Rpb24gc3lzdGVtcy4KZnVuYyBhbGxvd0NPUlMoaCBodHRwLkhhbmRsZXIpIGh0dHAuSGFuZGxlciB7CglyZXR1cm4gaHR0cC5IYW5kbGVyRnVuYyhmdW5jKHcgaHR0cC5SZXNwb25zZVdyaXRlciwgciAqaHR0cC5SZXF1ZXN0KSB7CgkJaWYgb3JpZ2luIDo9IHIuSGVhZGVyLkdldCgiT3JpZ2luIik7IG9yaWdpbiAhPSAiIiB7CgkJCXcuSGVhZGVyKCkuU2V0KCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4iLCBvcmlnaW4pCgkJCWlmIHIuTWV0aG9kID09ICJPUFRJT05TIiAmJiByLkhlYWRlci5HZXQoIkFjY2Vzcy1Db250cm9sLVJlcXVlc3QtTWV0aG9kIikgIT0gIiIgewoJCQkJcHJlZmxpZ2h0SGFuZGxlcih3LCByKQoJCQkJcmV0dXJuCgkJCX0KCQl9CgkJaC5TZXJ2ZUhUVFAodywgcikKCX0pCn0=</text>
+      </register>
+      <register name="5" type="4">
         <text>/**
  * 身份鉴权，支持basic和jwt鉴权
  * @param 	http.Handler
@@ -245,20 +252,17 @@
  * @author 	wangfl
  */</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gTWlkZGxld2FyZSBpcyBhIHN0cnVjdCB0aGF0IGhhcyBhIFNlcnZlSFRUUCBtZXRob2QK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gVGhlIG1pZGRsZXdhcmUgaGFuZGxlcgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CW5leHQodywgcmVxKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgkvL2p3dE1pZGRsZXdhcmUgOj0gand0bWlkZGxld2FyZS5OZXcoand0bWlkZGxld2FyZS5PcHRpb25zewoJLy8JVmFsaWRhdGlvbktleUdldHRlcjogZnVuYyh0b2tlbiAqand0LlRva2VuKSAoaW50ZXJmYWNle30sIGVycm9yKSB7CgkvLwkJcmV0dXJuIFtdYnl0ZSgiTXkgU2VjcmV0IiksIG5pbAoJLy8JfSwKCS8vCS8vIFdoZW4gc2V0LCB0aGUgbWlkZGxld2FyZSB2ZXJpZmllcyB0aGF0IHRva2VucyBhcmUgc2lnbmVkIHdpdGggdGhlIHNwZWNpZmljIHNpZ25pbmcgYWxnb3JpdGhtCgkvLwkvLyBJZiB0aGUgc2lnbmluZyBtZXRob2QgaXMgbm90IGNvbnN0YW50IHRoZSBWYWxpZGF0aW9uS2V5R2V0dGVyIGNhbGxiYWNrIGNhbiBiZSB1c2VkIHRvIGltcGxlbWVudCBhZGRpdGlvbmFsIGNoZWNrcwoJLy8JLy8gSW1wb3J0YW50IHRvIGF2b2lkIHNlY3VyaXR5IGlzc3VlcyBkZXNjcmliZWQgaGVyZTogaHR0cHM6Ly9hdXRoMC5jb20vYmxvZy8yMDE1LzAzLzMxL2NyaXRpY2FsLXZ1bG5lcmFiaWxpdGllcy1pbi1qc29uLXdlYi10b2tlbi1saWJyYXJpZXMvCgkvLwlTaWduaW5nTWV0aG9kOiBqd3QuU2lnbmluZ01ldGhvZEhTMjU2LAoJLy99KQ==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
