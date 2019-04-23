@@ -10,6 +10,11 @@
         <mark key="^" line="23" column="4" />
       </file>
       <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1555680220611" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1555505883593">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="58" />
+        <mark key="." line="0" column="58" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555900702435">
         <mark key="[" line="17" column="103" />
         <mark key="]" line="17" column="102" />
@@ -26,6 +31,11 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1555656624218">
+        <mark key="[" line="153" column="8" />
+        <mark key="]" line="153" column="8" />
+        <mark key="." line="153" column="8" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/spf13/viper@v1.3.1/viper.go" timestamp="1555936796503">
         <mark key="[" line="63" column="15" />
@@ -47,10 +57,10 @@
         <mark key="^" line="122" column="21" />
         <mark key="." line="122" column="21" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1555984060689">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitmodules" timestamp="1555991654882">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555641716602">
         <mark key="[" line="4" column="18" />
@@ -59,13 +69,23 @@
         <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/hello.pb.go" timestamp="1555901598219" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/gredis/redis.go" timestamp="1555482491368">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/README.md" timestamp="1555385472001">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555980407533">
         <mark key="[" line="55" column="54" />
         <mark key="]" line="55" column="53" />
         <mark key="." line="55" column="53" />
         <mark key="^" line="55" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555980516134">
+      <file name="/Dummy.txt" timestamp="1555991214372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -80,10 +100,25 @@
         <mark key="^" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/publicService.go" timestamp="1555486857808">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1555663700970">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="/fragment.go" timestamp="1555913657175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1555663653641">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/helloService.go" timestamp="1555901606308" />
       <file name="$USER_HOME$/go/pkg/mod/github.com/rs/cors@v1.6.0/cors.go" timestamp="1555925785098">
@@ -238,35 +273,35 @@
       <register name="0" type="4">
         <text>port[1]</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CS8vaWYgZXJyIDo9IHMuU2VydmUobGlzKTsgZXJyICE9IG5pbCB7CgkvLwlsb2cuRmF0YWxmKCJmYWlsZWQgdG8gc2VydmU6ICV2IiwgZXJyKQoJLy8JcmV0dXJuIGVycgoJLy99</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gUnVuR3JwYyDlkK/liqhncnBj5pyN5YqhCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQHJldHVybiAJCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHBhcmFtIAkK</text>
+        <text encoding="base64">ICogQHJldHVybiAJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHJldHVybiAJCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICogQHBhcmFtIAkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICogQHJldHVybiAJCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIAkK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
