@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1555979736800">
-        <mark key="[" line="14" column="74" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1555980332084">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="23" column="4" />
       </file>
       <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1555680220611" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555900702435">
@@ -58,18 +59,21 @@
         <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/hello.pb.go" timestamp="1555901598219" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555316733388">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1555980407533">
         <mark key="[" line="55" column="54" />
         <mark key="]" line="55" column="53" />
         <mark key="." line="55" column="53" />
         <mark key="^" line="55" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555978835500">
+      <file name="/Dummy.txt" timestamp="1555980516134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/go.mod" timestamp="1555750055518" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/use.md" timestamp="1555980570426">
+        <mark key="[" line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1555940165828">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -112,9 +116,6 @@
         <mark key="]" line="11" column="2" />
         <mark key="." line="11" column="2" />
         <mark key="^" line="11" column="1" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1555912792351">
-        <mark key="[" line="34" column="29" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1555932312343">
         <mark key="[" line="11" column="33" />
