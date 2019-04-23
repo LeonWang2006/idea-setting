@@ -46,11 +46,10 @@
         <mark key="^" line="122" column="21" />
         <mark key="." line="122" column="21" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1555978073912">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="43" />
-        <mark key="^" line="23" column="4" />
-        <mark key="." line="23" column="43" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1555978807482">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555641716602">
         <mark key="[" line="4" column="18" />
@@ -65,7 +64,7 @@
         <mark key="." line="55" column="53" />
         <mark key="^" line="55" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555940796168">
+      <file name="/Dummy.txt" timestamp="1555978835500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,7 +88,7 @@
         <mark key="^" line="98" column="6" />
         <mark key="." line="98" column="6" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555978012895">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555979009127">
         <mark key="[" line="33" column="42" />
         <mark key="]" line="33" column="49" />
         <mark key="." line="33" column="42" />
@@ -230,7 +229,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWRkcmVzcyA=</text>
+        <text>tcp/udp</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -239,19 +238,19 @@
         <text>port[1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gUnVuR3JwYyDlkK/liqhncnBj5pyN5YqhCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CS8vaWYgZXJyIDo9IHMuU2VydmUobGlzKTsgZXJyICE9IG5pbCB7CgkvLwlsb2cuRmF0YWxmKCJmYWlsZWQgdG8gc2VydmU6ICV2IiwgZXJyKQoJLy8JcmV0dXJuIGVycgoJLy99</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHJldHVybiAJCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHBhcmFtIAkK</text>
+        <text encoding="base64">Ly8gUnVuR3JwYyDlkK/liqhncnBj5pyN5YqhCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICogQHJldHVybiAJCg==</text>
@@ -260,13 +259,13 @@
         <text encoding="base64">ICogQHBhcmFtIAkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHJldHVybiAJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIAkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgkvL2lmIGxlbihvcy5BcmdzKSA+IDEgJiYgb3MuQXJnc1sxXSA9PSAicHJkIiB7CgkvLwoJLy8JcnVuKCJwcmQiKQoJLy8JLy9jdHgsIGNhbmNlbCA6PSBjb250ZXh0LldpdGhDYW5jZWwoY29udGV4dC5CYWNrZ3JvdW5kKCkpCgkvLwkvL2RlZmVyIGNhbmNlbCgpCgkvLwkvLwoJLy8JLy9mbXQuUHJpbnRsbigic2VydmljZSBhdCBwcmQgbW9kZSIpCgkvLwkvL3NlcnZlci5SdW5HcnBjKGN0eCwgInRjcCIsICI6NTAwNTkiLCBzcnYuU2VydmVyTWFwKQoJLy99IGVsc2UgewoJLy8JLy9pZiBlcnIgOj0gcnVuKCk7IGVyciAhPSBuaWwgewoJLy8JLy8JZ2xvZy5GYXRhbChlcnIpCgkvLwkvL30KCS8vCXJ1bigiZGV2IikKCS8vfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
