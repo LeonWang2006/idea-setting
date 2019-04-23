@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1555939586083">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="13" column="46" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1555977434410">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/usr/local/Cellar/go/1.12/libexec/src/net/http/server.go" timestamp="1555680220611" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1555900702435">
@@ -47,8 +46,11 @@
         <mark key="^" line="122" column="21" />
         <mark key="." line="122" column="21" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1555903139157">
-        <mark key="^" line="4" column="11" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1555978073912">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="43" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="23" column="43" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/payload.go" timestamp="1555641716602">
         <mark key="[" line="4" column="18" />
@@ -87,11 +89,11 @@
         <mark key="^" line="98" column="6" />
         <mark key="." line="98" column="6" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555940681930">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1555978012895">
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="33" column="49" />
+        <mark key="." line="33" column="42" />
+        <mark key="^" line="37" column="39" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1555940195585">
         <mark key="[" line="8" column="34" />
@@ -228,56 +230,43 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>抽取main配置的到配置文件</text>
+        <text encoding="base64">YWRkcmVzcyA=</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXZpcGVyLlNldERlZmF1bHQoImJvb3RTZXJ2ZXIiLCBib290U2VydmVyKQo=</text>
+      <register name="0" type="4">
+        <text>port[1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gUnVuR3JwYyDlkK/liqhncnBj5pyN5YqhCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>var (
-	bootServer = flag.String(&quot;server&quot;, &quot;app&quot;, &quot;which server to boot&quot;)
-	httpPort   = flag.String(&quot;http-port&quot;, config.Vip.GetString(&quot;server.http&quot;), &quot;listening http port&quot;)
-	grpcPort   = flag.String(&quot;grpc-port&quot;, config.Vip.GetString(&quot;server.grpc&quot;), &quot;listening http port&quot;)
-)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICogQHJldHVybiAJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIAkK</text>
       </register>
-      <register name="5" type="4">
-        <text>/*
-
-微服务后，所有的系统会交叉共用每个系统的服务，不会再有一层http转发。
-大家前期会混合编写代码协同工作，为了避免业务写重复，app，hrs，ogs等系统
-在新建服务的时候：
-
-1、优先以数据库表对应上的业务模块命名，例如 log_*  的业务写进log
-2、对应不上数据库表的，按业务内容命名，写的时候先看看其他Server有没有已经存在的服务。避免写重复
-
-*/</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQHJldHVybiAJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8v5YWs5YWx5pyN5YqhCglTZXJ2ZXJNYXBbInRvZG8iXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIiksICZzZXJ2aWNlLlRvZG9TZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJUb2RvU2VydmVyLCBwYi5SZWdpc3RlclRvZG9IYW5kbGVyRnJvbUVuZHBvaW50fQo=</text>
+        <text encoding="base64">ICogQHBhcmFtIAkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vb2dz5pyN5YqhCglTZXJ2ZXJNYXBbImFwcHVzZXIiXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMub2dzIiksICZzZXJ2aWNlLkFwcFVzZXJTZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJBcHBVc2VyU2VydmVyLCBwYi5SZWdpc3RlckFwcFVzZXJIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJhcmNoaXZlcyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgJnNlcnZpY2UuQXJjaGl2ZXNTZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJBcmNoaXZlc1NlcnZlciwgcGIuUmVnaXN0ZXJBcmNoaXZlc0hhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbInBlcnNvbiJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgJnNlcnZpY2UuUGVyc29uU2VydmVye30sIHBiLlJlZ2lzdGVyUGVyc29uU2VydmVyLCBwYi5SZWdpc3RlclBlcnNvbkhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbImRlcGFydG1lbnQiXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMub2dzIiksICZzZXJ2aWNlLkRlcGFydG1lbnRTZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJEZXBhcnRtZW50U2VydmVyLCBwYi5SZWdpc3RlckRlcGFydG1lbnRIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJ3b3JrIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLm9ncyIpLCAmc2VydmljZS5Xb3JrU2VydmVye30sIHBiLlJlZ2lzdGVyV29ya1NlcnZlciwgcGIuUmVnaXN0ZXJXb3JrSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsiY29tbXVuaWNhdGlvbiJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgJnNlcnZpY2UuQ29tbXVuaWNhdGlvblNlcnZlcnt9LCBwYi5SZWdpc3RlckNvbW11bmljYXRpb25TZXJ2ZXIsIHBiLlJlZ2lzdGVyQ29tbXVuaWNhdGlvbkhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbImpvYiJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5vZ3MiKSwgJnNlcnZpY2UuSm9iU2VydmVye30sIHBiLlJlZ2lzdGVySm9iU2VydmVyLCBwYi5SZWdpc3RlckpvYkhhbmRsZXJGcm9tRW5kcG9pbnR9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly9ocnPmnI3liqEKCVNlcnZlck1hcFsiYWNjb3VudCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgJnNlcnZpY2UuQWNjb3VudFNlcnZlcnt9LCBwYi5SZWdpc3RlckFjY291bnRTZXJ2ZXIsIHBiLlJlZ2lzdGVyQWNjb3VudEhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbImFuYWx5dGljcyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgJnNlcnZpY2UuQW5hbHl0aWNzU2VydmVye30sIHBiLlJlZ2lzdGVyQW5hbHl0aWNzU2VydmVyLCBwYi5SZWdpc3RlckFuYWx5dGljc0hhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbInRhcmdldCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgJnNlcnZpY2UuVGFyZ2V0U2VydmVye30sIHBiLlJlZ2lzdGVyVGFyZ2V0U2VydmVyLCBwYi5SZWdpc3RlclRhcmdldEhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbIm9yZyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgJnNlcnZpY2UuT3JnU2VydmVye30sIHBiLlJlZ2lzdGVyT3JnU2VydmVyLCBwYi5SZWdpc3Rlck9yZ0hhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbImV2YWx1YXRlIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpLCAmc2VydmljZS5FdmFsdWF0ZVNlcnZlcnt9LCBwYi5SZWdpc3RlckV2YWx1YXRlU2VydmVyLCBwYi5SZWdpc3RlckV2YWx1YXRlSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsiZm9jdXMiXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIiksICZzZXJ2aWNlLkZvY3VzU2VydmVye30sIHBiLlJlZ2lzdGVyRm9jdXNTZXJ2ZXIsIHBiLlJlZ2lzdGVyRm9jdXNIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJocnNNZWV0aW5nIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpLCAmc2VydmljZS5NZWV0aW5nU2VydmVye30sIHBiLlJlZ2lzdGVyTWVldGluZ1NlcnZlciwgcGIuUmVnaXN0ZXJNZWV0aW5nSGFuZGxlckZyb21FbmRwb2ludH0KCVNlcnZlck1hcFsicGciXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIiksICZzZXJ2aWNlLlBnU2VydmVye30sIHBiLlJlZ2lzdGVyUGdTZXJ2ZXIsIHBiLlJlZ2lzdGVyUGdIYW5kbGVyRnJvbUVuZHBvaW50fQoJU2VydmVyTWFwWyJkYXR1bSJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgJnNlcnZpY2UuRGF0dW1TZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJEYXR1bVNlcnZlciwgcGIuUmVnaXN0ZXJEYXR1bUhhbmRsZXJGcm9tRW5kcG9pbnR9Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CS8vYXBw5pyN5YqhCglTZXJ2ZXJNYXBbImFwcCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgJnNlcnZpY2UuQXBwU2VydmVye30sIHBiLlJlZ2lzdGVyQXBwU2VydmVyLCBwYi5SZWdpc3RlckFwcEhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbImhlbGxvIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmFwcCIpLCAmc2VydmljZS5IZWxsb1NlcnZlcnt9LCBwYi5SZWdpc3RlckhlbGxvV29ybGRTZXJ2ZXIsIHBiLlJlZ2lzdGVySGVsbG9Xb3JsZEhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbImxvZyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgJnNlcnZpY2UuTG9nU2VydmVye30sIHBiLlJlZ2lzdGVyTG9nU2VydmVyLCBwYi5SZWdpc3RlckxvZ0hhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbIm1hcCJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgJnNlcnZpY2UuTWFwU2VydmVye30sIHBiLlJlZ2lzdGVyTWFwU2VydmVyLCBwYi5SZWdpc3Rlck1hcEhhbmRsZXJGcm9tRW5kcG9pbnR9CglTZXJ2ZXJNYXBbIm1zZyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgJnNlcnZpY2UuTXNnU2VydmVye30sIHBiLlJlZ2lzdGVyTXNnU2VydmVyLCBwYi5SZWdpc3Rlck1zZ0hhbmRsZXJGcm9tRW5kcG9pbnR9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgkvL2lmIGxlbihvcy5BcmdzKSA+IDEgJiYgb3MuQXJnc1sxXSA9PSAicHJkIiB7CgkvLwoJLy8JcnVuKCJwcmQiKQoJLy8JLy9jdHgsIGNhbmNlbCA6PSBjb250ZXh0LldpdGhDYW5jZWwoY29udGV4dC5CYWNrZ3JvdW5kKCkpCgkvLwkvL2RlZmVyIGNhbmNlbCgpCgkvLwkvLwoJLy8JLy9mbXQuUHJpbnRsbigic2VydmljZSBhdCBwcmQgbW9kZSIpCgkvLwkvL3NlcnZlci5SdW5HcnBjKGN0eCwgInRjcCIsICI6NTAwNTkiLCBzcnYuU2VydmVyTWFwKQoJLy99IGVsc2UgewoJLy8JLy9pZiBlcnIgOj0gcnVuKCk7IGVyciAhPSBuaWwgewoJLy8JLy8JZ2xvZy5GYXRhbChlcnIpCgkvLwkvL30KCS8vCXJ1bigiZGV2IikKCS8vfQ==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
