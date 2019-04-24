@@ -181,11 +181,11 @@
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1530605673185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556099975009">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="26" column="14" />
-        <mark key="." line="26" column="14" />
-        <mark key="^" line="26" column="14" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556112168160">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="28" column="31" />
+        <mark key="." line="28" column="31" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
@@ -231,6 +231,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556112895954">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="21" />
+      </file>
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -258,6 +264,7 @@
       <file name="/app.app_follow [prd - app@192.168.10.20]" timestamp="1537348262960">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1556112344663" />
       <file name="/wos_ogs.ogs_config_grade [dev - wos_ogs@10.10.18.130]" timestamp="1537353840322">
         <mark key="[" line="0" column="0" />
       </file>
@@ -444,12 +451,12 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556072683591">
-        <mark key="'" line="82" column="29" />
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="25" column="15" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="25" column="15" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556112637475">
+        <mark key="'" line="76" column="29" />
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="50" />
+        <mark key="." line="33" column="34" />
+        <mark key="^" line="29" column="57" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -736,7 +743,7 @@
       <file name="/sharetronix.posts [prd - sharetronix@192.168.10.65]" timestamp="1547771106978">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/logfile.go" timestamp="1556091192159" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/logfile.go" timestamp="1556111501697" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cb09dc-e603-4c01-9fb3-9b1d47fb5489/console.sql" timestamp="1532417354364">
         <mark key="[" line="56" column="22" />
       </file>
@@ -1048,52 +1055,44 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.10.203</text>
+        <text>port[1]</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQl2YWwgcmVtYXJrID0gZ3Nvbi5mcm9tSnNvbjxXeE1lc3NhZ2VJdGVtPih3eE1lc3NhZ2UucmVtYXJrLCBvYmplY3QgOiBUeXBlVG9rZW48V3hNZXNzYWdlSXRlbT4oKSB7fS50eXBlKQo=</text>
+      <register name="0" type="4">
+        <text>*config.GrpcPort</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gTG9nZ2VyIGlzIHRoZSBsb2dydXMgbG9nZ2VyIGhhbmRsZXIKZnVuYyBHaW5sb2coKSBnaW4uSGFuZGxlckZ1bmMgewoJcmV0dXJuIGZ1bmMoYyAqZ2luLkNvbnRleHQpIHsKCQkvLyBvdGhlciBoYW5kbGVyIGNhbiBjaGFuZ2UgYy5QYXRoIHNvOgoJCXBhdGggOj0gYy5SZXF1ZXN0LlVSTC5QYXRoCgkJc3RhcnQgOj0gdGltZS5Ob3coKQoJCWMuTmV4dCgpCgkJc3RvcCA6PSB0aW1lLlNpbmNlKHN0YXJ0KQoJCWxhdGVuY3kgOj0gaW50KG1hdGguQ2VpbChmbG9hdDY0KHN0b3AuTmFub3NlY29uZHMoKSkgLyAxMDAwMDAwLjApKQoJCXN0YXR1c0NvZGUgOj0gYy5Xcml0ZXIuU3RhdHVzKCkKCQljbGllbnRJUCA6PSBjLkNsaWVudElQKCkKCQljbGllbnRVc2VyQWdlbnQgOj0gYy5SZXF1ZXN0LlVzZXJBZ2VudCgpCgkJcmVmZXJlciA6PSBjLlJlcXVlc3QuUmVmZXJlcigpCgkJaG9zdG5hbWUsIGVyciA6PSBvcy5Ib3N0bmFtZSgpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWhvc3RuYW1lID0gInVua25vdyIKCQl9CgkJZGF0YUxlbmd0aCA6PSBjLldyaXRlci5TaXplKCkKCQlpZiBkYXRhTGVuZ3RoIDwgMCB7CgkJCWRhdGFMZW5ndGggPSAwCgkJfQoKCQllbnRyeSA6PSBsb2dydXMuTmV3RW50cnkobG9nZ2VyKS5XaXRoRmllbGRzKGxvZ3J1cy5GaWVsZHN7CgkJCSJob3N0bmFtZSI6ICAgaG9zdG5hbWUsCgkJCSJzdGF0dXNDb2RlIjogc3RhdHVzQ29kZSwKCQkJImxhdGVuY3kiOiAgICBsYXRlbmN5LCAvLyB0aW1lIHRvIHByb2Nlc3MKCQkJImNsaWVudElQIjogICBjbGllbnRJUCwKCQkJIm1ldGhvZCI6ICAgICBjLlJlcXVlc3QuTWV0aG9kLAoJCQkicGF0aCI6ICAgICAgIHBhdGgsCgkJCSJyZWZlcmVyIjogICAgcmVmZXJlciwKCQkJImRhdGFMZW5ndGgiOiBkYXRhTGVuZ3RoLAoJCQkidXNlckFnZW50IjogIGNsaWVudFVzZXJBZ2VudCwKCQl9KQoKCQlpZiBsZW4oYy5FcnJvcnMpID4gMCB7CgkJCWVudHJ5LkVycm9yKGMuRXJyb3JzLkJ5VHlwZShnaW4uRXJyb3JUeXBlUHJpdmF0ZSkuU3RyaW5nKCkpCgkJfSBlbHNlIHsKCQkJbXNnIDo9IGZtdC5TcHJpbnRmKCIlcyAtICVzIFslc10gXCIlcyAlc1wiICVkICVkIFwiJXNcIiBcIiVzXCIgKCVkbXMpIiwgY2xpZW50SVAsIGhvc3RuYW1lLCB0aW1lLk5vdygpLkZvcm1hdCh0aW1lLlJGQzMzMzkpLCBjLlJlcXVlc3QuTWV0aG9kLCBwYXRoLCBzdGF0dXNDb2RlLCBkYXRhTGVuZ3RoLCByZWZlcmVyLCBjbGllbnRVc2VyQWdlbnQsIGxhdGVuY3kpCgkJCWlmIHN0YXR1c0NvZGUgPiA0OTkgewoJCQkJZW50cnkuRXJyb3IobXNnKQoJCQl9IGVsc2UgaWYgc3RhdHVzQ29kZSA+IDM5OSB7CgkJCQllbnRyeS5XYXJuKG1zZykKCQkJfSBlbHNlIHsKCQkJCWVudHJ5LkluZm8obXNnKQoJCQl9CgkJfQoJfQp9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CUxvZ3N0YXNoICpMb2dzdGFzaAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CglhZGRyZXNzIDo9IGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLiIgKyAqY29uZmlnLlNlcnZlcikKCXBvcnQgOj0gc3RyaW5ncy5TcGxpdChhZGRyZXNzLCAiOiIp</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CS8vbG9nc3Rhc2gsIGVyciA6PSBOZXdMb2dzdGFzaChjb25mLkxvZ3N0YXNoKQoJLy9pZiBlcnIgPT0gbmlsIHsKCS8vCWxvZ2dlci5Ib29rcy5BZGQobG9nc3Rhc2gpCgkvL30KCS8vbG9nZ2VyLkVycm9yKCJOZXdMb2dzdGFzaCBlcnJvcigldikiLCBlcnIp</text>
+      <register name="3" type="2">
+        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>address := config.Vip.GetString(&quot;grpc.&quot; + *config.Server)
+port := strings.Split(address, &quot;:&quot;)</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>package log
-
-import (
-&quot;encoding/json&quot;
-&quot;fmt&quot;
-&quot;net&quot;
-&quot;time&quot;
-
-&quot;github.com/Sirupsen/logrus&quot;
-)</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWxvZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3BrZy9lcnJvcnMiCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci8vIFBhY2thZ2UgbGZzaG9vayBpcyBob29rIGZvciBzaXJ1cHNlbi9sb2dydXMgdGhhdCB1c2VkIGZvciB3cml0aW5nIHRoZSBsb2dzIHRvIGxvY2FsIGZpbGVzLgpwYWNrYWdlIGxvZwoKaW1wb3J0ICgKImZtdCIKImlvIgoibG9nIgoib3MiCiJwYXRoL2ZpbGVwYXRoIgoicmVmbGVjdCIKInN5bmMiCgoiZ2l0aHViLmNvbS9TaXJ1cHNlbi9sb2dydXMiCik=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CSJwYXRoIgo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CnBhY2thZ2UgbG9nCgppbXBvcnQgKAoiZm10IgoibWF0aCIKIm9zIgoidGltZSIKCiJnaXRodWIuY29tL1NpcnVwc2VuL2xvZ3J1cyIKImdpdGh1Yi5jb20vZ2luLWdvbmljL2dpbiIKKQ==</text>
+        <text encoding="base64">ZnVuYyBOZXdMb2dnZXIoKSAqbG9ncnVzLkxvZ2dlciB7CglpZiBMb2cgIT0gbmlsIHsKCQlyZXR1cm4gTG9nCgl9CgoJcGF0aCA6PSAiL3Zhci9sb2cvZ28ubG9nIgoJd3JpdGVyIDo9IHJvdGF0ZWxvZ3MuTmV3KAoJCXBhdGgrIi4lWSVtJWQlSCVNIiwKCQlyb3RhdGVsb2dzLldpdGhMaW5rTmFtZShwYXRoKSwKCQlyb3RhdGVsb2dzLldpdGhNYXhBZ2UodGltZS5EdXJhdGlvbig4NjQwMCkqdGltZS5TZWNvbmQpLAoJCXJvdGF0ZWxvZ3MuV2l0aFJvdGF0aW9uVGltZSh0aW1lLkR1cmF0aW9uKDYwNDgwMCkqdGltZS5TZWNvbmQpLAoJKQoKCWxvZ3J1cy5Ib29rcy5BZGQobGZzaG9vay5OZXdIb29rKAoJCWxmc2hvb2suV3JpdGVyTWFwewoJCQlsb2dydXMuSW5mb0xldmVsOiAgd3JpdGVyLAoJCQlsb2dydXMuRXJyb3JMZXZlbDogd3JpdGVyLAoJCX0sCgkJJmxvZ3J1cy5KU09ORm9ybWF0dGVyLAoJKSkKCglMb2cgPSBsb2dydXMuTmV3KCkKCUxvZy5Ib29rcy5BZGQobGZzaG9vay5OZXdIb29rKAoJCXBhdGhNYXAsCgkJJmxvZ3J1cy5KU09ORm9ybWF0dGVye30sCgkpKQoKCXJldHVybiBMb2cKfQ==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
