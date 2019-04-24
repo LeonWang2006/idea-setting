@@ -181,11 +181,11 @@
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1530605673185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556072625776">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="29" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556088900186">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
@@ -1056,22 +1056,25 @@
       <register name="0" type="2">
         <text encoding="base64">CQl2YWwgcmVtYXJrID0gZ3Nvbi5mcm9tSnNvbjxXeE1lc3NhZ2VJdGVtPih3eE1lc3NhZ2UucmVtYXJrLCBvYmplY3QgOiBUeXBlVG9rZW48V3hNZXNzYWdlSXRlbT4oKSB7fS50eXBlKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CUxvZ3N0YXNoICpMb2dzdGFzaAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ly8gTG9nZ2VyIGlzIHRoZSBsb2dydXMgbG9nZ2VyIGhhbmRsZXIKZnVuYyBHaW5sb2coKSBnaW4uSGFuZGxlckZ1bmMgewoJcmV0dXJuIGZ1bmMoYyAqZ2luLkNvbnRleHQpIHsKCQkvLyBvdGhlciBoYW5kbGVyIGNhbiBjaGFuZ2UgYy5QYXRoIHNvOgoJCXBhdGggOj0gYy5SZXF1ZXN0LlVSTC5QYXRoCgkJc3RhcnQgOj0gdGltZS5Ob3coKQoJCWMuTmV4dCgpCgkJc3RvcCA6PSB0aW1lLlNpbmNlKHN0YXJ0KQoJCWxhdGVuY3kgOj0gaW50KG1hdGguQ2VpbChmbG9hdDY0KHN0b3AuTmFub3NlY29uZHMoKSkgLyAxMDAwMDAwLjApKQoJCXN0YXR1c0NvZGUgOj0gYy5Xcml0ZXIuU3RhdHVzKCkKCQljbGllbnRJUCA6PSBjLkNsaWVudElQKCkKCQljbGllbnRVc2VyQWdlbnQgOj0gYy5SZXF1ZXN0LlVzZXJBZ2VudCgpCgkJcmVmZXJlciA6PSBjLlJlcXVlc3QuUmVmZXJlcigpCgkJaG9zdG5hbWUsIGVyciA6PSBvcy5Ib3N0bmFtZSgpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWhvc3RuYW1lID0gInVua25vdyIKCQl9CgkJZGF0YUxlbmd0aCA6PSBjLldyaXRlci5TaXplKCkKCQlpZiBkYXRhTGVuZ3RoIDwgMCB7CgkJCWRhdGFMZW5ndGggPSAwCgkJfQoKCQllbnRyeSA6PSBsb2dydXMuTmV3RW50cnkobG9nZ2VyKS5XaXRoRmllbGRzKGxvZ3J1cy5GaWVsZHN7CgkJCSJob3N0bmFtZSI6ICAgaG9zdG5hbWUsCgkJCSJzdGF0dXNDb2RlIjogc3RhdHVzQ29kZSwKCQkJImxhdGVuY3kiOiAgICBsYXRlbmN5LCAvLyB0aW1lIHRvIHByb2Nlc3MKCQkJImNsaWVudElQIjogICBjbGllbnRJUCwKCQkJIm1ldGhvZCI6ICAgICBjLlJlcXVlc3QuTWV0aG9kLAoJCQkicGF0aCI6ICAgICAgIHBhdGgsCgkJCSJyZWZlcmVyIjogICAgcmVmZXJlciwKCQkJImRhdGFMZW5ndGgiOiBkYXRhTGVuZ3RoLAoJCQkidXNlckFnZW50IjogIGNsaWVudFVzZXJBZ2VudCwKCQl9KQoKCQlpZiBsZW4oYy5FcnJvcnMpID4gMCB7CgkJCWVudHJ5LkVycm9yKGMuRXJyb3JzLkJ5VHlwZShnaW4uRXJyb3JUeXBlUHJpdmF0ZSkuU3RyaW5nKCkpCgkJfSBlbHNlIHsKCQkJbXNnIDo9IGZtdC5TcHJpbnRmKCIlcyAtICVzIFslc10gXCIlcyAlc1wiICVkICVkIFwiJXNcIiBcIiVzXCIgKCVkbXMpIiwgY2xpZW50SVAsIGhvc3RuYW1lLCB0aW1lLk5vdygpLkZvcm1hdCh0aW1lLlJGQzMzMzkpLCBjLlJlcXVlc3QuTWV0aG9kLCBwYXRoLCBzdGF0dXNDb2RlLCBkYXRhTGVuZ3RoLCByZWZlcmVyLCBjbGllbnRVc2VyQWdlbnQsIGxhdGVuY3kpCgkJCWlmIHN0YXR1c0NvZGUgPiA0OTkgewoJCQkJZW50cnkuRXJyb3IobXNnKQoJCQl9IGVsc2UgaWYgc3RhdHVzQ29kZSA+IDM5OSB7CgkJCQllbnRyeS5XYXJuKG1zZykKCQkJfSBlbHNlIHsKCQkJCWVudHJ5LkluZm8obXNnKQoJCQl9CgkJfQoJfQp9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CS8vbG9nc3Rhc2gsIGVyciA6PSBOZXdMb2dzdGFzaChjb25mLkxvZ3N0YXNoKQoJLy9pZiBlcnIgPT0gbmlsIHsKCS8vCWxvZ2dlci5Ib29rcy5BZGQobG9nc3Rhc2gpCgkvL30KCS8vbG9nZ2VyLkVycm9yKCJOZXdMb2dzdGFzaCBlcnJvcigldikiLCBlcnIp</text>
+      <register name="2" type="2">
+        <text encoding="base64">CUxvZ3N0YXNoICpMb2dzdGFzaAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CS8vbG9nc3Rhc2gsIGVyciA6PSBOZXdMb2dzdGFzaChjb25mLkxvZ3N0YXNoKQoJLy9pZiBlcnIgPT0gbmlsIHsKCS8vCWxvZ2dlci5Ib29rcy5BZGQobG9nc3Rhc2gpCgkvL30KCS8vbG9nZ2VyLkVycm9yKCJOZXdMb2dzdGFzaCBlcnJvcigldikiLCBlcnIp</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>package log
 
 import (
@@ -1083,17 +1086,14 @@ import (
 &quot;github.com/Sirupsen/logrus&quot;
 )</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Ci8vIFBhY2thZ2UgbGZzaG9vayBpcyBob29rIGZvciBzaXJ1cHNlbi9sb2dydXMgdGhhdCB1c2VkIGZvciB3cml0aW5nIHRoZSBsb2dzIHRvIGxvY2FsIGZpbGVzLgpwYWNrYWdlIGxvZwoKaW1wb3J0ICgKImZtdCIKImlvIgoibG9nIgoib3MiCiJwYXRoL2ZpbGVwYXRoIgoicmVmbGVjdCIKInN5bmMiCgoiZ2l0aHViLmNvbS9TaXJ1cHNlbi9sb2dydXMiCik=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CnBhY2thZ2UgbG9nCgppbXBvcnQgKAoiZm10IgoibWF0aCIKIm9zIgoidGltZSIKCiJnaXRodWIuY29tL1NpcnVwc2VuL2xvZ3J1cyIKImdpdGh1Yi5jb20vZ2luLWdvbmljL2dpbiIKKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ampmaQo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
