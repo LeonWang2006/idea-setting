@@ -51,6 +51,11 @@
       <file name="/sys_yiilog_debug [prd - wos_common@192.168.10.112]" timestamp="1525504879049">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.go" timestamp="1556171379560">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/hrs_cache_ehr_work [prd - wos_hrs@192.168.10.112]" timestamp="1523172339801">
         <mark key="[" line="0" column="0" />
       </file>
@@ -231,11 +236,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556162587222">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="14" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556171796053">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="41" column="7" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
@@ -418,7 +423,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554874637092">
+      <file name="/Dummy.txt" timestamp="1556171124719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -451,7 +456,7 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556154680777">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556171190755">
         <mark key="'" line="81" column="29" />
         <mark key="[" line="69" column="22" />
         <mark key="]" line="33" column="50" />
@@ -1055,44 +1060,44 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>&quot;grpc port set&quot;</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUdycGNQb3J0ID0gZmxhZy5TdHJpbmcoImdycGMtcG9ydCIsICI1MDA1MCIsICJsaXN0ZW5pbmcgZ3JwYyBwb3J0IikK</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oImdycGMgcG9ydCBzZXQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWFkZHJlc3MgOj0gdkNvbi5HZXRTdHJpbmcoImdycGMuIiArICpTZXJ2ZXIpCglwb3J0IDo9IHN0cmluZ3MuU3BsaXQoYWRkcmVzcywgIjoiKQoJKkdycGNQb3J0ID0gcG9ydFsxXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CglhZGRyZXNzIDo9IGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLiIgKyAqY29uZmlnLlNlcnZlcikKCXBvcnQgOj0gc3RyaW5ncy5TcGxpdChhZGRyZXNzLCAiOiIp</text>
+        <text encoding="base64">CWZsYWcuVmlzaXQoZnVuYyhpICpmbGFnLkZsYWcpIHsKCQlpZiBpLk5hbWUgPT0gImdycGMtcG9ydCIgewoJCQlmbXQuUHJpbnRsbigiZ3JwYyBwb3J0IHNldCIpCgkJfQoJCWZtdC5QcmludGxuKGkuTmFtZSkKCX0p</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZmxhZy5WaXNpdChmdW5jKGkgKmZsYWcuRmxhZykgeyAJCWlmIGkuTmFtZSA9PSAiZ3JwYy1wb3J0IiB7IAkJCWZtdC5QcmludGxuKCJncnBjIHBvcnQgc2V0IikgCQl9IAkJZm10LlByaW50bG4oaS5OYW1lKSAJfSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CglhZGRyZXNzIDo9IGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLiIgKyAqY29uZmlnLlNlcnZlcikKCXBvcnQgOj0gc3RyaW5ncy5TcGxpdChhZGRyZXNzLCAiOiIp</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>address := config.Vip.GetString(&quot;grpc.&quot; + *config.Server)
 port := strings.Split(address, &quot;:&quot;)</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CWxvZwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3BrZy9lcnJvcnMiCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CSJwYXRoIgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZnVuYyBOZXdMb2dnZXIoKSAqbG9ncnVzLkxvZ2dlciB7CglpZiBMb2cgIT0gbmlsIHsKCQlyZXR1cm4gTG9nCgl9CgoJcGF0aCA6PSAiL3Zhci9sb2cvZ28ubG9nIgoJd3JpdGVyIDo9IHJvdGF0ZWxvZ3MuTmV3KAoJCXBhdGgrIi4lWSVtJWQlSCVNIiwKCQlyb3RhdGVsb2dzLldpdGhMaW5rTmFtZShwYXRoKSwKCQlyb3RhdGVsb2dzLldpdGhNYXhBZ2UodGltZS5EdXJhdGlvbig4NjQwMCkqdGltZS5TZWNvbmQpLAoJCXJvdGF0ZWxvZ3MuV2l0aFJvdGF0aW9uVGltZSh0aW1lLkR1cmF0aW9uKDYwNDgwMCkqdGltZS5TZWNvbmQpLAoJKQoKCWxvZ3J1cy5Ib29rcy5BZGQobGZzaG9vay5OZXdIb29rKAoJCWxmc2hvb2suV3JpdGVyTWFwewoJCQlsb2dydXMuSW5mb0xldmVsOiAgd3JpdGVyLAoJCQlsb2dydXMuRXJyb3JMZXZlbDogd3JpdGVyLAoJCX0sCgkJJmxvZ3J1cy5KU09ORm9ybWF0dGVyLAoJKSkKCglMb2cgPSBsb2dydXMuTmV3KCkKCUxvZy5Ib29rcy5BZGQobGZzaG9vay5OZXdIb29rKAoJCXBhdGhNYXAsCgkJJmxvZ3J1cy5KU09ORm9ybWF0dGVye30sCgkpKQoKCXJldHVybiBMb2cKfQ==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
