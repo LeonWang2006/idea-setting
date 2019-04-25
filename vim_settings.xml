@@ -68,6 +68,7 @@
       <file name="/wos_hrs.hrs_update_pwd_log [prd - wos_hrs@192.168.10.112]" timestamp="1543462476524">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.com/sirupsen/logrus@v1.4.1/text_formatter.go" timestamp="1556198582887" />
       <file name="/posts [prd - sharetronix@192.168.10.65]" timestamp="1532951835888">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,10 +187,11 @@
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1530605673185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556196277875">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556198880499">
+        <mark key="[" line="79" column="57" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
@@ -448,11 +450,11 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556196633584">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556198640458">
         <mark key="'" line="81" column="29" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="78" column="44" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
@@ -1074,31 +1076,31 @@
         <text encoding="base64">CWxvZy5EZWJ1ZygiZGVidWciKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2dycGMtZWNvc3lzdGVtL2dycGMtZ2F0ZXdheS9ydW50aW1lIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiUrdlxuIiwgbG9nLkxvZ2dlcikK</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRGb3JtYXR0ZXIoJmxvZ3J1cy5UZXh0Rm9ybWF0dGVye0Z1bGxUaW1lc3RhbXA6IHRydWUsfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWxvZy5Mb2dnZXIuV2l0aEZpZWxkKCJudW1iZXIiOiAxMjIpLkluZm8oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CWxvZy5Mb2dnZXIuV2l0aEZpZWxkcyhsb2d7CgkJImFuaW1hbCI6ICJ3YWxydXMiLAoJfSk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CWZtdC5QcmludGYoIiUrdlxuIiwgbG9nLkxvZ2dlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vTG9nZ2VyLlNldEZvcm1hdHRlcigmbG9ncnVzLlRleHRGb3JtYXR0ZXJ7fSkK</text>
+        <text encoding="base64">CWxvZy5Mb2dnZXIuV2l0aEZpZWxkKCJudW1iZXIiOiAxMjIpLkluZm8oKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CUxvZ2dlci5XaXRoVGltZSh0aW1lLk5vdygpKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CWxvZy5Mb2dnZXIuV2l0aEZpZWxkcyhsb2d7CgkJImFuaW1hbCI6ICJ3YWxydXMiLAoJfSk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vTG9nZ2VyLlNldEZvcm1hdHRlcigmbG9ncnVzLlRleHRGb3JtYXR0ZXJ7fSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUxvZ2dlci5XaXRoVGltZSh0aW1lLk5vdygpKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
