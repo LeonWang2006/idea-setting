@@ -186,11 +186,10 @@
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1530605673185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556186904083">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="17" column="24" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556194046955">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
@@ -694,7 +693,7 @@
       <file name="/codepush.packages [prd - codepush@192.168.10.73]" timestamp="1537265006700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1556191414834" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1556193269236" />
       <file name="/ogs_config_protocol_type [dev - wos_ogs@10.10.18.130]" timestamp="1533728597187">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1066,7 +1065,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CWxvZy5JbmZvKGxvZy5Db25maWd7RmlsZURpcjp9KQ==</text>
+        <text>type Logger struct {}</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -1075,34 +1074,34 @@
         <text encoding="base64">CWxvZy5EZWJ1ZygiZGVidWciKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGxvZy5Db25maWd7fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxvZ0NvbmZpZyA6PSAmbG9nLkNvbmZpZ3tGaWxlRGlyOiBwYXRofQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHJldHVybiAJbmlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGxvZy5Db25maWd7fSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4K</text>
+        <text encoding="base64">CWxvZ0NvbmZpZyA6PSAmbG9nLkNvbmZpZ3tGaWxlRGlyOiBwYXRofQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmbGFncy5Tb3J0RmxhZ3MgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICogQHJldHVybiAJbmlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIOayoeacieS8oOWFpWdycGMtcG9ydOWImeivu+WPlumFjee9ruaWh+aho+eahOiuvue9ruerr+WPowoJaWYgIWlzRmxhZ1Bhc3NlZCgiZ3JwYy1wb3J0IikgewoKCQlhZGRyZXNzIDo9IHZDb24uR2V0U3RyaW5nKCJncnBjLiIgKyAqU2VydmVyKQoJCXBvcnQgOj0gc3RyaW5ncy5TcGxpdChhZGRyZXNzLCAiOiIpCgkJKkdycGNQb3J0ID0gcG9ydFsxXQoJfQoK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWFkZHJlc3MgOj0gdkNvbi5HZXRTdHJpbmcoImdycGMuIiArICpTZXJ2ZXIpCglwb3J0IDo9IHN0cmluZ3MuU3BsaXQoYWRkcmVzcywgIjoiKQoJKkdycGNQb3J0ID0gcG9ydFsxXQo=</text>
+        <text encoding="base64">CQlyZXR1cm4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CWZsYWcuVmlzaXQoZnVuYyhpICpmbGFnLkZsYWcpIHsKCQlpZiBpLk5hbWUgPT0gImdycGMtcG9ydCIgewoJCQlmbXQuUHJpbnRsbigiZ3JwYyBwb3J0IHNldCIpCgkJfQoJCWZtdC5QcmludGxuKGkuTmFtZSkKCX0p</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlmbGFncy5Tb3J0RmxhZ3MgPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
