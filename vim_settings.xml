@@ -236,11 +236,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556171796053">
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="45" column="27" />
-        <mark key="^" line="41" column="7" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556174646982">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="35" />
+        <mark key="." line="57" column="35" />
+        <mark key="^" line="45" column="4" />
       </file>
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
@@ -269,7 +269,7 @@
       <file name="/app.app_follow [prd - app@192.168.10.20]" timestamp="1537348262960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1556112344663" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1556172871719" />
       <file name="/wos_ogs.ogs_config_grade [dev - wos_ogs@10.10.18.130]" timestamp="1537353840322">
         <mark key="[" line="0" column="0" />
       </file>
@@ -456,15 +456,18 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556171190755">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556175165932">
         <mark key="'" line="81" column="29" />
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="33" column="50" />
-        <mark key="." line="33" column="34" />
-        <mark key="^" line="29" column="57" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="17" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-prd.go" timestamp="1556174503893">
+        <mark key="[" line="2" column="24" />
       </file>
       <file name="/collaborators [prd - codepush@192.168.10.73]" timestamp="1527726997939">
         <mark key="[" line="0" column="0" />
@@ -679,6 +682,9 @@
       </file>
       <file name="/mobile_auth_logs [prd - oa_new@192.168.10.6]" timestamp="1534850353198">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1556174498177">
+        <mark key="[" line="2" column="24" />
       </file>
       <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1541466248395">
         <mark key="[" line="0" column="0" />
@@ -916,6 +922,7 @@
       <file name="/wos_common.sys_notify_action [prd - wos_common@192.168.10.112]" timestamp="1539573081969">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/go.sum" timestamp="1556174052028" />
       <file name="/sys_user_notify [dev - wos_common@10.10.18.130]" timestamp="1534250637338">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1060,7 +1067,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;grpc port set&quot;</text>
+        <text>nginx</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -1069,35 +1076,34 @@
         <text encoding="base64">CQkJZm10LlByaW50bG4oImdycGMgcG9ydCBzZXQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWFkZHJlc3MgOj0gdkNvbi5HZXRTdHJpbmcoImdycGMuIiArICpTZXJ2ZXIpCglwb3J0IDo9IHN0cmluZ3MuU3BsaXQoYWRkcmVzcywgIjoiKQoJKkdycGNQb3J0ID0gcG9ydFsxXQo=</text>
+        <text encoding="base64">CQlyZXR1cm4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CWZsYWcuVmlzaXQoZnVuYyhpICpmbGFnLkZsYWcpIHsKCQlpZiBpLk5hbWUgPT0gImdycGMtcG9ydCIgewoJCQlmbXQuUHJpbnRsbigiZ3JwYyBwb3J0IHNldCIpCgkJfQoJCWZtdC5QcmludGxuKGkuTmFtZSkKCX0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlmbGFncy5Tb3J0RmxhZ3MgPSBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmxhZy5WaXNpdChmdW5jKGkgKmZsYWcuRmxhZykgeyAJCWlmIGkuTmFtZSA9PSAiZ3JwYy1wb3J0IiB7IAkJCWZtdC5QcmludGxuKCJncnBjIHBvcnQgc2V0IikgCQl9IAkJZm10LlByaW50bG4oaS5OYW1lKSAJfSkK</text>
+        <text encoding="base64">CS8vIOayoeacieS8oOWFpWdycGMtcG9ydOWImeivu+WPlumFjee9ruaWh+aho+eahOiuvue9ruerr+WPowoJaWYgIWlzRmxhZ1Bhc3NlZCgiZ3JwYy1wb3J0IikgewoKCQlhZGRyZXNzIDo9IHZDb24uR2V0U3RyaW5nKCJncnBjLiIgKyAqU2VydmVyKQoJCXBvcnQgOj0gc3RyaW5ncy5TcGxpdChhZGRyZXNzLCAiOiIpCgkJKkdycGNQb3J0ID0gcG9ydFsxXQoJfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWFkZHJlc3MgOj0gdkNvbi5HZXRTdHJpbmcoImdycGMuIiArICpTZXJ2ZXIpCglwb3J0IDo9IHN0cmluZ3MuU3BsaXQoYWRkcmVzcywgIjoiKQoJKkdycGNQb3J0ID0gcG9ydFsxXQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CglhZGRyZXNzIDo9IGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLiIgKyAqY29uZmlnLlNlcnZlcikKCXBvcnQgOj0gc3RyaW5ncy5TcGxpdChhZGRyZXNzLCAiOiIp</text>
+        <text encoding="base64">CWZsYWcuVmlzaXQoZnVuYyhpICpmbGFnLkZsYWcpIHsKCQlpZiBpLk5hbWUgPT0gImdycGMtcG9ydCIgewoJCQlmbXQuUHJpbnRsbigiZ3JwYyBwb3J0IHNldCIpCgkJfQoJCWZtdC5QcmludGxuKGkuTmFtZSkKCX0p</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
+        <text encoding="base64">ZmxhZy5WaXNpdChmdW5jKGkgKmZsYWcuRmxhZykgeyAJCWlmIGkuTmFtZSA9PSAiZ3JwYy1wb3J0IiB7IAkJCWZtdC5QcmludGxuKCJncnBjIHBvcnQgc2V0IikgCQl9IAkJZm10LlByaW50bG4oaS5OYW1lKSAJfSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>address := config.Vip.GetString(&quot;grpc.&quot; + *config.Server)
-port := strings.Split(address, &quot;:&quot;)</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">CglhZGRyZXNzIDo9IGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLiIgKyAqY29uZmlnLlNlcnZlcikKCXBvcnQgOj0gc3RyaW5ncy5TcGxpdChhZGRyZXNzLCAiOiIp</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWxvZwo=</text>
+        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
