@@ -187,10 +187,10 @@
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1530605673185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556266953658">
-        <mark key="[" line="50" column="40" />
-        <mark key="]" line="50" column="40" />
-        <mark key="." line="50" column="40" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556269033995">
+        <mark key="[" line="79" column="11" />
+        <mark key="]" line="79" column="11" />
+        <mark key="." line="79" column="11" />
         <mark key="^" line="50" column="39" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
@@ -237,11 +237,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556267128224">
-        <mark key="[" line="79" column="8" />
-        <mark key="]" line="78" column="7" />
-        <mark key="." line="78" column="7" />
-        <mark key="^" line="78" column="7" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556268690865">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="48" column="21" />
       </file>
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
@@ -447,12 +447,12 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556238646315">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556268448367">
         <mark key="'" line="81" column="29" />
-        <mark key="[" line="78" column="26" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="78" column="44" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="4" column="22" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
@@ -693,10 +693,10 @@
       <file name="/ogs_config_protocol_type [dev - wos_ogs@10.10.18.130]" timestamp="1533728597187">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1556186371009">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1556268592940">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
       </file>
       <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1541466248583">
         <mark key="[" line="0" column="0" />
@@ -1067,43 +1067,43 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXJyIA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">L3NyYy9yZXN0Cg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRXJyb3JMZXZlbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHJldHVybiAJCg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuSW5mb0xldmVsKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHBhcmFtIAkK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHBhdGgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vcGF0aCA6PSBzdHJpbmcoc1swIDogaSsxXSkK</text>
+        <text encoding="base64">CWRlZmVyIGdsb2cuRmx1c2goKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJmaWxlOiIsIGZpbGUpCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2dvbGFuZy9nbG9nIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJkaXI6IiwgZGlyKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGluZm8pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ3ZDoiLCB3ZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CS8vaSA6PSBzdHJpbmdzLkxhc3RJbmRleChzLCAiXFwiKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CWxvZy5EZWJ1ZygiZGVidWcgdGVzdCIsIjEyMSIpCglsb2cuSW5mbygiaW5mbyB0ZXN0IikKCWxvZy5FcnJvcigiZXJyb3IgdGVzdCIpCglsb2cuRmF0YWwoImZhdGFsIHRlc3QiKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gTG9hZFlhbWwg5Yqg6L29eWFtbOagvOW8j+mFjee9ru+8jOW5tuaJk+WMhei/m+S6jOi/m+WItgo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
