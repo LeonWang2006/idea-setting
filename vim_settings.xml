@@ -141,10 +141,10 @@
       <file name="/wos_hrs.hrs_yiilog_operation [prd - wos_hrs@192.168.10.112]" timestamp="1538026946179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1554868741104">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1556264721610">
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="41" column="5" />
+        <mark key="." line="41" column="5" />
       </file>
       <file name="/meeting_logs [prd - oa_new@192.168.10.6]" timestamp="1529386315168">
         <mark key="[" line="0" column="0" />
@@ -187,7 +187,7 @@
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1530605673185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556261855509">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556264898261">
         <mark key="[" line="79" column="66" />
         <mark key="]" line="79" column="66" />
         <mark key="." line="79" column="66" />
@@ -237,11 +237,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556186052412">
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="20" />
-        <mark key="^" line="33" column="20" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556264557437">
+        <mark key="[" line="98" column="11" />
+        <mark key="]" line="98" column="11" />
+        <mark key="." line="98" column="11" />
+        <mark key="^" line="90" column="17" />
       </file>
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
@@ -728,6 +728,12 @@
       <file name="/oa_new.vdepartment [prd - oa_new@192.168.10.6]" timestamp="1540284388628">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.com/lestrrat/go-file-rotatelogs@v0.0.0-20180223000712-d3151e2a480f/rotatelogs.go" timestamp="1556264834506">
+        <mark key="[" line="100" column="7" />
+        <mark key="]" line="100" column="6" />
+        <mark key="^" line="100" column="6" />
+        <mark key="." line="100" column="6" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/resources/application-prd.yml" timestamp="1553570291276">
         <mark key="[" line="133" column="33" />
         <mark key="]" line="133" column="33" />
@@ -1067,43 +1073,43 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>fdasfa</text>
+        <text>rest</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
+        <text encoding="base64">L3NyYy9yZXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2dycGMtZWNvc3lzdGVtL2dycGMtZ2F0ZXdheS9ydW50aW1lIgo=</text>
+        <text encoding="base64">LnZzY29kZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRGb3JtYXR0ZXIoJmxvZ3J1cy5UZXh0Rm9ybWF0dGVye0Z1bGxUaW1lc3RhbXA6IHRydWUsfSkK</text>
+        <text encoding="base64">c3JjL3Jlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vdG9vbHMuQ2hlY2tFcnIoZXJyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiUrdlxuIiwgbG9nLkxvZ2dlcikK</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2dycGMtZWNvc3lzdGVtL2dycGMtZ2F0ZXdheS9ydW50aW1lIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxvZy5Mb2dnZXIuV2l0aEZpZWxkKCJudW1iZXIiOiAxMjIpLkluZm8oKQo=</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRGb3JtYXR0ZXIoJmxvZ3J1cy5UZXh0Rm9ybWF0dGVye0Z1bGxUaW1lc3RhbXA6IHRydWUsfSkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CWxvZy5Mb2dnZXIuV2l0aEZpZWxkcyhsb2d7CgkJImFuaW1hbCI6ICJ3YWxydXMiLAoJfSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vTG9nZ2VyLlNldEZvcm1hdHRlcigmbG9ncnVzLlRleHRGb3JtYXR0ZXJ7fSkK</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiUrdlxuIiwgbG9nLkxvZ2dlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUxvZ2dlci5XaXRoVGltZSh0aW1lLk5vdygpKQo=</text>
+        <text encoding="base64">CWxvZy5Mb2dnZXIuV2l0aEZpZWxkKCJudW1iZXIiOiAxMjIpLkluZm8oKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CWxvZy5Mb2dnZXIuV2l0aEZpZWxkcyhsb2d7CgkJImFuaW1hbCI6ICJ3YWxydXMiLAoJfSk=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
