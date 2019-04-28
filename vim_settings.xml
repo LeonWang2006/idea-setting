@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/model/user.go" timestamp="1556456037283">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+      </file>
       <file name="/fragment.go" timestamp="1556171379560">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -29,6 +34,7 @@
         <mark key="]" line="26" column="8" />
         <mark key="." line="26" column="8" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/client/client.go" timestamp="1556455997406" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1550125083045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -39,6 +45,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1556455992579">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/queue/topic/todoTopic.go" timestamp="1556412448115">
         <mark key="[" line="48" column="8" />
@@ -134,7 +145,7 @@
         <mark key="." line="24" column="4" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/go.mod" timestamp="1556454803988">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/go.mod" timestamp="1556456115814">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -146,7 +157,7 @@
         <mark key="." line="318" column="28" />
         <mark key="^" line="318" column="28" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitmodules" timestamp="1556455151843">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitmodules" timestamp="1556455846980">
         <mark key="[" line="2" column="58" />
         <mark key="]" line="2" column="58" />
         <mark key="." line="2" column="58" />
@@ -260,7 +271,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
