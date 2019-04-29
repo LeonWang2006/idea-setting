@@ -250,12 +250,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556454871545">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="19" />
-      </file>
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -443,7 +437,7 @@
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556500476683">
+      <file name="/Dummy.txt" timestamp="1556527487640">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -720,8 +714,10 @@
       <file name="/mobile_auth_logs [prd - oa_new@192.168.10.6]" timestamp="1534850353198">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1556174498177">
-        <mark key="[" line="2" column="24" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1556527000897">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/app_user_logs [dev - ws_app@10.10.18.132]" timestamp="1541466248395">
         <mark key="[" line="0" column="0" />
@@ -741,11 +737,6 @@
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1556193269236" />
       <file name="/ogs_config_protocol_type [dev - wos_ogs@10.10.18.130]" timestamp="1533728597187">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1556412628231">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="/app_weixin [dev - ws_app@10.10.18.132]" timestamp="1541466248583">
         <mark key="[" line="0" column="0" />
@@ -816,11 +807,6 @@
       <file name="/hrs_focus [prd - wos_hrs@192.168.10.112]" timestamp="1532309280778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/logstash.go" timestamp="1556069652343">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="/app_user_logs [prd - app@192.168.10.20]" timestamp="1551689566765">
         <mark key="[" line="0" column="0" />
       </file>
@@ -846,12 +832,6 @@
       </file>
       <file name="/deployments [prd - codepush@192.168.10.73]" timestamp="1527726906642">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/ftp.go" timestamp="1556412548973">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
-        <mark key="^" line="19" column="13" />
       </file>
       <file name="/users11 [dev - sharetronix@192.168.10.61]" timestamp="1522916167101">
         <mark key="[" line="0" column="0" />
@@ -1153,37 +1133,31 @@
         <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIoZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL2FwcDogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z28gMS4xMgo=</text>
+        <text encoding="base64">ICAvL2hyczogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL29nczogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQlpZiBsZW4ob3B0aW9ucykgPiAwIHsKCQkJcGF0aCA6PSAiLi9sb2dzLyIgKyBvcHRpb25zWzBdCgkJCXMgOj0gZm10LlNwcmludGYoIiVzOiAlcyIsIG1zZywgZXJyKQoJCQlpb3V0aWwuV3JpdGVGaWxlKHBhdGgsIFtdYnl0ZShzKSwgb3MuTW9kZUFwcGVuZCkKCQl9IGVsc2UgewoJCQlsb2cuRXJyb3IobXNnLCBlcnIpCgkJfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Z28gMS4xMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>//公用报错
-func failOnError(err error, msg string) {
-	if err != nil {
-		log.Info(&quot;%s: %s&quot;, msg, err)
-		//log.Fatalf(&quot;%s: %s&quot;, msg, err)
-	}
-}</text>
+        <text encoding="base64">CQlpZiBsZW4ob3B0aW9ucykgPiAwIHsKCQkJcGF0aCA6PSAiLi9sb2dzLyIgKyBvcHRpb25zWzBdCgkJCXMgOj0gZm10LlNwcmludGYoIiVzOiAlcyIsIG1zZywgZXJyKQoJCQlpb3V0aWwuV3JpdGVGaWxlKHBhdGgsIFtdYnl0ZShzKSwgb3MuTW9kZUFwcGVuZCkKCQl9IGVsc2UgewoJCQlsb2cuRXJyb3IobXNnLCBlcnIpCgkJfQ==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CSJsb2ciCg==</text>
