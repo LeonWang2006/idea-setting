@@ -3,19 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/log.go" timestamp="1556595208370" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log-caller.go" timestamp="1556614719612">
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="53" />
+        <mark key="^" line="23" column="53" />
+      </file>
+      <file name="/log.go" timestamp="1556611560822" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/model/user.go" timestamp="1556456037283">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="/fragment.go" timestamp="1556607947322">
+      <file name="/fragment.go" timestamp="1556614706415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/sirupsen/logrus@v1.4.1/text_formatter.go" timestamp="1556198582887" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/qrcode.go" timestamp="1556605639714">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/qrcode.go" timestamp="1556611875851">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -38,7 +44,7 @@
         <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/client/client.go" timestamp="1556455997406" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/meetingService.go" timestamp="1556607991706">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/meetingService.go" timestamp="1556613841356">
         <mark key="[" line="136" column="19" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556608716104">
@@ -87,17 +93,23 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/log-caller.go" timestamp="1556613497562" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/queue/topic/msgTopic.go" timestamp="1556605573889">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1556586527063" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1556609366376">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="86" column="1" />
-        <mark key="^" line="91" column="36" />
-        <mark key="." line="86" column="1" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/syslog/log-caller.go" timestamp="1556612629622">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1556613556693">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="34" column="4" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/queue/queue.go" timestamp="1556605532486">
         <mark key="[" line="8" column="15" />
@@ -114,7 +126,12 @@
         <mark key="^" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1556193269236" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/syslog/log.go" timestamp="1556609799124" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/syslog/log.go" timestamp="1556612701086">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1556607785479">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -139,11 +156,11 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/syslog/hook-caller.go" timestamp="1556609959597">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/syslog/hook-caller.go" timestamp="1556612310410">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="12" />
+        <mark key="^" line="23" column="12" />
+        <mark key="." line="23" column="12" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/log/log.go" timestamp="1556452856178" />
       <file name="$USER_HOME$/go/pkg/mod/github.com/sirupsen/logrus@v1.4.1/entry.go" timestamp="1556605185924" />
@@ -268,7 +285,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.String()</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -277,34 +294,34 @@
         <text encoding="base64">CQllbnRyeS5Mb2dnZXIuUmVwb3J0Q2FsbGVyID0gZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXN3aXRjaCBlbnRyeS5MZXZlbCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWVudHJ5LkRhdGFbImZpbGUiXSA9IGdldEZpbGUoKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CWNhc2UgImVycm9yIjoKCQllbnRyeS5Mb2dnZXIuUmVwb3J0Q2FsbGVyID0gdHJ1ZQoJCWJyZWFrCglkZWZhdWx0OgoJCWVudHJ5LkxvZ2dlci5SZXBvcnRDYWxsZXIgPSBmYWxzZQoJCWJyZWFrCgl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CTkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNhc2UgbG9ncnVzLldhcm5MZXZlbDoKCWNhc2UgbG9ncnVzLkluZm9MZXZlbDoKCWNhc2UgbG9ncnVzLkRlYnVnTGV2ZWw6Cg==</text>
+        <text encoding="base64">CWVudHJ5LkVycm9yKGZpbGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmlsCg==</text>
+        <text encoding="base64">CWZpbGUgICBzdHJpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gaG9vay5Xcml0ZXIuRXJyKGxpbmUpCg==</text>
+        <text encoding="base64">CXJldHVybiAmQ2FsbGVySG9va3tsb2dnZXIsIGZpbGV9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gaG9vay5Xcml0ZXIuRGVidWcobGluZSkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CWluc3QgOj0gJkNhbGxlckhvb2t7CgkJbG9nZ2VyOiBMb2dnZXIsCgkJZmlsZTogICBmaWxlcGF0aC5CYXNlKGZpbGUpLAoJfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gaG9vay5Xcml0ZXIuSW5mbyhsaW5lKQo=</text>
+        <text encoding="base64">CSJsb2cvc3lzbG9nIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gaG9vay5Xcml0ZXIuV2FybmluZyhsaW5lKQo=</text>
+        <text encoding="base64">CXcsIGVyciA6PSBzeXNsb2cuRGlhbChuZXR3b3JrLCByYWRkciwgcHJpb3JpdHksIHRhZykK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
