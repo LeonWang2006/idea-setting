@@ -200,11 +200,11 @@
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1530605673185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556587926901">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556589600793">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="75" column="1" />
         <mark key="^" line="27" column="36" />
+        <mark key="." line="75" column="1" />
       </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
@@ -255,6 +255,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556589349744">
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
@@ -1141,34 +1147,60 @@
         <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIoZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRmF0YWxMZXZlbCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRGVidWdMZXZlbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuV2FybkxldmVsKQo=</text>
+      <register name="5" type="4">
+        <text>// Info send log info to logstash
+func Info(format string, args ...interface{}) {
+	Logger.SetReportCaller(false)
+	Logger.Infof(format, args)
+}
+
+// Error send log error to logstash
+func Error(format string, args ...interface{}) {
+	Logger.Errorf(format, args)
+}
+
+// Warn send log warn to logstash
+func Warn(format string, args ...interface{}) {
+	Logger.SetReportCaller(false)
+	Logger.Warnf(format, args)
+}
+
+// Debug send log debug to logstash
+func Debug(format string, args ...interface{}) {
+	Logger.SetReportCaller(false)
+	Logger.Debugf(format, args)
+}
+
+// Fatal send log fatal to logstash
+func Fatal(format string, args ...interface{}) {
+	Logger.Fatalf(format, args)
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRXJyb3JMZXZlbCkK</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuSW5mb0xldmVsKQo=</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRmF0YWxMZXZlbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL2FwcDogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRGVidWdMZXZlbCkK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
