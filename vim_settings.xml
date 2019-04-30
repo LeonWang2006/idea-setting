@@ -44,6 +44,7 @@
       <file name="/news_info [prd - oa_new@192.168.10.6]" timestamp="1525661378077">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/log.go" timestamp="1556595208370" />
       <file name="/target_category [@visit.db.cc]" timestamp="1529457250837">
         <mark key="[" line="0" column="0" />
       </file>
@@ -177,6 +178,7 @@
       <file name="/posts_comments_mentioned [dev - sharetronix@192.168.10.61]" timestamp="1525329757795">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/hook-caller.go" timestamp="1556595851082" />
       <file name="/office [visit@yun.db.org]" timestamp="1532505394987">
         <mark key="[" line="0" column="0" />
       </file>
@@ -256,12 +258,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556589349744">
-        <mark key="[" line="32" column="7" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1556589349744" />
       <file name="/cus_push_audited [dev - ekpwondersharetest@192.168.10.163]" timestamp="1525759378044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -487,9 +484,6 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556529955481">
         <mark key="'" line="81" column="29" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
         <mark key="^" line="4" column="22" />
       </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
@@ -608,13 +602,17 @@
       <file name="/wos_ogs.ogs_department [dev - wos_ogs@10.10.18.130]" timestamp="1542332554107">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/loghook.go" timestamp="1556595463851">
+        <mark key="[" line="0" column="11" />
+      </file>
       <file name="/ogs_users [dev - wos_ogs@10.10.18.130]" timestamp="1534562504089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1556594203966">
-        <mark key="[" line="77" column="26" />
-        <mark key="]" line="77" column="26" />
-        <mark key="." line="77" column="26" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1556595737196">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="41" column="13" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/department [@visit.db.cc]" timestamp="1529047423220">
         <mark key="[" line="0" column="0" />
@@ -1152,21 +1150,27 @@
         <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIoZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldCA6PSBsb2dydXMuTmV3KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiByZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>// Info send log info to logstash
 func Info(format string, args ...interface{}) {
 	Logger.SetReportCaller(false)
@@ -1195,17 +1199,11 @@ func Fatal(format string, args ...interface{}) {
 	Logger.Fatalf(format, args)
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRmF0YWxMZXZlbCkK</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRGVidWdMZXZlbCkK</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
