@@ -200,6 +200,12 @@
       <file name="/app_contacts [prd - app@192.168.10.20]" timestamp="1530605673185">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/log.go" timestamp="1556587926901">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="27" column="36" />
+      </file>
       <file name="/sys_user_auth_tree [prd - wos_common@192.168.10.112]" timestamp="1525998483898">
         <mark key="[" line="0" column="0" />
       </file>
@@ -568,7 +574,7 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1556432039020" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1556586527063" />
       <file name="/wos_ogs.ogs_permission_category [dev - wos_ogs@10.10.18.130]" timestamp="1538137441308">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1135,34 +1141,34 @@
         <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIoZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL2FwcDogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIodHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL2hyczogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRmF0YWxMZXZlbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL29nczogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRGVidWdMZXZlbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuV2FybkxldmVsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z28gMS4xMgo=</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuRXJyb3JMZXZlbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUxvZ2dlci5TZXRMZXZlbChsb2dydXMuSW5mb0xldmVsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJsb2ciCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQlpZiBsZW4ob3B0aW9ucykgPiAwIHsKCQkJcGF0aCA6PSAiLi9sb2dzLyIgKyBvcHRpb25zWzBdCgkJCXMgOj0gZm10LlNwcmludGYoIiVzOiAlcyIsIG1zZywgZXJyKQoJCQlpb3V0aWwuV3JpdGVGaWxlKHBhdGgsIFtdYnl0ZShzKSwgb3MuTW9kZUFwcGVuZCkKCQl9IGVsc2UgewoJCQlsb2cuRXJyb3IobXNnLCBlcnIpCgkJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvL2FwcDogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
