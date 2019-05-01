@@ -510,6 +510,13 @@
       <file name="/sys_countries [prd - wos_common@192.168.10.112]" timestamp="1539833930736">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1556607038164">
+        <mark key="'" line="81" column="29" />
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/office [@visit.db.cc]" timestamp="1529456044183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -638,7 +645,8 @@
       <file name="/ogs_users [dev - wos_ogs@10.10.18.130]" timestamp="1534562504089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1556677886401">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1556678938371">
+        <mark key="'" line="48" column="63" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="34" column="4" />
@@ -1092,7 +1100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="8" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="9" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="10" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -1192,6 +1199,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
       <jump line="25" column="8" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
       <jump line="80" column="29" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
+      <jump line="48" column="63" filename="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
