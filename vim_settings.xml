@@ -255,10 +255,11 @@
       <file name="/wos_hrs.hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1539174039826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/jwthandler.go" timestamp="1557041018820">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/jwthandler.go" timestamp="1557044915128">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="/hrs_evaluate_log [dev - wos_hrs@10.10.18.130]" timestamp="1527476389935">
         <mark key="[" line="0" column="0" />
@@ -1212,7 +1213,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>user string</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -1220,19 +1221,22 @@
       <register name="0" type="2">
         <text encoding="base64">CQltdXguSGFuZGxlKCIvc3dhZ2dlci8iLCBzZXJ2ZXIuU3dhZ2dlclNlcnZlcihvcHRzLlN3YWdnZXJEaXIpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdG9rZW4uU2lnbmVkU3RyaW5nKFtdYnl0ZSgid29uZGVyc2hhcmUiKSkgLy/lr7nlupTnmoTlrZfnrKbkuLLor7foh6rooYznlJ/miJDvvIzmnIDlkI7otrPlpJ/kvb/nlKjliqDlr4blkI7nmoTlrZfnrKbkuLIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQl0b2tlblN0ciA6PSByLkhlYWRlci5HZXQoImF1dGhvcml6YXRpb24iKQoJCXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCgoJCS8vIOaXoOmqjOivgeWktOebtOaOpei/lOWbnuWTjeW6lAoJCWlmIHRva2VuU3RyID09ICIiIHsKCQkJYXV0aEVycm9yKHAsIHcpCgkJCXdsb2cuRXJyb3IocC5NZXNzYWdlKQoJCQlyZXR1cm4KCQl9CgoJCXNwbGl0IDo9IHN0cmluZ3MuU3BsaXQodG9rZW5TdHIsICIgIik=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gdG9rZW4uU2lnbmVkU3RyaW5nKFtdYnl0ZSgid29uZGVyc2hhcmUiKSkgLy/lr7nlupTnmoTlrZfnrKbkuLLor7foh6rooYznlJ/miJDvvIzmnIDlkI7otrPlpJ/kvb/nlKjliqDlr4blkI7nmoTlrZfnrKbkuLIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>func GenerateToken(user string) (string, error) {
 	token := jwt.NewWithClaims(jwt.SigningMethodHS256, jwt.MapClaims{
 		&quot;user&quot;: user,
@@ -1242,20 +1246,17 @@
 	return token.SignedString([]byte(&quot;wondershare&quot;)) //对应的字符串请自行生成，最后足够使用加密后的字符串
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJYXV0aEVycm9yKHAsIHcpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJd2xvZy5FcnJvcihwLk1lc3NhZ2UpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWdycGNFcnIgPSBlcnIK</text>
+        <text encoding="base64">CXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
