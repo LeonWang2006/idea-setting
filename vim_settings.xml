@@ -6,7 +6,7 @@
       <file name="/ogs_department_temp [dev - wos_ogs@10.10.18.130]" timestamp="1533728496887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557028806056">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557035821629">
         <mark key="[" line="31" column="99" />
         <mark key="]" line="40" column="28" />
         <mark key="." line="40" column="28" />
@@ -35,11 +35,6 @@
       </file>
       <file name="/sys_content_publish [prd - wos_common@192.168.10.112]" timestamp="1539833930779">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log-caller.go" timestamp="1557014768250">
-        <mark key="]" line="95" column="4" />
-        <mark key="." line="95" column="4" />
-        <mark key="^" line="95" column="4" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/uber/jaeger-client-go@v2.16.0+incompatible/config/options.go" timestamp="1556627976812" />
       <file name="/hrs_cache_ehr_member [prd - wos_hrs@192.168.10.112]" timestamp="1527470069958">
@@ -135,6 +130,7 @@
       <file name="/hrs_cache_ehr_employee [prd - wos_hrs@192.168.10.112]" timestamp="1531475931241">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1557037868211" />
       <file name="/a.sql" timestamp="1556500476680">
         <mark key="[" line="0" column="0" />
       </file>
@@ -259,6 +255,11 @@
       <file name="/wos_hrs.hrs_log_operate [prd - wos_hrs@192.168.10.112]" timestamp="1539174039826">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/jwthandler.go" timestamp="1557038226947">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
       <file name="/hrs_evaluate_log [dev - wos_hrs@10.10.18.130]" timestamp="1527476389935">
         <mark key="[" line="0" column="0" />
       </file>
@@ -306,6 +307,12 @@
       </file>
       <file name="/app.app_follow [prd - app@192.168.10.20]" timestamp="1537348262960">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/swaggerhandler.go" timestamp="1557038034253">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/wos_ogs.ogs_config_grade [dev - wos_ogs@10.10.18.130]" timestamp="1537353840322">
         <mark key="[" line="0" column="0" />
@@ -424,6 +431,7 @@
       <file name="/sharetronix.users [dev - sharetronix@192.168.10.61]" timestamp="1536650552863">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/jwt.go" timestamp="1557037952306" />
       <file name="/sys_user [dev - wos_common@10.10.18.130]" timestamp="1524723769654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -602,11 +610,11 @@
       <file name="/wos_common.sys_user [prd - wos_common@192.168.10.112]" timestamp="1544600329047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1557020497738">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="81" column="14" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1557038221426">
+        <mark key="[" line="54" column="45" />
+        <mark key="]" line="54" column="45" />
+        <mark key="^" line="54" column="21" />
+        <mark key="." line="54" column="45" />
       </file>
       <file name="/wos_ogs.ogs_permission_category [dev - wos_ogs@10.10.18.130]" timestamp="1538137441308">
         <mark key="[" line="0" column="0" />
@@ -1047,6 +1055,9 @@
       <file name="/sharetronix.users [prd - sharetronix@192.168.10.65]" timestamp="1544531736858">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1557037546964">
+        <mark key="[" line="70" column="0" />
+      </file>
       <file name="/cus_push_audited [ekpwondershare@192.168.10.136]" timestamp="1533089544668">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1201,43 +1212,50 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,err</text>
+        <text>user string</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJd2xvZy5FcnJvcihwLk1lc3NhZ2UsZXJyKQo=</text>
+        <text encoding="base64">CQltdXguSGFuZGxlKCIvc3dhZ2dlci8iLCBzZXJ2ZXIuU3dhZ2dlclNlcnZlcihvcHRzLlN3YWdnZXJEaXIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gdG9rZW4uU2lnbmVkU3RyaW5nKFtdYnl0ZSgid29uZGVyc2hhcmUiKSkgLy/lr7nlupTnmoTlrZfnrKbkuLLor7foh6rooYznlJ/miJDvvIzmnIDlkI7otrPlpJ/kvb/nlKjliqDlr4blkI7nmoTlrZfnrKbkuLIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJYXV0aEVycm9yKHAsIHcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJd2xvZy5FcnJvcihwLk1lc3NhZ2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCg==</text>
+      <register name="4" type="4">
+        <text>func GenerateToken(user string) (string, error) {
+	token := jwt.NewWithClaims(jwt.SigningMethodHS256, jwt.MapClaims{
+		&quot;user&quot;: user,
+		&quot;exp&quot;:  time.Now().Add(time.Hour * 2).Unix(), // 可以添加过期时间
+	})
+
+	return token.SignedString([]byte(&quot;wondershare&quot;)) //对应的字符串请自行生成，最后足够使用加密后的字符串
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWdycGNFcnIgPSBlcnIK</text>
+        <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkZWZlciBjb25uLkNsb3NlKCkK</text>
+        <text encoding="base64">CQkJYXV0aEVycm9yKHAsIHcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy9nbG9nLkVycm9yZigiRmFpbGVkIHRvIGNsb3NlICVzICVzOiAldiIsIG5ldHdvcmssIHBvcnQsIGVycikK</text>
+        <text encoding="base64">CQkJd2xvZy5FcnJvcihwLk1lc3NhZ2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlqCg==</text>
+        <text encoding="base64">CXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewoJCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCWdycGNFcnIgPSBlcnIK</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
