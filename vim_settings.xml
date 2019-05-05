@@ -6,6 +6,12 @@
       <file name="/ogs_department_temp [dev - wos_ogs@10.10.18.130]" timestamp="1533728496887">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557016852244">
+        <mark key="[" line="63" column="17" />
+        <mark key="]" line="63" column="22" />
+        <mark key="." line="63" column="22" />
+        <mark key="^" line="63" column="22" />
+      </file>
       <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1532780138018">
         <mark key="[" line="0" column="0" />
       </file>
@@ -373,11 +379,15 @@
         <mark key="^" line="20" column="40" />
         <mark key="." line="20" column="40" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1557015735966">
-        <mark key="[" line="21" column="68" />
-        <mark key="]" line="21" column="67" />
-        <mark key="^" line="21" column="67" />
-        <mark key="." line="21" column="67" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1557017482600">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1557017182448">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/posts_pr_comments_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1525884570326">
         <mark key="[" line="0" column="0" />
@@ -457,6 +467,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/hrs_cache_ehr_employee_uncheck [prd - wos_hrs@192.168.10.112]" timestamp="1531475933241">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557017777683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sys_notify [dev - wos_common@10.10.18.130]" timestamp="1527133562070">
@@ -539,6 +552,7 @@
       <file name="/oauth_log [dev - sharetronix@192.168.10.61]" timestamp="1522833118565">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/wlog/log-caller.go" timestamp="1557016069377" />
       <file name="/fragment.java" timestamp="1551419216658">
         <mark key="[" line="0" column="0" />
       </file>
@@ -586,10 +600,10 @@
       <file name="/wos_common.sys_user [prd - wos_common@192.168.10.112]" timestamp="1544600329047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1557015994045">
-        <mark key="[" line="31" column="69" />
-        <mark key="]" line="31" column="69" />
-        <mark key="." line="31" column="69" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1557017504988">
+        <mark key="[" line="99" column="66" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="/wos_ogs.ogs_permission_category [dev - wos_ogs@10.10.18.130]" timestamp="1538137441308">
         <mark key="[" line="0" column="0" />
@@ -847,6 +861,11 @@
       <file name="/hrs_focus [prd - wos_hrs@192.168.10.112]" timestamp="1532309280778">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/logstash.go" timestamp="1556069652343">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/json/timefmt.go" timestamp="1556530112410" />
       <file name="/app_user_logs [prd - app@192.168.10.20]" timestamp="1551689566765">
         <mark key="[" line="0" column="0" />
@@ -922,6 +941,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/log/log.go" timestamp="1556452856178" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1557017186914">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/hrs_log_comment [dev - wos_hrs@10.10.18.130]" timestamp="1524282364281">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1175,7 +1199,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Vip.GetString(&quot;server.http&quot;)</text>
+        <text>glog</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -1183,46 +1207,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICogQHBhcmFtIGxvZ2dlciBsb2dydXMuTG9nZ2Vy5oyH6ZKICQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CWlmICpjb25maWcuUHJvZmlsZSA9PSAicHJkIiB7CgkJaHR0cE9wdHMuUHJvZmlsZSA9ICJwcmQiCgl9</text>
+      <register name="1" type="2">
+        <text encoding="base64">CWRlZmVyIGdsb2cuRmx1c2goKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkvZzogIXvvJpoYWNrc3Nzc3NzCuadpea6kO+8mkNTRE4K5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpeXVubG9uZzQxL2FydGljbGUvZGV0YWlscy84ODA0MzYwNCAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0b29scy5DaGVja0VycihlcnIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoJCeS9nOiAhe+8mmxpZ2h0VHJhY2UKCeadpea6kO+8mkNTRE4KCeWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9zdXJlU2FuZC9hcnRpY2xlL2RldGFpbHMvODI5MDkxMjEgCgnniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIE=</text>
+        <text encoding="base64">CS8vIOayoeacieS8oOWFpWdycGMtcG9ydOWImeivu+WPlumFjee9ruaWh+aho+eahOiuvue9ruerr+WPowoJaWYgIWlzRmxhZ1Bhc3NlZCgiZ3JwYy1wb3J0IikgewoKCQlhZGRyZXNzIDo9IHZDb24uR2V0U3RyaW5nKCJncnBjLiIgKyAqU2VydmVyKQoJCXBvcnQgOj0gc3RyaW5ncy5TcGxpdChhZGRyZXNzLCAiOiIpCgkJKkdycGNQb3J0ID0gcG9ydFsxXQoJfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text>Merge branch 'develop'
-
-# Conflicts:
-#	src/config/config-dev.go
-#	src/go.mod
-#	src/service/accountService.go
-#	src/service/datumService.go
-#	src/service/departmentService.go
-#	src/service/workService.go
-#	src/util/gredis/redis.go
-#	src/util/tools/ftp.go
-#	src/util/tools/strslice.go</text>
+      <register name="5" type="2">
+        <text encoding="base64">CUdycGNQb3J0ID0gZmxhZy5TdHJpbmcoImdycGMtcG9ydCIsICI1MDA1MSIsICJsaXN0ZW5pbmcgZ3JwYyBwb3J0IikK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CV8sIGZpbGUsIF8sIG9rIDo9IHJ1bnRpbWUuQ2FsbGVyKDEpCglpZiAhb2sgewoJCWZpbGUgPSAidW5rbm93biIKCX0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQHJldHVybgo=</text>
+      <register name="7" type="4">
+        <text>server:
+  http: 8081
+  grpc: 50050</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGxvZ2dlciBsb2dydXMuTG9nZ2Vy5oyH6ZKICg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CWxvZ2dlciAqbG9ncnVzLkxvZ2dlcgoJZmlsZSAgIHN0cmluZw==</text>
+        <text>server:
+  http: 8081
+  grpc: 50050</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
