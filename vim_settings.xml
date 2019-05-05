@@ -6,11 +6,11 @@
       <file name="/ogs_department_temp [dev - wos_ogs@10.10.18.130]" timestamp="1533728496887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557027440139">
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-        <mark key="^" line="66" column="35" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557028271842">
+        <mark key="[" line="31" column="99" />
+        <mark key="]" line="40" column="28" />
+        <mark key="." line="40" column="28" />
+        <mark key="^" line="68" column="35" />
       </file>
       <file name="/posts_mentioned [prd - sharetronix@192.168.10.65]" timestamp="1532780138018">
         <mark key="[" line="0" column="0" />
@@ -1018,10 +1018,10 @@
         <mark key="]" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1557024425273">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1557028116524">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/packages_diff [prd - codepush@192.168.10.73]" timestamp="1527727035605">
         <mark key="[" line="0" column="0" />
@@ -1210,34 +1210,34 @@
         <text encoding="base64">CQkJd2xvZy5FcnJvcihwLk1lc3NhZ2UsZXJyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJYXV0aEVycm9yKHAsIHcpCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJd2xvZy5FcnJvcihwLk1lc3NhZ2UpCg==</text>
+        <text encoding="base64">CQkJYXV0aEVycm9yKHAsIHcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCg==</text>
+        <text encoding="base64">CQkJd2xvZy5FcnJvcihwLk1lc3NhZ2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWdycGNFcnIgPSBlcnIK</text>
+        <text encoding="base64">CXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlkZWZlciBjb25uLkNsb3NlKCkK</text>
+        <text encoding="base64">CQkJCWdycGNFcnIgPSBlcnIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy9nbG9nLkVycm9yZigiRmFpbGVkIHRvIGNsb3NlICVzICVzOiAldiIsIG5ldHdvcmssIHBvcnQsIGVycikK</text>
+        <text encoding="base64">CQlkZWZlciBjb25uLkNsb3NlKCkK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkJLy9nbG9nLkVycm9yZigiRmFpbGVkIHRvIGNsb3NlICVzICVzOiAldiIsIG5ldHdvcmssIHBvcnQsIGVycikK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQlqCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGVsc2UgewoJCX0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJbmV4dCh3LCByKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
