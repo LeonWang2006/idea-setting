@@ -322,9 +322,6 @@
       <file name="/hrs_arecord_import [prd - wos_hrs@192.168.10.112]" timestamp="1527495454418">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitrepository/demo/lib/main.dart" timestamp="1557054415653">
-        <mark key="[" line="94" column="51" />
-      </file>
       <file name="/news_forceread_log [prd - oa_new@192.168.10.6]" timestamp="1525661421548">
         <mark key="[" line="0" column="0" />
       </file>
@@ -362,6 +359,9 @@
       </file>
       <file name="/codepush.deployments_history [prd - codepush@192.168.10.73]" timestamp="1537264992322">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitrepository/demo/pubspec.yaml" timestamp="1557216911573">
+        <mark key="[" line="24" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/90c7e686-d118-48f0-8e53-73a50cbe6a5a/console.sql" timestamp="1523880919016">
         <mark key="[" line="13" column="0" />
@@ -1115,46 +1115,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ampmaQo=</text>
+        <text encoding="base64">ICAgIHZhciB3b3JkID0gd29yZFBhaXIuYXNQYXNjYWxDYXNlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>word</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIoZmFsc2UpCg==</text>
+      <register name="0" type="4">
+        <text>wordPair.asPascalCase</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">ICAgIHZhciB3b3JkID0gd29yZFBhaXIuYXNQYXNjYWxDYXNlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL2FwcDogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">CSJsb2ciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL2hyczogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">ICAvL2FwcDogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL29nczogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">ICAvL2hyczogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL29nczogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z28gMS4xMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z28gMS4xMgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQlpZiBsZW4ob3B0aW9ucykgPiAwIHsKCQkJcGF0aCA6PSAiLi9sb2dzLyIgKyBvcHRpb25zWzBdCgkJCXMgOj0gZm10LlNwcmludGYoIiVzOiAlcyIsIG1zZywgZXJyKQoJCQlpb3V0aWwuV3JpdGVGaWxlKHBhdGgsIFtdYnl0ZShzKSwgb3MuTW9kZUFwcGVuZCkKCQl9IGVsc2UgewoJCQlsb2cuRXJyb3IobXNnLCBlcnIpCgkJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
