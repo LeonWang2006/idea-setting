@@ -141,8 +141,10 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1557037546964">
-        <mark key="[" line="71" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1557473827504">
+        <mark key="[" line="67" column="1" />
+        <mark key="]" line="67" column="1" />
+        <mark key="." line="67" column="1" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.idea/modules.xml" timestamp="1556454265161">
         <mark key="[" line="4" column="45" />
@@ -179,7 +181,7 @@
         <mark key="^" line="138" column="32" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/jwthandler.go" timestamp="1557059062104">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/jwthandler.go" timestamp="1557473859147">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="26" />
@@ -313,34 +315,34 @@
         <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIoZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL2FwcDogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvL2hyczogMTI3LjAuMC4xOjUwMDUwCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gQXV0aENoZWNrIOajgOafpeeUqOaIt+i0puaIt+WvhueggQpmdW5jIChzICpUb2tlblNlcnZlcikgQ2hlY2tBdXRoKGN0eCBjb250ZXh0LkNvbnRleHQsIGluICpwYi5BdXRoQ2hlY2tSZXF1ZXN0KSAoKnBiLkF1dGhDaGVja1Jlc3BvbnNlLCBlcnJvcikgewoKCWRlY29kZUJ5dGVzLCBlcnIgOj0gYmFzZTY0LlN0ZEVuY29kaW5nLkRlY29kZVN0cmluZyhzcGxpdFsxXSkKCXJlc3AgOj0gJnBiLkF1dGhDaGVja1Jlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAic3VjY2VzcyIsIERhdGE6IGZhbHNlfQoJdmFyIHVzZXIgbW9kZWwuU3lzVXNlcgoKCS8v57yT5a2Y5ZCNCglyZWRpc0tleSA6PSAiV09TOkFDQ09VTlQ6QVVUSDoiICsgaW4uVXNlcm5hbWUgKyAiOiIgKyBpbi5QYXNzd29yZCArICI6MTAiCgoJZXJyIDo9IGdyZWRpcy5EYigid29zIikuU2V0RXhwaXJlVGltZSgxMDAwKS5IYW5kbGVGdW5jKHJlZGlzS2V5LCAmdXNlciwgZnVuYygpIGludGVyZmFjZXt9IHsKCQkvL+aVsOaNruW6k+mAu+i+kQoJCWRiLlN5c0RCLldoZXJlKCZtb2RlbC5TeXNVc2VyewoJCQlVc2VyTmFtZTogICAgaW4uVXNlcm5hbWUsCgkJCVBhc3N3b3JkTWQ1OiBpbi5QYXNzd29yZCwKCQkJU3RhdHVzOiAgICAgIDEwLAoJCX0pLkZpcnN0KCZ1c2VyKQoJCXJldHVybiAmdXNlcgoKCX0pCgoJdG9vbHMuQ2hlY2tFcnIoZXJyKQoKCWlmIGxlbih1c2VyLlVzZXJOYW1lKSA+IDAgewoJCXJlc3AuRGF0YSA9IHRydWUKCX0KCglyZXR1cm4gcmVzcCwgbmlsCn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL29nczogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">CSJsb2ciCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL2FwcDogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z28gMS4xMgo=</text>
+        <text encoding="base64">ICAvL2hyczogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL29nczogMTI3LjAuMC4xOjUwMDUwCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQlpZiBsZW4ob3B0aW9ucykgPiAwIHsKCQkJcGF0aCA6PSAiLi9sb2dzLyIgKyBvcHRpb25zWzBdCgkJCXMgOj0gZm10LlNwcmludGYoIiVzOiAlcyIsIG1zZywgZXJyKQoJCQlpb3V0aWwuV3JpdGVGaWxlKHBhdGgsIFtdYnl0ZShzKSwgb3MuTW9kZUFwcGVuZCkKCQl9IGVsc2UgewoJCQlsb2cuRXJyb3IobXNnLCBlcnIpCgkJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Z28gMS4xMgo=</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
