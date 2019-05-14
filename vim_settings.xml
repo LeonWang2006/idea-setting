@@ -9,11 +9,11 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557836946648">
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="45" column="30" />
-        <mark key="." line="45" column="30" />
-        <mark key="^" line="45" column="28" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557838232199">
+        <mark key="[" line="51" column="40" />
+        <mark key="]" line="51" column="39" />
+        <mark key="." line="51" column="39" />
+        <mark key="^" line="51" column="39" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1557837323058">
         <mark key="[" line="3" column="5" />
@@ -21,6 +21,7 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/model/app_user.go" timestamp="1557839137260" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/dockerfile" timestamp="1557818279271">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,8 +77,15 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appUserService.go" timestamp="1557839028146" />
       <file name="/HTML File.txt.ft" timestamp="1557814423405">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/appUser.proto" timestamp="1557839670091">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/email/email.go" timestamp="1556411343965">
         <mark key="[" line="50" column="8" />
@@ -315,7 +323,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>version</text>
+        <text>获</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
