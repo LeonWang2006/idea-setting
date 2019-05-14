@@ -9,11 +9,11 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557835417178">
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="83" column="21" />
-        <mark key="." line="83" column="21" />
-        <mark key="^" line="34" column="43" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557835911369">
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+        <mark key="^" line="45" column="28" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1556455992579">
         <mark key="[" line="3" column="5" />
@@ -114,7 +114,7 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/fragment.go" timestamp="1556171379560">
+      <file name="/fragment.go" timestamp="1557835784496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -315,7 +315,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>version</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -330,28 +330,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIFsiL2FwcCJdCg==</text>
+        <text encoding="base64">CS8vIOeUqOaIt+eZu+W9lemqjOivgeaOpeWPo+S4jeagoemqjAoJaWYgci5SZXF1ZXN0VVJJID09ICIvYXBwL3ZlcnNpb24iIHsKCQluZXh0KHcsIHIpCgl9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gQXV0aENoZWNrIOajgOafpeeUqOaIt+i0puaIt+WvhueggQpmdW5jIChzICpUb2tlblNlcnZlcikgQ2hlY2tBdXRoKGN0eCBjb250ZXh0LkNvbnRleHQsIGluICpwYi5BdXRoQ2hlY2tSZXF1ZXN0KSAoKnBiLkF1dGhDaGVja1Jlc3BvbnNlLCBlcnJvcikgewoKCWRlY29kZUJ5dGVzLCBlcnIgOj0gYmFzZTY0LlN0ZEVuY29kaW5nLkRlY29kZVN0cmluZyhzcGxpdFsxXSkKCXJlc3AgOj0gJnBiLkF1dGhDaGVja1Jlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAic3VjY2VzcyIsIERhdGE6IGZhbHNlfQoJdmFyIHVzZXIgbW9kZWwuU3lzVXNlcgoKCS8v57yT5a2Y5ZCNCglyZWRpc0tleSA6PSAiV09TOkFDQ09VTlQ6QVVUSDoiICsgaW4uVXNlcm5hbWUgKyAiOiIgKyBpbi5QYXNzd29yZCArICI6MTAiCgoJZXJyIDo9IGdyZWRpcy5EYigid29zIikuU2V0RXhwaXJlVGltZSgxMDAwKS5IYW5kbGVGdW5jKHJlZGlzS2V5LCAmdXNlciwgZnVuYygpIGludGVyZmFjZXt9IHsKCQkvL+aVsOaNruW6k+mAu+i+kQoJCWRiLlN5c0RCLldoZXJlKCZtb2RlbC5TeXNVc2VyewoJCQlVc2VyTmFtZTogICAgaW4uVXNlcm5hbWUsCgkJCVBhc3N3b3JkTWQ1OiBpbi5QYXNzd29yZCwKCQkJU3RhdHVzOiAgICAgIDEwLAoJCX0pLkZpcnN0KCZ1c2VyKQoJCXJldHVybiAmdXNlcgoKCX0pCgoJdG9vbHMuQ2hlY2tFcnIoZXJyKQoKCWlmIGxlbih1c2VyLlVzZXJOYW1lKSA+IDAgewoJCXJlc3AuRGF0YSA9IHRydWUKCX0KCglyZXR1cm4gcmVzcCwgbmlsCn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">KigqInN0cmluZyIpKDgyNDYzNjE2MjI0MCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvL2FwcDogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">Q01EIFsiL2FwcCJdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL2hyczogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL29nczogMTI3LjAuMC4xOjUwMDUwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
