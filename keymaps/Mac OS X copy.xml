@@ -14,4 +14,7 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="Tool_External Tools_golint">
+    <keyboard-shortcut first-keystroke="meta alt semicolon" />
+  </action>
 </keymap>
