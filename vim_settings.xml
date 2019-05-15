@@ -38,8 +38,11 @@
         <mark key="^" line="100" column="6" />
         <mark key="." line="100" column="6" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/blog.proto" timestamp="1557923977381">
-        <mark key="[" line="5" column="35" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/blog.proto" timestamp="1557924443341">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="32" column="19" />
+        <mark key="." line="32" column="19" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/swaggerhandler.go" timestamp="1557038034253">
         <mark key="[" line="26" column="1" />
@@ -113,11 +116,11 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/authservice.go" timestamp="1557923685090">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/authservice.go" timestamp="1557925894916">
+        <mark key="[" line="30" column="55" />
+        <mark key="]" line="30" column="55" />
+        <mark key="." line="30" column="55" />
+        <mark key="^" line="48" column="4" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/syslog/hook-caller.go" timestamp="1556612310410">
         <mark key="[" line="23" column="13" />
@@ -330,50 +333,46 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>proto/</text>
+        <text>用户名或密码错误</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJwYyBDcmVhdGVUb2tlbiAoUmVxdWVzdCkgcmV0dXJucyAoUmVzcG9uc2UpIHsKICAgICAgICBvcHRpb24gKGdvb2dsZS5hcGkuaHR0cCkgPSB7CiAgICAgICAgICAgIHBvc3Q6ICIvdG9rZW4iCiAgICAgICAgICAgIGJvZHk6ICIqIgogICAgICAgIH07CiAgICB9Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuICZwYi5Vc2VyUmVzcG9uc2V7U3RhdHVzOiA0MDEsIE1lc3NhZ2U6ICLnlKjmiLflkI3miJblr4bnoIHplJnor68iLCBEYXRhOiBmYWxzZX0sIG5pbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJYm9keTogIioiCg==</text>
+        <text encoding="base64">CQlkZWZlciBjb25uLkNsb3NlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICJnb29nbGUvcHJvdG9idWYvYW55LnByb3RvIjsK</text>
+        <text encoding="base64">CQl0b29scy5DaGVja0VycihlcnIsICIiKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>message Response {
-    int32 status = 1;
-    string message = 2;
-    google.protobuf.Any data = 3;
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQl0b29scy5DaGVja0VycihlcnIsICIiKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHN0cmluZyB2ZXJzaW9uTmV3ID0gMjsKICAgIHN0cmluZyB1cGRhdGVVUkwgPSAzOwogICAgc3RyaW5nIHVwZGF0ZVR5cGUgPSA0OwogICAgcmVwZWF0ZWQgVXBkYXRlRGVzY3JpcHRpb24gdXBkYXRlRGVzY3JpcHRpb25MaXN0ID0gNTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CSJnb2xhbmcub3JnL3gvdG9vbHMvZ28vYW5hbHlzaXMvcGFzc2VzL2NvcHlsb2NrL3Rlc3RkYXRhL3NyYy9hIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnb29nbGUuZ29sYW5nLm9yZy9ncnBjL2NyZWRlbnRpYWxzL2FsdHMvaW50ZXJuYWwvY29ubiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyB0b2RvIOWRmOW3peiupOivgemAu+i+kQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIOeUqOaIt+eZu+W9lemqjOivgQoJY29ubiwgZXJyIDo9IGdycGMuRGlhbChjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5ocnMiKSwgZ3JwYy5XaXRoSW5zZWN1cmUoKSkgLy8g6aqM6K+B55m75b2V54q25oCBCgl0b29scy5DaGVja0VycihlcnIsICIiKQoJZGVmZXIgY29ubi5DbG9zZSgpCglhdXRoUmVzcCwgZXJyIDo9IHBiLk5ld0FjY291bnRDbGllbnQoY29ubikuQ2hlY2tBdXRoKGNvbnRleHQuQmFja2dyb3VuZCgpLCAmcGIuQXV0aENoZWNrUmVxdWVzdHtVc2VybmFtZTogaW4uV3NJZCwgUGFzc3dvcmQ6IGluLlBhc3N3b3JkfSkKCXRvb2xzLkNoZWNrRXJyKGVyciwgIiIpCgoJaWYgYXV0aFJlc3AuRGF0YSA9PSBmYWxzZSB7CgkJcmV0dXJuICZwYi5Vc2VyUmVzcG9uc2V7U3RhdHVzOiA0MDEsIE1lc3NhZ2U6ICLnlKjmiLflkI3miJblr4bnoIHplJnor68iLCBEYXRhOiBuaWx9LCBuaWwKCX0KCgkvLyDojrflj5bnlKjmiLfotYTmlpkKCXJlc3BvbnNlIDo9IHMuc2V0QXBwVXNlckRldGFpbFJlc3BvbnNlKGN0eCwgaW4uVXNlcm5hbWUpCgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bWVzc2FnZSBVcGRhdGVEZXNjcmlwdGlvbiB7CiAgICBzdHJpbmcgRGVzY3JpcHRpb24gPSAxOwp9CgptZXNzYWdlIEF1dGhDaGVjayB7CiAgICBib29sIHJlc3VsdCA9IDE7Cn0KCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CXN3aXRjaCBleHByIHsKCQoJfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bWVzc2FnZSBSZXNwb25zZVNjaGVkdWxlIHsKICAgIGludDMyIHRpbWVzdGFtcCA9IDE7CiAgICBpbnQzMiBzdGF0dXMgPSAyOwogICAgcmVwZWF0ZWQgUmVzcG9uc2VTY2hlZHVsZU9uZSBkYXRhID0gMzsKICAgIHN0cmluZyBtc2cgPSA0OwogICAgc3RyaW5nIG1lc3NhZ2UgPSA1Owp9Cm1lc3NhZ2UgUmVzcG9uc2VTY2hlZHVsZU9uZSB7CiAgICBzdHJpbmcgc3RhcnQgPSAxOwogICAgc3RyaW5nIGVuZCA9IDI7CiAgICBzdHJpbmcgdHlwZSA9IDM7CiAgICBzdHJpbmcgcm9vbV9hZGRyZXNzID0gNDsKICAgIHN0cmluZyBsb2NhbGUgPSA1OwogICAgc3RyaW5nIHVybCA9IDY7CiAgICBzdHJpbmcgdGl0bGUgPSA3OwogICAgc3RyaW5nIG1lZXRpbmdfY29tcGVyZSA9IDg7CiAgICBzdHJpbmcgbWVldGluZ190eXBlID0gOTsKfQptZXNzYWdlIFJlc3BvbnNlU2NoZWR1bGVEYXRhIHsKICAgIGludDMyIHRpbWVzdGFtcCA9IDE7CiAgICBpbnQzMiBzdGF0dXMgPSAyOwogICAgUmVzcG9uc2VTY2hlZHVsZURhdGFPbmUgZGF0YSA9IDM7CiAgICBzdHJpbmcgbXNnID0gNDsKICAgIHN0cmluZyBtZXNzYWdlID0gNTsKfQptZXNzYWdlIFJlc3BvbnNlU2NoZWR1bGVEYXRhT25lIHsKICAgIHJlcGVhdGVkIFJlc3BvbnNlU2NoZWR1bGVPbmUgbWVldGluZyA9IDE7CiAgICByZXBlYXRlZCBSZXNwb25zZVNjaGVkdWxlT25lIG1pbGVzdG9uZSA9IDI7Cn0KCi8v6aaW6aG16YOo6Zeo566h55CGCm1lc3NhZ2UgSW5kZXhEZXBNYWluIHsKICAgIHN0cmluZyByYW5rID0gMTsKICAgIHJlcGVhdGVkIEluZGV4RGVwTWFuYWdlVXNlcnNMaXN0IGxpc3RzID0gMjsKfQoKbWVzc2FnZSBJbmRleERlcE1hbmFnZVVzZXJzTGlzdCB7CiAgICBzdHJpbmcgdHlwZSA9IDE7CiAgICBzdHJpbmcgdGl0bGUgPSAyOwogICAgaW50MzIgdG90YWwgPSAzOwogICAgc3RyaW5nIGNvbG9yRmxhZyA9IDQ7CiAgICByZXBlYXRlZCBJbmRleERlcE1hbmFnZVVzZXJzIHBlcnNvbnMgPSA1Owp9CgptZXNzYWdlIEluZGV4RGVwTWFuYWdlVXNlcnMgewogICAgc3RyaW5nIGJhZGdlID0gMTsKICAgIHN0cmluZyBuYW1lID0gMjsKICAgIHN0cmluZyBhdmF0YXIgPSAzOwp9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJYm9keTogIioiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set keep-english-in-normal</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -383,7 +382,7 @@
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -429,6 +428,7 @@
         <entry>%s/&quot;//g</entry>
         <entry>select</entry>
         <entry>set keep-english-in-normal</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
