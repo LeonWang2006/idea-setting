@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1557901437729" />
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1557282995099">
         <mark key="[" line="81" column="40" />
         <mark key="]" line="81" column="40" />
@@ -21,7 +22,6 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/model/app_user.go" timestamp="1557839137260" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/dockerfile" timestamp="1557818279271">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,7 +83,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appUserService.go" timestamp="1557884457745">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appUserService.go" timestamp="1557903047998">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="50" column="17" />
         <mark key="." line="50" column="17" />
@@ -103,7 +103,7 @@
         <mark key="]" line="50" column="8" />
         <mark key="." line="50" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557834016265">
+      <file name="/Dummy.txt" timestamp="1557901446096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1557473827504">
@@ -226,7 +226,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1557890089962" />
     </filemarks>
     <jumps>
       <jump line="7" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
