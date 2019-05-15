@@ -25,10 +25,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/dockerfile" timestamp="1557818279271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/token.proto" timestamp="1557888195996">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/token.proto" timestamp="1557889455295">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/queue/topic/todoTopic.go" timestamp="1556412448115">
         <mark key="[" line="48" column="8" />
@@ -225,6 +226,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/UserService.kt" timestamp="1557890089962" />
     </filemarks>
     <jumps>
       <jump line="7" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -341,35 +343,35 @@
       <register name="0" type="2">
         <text encoding="base64">CUxvZ2dlci5TZXRSZXBvcnRDYWxsZXIoZmFsc2UpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnVuYyAocyAqQXBwVXNlclNlcnZlcikgVXNlckxvZ2luKCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAvLyDojrflj5bpppbpobXml6XnqIvmlbDmja4KICAgIHJwYyBHZXRTY2hlZHVsZURhdGEgKFJlcXVlc3QpIHJldHVybnMgKFJlc3BvbnNlU2NoZWR1bGVEYXRhKSB7CiAgICAgICAgb3B0aW9uIChnb29nbGUuYXBpLmh0dHApID0gewogICAgICAgICAgICBnZXQ6ICIvYXBwL3NjaGVkdWxlLWRhdGEiCiAgICAgICAgfTsKICAgIH0KCiAgICAvLyDpppbpobXpg6jpl6jnrqHnkIbmjqXlj6MKICAgIHJwYyBJbmRleERlcE1hbmFnZVVzZXJzIChSZXF1ZXN0KSByZXR1cm5zIChSZXNwb25zZSkgewogICAgICAgIG9wdGlvbiAoZ29vZ2xlLmFwaS5odHRwKSA9IHsKCQkJZ2V0OiAiL2FwcC9kZXAtbWFuYWdlIiAKCQl9OwogICAgfQoKICAgIC8qICAgIC8v6I635Y+W55m75b2V55m95ZCN5Y2VRG9uZQogICAgICAgIHJwYyBVc2VyV2hpdGVMaXN0KFdoaXRlUmVxdWVzdCkgcmV0dXJucyAoQm9vbFJlc3BvbnNlKSB7CiAgICAgICAgICAgIG9wdGlvbiAoZ29vZ2xlLmFwaS5odHRwKSA9IHsKICAgICAgICAgICAgICAgIGdldDogIi91c2Vycy93aGl0ZWxpc3QiCiAgICAgICAgICAgIH07CiAgICAgICAgfSov</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYyAocyAqQXBwVXNlclNlcnZlcikgVXNlckxvZ2luKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIOeUqOaIt+eZu+W9lemqjOivgeaOpeWPo+S4jeagoemqjAoJaWYgci5SZXF1ZXN0VVJJID09ICIvYXBwL3ZlcnNpb24iIHsKCQluZXh0KHcsIHIpCgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIOeUqOaIt+eZu+W9lemqjOivgeaOpeWPo+S4jeagoemqjAoJaWYgci5SZXF1ZXN0VVJJID09ICIvYXBwL3ZlcnNpb24iIHsKCQluZXh0KHcsIHIpCgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KigqInN0cmluZyIpKDgyNDYzNjE2MjI0MCkK</text>
+        <text encoding="base64">CQlyZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KigqInN0cmluZyIpKDgyNDYzNjE2MjI0MCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q01EIFsiL2FwcCJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q01EIFsiL2FwcCJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>set keep-english-in-normal</text>
