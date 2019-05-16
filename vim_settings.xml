@@ -80,11 +80,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1558008779805">
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="44" column="59" />
-        <mark key="." line="44" column="59" />
-        <mark key="^" line="44" column="59" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1558011364169">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+        <mark key="^" line="49" column="45" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitmodules" timestamp="1556455846980">
         <mark key="[" line="2" column="58" />
@@ -99,10 +99,11 @@
       <file name="/Dummy.txt" timestamp="1557910738968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1558008036095">
-        <mark key="[" line="125" column="16" />
-        <mark key="]" line="125" column="16" />
-        <mark key="." line="125" column="16" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1558011337113">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="124" column="49" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.idea/modules.xml" timestamp="1556454265161">
         <mark key="[" line="4" column="45" />
@@ -234,41 +235,41 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>in *pb.AuthRequest</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="4">
-        <text>DeleteToken</text>
+        <text>tokenStr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJlc3VsdCA6PSAmcGIuVG9rZW5SZXNwb25zZXtUb2tlbjogdG9rZW5TdHJ9CglkYXRhLCBlcnIgOj0gcHR5cGVzLk1hcnNoYWxBbnkocmVzdWx0KQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuICIiLCBlcnIKCX0KCglyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAiZ2V0IHRva2VuIHN1Y2Nlc3MiLCBEYXRhOiBkYXRhfSwgbmlsCg==</text>
+        <text encoding="base64">CXJlcXVlc3QgOj0gJnBiLkF1dGhSZXF1ZXN0e1VzZXJuYW1lOiBpbi5Vc2VybmFtZSwgUGFzc3dvcmQ6IGluLlBhc3N3b3JkfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJlc3VsdCA6PSAmcGIuVG9rZW5SZXNwb25zZXtUb2tlbjogdG9rZW5TdHJ9CglkYXRhLCBlcnIgOj0gcHR5cGVzLk1hcnNoYWxBbnkocmVzdWx0KQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuICIiLCBlcnIKCX0KCglyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAiZ2V0IHRva2VuIHN1Y2Nlc3MiLCBEYXRhOiBkYXRhfSwgbmlsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gTG9naW4g55m75b2V6aqM6K+BCmZ1bmMgKHMgKkp3dCkgTG9naW4oY3R4IGNvbnRleHQuQ29udGV4dCwgaW4gKnBiLkF1dGhSZXF1ZXN0KSAoKnBiLlJlc3BvbnNlLCBlcnJvcikgewoKCS8vIOeZu+W9leexu+Wei+WIpOaWrSAtIDgtMTAg5pWw5a2X6K6k5a6a5Li655So5oi35bel5Y+3CglvaywgZXJyIDo9IHJlZ2V4cC5NYXRjaCgiXlswLTldezgsMTB9JCIsIFtdYnl0ZShpbi5Vc2VybmFtZSkpCgoJaWYgb2sgewoKCQkvLyDnlKjmiLfnmbvlvZXpqozor4EKCQljb25uLCBlcnIgOj0gZ3JwYy5EaWFsKGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpLCBncnBjLldpdGhJbnNlY3VyZSgpKSAvLyDpqozor4HnmbvlvZXnirbmgIEKCQlkZWZlciBjb25uLkNsb3NlKCkKCgkJaWYgZXJyICE9IG5pbCB7CgkJCXdsb2cuRXJyb3IoImNvbm5lY3QgdG8gIiArIGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpICsgIiBlcnJvciEiKQoJCQlyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogNDAxLCBNZXNzYWdlOiAi6L+e5o6l6aqM6K+B5pyN5Yqh5Zmo5byC5bi4IiwgRGF0YTogbmlsfSwgZXJyCgkJfQoKCQlhdXRoUmVzcCwgZXJyIDo9IHBiLk5ld0FjY291bnRDbGllbnQoY29ubikuQ2hlY2tBdXRoKGNvbnRleHQuQmFja2dyb3VuZCgpLCAmcGIuQXV0aENoZWNrUmVxdWVzdHtVc2VybmFtZTogaW4uVXNlcm5hbWUsIFBhc3N3b3JkOiBpbi5QYXNzd29yZH0pCgkJaWYgZXJyICE9IG5pbCB7CgkJCXdsb2cuRXJyb3IoImNhbGwgQ2hlY2tBdXRoIGVycm9yIGZyb20gIiArIGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpKQoJCQlyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogNDAxLCBNZXNzYWdlOiAi5qCh6aqM5Y+R55Sf5byC5bi4IiwgRGF0YTogbmlsfSwgZXJyCgkJfQoKCQlpZiBhdXRoUmVzcC5EYXRhID09IGZhbHNlIHsKCQkJcmV0dXJuICZwYi5SZXNwb25zZXtTdGF0dXM6IDQwMSwgTWVzc2FnZTogIueUqOaIt+WQjeaIluWvhueggemUmeivryIsIERhdGE6IG5pbH0sIG5pbAoJCX0KCgl9IGVsc2UgewoJCS8vIHRvZG8g5YaF6YOo57O757uf55m75b2VCgl9CgoJLy8g5paw5bu6dG9rZW4KCXJlcXVlc3QgOj0gJnBiLkF1dGhSZXF1ZXN0e1VzZXJuYW1lOiBpbi5Vc2VybmFtZSwgUGFzc3dvcmQ6IGluLlBhc3N3b3JkfQoJdG9rZW4sIF8gOj0gcy5DcmVhdGVUb2tlbihjdHgsIHJlcXVlc3QpCglkYXRhLCBlcnIgOj0gcHR5cGVzLk1hcnNoYWxBbnkodG9rZW4pCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0KCglyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAi6aqM6K+B6YCa6L+HIiwgRGF0YTogZGF0YX0sIG5pbAoKfQ==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gTG9naW4g55m75b2V6aqM6K+BCmZ1bmMgKHMgKkp3dCkgTG9naW4oY3R4IGNvbnRleHQuQ29udGV4dCwgaW4gKnBiLkF1dGhSZXF1ZXN0KSAoKnBiLlJlc3BvbnNlLCBlcnJvcikgewoKCS8vIOeZu+W9leexu+Wei+WIpOaWrSAtIDgtMTAg5pWw5a2X6K6k5a6a5Li655So5oi35bel5Y+3CglvaywgZXJyIDo9IHJlZ2V4cC5NYXRjaCgiXlswLTldezgsMTB9JCIsIFtdYnl0ZShpbi5Vc2VybmFtZSkpCgoJaWYgb2sgewoKCQkvLyDnlKjmiLfnmbvlvZXpqozor4EKCQljb25uLCBlcnIgOj0gZ3JwYy5EaWFsKGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpLCBncnBjLldpdGhJbnNlY3VyZSgpKSAvLyDpqozor4HnmbvlvZXnirbmgIEKCQlkZWZlciBjb25uLkNsb3NlKCkKCgkJaWYgZXJyICE9IG5pbCB7CgkJCXdsb2cuRXJyb3IoImNvbm5lY3QgdG8gIiArIGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpICsgIiBlcnJvciEiKQoJCQlyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogNDAxLCBNZXNzYWdlOiAi6L+e5o6l6aqM6K+B5pyN5Yqh5Zmo5byC5bi4IiwgRGF0YTogbmlsfSwgZXJyCgkJfQoKCQlhdXRoUmVzcCwgZXJyIDo9IHBiLk5ld0FjY291bnRDbGllbnQoY29ubikuQ2hlY2tBdXRoKGNvbnRleHQuQmFja2dyb3VuZCgpLCAmcGIuQXV0aENoZWNrUmVxdWVzdHtVc2VybmFtZTogaW4uVXNlcm5hbWUsIFBhc3N3b3JkOiBpbi5QYXNzd29yZH0pCgkJaWYgZXJyICE9IG5pbCB7CgkJCXdsb2cuRXJyb3IoImNhbGwgQ2hlY2tBdXRoIGVycm9yIGZyb20gIiArIGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpKQoJCQlyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogNDAxLCBNZXNzYWdlOiAi5qCh6aqM5Y+R55Sf5byC5bi4IiwgRGF0YTogbmlsfSwgZXJyCgkJfQoKCQlpZiBhdXRoUmVzcC5EYXRhID09IGZhbHNlIHsKCQkJcmV0dXJuICZwYi5SZXNwb25zZXtTdGF0dXM6IDQwMSwgTWVzc2FnZTogIueUqOaIt+WQjeaIluWvhueggemUmeivryIsIERhdGE6IG5pbH0sIG5pbAoJCX0KCgl9IGVsc2UgewoJCS8vIHRvZG8g5YaF6YOo57O757uf55m75b2VCgl9CgoJLy8g5paw5bu6dG9rZW4KCXJlcXVlc3QgOj0gJnBiLkF1dGhSZXF1ZXN0e1VzZXJuYW1lOiBpbi5Vc2VybmFtZSwgUGFzc3dvcmQ6IGluLlBhc3N3b3JkfQoJdG9rZW4sIF8gOj0gcy5DcmVhdGVUb2tlbihjdHgsIHJlcXVlc3QpCglkYXRhLCBlcnIgOj0gcHR5cGVzLk1hcnNoYWxBbnkodG9rZW4pCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0KCglyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAi6aqM6K+B6YCa6L+HIiwgRGF0YTogZGF0YX0sIG5pbAoKfQ==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>type AuthServer struct {
 }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
