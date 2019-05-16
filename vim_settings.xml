@@ -86,6 +86,7 @@
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/auth.pb.go" timestamp="1557988026282" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/go.mod" timestamp="1556456115814">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -116,11 +117,10 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/authservice.go" timestamp="1557968468402">
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="64" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/authservice.go" timestamp="1557988079169">
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="4" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/syslog/hook-caller.go" timestamp="1556612310410">
         <mark key="[" line="23" column="13" />
@@ -209,10 +209,12 @@
         <mark key="^" line="141" column="32" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/auth.proto" timestamp="1557928287084">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/jwthandler.go" timestamp="1557987451747" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/auth.proto" timestamp="1557987935718">
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="12" />
+        <mark key="." line="50" column="12" />
+        <mark key="^" line="50" column="12" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/syslog/log.go" timestamp="1556612701086">
         <mark key="[" line="6" column="0" />
@@ -333,7 +335,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>创建令牌</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -351,22 +353,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiB0b2tlblN0ciwgZXJyCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCV8sIF8gPSBmbXQuRnByaW50bG4odywgdG9rZW5TdHIpCgl9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyDmlrDlu7p0b2tlbgoJCXRva2VuIDo9IHMuQ3JlYXRlVG9rZW4oKQoJCWRhdGEsIGVyciA6PSBwdHlwZXMuTWFyc2hhbEFueSh0b2tlbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiAmcGIuVXNlclJlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAic3VjY2VzcyIsIERhdGE6IGRhdGF9LCBuaWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAi6aqM6K+B6YCa6L+HIiwgRGF0YTogZGF0YX0sIG5pbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWRhdGEsIGVyciA6PSBwdHlwZXMuTWFyc2hhbEFueShyZXNwb25zZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
