@@ -152,10 +152,11 @@
         <mark key="." line="315" column="137" />
         <mark key="^" line="315" column="99" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1557997905429">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1558000229147">
+        <mark key="[" line="31" column="49" />
+        <mark key="]" line="31" column="55" />
+        <mark key="." line="31" column="55" />
+        <mark key="^" line="31" column="55" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.idea/workspace.xml" timestamp="1556454310939">
         <mark key="[" line="318" column="22" />
@@ -341,7 +342,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>AuthServer</text>
+        <text encoding="base64">c3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
