@@ -117,11 +117,11 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/authservice.go" timestamp="1557993251390">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/authservice.go" timestamp="1557996225058">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="101" column="16" />
+        <mark key="^" line="95" column="27" />
+        <mark key="." line="101" column="16" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/syslog/hook-caller.go" timestamp="1556612310410">
         <mark key="[" line="23" column="13" />
@@ -336,7 +336,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>建</text>
+        <text>tokenString</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
