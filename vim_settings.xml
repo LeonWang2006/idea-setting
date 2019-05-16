@@ -75,16 +75,20 @@
         <mark key="^" line="95" column="27" />
         <mark key="." line="101" column="16" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/model/token.go" timestamp="1558013672431">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/local.go" timestamp="1556068889110">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1558011364169">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="31" column="5" />
-        <mark key="^" line="49" column="45" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1558015145191">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitmodules" timestamp="1556455846980">
         <mark key="[" line="2" column="58" />
@@ -99,11 +103,11 @@
       <file name="/Dummy.txt" timestamp="1557910738968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1558011407423">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="124" column="49" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1558013373180">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="91" column="21" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.idea/modules.xml" timestamp="1556454265161">
         <mark key="[" line="4" column="45" />
@@ -116,7 +120,7 @@
         <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/jwthandler.go" timestamp="1557987451747" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/auth.proto" timestamp="1557993236023">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/auth.proto" timestamp="1558013294752">
         <mark key="[" line="51" column="21" />
         <mark key="]" line="47" column="20" />
         <mark key="." line="47" column="20" />
@@ -235,44 +239,44 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="4">
-        <text>tokenStr</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSJnYXRld2F5L3BiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJlcXVlc3QgOj0gJnBiLkF1dGhSZXF1ZXN0e1VzZXJuYW1lOiBpbi5Vc2VybmFtZSwgUGFzc3dvcmQ6IGluLlBhc3N3b3JkfQo=</text>
+        <text encoding="base64">CWNsYWltcy5JRCA9IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJlc3VsdCA6PSAmcGIuVG9rZW5SZXNwb25zZXtUb2tlbjogdG9rZW5TdHJ9CglkYXRhLCBlcnIgOj0gcHR5cGVzLk1hcnNoYWxBbnkocmVzdWx0KQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuICIiLCBlcnIKCX0KCglyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAiZ2V0IHRva2VuIHN1Y2Nlc3MiLCBEYXRhOiBkYXRhfSwgbmlsCg==</text>
+        <text encoding="base64">CXJldHVybiB0b2tlblN0ciwgZXJyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJlc3VsdCA6PSB0b2tlbi5TaWduZWRTdHJpbmcoai5TaWduaW5nS2V5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8g5LiA5Lqb5bi46YePCnZhciAoCglUb2tlbkV4cGlyZWQgICAgIGVycm9yICA9IGVycm9ycy5OZXcoIlRva2VuIGlzIGV4cGlyZWQiKQoJVG9rZW5Ob3RWYWxpZFlldCBlcnJvciAgPSBlcnJvcnMuTmV3KCJUb2tlbiBub3QgYWN0aXZlIHlldCIpCglUb2tlbk1hbGZvcm1lZCAgIGVycm9yICA9IGVycm9ycy5OZXcoIlRoYXQncyBub3QgZXZlbiBhIHRva2VuIikKCVRva2VuSW52YWxpZCAgICAgZXJyb3IgID0gZXJyb3JzLk5ldygiQ291bGRuJ3QgaGFuZGxlIHRoaXMgdG9rZW46IikKCVNpZ25LZXkgICAgICAgICAgc3RyaW5nID0gIm5ld3RyZWtXYW5nIgopCgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gTG9naW4g55m75b2V6aqM6K+BCmZ1bmMgKHMgKkp3dCkgTG9naW4oY3R4IGNvbnRleHQuQ29udGV4dCwgaW4gKnBiLkF1dGhSZXF1ZXN0KSAoKnBiLlJlc3BvbnNlLCBlcnJvcikgewoKCS8vIOeZu+W9leexu+Wei+WIpOaWrSAtIDgtMTAg5pWw5a2X6K6k5a6a5Li655So5oi35bel5Y+3CglvaywgZXJyIDo9IHJlZ2V4cC5NYXRjaCgiXlswLTldezgsMTB9JCIsIFtdYnl0ZShpbi5Vc2VybmFtZSkpCgoJaWYgb2sgewoKCQkvLyDnlKjmiLfnmbvlvZXpqozor4EKCQljb25uLCBlcnIgOj0gZ3JwYy5EaWFsKGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpLCBncnBjLldpdGhJbnNlY3VyZSgpKSAvLyDpqozor4HnmbvlvZXnirbmgIEKCQlkZWZlciBjb25uLkNsb3NlKCkKCgkJaWYgZXJyICE9IG5pbCB7CgkJCXdsb2cuRXJyb3IoImNvbm5lY3QgdG8gIiArIGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpICsgIiBlcnJvciEiKQoJCQlyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogNDAxLCBNZXNzYWdlOiAi6L+e5o6l6aqM6K+B5pyN5Yqh5Zmo5byC5bi4IiwgRGF0YTogbmlsfSwgZXJyCgkJfQoKCQlhdXRoUmVzcCwgZXJyIDo9IHBiLk5ld0FjY291bnRDbGllbnQoY29ubikuQ2hlY2tBdXRoKGNvbnRleHQuQmFja2dyb3VuZCgpLCAmcGIuQXV0aENoZWNrUmVxdWVzdHtVc2VybmFtZTogaW4uVXNlcm5hbWUsIFBhc3N3b3JkOiBpbi5QYXNzd29yZH0pCgkJaWYgZXJyICE9IG5pbCB7CgkJCXdsb2cuRXJyb3IoImNhbGwgQ2hlY2tBdXRoIGVycm9yIGZyb20gIiArIGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpKQoJCQlyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogNDAxLCBNZXNzYWdlOiAi5qCh6aqM5Y+R55Sf5byC5bi4IiwgRGF0YTogbmlsfSwgZXJyCgkJfQoKCQlpZiBhdXRoUmVzcC5EYXRhID09IGZhbHNlIHsKCQkJcmV0dXJuICZwYi5SZXNwb25zZXtTdGF0dXM6IDQwMSwgTWVzc2FnZTogIueUqOaIt+WQjeaIluWvhueggemUmeivryIsIERhdGE6IG5pbH0sIG5pbAoJCX0KCgl9IGVsc2UgewoJCS8vIHRvZG8g5YaF6YOo57O757uf55m75b2VCgl9CgoJLy8g5paw5bu6dG9rZW4KCXJlcXVlc3QgOj0gJnBiLkF1dGhSZXF1ZXN0e1VzZXJuYW1lOiBpbi5Vc2VybmFtZSwgUGFzc3dvcmQ6IGluLlBhc3N3b3JkfQoJdG9rZW4sIF8gOj0gcy5DcmVhdGVUb2tlbihjdHgsIHJlcXVlc3QpCglkYXRhLCBlcnIgOj0gcHR5cGVzLk1hcnNoYWxBbnkodG9rZW4pCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gbmlsLCBlcnIKCX0KCglyZXR1cm4gJnBiLlJlc3BvbnNle1N0YXR1czogMjAwLCBNZXNzYWdlOiAi6aqM6K+B6YCa6L+HIiwgRGF0YTogZGF0YX0sIG5pbAoKfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>import (
+)</text>
       </register>
-      <register name="8" type="4">
-        <text>type AuthServer struct {
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">CSJnYXRld2F5L3V0aWwvanNvbiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
