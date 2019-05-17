@@ -149,11 +149,11 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1558064106389">
-        <mark key="[" line="120" column="16" />
-        <mark key="]" line="120" column="23" />
-        <mark key="." line="120" column="23" />
-        <mark key="^" line="120" column="23" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1558065589108">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="124" column="55" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/local.go" timestamp="1556068889110">
         <mark key="[" line="11" column="0" />
@@ -354,7 +354,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>in.Username</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -363,34 +363,34 @@
         <text>用户名或密码错误</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8gcmV0dXJuICZwYi5SZXNwb25zZXtTdGF0dXM6IDIwMCwgTWVzc2FnZTogIumqjOivgemAmui/hyIsIERhdGE6IGRhdGF9LCBuaWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIFN1Y2Nlc3NSZXNwb25zZXtNZXNzYWdlOiAic3VjY2VzcyIsIFN0YXR1czogMjAwLCBEYXRhOiBhdXRoUmVzcG9uc2V9Cg==</text>
+        <text encoding="base64">CQkJLy8gcmV0dXJuICZwYi5SZXNwb25zZXtTdGF0dXM6IDIwMCwgTWVzc2FnZTogIumqjOivgemAmui/hyIsIERhdGE6IGRhdGF9LCBuaWwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIFN1Y2Nlc3NSZXNwb25zZXtNZXNzYWdlOiAic3VjY2VzcyIsIFN0YXR1czogMjAwLCBEYXRhOiBhdXRoUmVzcG9uc2V9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CQlpZiBlcnIgIT0gbmlsIHsKCQkJCXJldHVybiBuaWwsIGVycgoJCQl9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJZGF0YSwgZXJyIDo9IHB0eXBlcy5NYXJzaGFsQW55KGF1dGhSZXNwb25zZSkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJLy8g6L296I236K6+6K6hCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCXJldHVybiAmcGIuUmVzcG9uc2V7U3RhdHVzOiA0MDEsIE1lc3NhZ2U6ICLnlKjmiLflkI3miJblr4bnoIHplJnor68iLCBEYXRhOiBuaWx9LCBuaWwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybiAmcGIuUmVzcG9uc2V7U3RhdHVzOiA0MDEsIE1lc3NhZ2U6ICLmoKHpqozlj5HnlJ/lvILluLgiLCBEYXRhOiBuaWx9LCBlcnIK</text>
+        <text encoding="base64">CQkJCXJldHVybiAmcGIuUmVzcG9uc2V7U3RhdHVzOiA0MDEsIE1lc3NhZ2U6ICLnlKjmiLflkI3miJblr4bnoIHplJnor68iLCBEYXRhOiBuaWx9LCBuaWwK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
