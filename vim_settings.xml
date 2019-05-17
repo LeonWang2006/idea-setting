@@ -10,11 +10,11 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1558054553115">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1558059062566">
         <mark key="[" line="22" column="129" />
-        <mark key="]" line="22" column="129" />
-        <mark key="." line="22" column="129" />
-        <mark key="^" line="22" column="109" />
+        <mark key="]" line="22" column="77" />
+        <mark key="." line="22" column="77" />
+        <mark key="^" line="22" column="77" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/token.proto" timestamp="1557900145316">
         <mark key="[" line="44" column="11" />
@@ -44,7 +44,7 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/swaggerhandler.go" timestamp="1558054380594">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/swaggerhandler.go" timestamp="1558059510829">
         <mark key="[" line="26" column="1" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
@@ -68,10 +68,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1558054568024">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1558059503190">
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="32" />
+        <mark key="." line="54" column="32" />
       </file>
       <file name="/fragment.go" timestamp="1557835784496">
         <mark key="[" line="0" column="0" />
@@ -89,13 +89,12 @@
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/auth.pb.go" timestamp="1557988026282" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/go.mod" timestamp="1556456115814">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/app.proto" timestamp="1557924042091" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/app.proto" timestamp="1558059661256" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/personService.go" timestamp="1557907585710" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/payload.go" timestamp="1557022453084">
         <mark key="[" line="5" column="5" />
@@ -132,7 +131,7 @@
         <mark key="^" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/model/token.go" timestamp="1558013672431">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/model/token.go" timestamp="1558059631274">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
@@ -150,6 +149,12 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1558059728374">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/local.go" timestamp="1556068889110">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -161,7 +166,7 @@
         <mark key="." line="315" column="137" />
         <mark key="^" line="315" column="99" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1558058852954">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1558059750762">
         <mark key="[" line="65" column="5" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -351,7 +356,7 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>context.Background()</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
