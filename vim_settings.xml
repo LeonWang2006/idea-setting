@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1557901437729" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1557838232199">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1558062567500">
         <mark key="[" line="51" column="40" />
         <mark key="]" line="51" column="39" />
         <mark key="." line="51" column="39" />
@@ -149,11 +149,11 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1558059728374">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="26" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1558062935606">
+        <mark key="[" line="108" column="20" />
+        <mark key="]" line="108" column="48" />
+        <mark key="." line="108" column="48" />
+        <mark key="^" line="108" column="48" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/local.go" timestamp="1556068889110">
         <mark key="[" line="11" column="0" />
@@ -187,14 +187,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557910738968">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1558058704328">
-        <mark key="[" line="126" column="41" />
-        <mark key="]" line="118" column="10" />
-        <mark key="." line="118" column="10" />
-        <mark key="^" line="118" column="10" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1558062640885">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="91" column="13" />
+        <mark key="]" line="91" column="12" />
+        <mark key="." line="91" column="12" />
+        <mark key="^" line="91" column="12" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.idea/modules.xml" timestamp="1556454265161">
         <mark key="[" line="4" column="45" />
@@ -250,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="8" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="9" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="10" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -350,53 +347,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
       <jump line="25" column="8" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
       <jump line="80" column="29" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
+      <jump line="124" column="0" filename="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">JnBiLg==</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CSJnYXRld2F5L3BiIgo=</text>
+      <register name="0" type="4">
+        <text>用户名或密码错误</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnYXRld2F5L3V0aWwvanNvbiIK</text>
+        <text encoding="base64">CQkJLy8gcmV0dXJuICZwYi5SZXNwb25zZXtTdGF0dXM6IDIwMCwgTWVzc2FnZTogIumqjOivgemAmui/hyIsIERhdGE6IGRhdGF9LCBuaWwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIFN1Y2Nlc3NSZXNwb25zZXtNZXNzYWdlOiAic3VjY2VzcyIsIFN0YXR1czogMjAwLCBEYXRhOiBhdXRoUmVzcG9uc2V9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="4">
-        <text>message BoolResponse {
-    int32 status = 1;
-    string message = 2;
-    bool data = 3;
-}</text>
+        <text encoding="base64">CQlpZiBlcnIgIT0gbmlsIHsKCQkJCXJldHVybiBuaWwsIGVycgoJCQl9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGF0YSwgZXJyIDo9IHB0eXBlcy5NYXJzaGFsQW55KGF1dGhSZXNwb25zZSkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBycGMgQ3JlYXRlVG9rZW4gKEF1dGhSZXF1ZXN0KSByZXR1cm5zIChSZXNwb25zZSkgewogICAgICAgIG9wdGlvbiAoZ29vZ2xlLmFwaS5odHRwKSA9IHsKICAgICAgICAgICAgcG9zdDogIi9hdXRoL3Rva2VuIgogICAgICAgICAgICBib2R5OiAiKiIKICAgICAgICB9OwogICAgfQoKICAgIHJwYyBSZWZyZXNoVG9rZW4gKEF1dGhSZXF1ZXN0KSByZXR1cm5zIChSZXNwb25zZSkgewogICAgICAgIG9wdGlvbiAoZ29vZ2xlLmFwaS5odHRwKSA9IHsKICAgICAgICAgICAgcHV0OiAiL2F1dGgvdG9rZW4iCiAgICAgICAgICAgIGJvZHk6ICIqIgogICAgICAgIH07CiAgICB9CgogICAgcnBjIERlbGV0ZVRva2VuIChBdXRoUmVxdWVzdCkgcmV0dXJucyAoQm9vbFJlc3BvbnNlKSB7CiAgICAgICAgb3B0aW9uIChnb29nbGUuYXBpLmh0dHApID0gewogICAgICAgICAgICBkZWxldGU6ICIvYXV0aC90b2tlbiIKCQl9OwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJLy8g6L296I236K6+6K6hCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJldHVybiAmcGIuUmVzcG9uc2V7U3RhdHVzOiAyMDAsIE1lc3NhZ2U6ICJnZXQgdG9rZW4gc3VjY2VzcyIsIERhdGE6IGRhdGF9LCBuaWwK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJnYXRld2F5L3V0aWwvd2xvZyIK</text>
+        <text encoding="base64">CQkJCXJldHVybiAmcGIuUmVzcG9uc2V7U3RhdHVzOiA0MDEsIE1lc3NhZ2U6ICLnlKjmiLflkI3miJblr4bnoIHplJnor68iLCBEYXRhOiBuaWx9LCBuaWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJnYXRld2F5L2NvbmZpZyIK</text>
+        <text encoding="base64">CQkJCXJldHVybiAmcGIuUmVzcG9uc2V7U3RhdHVzOiA0MDEsIE1lc3NhZ2U6ICLmoKHpqozlj5HnlJ/lvILluLgiLCBEYXRhOiBuaWx9LCBlcnIK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
