@@ -149,11 +149,11 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1558072466436">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="124" column="55" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1558074032144">
+        <mark key="[" line="97" column="88" />
+        <mark key="]" line="97" column="89" />
+        <mark key="." line="97" column="89" />
+        <mark key="^" line="97" column="89" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/log/local.go" timestamp="1556068889110">
         <mark key="[" line="11" column="0" />
@@ -166,7 +166,7 @@
         <mark key="." line="315" column="137" />
         <mark key="^" line="315" column="99" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1558059750762">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/util/token/jwt.go" timestamp="1558073566667">
         <mark key="[" line="65" column="5" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -354,13 +354,13 @@
         <text encoding="base64">ampmaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>时</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="4">
-        <text>用户名或密码错误</text>
+        <text>ExpiresAt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
