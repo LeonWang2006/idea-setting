@@ -21,18 +21,14 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.com/uber/jaeger-client-go@v2.16.0+incompatible/logger.go" timestamp="1558614994928" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/token.proto" timestamp="1557900145316">
         <mark key="[" line="44" column="11" />
         <mark key="]" line="44" column="15" />
         <mark key="." line="44" column="15" />
         <mark key="^" line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracing/init.go" timestamp="1558597308450">
-        <mark key="[" line="47" column="28" />
-        <mark key="]" line="47" column="27" />
-        <mark key="." line="47" column="27" />
-        <mark key="^" line="47" column="27" />
-      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracing/init.go" timestamp="1558615194329" />
       <file name="$USER_HOME$/go/pkg/mod/github.com/lestrrat/go-file-rotatelogs@v0.0.0-20180223000712-d3151e2a480f/rotatelogs.go" timestamp="1556264834506">
         <mark key="[" line="100" column="7" />
         <mark key="]" line="100" column="6" />
@@ -327,15 +323,24 @@
         <text>jaegercfg.Configuration</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2phZWdlcnRyYWNpbmcvamFlZ2VyL2V4YW1wbGVzL2hvdHJvZC9wa2cvbG9nIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CSJmbXQiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSJnby51YmVyLm9yZy96YXAiCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>package tracing
 
 import (
@@ -346,7 +351,7 @@ import (
 	&quot;github.com/uber/jaeger-lib/metrics&quot;
 )</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>import (
 	&quot;fmt&quot;
 	&quot;time&quot;
@@ -355,20 +360,11 @@ import (
 	&quot;github.com/uber/jaeger-lib/metrics&quot;
 )</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl3bG9nLkVycm9yKCJDb3VsZCBub3QgaW5pdGlhbGl6ZSBqYWVnZXIgdHJhY2VyOiAlcyIsIGVyci5FcnJvcigpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl3bG9nLkVycm9yKCJDb3VsZCBub3QgaW5pdGlhbGl6ZSBqYWVnZXIgdHJhY2VyOiAlcyIsIGVyci5FcnJvcigpKQo=</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQl3bG9nLkVycm9yKCJDb3VsZCBub3QgaW5pdGlhbGl6ZSBqYWVnZXIgdHJhY2VyOiAlcyIsIGVyci5FcnJvcigpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
