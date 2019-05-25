@@ -9,6 +9,7 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/tracer.go" timestamp="1558771219606" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1558342948752">
         <mark key="[" line="51" column="40" />
         <mark key="]" line="51" column="39" />
@@ -50,7 +51,7 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558764470991">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558771601223">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -96,7 +97,7 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1558756232491" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1558771678860" />
       <file name="/Dummy.txt" timestamp="1558083140903">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,11 +113,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1558763798737">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="79" column="34" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1558771668398">
+        <mark key="[" line="63" column="11" />
+        <mark key="]" line="63" column="11" />
+        <mark key="." line="63" column="11" />
+        <mark key="^" line="63" column="13" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/hook-caller.go" timestamp="1556609162232">
         <mark key="[" line="14" column="0" />
@@ -320,7 +321,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>srv</text>
+        <text>http</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
