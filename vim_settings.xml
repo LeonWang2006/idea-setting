@@ -50,8 +50,10 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558756163945">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558764470991">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/queue/queue.go" timestamp="1556412387278">
         <mark key="[" line="220" column="0" />
@@ -327,24 +329,30 @@
         <text>jaegercfg.Configuration</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2phZWdlcnRyYWNpbmcvamFlZ2VyL2V4YW1wbGVzL2hvdHJvZC9wa2cvbG9nIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">aW1wb3J0ICJuZXQvaHR0cCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJnby51YmVyLm9yZy96YXAiCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2phZWdlcnRyYWNpbmcvamFlZ2VyL2V4YW1wbGVzL2hvdHJvZC9wa2cvbG9nIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CSJnby51YmVyLm9yZy96YXAiCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>package tracing
 
 import (
@@ -355,7 +363,7 @@ import (
 	&quot;github.com/uber/jaeger-lib/metrics&quot;
 )</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>import (
 	&quot;fmt&quot;
 	&quot;time&quot;
@@ -363,12 +371,6 @@ import (
 	&quot;github.com/opentracing/opentracing-go&quot;
 	&quot;github.com/uber/jaeger-lib/metrics&quot;
 )</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQl3bG9nLkVycm9yKCJDb3VsZCBub3QgaW5pdGlhbGl6ZSBqYWVnZXIgdHJhY2VyOiAlcyIsIGVyci5FcnJvcigpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
