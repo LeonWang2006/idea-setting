@@ -10,10 +10,11 @@
         <mark key="." line="81" column="40" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/tracer.go" timestamp="1558945126181" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1558945023467">
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="46" column="7" />
-        <mark key="." line="46" column="7" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1558947313541">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="38" column="13" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1558940294795">
         <mark key="[" line="22" column="0" />
@@ -37,6 +38,12 @@
         <mark key="]" line="100" column="6" />
         <mark key="^" line="100" column="6" />
         <mark key="." line="100" column="6" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/genproto.sh" timestamp="1558947061255">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="179" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1558349024326">
         <mark key="[" line="115" column="0" />
@@ -67,7 +74,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/swaggerhandler.go" timestamp="1558059510829">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/swaggerhandler.go" timestamp="1558947354008">
         <mark key="[" line="26" column="1" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
@@ -96,6 +103,7 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="9" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/swaggerUI.md" timestamp="1558947030194" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1558945109677">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="39" />
@@ -163,16 +171,16 @@
         <mark key="^" line="20" column="40" />
         <mark key="." line="20" column="40" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1558944011459">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="23" column="12" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1558945937307">
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+        <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1558945048566">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="35" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1558946852542">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/authservice.go" timestamp="1557996225058">
         <mark key="[" line="19" column="1" />
@@ -328,22 +336,22 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>用户登录</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="4">
-        <text>jaegercfg.Configuration</text>
+      <register name="0" type="2">
+        <text encoding="base64">CXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIHN0cmluZ3MuQ29udGFpbnMoci5SZXF1ZXN0VVJJLGNvbmZpZy5QZXJtaXRVcmwpCg==</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oaSwgcykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvYXBwL3ZlcnNpb24K</text>
+        <text encoding="base64">CQkJCS8vIHcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAidGV4dC9odG1sIikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -352,19 +360,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWdpdGh1Yi5jb20vamFlZ2VydHJhY2luZy9qYWVnZXItY2xpZW50LWdvIHYyLjE2LjAraW5jb21wYXRpYmxlCg==</text>
+        <text encoding="base64">CQkJCWZtdC5QcmludGxuKCJvayIpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CWNmZywgZXJyIDo9IGNvbmZpZy5Db25maWd1cmF0aW9ue30KCWlmIGVyciAhPSBuaWwgewoJCXdsb2cuRmF0YWwoImNhbm5vdCBwYXJzZSBKYWVnZXIgZW52IHZhcnMiLCBlcnIpCgl9CgljZmcuU2VydmljZU5hbWUgPSBzZXJ2aWNlTmFtZQoJY2ZnLlNhbXBsZXIuVHlwZSA9ICJjb25zdCIKCWNmZy5TYW1wbGVyLlBhcmFtID0gMQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlqYWVnZXIuCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlpZiBvaywgXyA6PSByZWdleHAuTWF0Y2goIl5bMC05YS16QS1aX10rJCIsIFtdYnl0ZSgiaGVsbG8iKSk7IG9rIHsKCQkJZm10LlByaW50bG4oIm9rIikKCQl9Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>- skateboarding
+- snowboarding
+- go</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICJuZXQvaHR0cCIK</text>
+        <text encoding="base64">CS8vIOaMh+WumuaOpeWPo+S4jeagoemqjAoJaWYgc3RyaW5ncy5Db250YWlucyhjb25maWcuUGVybWl0VXJsLCByLlJlcXVlc3RVUkkpIHsKCQluZXh0KHcsIHIpCgl9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
