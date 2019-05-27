@@ -98,7 +98,12 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1558771678860" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1558929623248">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="38" />
+        <mark key="." line="37" column="38" />
+        <mark key="^" line="37" column="38" />
+      </file>
       <file name="/Dummy.txt" timestamp="1558083140903">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,7 +119,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1558771668398">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1558929629616">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="11" />
         <mark key="." line="63" column="11" />
@@ -324,7 +329,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>http</text>
+        <text>jaeger</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -332,49 +337,35 @@
       <register name="0" type="4">
         <text>jaegercfg.Configuration</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CWNmZywgZXJyIDo9IGNvbmZpZy5Db25maWd1cmF0aW9ue30KCWlmIGVyciAhPSBuaWwgewoJCXdsb2cuRmF0YWwoImNhbm5vdCBwYXJzZSBKYWVnZXIgZW52IHZhcnMiLCBlcnIpCgl9CgljZmcuU2VydmljZU5hbWUgPSBzZXJ2aWNlTmFtZQoJY2ZnLlNhbXBsZXIuVHlwZSA9ICJjb25zdCIKCWNmZy5TYW1wbGVyLlBhcmFtID0gMQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICJuZXQvaHR0cCIK</text>
+        <text encoding="base64">CQlqYWVnZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2phZWdlcnRyYWNpbmcvamFlZ2VyL2V4YW1wbGVzL2hvdHJvZC9wa2cvbG9nIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">aW1wb3J0ICJuZXQvaHR0cCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJnby51YmVyLm9yZy96YXAiCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2phZWdlcnRyYWNpbmcvamFlZ2VyL2V4YW1wbGVzL2hvdHJvZC9wa2cvbG9nIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CSJnby51YmVyLm9yZy96YXAiCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>package tracing
-
-import (
-	&quot;fmt&quot;
-	&quot;time&quot;
-
-	&quot;github.com/opentracing/opentracing-go&quot;
-	&quot;github.com/uber/jaeger-lib/metrics&quot;
-)</text>
-      </register>
-      <register name="9" type="4">
-        <text>import (
-	&quot;fmt&quot;
-	&quot;time&quot;
-
-	&quot;github.com/opentracing/opentracing-go&quot;
-	&quot;github.com/uber/jaeger-lib/metrics&quot;
-)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
