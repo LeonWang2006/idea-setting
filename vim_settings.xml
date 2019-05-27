@@ -15,10 +15,10 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1558940385923">
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="52" column="39" />
-        <mark key="." line="52" column="39" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1558943701311">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
         <mark key="^" line="52" column="39" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1558940294795">
@@ -338,7 +338,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/login</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>avatar</text>
