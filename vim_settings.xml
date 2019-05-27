@@ -22,6 +22,11 @@
         <mark key="." line="44" column="15" />
         <mark key="^" line="44" column="15" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracing/init.go" timestamp="1558691039170">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+      </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/lestrrat/go-file-rotatelogs@v0.0.0-20180223000712-d3151e2a480f/rotatelogs.go" timestamp="1556264834506">
         <mark key="[" line="100" column="7" />
         <mark key="]" line="100" column="6" />
@@ -68,6 +73,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/go.mod" timestamp="1558939685148">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/swaggerui/index.html" timestamp="1558954164944">
         <mark key="[" line="42" column="40" />
         <mark key="]" line="42" column="40" />
@@ -108,6 +118,11 @@
         <mark key="^" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/model/token.go" timestamp="1558059631274">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1558944959814">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="6" column="28" />
@@ -115,6 +130,11 @@
         <mark key="^" line="6" column="28" />
       </file>
       <file name="/usr/local/Cellar/go/1.12.5/libexec/src/net/http/fs.go" timestamp="1558949609397" />
+      <file name="$USER_HOME$/gitrepository/WOS_CORE/src/main.go" timestamp="1558519368022">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/StockService.kt" timestamp="1557282995099">
         <mark key="[" line="81" column="40" />
         <mark key="]" line="81" column="40" />
@@ -122,12 +142,21 @@
         <mark key="." line="81" column="40" />
       </file>
       <file name="/usr/local/Cellar/go/1.12.5/libexec/src/os/file_unix.go" timestamp="1558949867723" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1558955872805" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1558958921310">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1558349024326">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
         <mark key="^" line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558771601223">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/queue/queue.go" timestamp="1556412387278">
         <mark key="[" line="220" column="0" />
@@ -147,6 +176,11 @@
         <mark key="." line="318" column="28" />
         <mark key="^" line="318" column="28" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitmodules" timestamp="1558418266623">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1558316215828">
         <mark key="[" line="45" column="11" />
         <mark key="]" line="45" column="10" />
@@ -160,7 +194,12 @@
         <mark key="." line="25" column="39" />
         <mark key="^" line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558945162149">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1558959145214">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558959563619">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/hook-caller.go" timestamp="1556609162232">
@@ -313,7 +352,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>swagger</text>
+        <text>proto</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -321,35 +360,35 @@
       <register name="0" type="2">
         <text encoding="base64">CXcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CQlpZiBfLCBlcnIgOj0gb3MuU3RhdCgiLi9kb2Mvc3dhZ2dlci5qc29uIik7IG9zLklzTm90RXhpc3QoZXJyKSB7CgkJCXdsb2cuRXJyb3IoImZpbGUgbm90IGV4aXN0IikKCQl9</text>
+      <register name="1" type="2">
+        <text encoding="base64">c3JjL2RvYy8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJwYXRoL2ZpbGVwYXRoIgo=</text>
+        <text encoding="base64">L3NyYy9kb2MK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJLy8gcGF0aC90by93aGF0ZXZlciBkb2VzIG5vdCBleGlzdAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQlpZiBfLCBlcnIgOj0gb3MuU3RhdCgiLi9kb2Mvc3dhZ2dlci5qc29uIik7IG9zLklzTm90RXhpc3QoZXJyKSB7CgkJCXdsb2cuRXJyb3IoImZpbGUgbm90IGV4aXN0IikKCQl9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4K</text>
+        <text encoding="base64">CSJwYXRoL2ZpbGVwYXRoIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oaSwgcykK</text>
+        <text encoding="base64">CQkJLy8gcGF0aC90by93aGF0ZXZlciBkb2VzIG5vdCBleGlzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8vIHcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAidGV4dC9odG1sIikK</text>
+        <text encoding="base64">CQlyZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oaSwgcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8vIHcuSGVhZGVyKCkuU2V0KCJDb250ZW50LVR5cGUiLCAidGV4dC9odG1sIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWZtdC5QcmludGxuKCJvayIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
