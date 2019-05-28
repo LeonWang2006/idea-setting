@@ -32,6 +32,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/genproto.bat" timestamp="1559003454099" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/genproto.sh" timestamp="1559003551461">
+        <mark key="[" line="1" column="141" />
+        <mark key="]" line="1" column="141" />
+        <mark key="." line="1" column="141" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/go.mod" timestamp="1558961909628">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -102,11 +108,11 @@
         <mark key="." line="2" column="58" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/swaggerUI.md" timestamp="1558947030194" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1558962984367">
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="25" column="39" />
-        <mark key="." line="25" column="39" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1559002841504">
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="41" />
+        <mark key="." line="37" column="41" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1558959145214">
         <mark key="[" line="44" column="0" />
@@ -116,7 +122,11 @@
       <file name="/Dummy.txt" timestamp="1558962703873">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/department.proto" timestamp="1558963789451" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/department.proto" timestamp="1559003760121">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/lang.go" timestamp="1558961334865" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1558948243884">
         <mark key="[" line="25" column="59" />
@@ -232,7 +242,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>github.com/envoyproxy/protoc-gen-validate/</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
