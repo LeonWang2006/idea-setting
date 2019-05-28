@@ -38,6 +38,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1559042230817" />
+      <file name="$USER_HOME$/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.0.0/tracing/opentracing/client_interceptors.go" timestamp="1559048580379" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558771601223">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -63,6 +64,7 @@
         <mark key="]" line="1" column="141" />
         <mark key="." line="1" column="141" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/app.pb.gw.go" timestamp="1559049271512" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1559002841504">
         <mark key="[" line="37" column="41" />
         <mark key="]" line="37" column="41" />
@@ -90,11 +92,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1559044088489">
-        <mark key="[" line="52" column="22" />
-        <mark key="]" line="52" column="22" />
-        <mark key="." line="52" column="22" />
-        <mark key="^" line="62" column="13" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1559049842975">
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="53" column="21" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559037415580">
         <mark key="[" line="0" column="1" />
@@ -112,10 +114,11 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1559047188248">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1559049389188">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+        <mark key="^" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1558962689323">
         <mark key="[" line="25" column="0" />
@@ -271,7 +274,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>closer</text>
+        <text>retry</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
