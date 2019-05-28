@@ -37,6 +37,7 @@
         <mark key="^" line="3" column="179" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1559037526086" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558771601223">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -53,9 +54,9 @@
         <mark key="." line="2" column="58" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1559034335145">
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="55" column="72" />
-        <mark key="." line="55" column="72" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="56" column="72" />
+        <mark key="." line="56" column="72" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/genproto.sh" timestamp="1559004378257">
         <mark key="[" line="1" column="141" />
@@ -79,7 +80,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559012011582">
+      <file name="/Dummy.txt" timestamp="1559037542378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/go.mod" timestamp="1558961909628">
@@ -87,13 +88,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1558962155283">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1559037164989">
         <mark key="[" line="52" column="22" />
         <mark key="]" line="52" column="22" />
         <mark key="." line="52" column="22" />
         <mark key="^" line="62" column="13" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559005953457">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559037415580">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="0" />
@@ -134,11 +135,8 @@
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1558948243884">
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="58" />
-        <mark key="^" line="25" column="58" />
-        <mark key="." line="25" column="58" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1559037240488">
+        <mark key="^" line="26" column="58" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1559012641176">
         <mark key="[" line="51" column="29" />
@@ -269,7 +267,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>gateway</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
