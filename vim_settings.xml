@@ -3,9 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/work.proto" timestamp="1559005393063" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/account.proto" timestamp="1559007437142" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/tracer.go" timestamp="1558945126181" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1558958921310">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1559007764442">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="13" />
@@ -18,6 +20,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/tracer.go" timestamp="1559009415526" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracing/init.go" timestamp="1558691039170">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="29" column="5" />
@@ -29,17 +32,39 @@
         <mark key="^" line="3" column="179" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1559005626695" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558771601223">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/swaggerhandler.go" timestamp="1558949754636">
         <mark key="[" line="27" column="27" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/genproto.bat" timestamp="1559003454099" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitmodules" timestamp="1558418266623">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/genproto.sh" timestamp="1559004378257">
         <mark key="[" line="1" column="141" />
         <mark key="]" line="1" column="141" />
         <mark key="." line="1" column="141" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1559002841504">
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="41" />
+        <mark key="." line="37" column="41" />
+        <mark key="^" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1558959145214">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559007079928">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/go.mod" timestamp="1558961909628">
         <mark key="[" line="2" column="0" />
@@ -51,6 +76,12 @@
         <mark key="]" line="52" column="22" />
         <mark key="." line="52" column="22" />
         <mark key="^" line="62" column="13" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559005953457">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="/fragment.go" timestamp="1558944807109">
         <mark key="[" line="0" column="0" />
@@ -77,6 +108,17 @@
         <mark key="]" line="42" column="40" />
         <mark key="." line="42" column="40" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/department.proto" timestamp="1559003760121">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1558948243884">
+        <mark key="[" line="25" column="59" />
+        <mark key="]" line="25" column="58" />
+        <mark key="^" line="25" column="58" />
+        <mark key="." line="25" column="58" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1558945937307">
         <mark key="[" line="51" column="29" />
         <mark key="]" line="23" column="18" />
@@ -93,64 +135,10 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="/usr/local/Cellar/go/1.12.5/libexec/src/net/http/fs.go" timestamp="1558949609397" />
       <file name="$USER_HOME$/gitrepository/WOS_CORE/src/main.go" timestamp="1558519368022">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
-      </file>
-      <file name="/usr/local/Cellar/go/1.12.5/libexec/src/os/file_unix.go" timestamp="1558949867723" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitmodules" timestamp="1558958921310">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/org.proto" timestamp="1559008123610" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558771601223">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1559007381791" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/account.pb.go" timestamp="1559007341696" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitmodules" timestamp="1558418266623">
-        <mark key="[" line="2" column="58" />
-        <mark key="]" line="2" column="58" />
-        <mark key="." line="2" column="58" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/swaggerUI.md" timestamp="1558947030194" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1559002841504">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
-        <mark key="^" line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1558959145214">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559007079928">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/account.pb.go" timestamp="1559007577454" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559005953457">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/department.proto" timestamp="1559003760121">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/lang.go" timestamp="1558961334865" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1558948243884">
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="58" />
-        <mark key="^" line="25" column="58" />
-        <mark key="." line="25" column="58" />
       </file>
     </filemarks>
     <jumps>
