@@ -8,6 +8,11 @@
         <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/account.proto" timestamp="1559029304745">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1559007764442">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="13" />
@@ -20,6 +25,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/tracer.go" timestamp="1559029022242" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracing/init.go" timestamp="1558691039170">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="29" column="5" />
@@ -46,6 +52,11 @@
         <mark key="]" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1559029988731">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/genproto.sh" timestamp="1559004378257">
         <mark key="[" line="1" column="141" />
         <mark key="]" line="1" column="141" />
@@ -56,6 +67,12 @@
         <mark key="]" line="37" column="41" />
         <mark key="." line="37" column="41" />
         <mark key="^" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1559030278896">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/.gitignore" timestamp="1558959145214">
         <mark key="[" line="44" column="0" />
@@ -260,85 +277,36 @@
       <register name="0" type="2">
         <text encoding="base64">I+aJk+WMhee8luivkeiEmuacrAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkvZzogIXvvJpoYWNrc3Nzc3NzCuadpea6kO+8mkNTRE4K5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpeXVubG9uZzQxL2FydGljbGUvZGV0YWlscy84ODA0MzYwNCAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJLy9nbG9nLkVycm9yZigiRmFpbGVkIHRvIGNsb3NlICVzICVzOiAldiIsIG5ldHdvcmssIHBvcnQsIGVycikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>- /swagger/*
 - /swaggerui/*</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">L3Jlc3QuaW1sCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">c3JjL2RvYy8K</text>
-      </register>
-      <register name="6" type="4">
-        <text>require (
-	cloud.google.com/go v0.34.0 // indirect
-	github.com/360EntSecGroup-Skylar/excelize v1.4.1
-	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/denisenkom/go-mssqldb v0.0.0-20190121005146-b04fd42d9952 // indirect
-	github.com/elazarl/go-bindata-assetfs v1.0.0
-	github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5 // indirect
-	github.com/fastly/go-utils v0.0.0-20180712184237-d95a45783239 // indirect
-	github.com/go-sql-driver/mysql v1.4.1
-	github.com/gofrs/uuid v3.2.0+incompatible // indirect
-	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
-	github.com/golang/protobuf v1.3.1
-	github.com/gomodule/redigo v2.0.0+incompatible
-	github.com/google/go-cmp v0.3.0 // indirect
-	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0
-	github.com/grpc-ecosystem/grpc-gateway v1.6.2
-	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869 // indirect
-	github.com/jinzhu/gorm v1.9.2
-	github.com/jinzhu/inflection v0.0.0-20180308033659-04140366298a // indirect
-	github.com/jinzhu/now v1.0.0 // indirect
-	github.com/jlaffaye/ftp v0.0.0-20190519203911-8f5b34ce006f
-	github.com/jonboulle/clockwork v0.1.0 // indirect
-	github.com/kr/pretty v0.1.0 // indirect
-	github.com/lestrrat/go-envload v0.0.0-20180220120943-6ed08b54a570 // indirect
-	github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f
-	github.com/lestrrat/go-strftime v0.0.0-20180220042222-ba3bf9c1d042 // indirect
-	github.com/lib/pq v1.1.0 // indirect
-	github.com/mattn/go-sqlite3 v1.10.0 // indirect
-	github.com/nicksnyder/go-i18n/v2 v2.0.0-beta.6
-	github.com/pkg/errors v0.8.1 // indirect
-	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
-	github.com/sirupsen/logrus v1.4.1
-	github.com/skip2/go-qrcode v0.0.0-20190110000554-dc11ecdae0a9
-	github.com/spf13/afero v1.2.0 // indirect
-	github.com/spf13/viper v1.3.1
-	github.com/streadway/amqp v0.0.0-20181205114330-a314942b2fd9
-	github.com/stretchr/testify v1.3.0 // indirect
-	github.com/tebeka/strftime v0.0.0-20140926081919-3f9c7761e312 // indirect
-	golang.org/x/crypto v0.0.0-20190320223903-b7391e95e576 // indirect
-	golang.org/x/net v0.0.0-20190320064053-1272bf9dcd53
-	golang.org/x/sys v0.0.0-20190321052220-f7bb7a8bee54 // indirect
-	golang.org/x/text v0.3.0
-	google.golang.org/appengine v1.3.0 // indirect
-	google.golang.org/genproto v0.0.0-20181218023534-67d6565462c5
-	google.golang.org/grpc v1.17.0
-	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
-	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
-	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
-	gopkg.in/yaml.v2 v2.2.2
-)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWdpdGh1Yi5jb20vamxhZmZheWUvZnRwIHYwLjAuMC0yMDE5MDQxNzExMjU1OC05YjVhM2FkZGQ3YzYK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">c3JjL2RvYy8K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">L3NyYy9kb2MK</text>
+        <text encoding="base64">c3JjL2RvYy8K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
