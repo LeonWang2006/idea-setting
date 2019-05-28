@@ -20,7 +20,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/tracer.go" timestamp="1559012982696" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracing/init.go" timestamp="1558691039170">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="29" column="5" />
@@ -47,7 +46,6 @@
         <mark key="]" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/workService.go" timestamp="1559011507635" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/genproto.sh" timestamp="1559004378257">
         <mark key="[" line="1" column="141" />
         <mark key="]" line="1" column="141" />
@@ -93,6 +91,11 @@
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1559028557508">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1558962689323">
         <mark key="[" line="25" column="0" />
@@ -249,7 +252,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>docker部署</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
