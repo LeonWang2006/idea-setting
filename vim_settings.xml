@@ -37,7 +37,7 @@
         <mark key="^" line="3" column="179" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1559037526086" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1559042230817" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558771601223">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -110,10 +110,10 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1559034343256">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1559042463966">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1558962689323">
         <mark key="[" line="25" column="0" />
@@ -275,36 +275,35 @@
       <register name="0" type="2">
         <text encoding="base64">I+aJk+WMhee8luivkeiEmuacrAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWRpYWxPcHRzIDo9IFtdZ3JwYy5EaWFsT3B0aW9ue2dycGMuV2l0aEluc2VjdXJlKCksIGdycGMud2l0aFNlcnN0cmVhbVNlcnZlckludGVyY2VwdG9yKSwgZ3JwYy5XaXRoVW5hcnlJbnRlcmNlcHRvcih1bmFyeUNsaWVudEludGVyY2VwdG9yKX0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQlNaWNyb3NlY29uZCA9IDEwMDAgKiBOYW5vc2Vjb25kCgkJTWlsbGlzZWNvbmQgPSAxMDAwICogTWljcm9zZWNvbmQKCQlTZWNvbmQgPSAxMDAwICogTWlsbGlzZWNvbmQKCQlNaW51dGUgPSA2MCAqIFNlY29uZAoJCUhvdXIgPSA2MCAqIE1pbnV0ZQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkvZzogIXvvJpoYWNrc3Nzc3NzCuadpea6kO+8mkNTRE4K5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpeXVubG9uZzQxL2FydGljbGUvZGV0YWlscy84ODA0MzYwNCAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy9nbG9nLkVycm9yZigiRmFpbGVkIHRvIGNsb3NlICVzICVzOiAldiIsIG5ldHdvcmssIHBvcnQsIGVycikK</text>
+        <text encoding="base64">CXZhciAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
+        <text encoding="base64">CWRpYWxPcHRzIDo9IFtdZ3JwYy5EaWFsT3B0aW9ue2dycGMuV2l0aEluc2VjdXJlKCksIGdycGMud2l0aFNlcnN0cmVhbVNlcnZlckludGVyY2VwdG9yKSwgZ3JwYy5XaXRoVW5hcnlJbnRlcmNlcHRvcih1bmFyeUNsaWVudEludGVyY2VwdG9yKX0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkvZzogIXvvJpoYWNrc3Nzc3NzCuadpea6kO+8mkNTRE4K5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpeXVubG9uZzQxL2FydGljbGUvZGV0YWlscy84ODA0MzYwNCAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy9nbG9nLkVycm9yZigiRmFpbGVkIHRvIGNsb3NlICVzICVzOiAldiIsIG5ldHdvcmssIHBvcnQsIGVycikK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>- /swagger/*
-- /swaggerui/*</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">L3Jlc3QuaW1sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
