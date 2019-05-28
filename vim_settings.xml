@@ -4,14 +4,15 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/work.proto" timestamp="1559005393063" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/account.proto" timestamp="1559007437142" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/tracer.go" timestamp="1558945126181" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1558947800967">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1559007764442">
         <mark key="[" line="38" column="12" />
         <mark key="]" line="38" column="13" />
         <mark key="^" line="45" column="0" />
         <mark key="." line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1558948719688">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1559007855311">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -104,11 +105,14 @@
         <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/org.proto" timestamp="1559008123610" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/trancer.go" timestamp="1558771601223">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1559007381791" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/account.pb.go" timestamp="1559007341696" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitmodules" timestamp="1558418266623">
         <mark key="[" line="2" column="58" />
         <mark key="]" line="2" column="58" />
@@ -126,9 +130,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559005528425">
+      <file name="/Dummy.txt" timestamp="1559007079928">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/account.pb.go" timestamp="1559007577454" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559005953457">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="3" column="7" />
