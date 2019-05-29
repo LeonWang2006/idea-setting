@@ -26,6 +26,7 @@
         <mark key="." line="1" column="141" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/app.pb.gw.go" timestamp="1559049271512" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/go.mod" timestamp="1559135101737" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1559119633647">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -102,7 +103,7 @@
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-prd.go" timestamp="1559122175690">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1559132940707">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1559135033479">
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
@@ -226,6 +227,51 @@
         <text encoding="base64">ZnVuYyBVbmFyeUNsaWVudEludGVyY2VwdG9yKCkgZ3JwYy5VbmFyeUNsaWVudEludGVyY2VwdG9yIHsKCglyZXR1cm4gZnVuYyhjdHggY29udGV4dC5Db250ZXh0LCBtZXRob2Qgc3RyaW5nLCByZXEsIHJlcGx5IGludGVyZmFjZXt9LCBjYyAqZ3JwYy5DbGllbnRDb25uLCBpbnZva2VyIGdycGMuVW5hcnlJbnZva2VyLCBvcHRzIC4uLmdycGMuQ2FsbE9wdGlvbikgKGVyciBlcnJvcikgewoJCXZhciBwYXJlbnRDb250ZXh0IG9wZW50cmFjaW5nLlNwYW5Db250ZXh0CgkJLy8g5YWI5LuOY29udGV4dOS4reiOt+WPluWOn+Wni+eahHNwYW4KCQlwYXJlbnRTcGFuIDo9IG9wZW50cmFjaW5nLlNwYW5Gcm9tQ29udGV4dChjdHgpCgkJaWYgcGFyZW50U3BhbiAhPSBuaWwgewoJCQlwYXJlbnRDb250ZXh0ID0gcGFyZW50U3Bhbi5Db250ZXh0KCkKCQl9CgkJdHJhY2VyIDo9IG9wZW50cmFjaW5nLkdsb2JhbFRyYWNlcigpCgkJc3BhbiA6PSB0cmFjZXIuU3RhcnRTcGFuKG1ldGhvZCwgb3BlbnRyYWNpbmcuQ2hpbGRPZihwYXJlbnRDb250ZXh0KSkKCQlkZWZlciBzcGFuLkZpbmlzaCgpCgkJLy8g5LuOY29udGV4dOS4reiOt+WPlm1ldGFkYXRh44CCbWQuKHR5cGUpID09IG1hcFtzdHJpbmddW11zdHJpbmcKCQltZCwgb2sgOj0gbWV0YWRhdGEuRnJvbUluY29taW5nQ29udGV4dChjdHgpCgkJaWYgIW9rIHsKCQkJbWQgPSBtZXRhZGF0YS5OZXcobmlsKQoJCX0gZWxzZSB7CgkJCS8vIOWmguaenOWvuW1ldGFkYXRh6L+b6KGM5L+u5pS577yM6YKj5LmI6ZyA6KaB55So5ou36LSd55qE5Ymv5pys6L+b6KGM5L+u5pS544CC77yIRnJvbUluY29taW5nQ29udGV4dOeahOazqOmHiu+8iQoJCQltZCA9IG1kLkNvcHkoKQoJCX0KCQkvLyDlrprkuYnkuIDkuKpjYXJyaWVy77yM5LiL6Z2i55qESW5qZWN05rOo5YWl5pWw5o2u6ZyA6KaB55So5Yiw44CCY2Fycmllci4odHlwZSkgPT0gbWFwW3N0cmluZ11zdHJpbmcKCQkvLyBjYXJyaWVyIDo9IG9wZW50cmFjaW5nLlRleHRNYXBDYXJyaWVye30KCQljYXJyaWVyIDo9IFRleHRNYXBXcml0ZXJ7bWR9CgkJLy8g5bCGc3BhbueahGNvbnRleHTkv6Hmga/ms6jlhaXliLBjYXJyaWVy5LitCgkJZSA6PSB0cmFjZXIuSW5qZWN0KHNwYW4uQ29udGV4dCgpLCBvcGVudHJhY2luZy5UZXh0TWFwLCBjYXJyaWVyKQoJCWlmIGUgIT0gbmlsIHsKCQkJZm10LlByaW50bG4oInRyYWNlciBJbmplY3QgZXJyLCIsIGUpCgkJfQoJCS8vIOWIm+W7uuS4gOS4quaWsOeahGNvbnRleHTvvIzmioptZXRhZGF0YemZhOW4puS4igoJCWN0eCA9IG1ldGFkYXRhLk5ld091dGdvaW5nQ29udGV4dChjdHgsIG1kKQoKCQlyZXR1cm4gaW52b2tlcihjdHgsIG1ldGhvZCwgcmVxLCByZXBseSwgY2MsIG9wdHMuLi4pCgl9Cn0K</text>
       </register>
       <register name="1" type="4">
+        <text>require (
+	github.com/360EntSecGroup-Skylar/excelize v1.4.1
+	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
+	github.com/envoyproxy/protoc-gen-validate v0.0.14
+	github.com/fastly/go-utils v0.0.0-20180712184237-d95a45783239 // indirect
+	github.com/go-sql-driver/mysql v1.4.1
+	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
+	github.com/golang/protobuf v1.3.1
+	github.com/gomodule/redigo v2.0.0+incompatible
+	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0
+	github.com/grpc-ecosystem/grpc-gateway v1.9.0
+	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645
+	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869 // indirect
+	github.com/jlaffaye/ftp v0.0.0-20190522102603-9284a88df536
+	github.com/lestrrat/go-envload v0.0.0-20180220120943-6ed08b54a570 // indirect
+	github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f
+	github.com/lestrrat/go-strftime v0.0.0-20180220042222-ba3bf9c1d042 // indirect
+	github.com/nicksnyder/go-i18n/v2 v2.0.0
+	github.com/opentracing/opentracing-go v1.1.0
+	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
+	github.com/sirupsen/logrus v1.4.2
+	github.com/skip2/go-qrcode v0.0.0-20190110000554-dc11ecdae0a9
+	github.com/spf13/viper v1.4.0
+	github.com/streadway/amqp v0.0.0-20190404075320-75d898a42a94
+	github.com/tebeka/strftime v0.0.0-20140926081919-3f9c7761e312 // indirect
+	github.com/uber-go/atomic v1.4.0 // indirect
+	github.com/uber/jaeger-client-go v2.16.0+incompatible
+	github.com/uber/jaeger-lib v2.0.0+incompatible // indirect
+	golang.org/x/net v0.0.0-20190522155817-f3200d17e092
+	golang.org/x/text v0.3.2
+	google.golang.org/appengine v1.4.0 // indirect
+	google.golang.org/genproto v0.0.0-20190522204451-c2c4e71fbf69
+	google.golang.org/grpc v1.21.0
+	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
+	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
+	gopkg.in/yaml.v2 v2.2.2
+)</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWdpdGh1Yi5jb20vamluemh1L2dvcm0gdjEuOS44Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>// WrapDriverOpentracing demonstrates how to call wrapDriver and register a new driver.
 // This example uses MySQL and opentracing to illustrate this
 func ExampleWrapDriver_opentracing() {
@@ -236,32 +282,23 @@ func ExampleWrapDriver_opentracing() {
 	_, _ = db, err
 }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CS8vIHZhciBvcGVudHJhY2luZ09wdGlvbiA9IGdycGNvcGVudHJhY2luZy5XaXRoVHJhY2VyKHRyYWNlcikK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">CWRlZmVyIGNsb3Nlci5DbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUhhbmRsZXIgICAgICAgICAgIFtdaHR0cC5IYW5kbGVyRnVuYwo=</text>
+        <text encoding="base64">CS8vIHZhciBvcGVudHJhY2luZ09wdGlvbiA9IGdycGNvcGVudHJhY2luZy5XaXRoVHJhY2VyKHRyYWNlcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWphZWdlckFnZW50U2VydmVyIHN0cmluZwo=</text>
+        <text encoding="base64">CWRlZmVyIGNsb3Nlci5DbG9zZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUhhbmRsZXIgICAgICAgICAgIFtdaHR0cC5IYW5kbGVyRnVuYwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmZ1bmMgaW5pdEphZUNvbmZpZ3VyYXRpb24oKmphZWdlcmNmZy5Db25maWd1cmF0aW9uKSAoamFlZ2VyY2ZnLkNvbmZpZ3VyYXRpb24sIGVycm9yKSB7CgkvLyBTYW1wbGUgY29uZmlndXJhdGlvbiBmb3IgdGVzdGluZy4gVXNlIGNvbnN0YW50IHNhbXBsaW5nIHRvIHNhbXBsZSBldmVyeSB0cmFjZQoJLy8gYW5kIGVuYWJsZSBMb2dTcGFuIHRvIGxvZyBldmVyeSBzcGFuIHZpYSBjb25maWd1cmVkIExvZ2dlci4KCWNmZyA6PSBqYWVnZXJjZmcuQ29uZmlndXJhdGlvbnsKCQlTYW1wbGVyOiAmamFlZ2VyY2ZnLlNhbXBsZXJDb25maWd7CgkJCVR5cGU6ICBqYWVnZXIuU2FtcGxlclR5cGVDb25zdCwKCQkJUGFyYW06IDEsCgkJfSwKCQlSZXBvcnRlcjogJmphZWdlcmNmZy5SZXBvcnRlckNvbmZpZ3sKCQkJTG9nU3BhbnM6IHRydWUsCgkJfSwKCX0KCgkvLyBFeGFtcGxlIGxvZ2dlciBhbmQgbWV0cmljcyBmYWN0b3J5LiBVc2UgZ2l0aHViLmNvbS91YmVyL2phZWdlci1jbGllbnQtZ28vbG9nCgkvLyBhbmQgZ2l0aHViLmNvbS91YmVyL2phZWdlci1saWIvbWV0cmljcyByZXNwZWN0aXZlbHkgdG8gYmluZCB0byByZWFsIGxvZ2dpbmcgYW5kIG1ldHJpY3MKCS8vIGZyYW1ld29ya3MuCglqTG9nZ2VyIDo9IGphZWdlcmxvZy5TdGRMb2dnZXIKCWpNZXRyaWNzRmFjdG9yeSA6PSBtZXRyaWNzLk51bGxGYWN0b3J5CgoJLy8gSW5pdGlhbGl6ZSB0cmFjZXIgd2l0aCBhIGxvZ2dlciBhbmQgYSBtZXRyaWNzIGZhY3RvcnkKCWNsb3NlciwgZXJyIDo9IGNmZy5Jbml0R2xvYmFsVHJhY2VyKAoJCSJzZXJ2aWNlTmFtZSIsCgkJamFlZ2VyY2ZnLkxvZ2dlcihqTG9nZ2VyKSwKCQlqYWVnZXJjZmcuTWV0cmljcyhqTWV0cmljc0ZhY3RvcnkpLAoJKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIGNmZywgZXJyCgl9CglkZWZlciBjbG9zZXIuQ2xvc2UoKQoKCXJldHVybiBjZmcsIGVycgoJLy8gY29udGludWUgbWFpbigpCn0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CWphZWdlckFnZW50U2VydmVyIHN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIOWumuS5iei/vei4quWZqAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
