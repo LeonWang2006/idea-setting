@@ -65,11 +65,8 @@
         <mark key="." line="1" column="141" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/app.pb.gw.go" timestamp="1559049271512" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1559002841504">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
-        <mark key="^" line="54" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/init.go" timestamp="1559093819674">
+        <mark key="^" line="57" column="48" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1559044679510">
         <mark key="[" line="29" column="0" />
@@ -92,11 +89,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1559091073667">
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
-        <mark key="^" line="53" column="21" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1559093226167">
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="54" column="23" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="54" column="23" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/intercetor/jaeintercetor.go" timestamp="1559093797619">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559037415580">
         <mark key="[" line="0" column="1" />
@@ -114,11 +116,11 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1559049389188">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="56" />
-        <mark key="." line="10" column="56" />
-        <mark key="^" line="35" column="9" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1559092964650">
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1558962689323">
         <mark key="[" line="25" column="0" />
@@ -274,7 +276,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>opentracingOption</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -282,35 +284,51 @@
       <register name="0" type="2">
         <text encoding="base64">I+aJk+WMhee8luivkeiEmuacrAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWRlZmVyIGNsb3Nlci5DbG9zZSgpCg==</text>
+      <register name="1" type="4">
+        <text>// Copyright (c) 2017 Uber Technologies, Inc.
+//
+// Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+// http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an &quot;AS IS&quot; BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXQgInJlc3QvY29uZmlnL3RyYWNlciIK</text>
+      <register name="2" type="4">
+        <text>---------------------
+作者：hackssssss
+来源：CSDN
+原文：https://blog.csdn.net/liyunlong41/article/details/88043604 
+版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkvZzogIXvvJpoYWNrc3Nzc3NzCuadpea6kO+8mkNTRE4K5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpeXVubG9uZzQxL2FydGljbGUvZGV0YWlscy84ODA0MzYwNCAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIGN0eCA6PSB0cmFjZXIuU3RhcnRTcGFuKCkuQ29udGV4dCgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgkvLyBpZiBzdHJpbmdzLkNvbnRhaW5zKGNvbmZpZy5QZXJtaXRVcmwsIHIuUmVxdWVzdFVSSSkgewoJLy8gCW5leHQodywgcikKCS8vIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CS8vIGphZWdlci5OZXdSZW1vdGVSZXBvcnRlcih0cmFuc3BvcnQpZ3JwY29wZW50cmFjaW5nCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CQlNaWNyb3NlY29uZCA9IDEwMDAgKiBOYW5vc2Vjb25kCgkJTWlsbGlzZWNvbmQgPSAxMDAwICogTWljcm9zZWNvbmQKCQlTZWNvbmQgPSAxMDAwICogTWlsbGlzZWNvbmQKCQlNaW51dGUgPSA2MCAqIFNlY29uZAoJCUhvdXIgPSA2MCAqIE1pbnV0ZQ==</text>
+        <text encoding="base64">CS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoJCeS9nOiAhe+8mmhhY2tzc3Nzc3MKCeadpea6kO+8mkNTRE4KCeWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9saXl1bmxvbmc0MS9hcnRpY2xlL2RldGFpbHMvODgwNDM2MDQgCgnniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIE=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRlZmVyIGNsb3Nlci5DbG9zZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciAK</text>
+        <text encoding="base64">CXQgInJlc3QvY29uZmlnL3RyYWNlciIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CWRpYWxPcHRzIDo9IFtdZ3JwYy5EaWFsT3B0aW9ue2dycGMuV2l0aEluc2VjdXJlKCksIGdycGMud2l0aFNlcnN0cmVhbVNlcnZlckludGVyY2VwdG9yKSwgZ3JwYy5XaXRoVW5hcnlJbnRlcmNlcHRvcih1bmFyeUNsaWVudEludGVyY2VwdG9yKX0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkvZzogIXvvJpoYWNrc3Nzc3NzCuadpea6kO+8mkNTRE4K5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpeXVubG9uZzQxL2FydGljbGUvZGV0YWlscy84ODA0MzYwNCAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
