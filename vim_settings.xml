@@ -19,23 +19,11 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1559007855311">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/tracer.go" timestamp="1559091596632" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracing/init.go" timestamp="1558691039170">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="29" column="5" />
         <mark key="." line="29" column="5" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/genproto.sh" timestamp="1558947061255">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="179" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1559042230817" />
       <file name="$USER_HOME$/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.0.0/tracing/opentracing/client_interceptors.go" timestamp="1559095012457">
@@ -98,7 +86,13 @@
         <mark key="." line="54" column="23" />
         <mark key="^" line="54" column="23" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/intercetor/jaeintercetor.go" timestamp="1559095075853" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/intercetor/jaeintercetor.go" timestamp="1559097026745">
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="51" column="5" />
+        <mark key="." line="51" column="5" />
+        <mark key="^" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.0.0/tracing/opentracing/options.go" timestamp="1559096575230" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559037415580">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="3" column="7" />
@@ -115,11 +109,12 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1559094830420">
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-        <mark key="^" line="36" column="39" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1559096627546">
+        <mark key="'" line="36" column="45" />
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+        <mark key="^" line="34" column="4" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1558962689323">
         <mark key="[" line="25" column="0" />
@@ -147,12 +142,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1559012641176">
-        <mark key="[" line="51" column="29" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1558962893614">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="9" />
@@ -170,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="9" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="10" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
       <jump line="11" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -270,21 +258,28 @@
       <jump line="25" column="8" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
       <jump line="80" column="29" filename="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" />
       <jump line="124" column="0" filename="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" />
+      <jump line="36" column="45" filename="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuYyBVbmFyeUNsaWVudEludGVyY2VwdG9yKG9wdHMgLi4uT3B0aW9uKSBncnBjLlVuYXJ5Q2xpZW50SW50ZXJjZXB0b3IgewoJbyA6PSBldmFsdWF0ZU9wdGlvbnMob3B0cykK</text>
+        <text encoding="base64">ZnVuYyBVbmFyeUNsaWVudEludGVyY2VwdG9yKCkgZ3JwYy5VbmFyeUNsaWVudEludGVyY2VwdG9yIHsKCglyZXR1cm4gZnVuYyhjdHggY29udGV4dC5Db250ZXh0LCBtZXRob2Qgc3RyaW5nLCByZXEsIHJlcGx5IGludGVyZmFjZXt9LCBjYyAqZ3JwYy5DbGllbnRDb25uLCBpbnZva2VyIGdycGMuVW5hcnlJbnZva2VyLCBvcHRzIC4uLmdycGMuQ2FsbE9wdGlvbikgKGVyciBlcnJvcikgewoJCXZhciBwYXJlbnRDb250ZXh0IG9wZW50cmFjaW5nLlNwYW5Db250ZXh0CgkJLy8g5YWI5LuOY29udGV4dOS4reiOt+WPluWOn+Wni+eahHNwYW4KCQlwYXJlbnRTcGFuIDo9IG9wZW50cmFjaW5nLlNwYW5Gcm9tQ29udGV4dChjdHgpCgkJaWYgcGFyZW50U3BhbiAhPSBuaWwgewoJCQlwYXJlbnRDb250ZXh0ID0gcGFyZW50U3Bhbi5Db250ZXh0KCkKCQl9CgkJdHJhY2VyIDo9IG9wZW50cmFjaW5nLkdsb2JhbFRyYWNlcigpCgkJc3BhbiA6PSB0cmFjZXIuU3RhcnRTcGFuKG1ldGhvZCwgb3BlbnRyYWNpbmcuQ2hpbGRPZihwYXJlbnRDb250ZXh0KSkKCQlkZWZlciBzcGFuLkZpbmlzaCgpCgkJLy8g5LuOY29udGV4dOS4reiOt+WPlm1ldGFkYXRh44CCbWQuKHR5cGUpID09IG1hcFtzdHJpbmddW11zdHJpbmcKCQltZCwgb2sgOj0gbWV0YWRhdGEuRnJvbUluY29taW5nQ29udGV4dChjdHgpCgkJaWYgIW9rIHsKCQkJbWQgPSBtZXRhZGF0YS5OZXcobmlsKQoJCX0gZWxzZSB7CgkJCS8vIOWmguaenOWvuW1ldGFkYXRh6L+b6KGM5L+u5pS577yM6YKj5LmI6ZyA6KaB55So5ou36LSd55qE5Ymv5pys6L+b6KGM5L+u5pS544CC77yIRnJvbUluY29taW5nQ29udGV4dOeahOazqOmHiu+8iQoJCQltZCA9IG1kLkNvcHkoKQoJCX0KCQkvLyDlrprkuYnkuIDkuKpjYXJyaWVy77yM5LiL6Z2i55qESW5qZWN05rOo5YWl5pWw5o2u6ZyA6KaB55So5Yiw44CCY2Fycmllci4odHlwZSkgPT0gbWFwW3N0cmluZ11zdHJpbmcKCQkvLyBjYXJyaWVyIDo9IG9wZW50cmFjaW5nLlRleHRNYXBDYXJyaWVye30KCQljYXJyaWVyIDo9IFRleHRNYXBXcml0ZXJ7bWR9CgkJLy8g5bCGc3BhbueahGNvbnRleHTkv6Hmga/ms6jlhaXliLBjYXJyaWVy5LitCgkJZSA6PSB0cmFjZXIuSW5qZWN0KHNwYW4uQ29udGV4dCgpLCBvcGVudHJhY2luZy5UZXh0TWFwLCBjYXJyaWVyKQoJCWlmIGUgIT0gbmlsIHsKCQkJZm10LlByaW50bG4oInRyYWNlciBJbmplY3QgZXJyLCIsIGUpCgkJfQoJCS8vIOWIm+W7uuS4gOS4quaWsOeahGNvbnRleHTvvIzmioptZXRhZGF0YemZhOW4puS4igoJCWN0eCA9IG1ldGFkYXRhLk5ld091dGdvaW5nQ29udGV4dChjdHgsIG1kKQoKCQlyZXR1cm4gaW52b2tlcihjdHgsIG1ldGhvZCwgcmVxLCByZXBseSwgY2MsIG9wdHMuLi4pCgl9Cn0K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CW8gOj0gZXZhbHVhdGVPcHRpb25zKG9wdHMpCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>// Copyright (c) 2017 Uber Technologies, Inc.
 //
 // Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);
@@ -299,36 +294,30 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>---------------------
 作者：hackssssss
 来源：CSDN
 原文：https://blog.csdn.net/liyunlong41/article/details/88043604 
 版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkvZzogIXvvJpoYWNrc3Nzc3NzCuadpea6kO+8mkNTRE4K5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpeXVubG9uZzQxL2FydGljbGUvZGV0YWlscy84ODA0MzYwNCAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CS8vIGN0eCA6PSB0cmFjZXIuU3RhcnRTcGFuKCkuQ29udGV4dCgpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CS8vIGN0eCA6PSB0cmFjZXIuU3RhcnRTcGFuKCkuQ29udGV4dCgpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CS8vIGphZWdlci5OZXdSZW1vdGVSZXBvcnRlcih0cmFuc3BvcnQpZ3JwY29wZW50cmFjaW5nCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoJCeS9nOiAhe+8mmhhY2tzc3Nzc3MKCeadpea6kO+8mkNTRE4KCeWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9saXl1bmxvbmc0MS9hcnRpY2xlL2RldGFpbHMvODgwNDM2MDQgCgnniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIE=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CWRlZmVyIGNsb3Nlci5DbG9zZSgpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CXQgInJlc3QvY29uZmlnL3RyYWNlciIK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQrkvZzogIXvvJpoYWNrc3Nzc3NzCuadpea6kO+8mkNTRE4K5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpeXVubG9uZzQxL2FydGljbGUvZGV0YWlscy84ODA0MzYwNCAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yB</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
