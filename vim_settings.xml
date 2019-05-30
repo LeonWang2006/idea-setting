@@ -40,6 +40,12 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/app.go" timestamp="1559187902382">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="37" column="15" />
+        <mark key="." line="36" column="27" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1559118777261">
         <mark key="[" line="51" column="15" />
         <mark key="]" line="51" column="15" />
@@ -110,12 +116,9 @@
         <mark key="]" line="8" column="35" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-prd.go" timestamp="1559122175690">
-        <mark key="[" line="4" column="12" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/app.pb.go" timestamp="1559182469177" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/app.proto" timestamp="1559182402992" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1559185032747">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1559187260897">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -230,7 +233,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -238,38 +241,38 @@
       <register name="0" type="2">
         <text encoding="base64">CW90Z29ybS5BZGRHb3JtQ2FsbGJhY2tzKFdwc0RCKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CXZhciBlcnIgZXJyb3IK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CSJnaXRodWIuY29tL3NwZjEzL3ZpcGVyIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CS8vIHZhciAgKnZpcGVyLlZpcGVyCgl2ID0gdmlwZXIuTmV3KCkKCV8sIF8gPSBjb25maWcuTG9hZFlhbWwodikKCgkvLyDov57mjqXmlbDmja7lupPmnI3liqHlmagKCS8vIGFwcEVyciA6PSBnZXREQkNvbm4oY29uZmlnLCBBcHBEQikKCS8vIOiuvue9rui/nuaOpei2heaXtuaXtumXtC3kuIvlkajlho3ov5vooYzosIPor5UKCS8vIFNldE1heE9wZW5Db25uc1NlY29uZCA6PSAzCgkvLyBBcHBEQi5EQigpLlNldE1heE9wZW5Db25ucyhTZXRNYXhPcGVuQ29ubnNTZWNvbmQpCgkvLyBCbG9nREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gT2dzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gQ29tbW9uREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gSHJzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gV3BzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gU3lzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CQlCbG9nREIuU2V0TG9nZ2VyKHdsb2cuTG9nZ2VyKQoJCU9nc0RCLlNldExvZ2dlcih3bG9nLkxvZ2dlcikKCQlDb21tb25EQi5TZXRMb2dnZXIod2xvZy5Mb2dnZXIpCgkJSHJzREIuU2V0TG9nZ2VyKHdsb2cuTG9nZ2VyKQoJCVdwc0RCLlNldExvZ2dlcih3bG9nLkxvZ2dlcik=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CglCbG9nREIuTG9nTW9kZSh0cnVlKQoJT2dzREIuTG9nTW9kZSh0cnVlKQoJQ29tbW9uREIuTG9nTW9kZSh0cnVlKQoJSHJzREIuTG9nTW9kZSh0cnVlKQoJV3BzREIuTG9nTW9kZSh0cnVlKQp9</text>
+      </register>
+      <register name="7" type="4">
         <text>Merge branch 'develop' of git.wondershare.cn:CPStudio/WOS_CORE into develop
 
 # Conflicts:
 #	src/proto</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CglzcGFuLCBjdHggOj0gb3BlbnRyYWNpbmcuU3RhcnRTcGFuRnJvbUNvbnRleHQoY3R4LCAiQ2hlY2tBdXRoIikKCWRlZmVyIHNwYW4uRmluaXNoKCkKCWRiMiA6PSBvdGdvcm0uU2V0U3BhblRvR29ybShjdHgsIGRiLlN5c0RCKQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CUFwcERCLkNvbm4gPSBjb25uCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgkvLyBzcWwgcXVlcnkKCWRiLkZpcnN0</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJmZGFzZnNhZnMiKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJmZGFzZnNhZnMiKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJmZGFzZnNhZnMiKQoJZm10LlByaW50bG4oImZkYXNmc2FmcyIp</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
