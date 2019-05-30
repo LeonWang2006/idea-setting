@@ -18,6 +18,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1559042230817" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1559201440229" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1559200754511">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="25" column="0" />
@@ -29,6 +30,7 @@
         <mark key="." line="1" column="141" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/app.pb.gw.go" timestamp="1559049271512" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/orgService.go" timestamp="1559201013757" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/go.mod" timestamp="1559135101737" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1559119633647">
         <mark key="[" line="26" column="0" />
@@ -41,7 +43,11 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/analyticsService.go" timestamp="1559200844319" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/analyticsService.go" timestamp="1559201152630">
+        <mark key="[" line="560" column="60" />
+        <mark key="]" line="560" column="60" />
+        <mark key="." line="560" column="60" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/app.go" timestamp="1559187902382">
         <mark key="[" line="36" column="27" />
         <mark key="]" line="36" column="27" />
@@ -94,6 +100,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/org.proto" timestamp="1559200963683" />
       <file name="$USER_HOME$/go/pkg/mod/github.com/grpc-ecosystem/go-grpc-middleware@v1.0.0/tracing/opentracing/options.go" timestamp="1559096575230" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559037415580">
         <mark key="[" line="0" column="1" />
@@ -235,7 +242,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>ogs</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
