@@ -7,7 +7,7 @@
         <mark key="[" line="37" column="4" />
       </file>
       <file name="/config-dev.go" timestamp="1559132090654" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1559116803970">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1559179193611">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -38,7 +38,6 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/oaService.go" timestamp="1559135450005" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1559118777261">
         <mark key="[" line="51" column="15" />
         <mark key="]" line="51" column="15" />
@@ -55,6 +54,9 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/tracer.go" timestamp="1559118537047" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1559179728973">
+        <mark key="[" line="26" column="101" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1559119859485">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -104,11 +106,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-prd.go" timestamp="1559122175690">
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1559178182705">
-        <mark key="[" line="79" column="38" />
-        <mark key="]" line="79" column="36" />
-        <mark key="." line="79" column="36" />
-        <mark key="^" line="79" column="36" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1559179010152">
+        <mark key="[" line="143" column="28" />
+        <mark key="]" line="143" column="32" />
+        <mark key="." line="143" column="32" />
+        <mark key="^" line="143" column="32" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/pb/blog.pb.gw.go" timestamp="1559100202724" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/genproto.bat" timestamp="1559126573966" />
@@ -220,15 +222,21 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>break</text>
+        <text>WpsDB</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuYyBVbmFyeUNsaWVudEludGVyY2VwdG9yKCkgZ3JwYy5VbmFyeUNsaWVudEludGVyY2VwdG9yIHsKCglyZXR1cm4gZnVuYyhjdHggY29udGV4dC5Db250ZXh0LCBtZXRob2Qgc3RyaW5nLCByZXEsIHJlcGx5IGludGVyZmFjZXt9LCBjYyAqZ3JwYy5DbGllbnRDb25uLCBpbnZva2VyIGdycGMuVW5hcnlJbnZva2VyLCBvcHRzIC4uLmdycGMuQ2FsbE9wdGlvbikgKGVyciBlcnJvcikgewoJCXZhciBwYXJlbnRDb250ZXh0IG9wZW50cmFjaW5nLlNwYW5Db250ZXh0CgkJLy8g5YWI5LuOY29udGV4dOS4reiOt+WPluWOn+Wni+eahHNwYW4KCQlwYXJlbnRTcGFuIDo9IG9wZW50cmFjaW5nLlNwYW5Gcm9tQ29udGV4dChjdHgpCgkJaWYgcGFyZW50U3BhbiAhPSBuaWwgewoJCQlwYXJlbnRDb250ZXh0ID0gcGFyZW50U3Bhbi5Db250ZXh0KCkKCQl9CgkJdHJhY2VyIDo9IG9wZW50cmFjaW5nLkdsb2JhbFRyYWNlcigpCgkJc3BhbiA6PSB0cmFjZXIuU3RhcnRTcGFuKG1ldGhvZCwgb3BlbnRyYWNpbmcuQ2hpbGRPZihwYXJlbnRDb250ZXh0KSkKCQlkZWZlciBzcGFuLkZpbmlzaCgpCgkJLy8g5LuOY29udGV4dOS4reiOt+WPlm1ldGFkYXRh44CCbWQuKHR5cGUpID09IG1hcFtzdHJpbmddW11zdHJpbmcKCQltZCwgb2sgOj0gbWV0YWRhdGEuRnJvbUluY29taW5nQ29udGV4dChjdHgpCgkJaWYgIW9rIHsKCQkJbWQgPSBtZXRhZGF0YS5OZXcobmlsKQoJCX0gZWxzZSB7CgkJCS8vIOWmguaenOWvuW1ldGFkYXRh6L+b6KGM5L+u5pS577yM6YKj5LmI6ZyA6KaB55So5ou36LSd55qE5Ymv5pys6L+b6KGM5L+u5pS544CC77yIRnJvbUluY29taW5nQ29udGV4dOeahOazqOmHiu+8iQoJCQltZCA9IG1kLkNvcHkoKQoJCX0KCQkvLyDlrprkuYnkuIDkuKpjYXJyaWVy77yM5LiL6Z2i55qESW5qZWN05rOo5YWl5pWw5o2u6ZyA6KaB55So5Yiw44CCY2Fycmllci4odHlwZSkgPT0gbWFwW3N0cmluZ11zdHJpbmcKCQkvLyBjYXJyaWVyIDo9IG9wZW50cmFjaW5nLlRleHRNYXBDYXJyaWVye30KCQljYXJyaWVyIDo9IFRleHRNYXBXcml0ZXJ7bWR9CgkJLy8g5bCGc3BhbueahGNvbnRleHTkv6Hmga/ms6jlhaXliLBjYXJyaWVy5LitCgkJZSA6PSB0cmFjZXIuSW5qZWN0KHNwYW4uQ29udGV4dCgpLCBvcGVudHJhY2luZy5UZXh0TWFwLCBjYXJyaWVyKQoJCWlmIGUgIT0gbmlsIHsKCQkJZm10LlByaW50bG4oInRyYWNlciBJbmplY3QgZXJyLCIsIGUpCgkJfQoJCS8vIOWIm+W7uuS4gOS4quaWsOeahGNvbnRleHTvvIzmioptZXRhZGF0YemZhOW4puS4igoJCWN0eCA9IG1ldGFkYXRhLk5ld091dGdvaW5nQ29udGV4dChjdHgsIG1kKQoKCQlyZXR1cm4gaW52b2tlcihjdHgsIG1ldGhvZCwgcmVxLCByZXBseSwgY2MsIG9wdHMuLi4pCgl9Cn0K</text>
+        <text encoding="base64">CW90Z29ybS5BZGRHb3JtQ2FsbGJhY2tzKFdwc0RCKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>require (
 	github.com/360EntSecGroup-Skylar/excelize v1.4.1
 	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
@@ -267,13 +275,10 @@
 	gopkg.in/yaml.v2 v2.2.2
 )</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CWdpdGh1Yi5jb20vamluemh1L2dvcm0gdjEuOS44Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>// WrapDriverOpentracing demonstrates how to call wrapDriver and register a new driver.
 // This example uses MySQL and opentracing to illustrate this
 func ExampleWrapDriver_opentracing() {
@@ -284,23 +289,20 @@ func ExampleWrapDriver_opentracing() {
 	_, _ = db, err
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIHZhciBvcGVudHJhY2luZ09wdGlvbiA9IGdycGNvcGVudHJhY2luZy5XaXRoVHJhY2VyKHRyYWNlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWRlZmVyIGNsb3Nlci5DbG9zZSgpCg==</text>
+        <text encoding="base64">CS8vIHZhciBvcGVudHJhY2luZ09wdGlvbiA9IGdycGNvcGVudHJhY2luZy5XaXRoVHJhY2VyKHRyYWNlcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUhhbmRsZXIgICAgICAgICAgIFtdaHR0cC5IYW5kbGVyRnVuYwo=</text>
+        <text encoding="base64">CWRlZmVyIGNsb3Nlci5DbG9zZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWphZWdlckFnZW50U2VydmVyIHN0cmluZwo=</text>
+        <text encoding="base64">CUhhbmRsZXIgICAgICAgICAgIFtdaHR0cC5IYW5kbGVyRnVuYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWphZWdlckFnZW50U2VydmVyIHN0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
