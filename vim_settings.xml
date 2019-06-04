@@ -8,6 +8,7 @@
         <mark key="]" line="41" column="149" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1559608803747" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/genproto.sh" timestamp="1559127467983">
         <mark key="[" line="1" column="139" />
         <mark key="]" line="5" column="0" />
@@ -20,12 +21,12 @@
         <mark key="^" line="27" column="4" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1559200754511">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1559608973728">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1559607712109">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1559609017950">
         <mark key="[" line="21" column="22" />
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
@@ -244,32 +245,32 @@
       <register name="0" type="2">
         <text encoding="base64">LSAvdXNlcnMvYXV0aGVudGljYXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBjYXBfYWRkOgogICAgICAtIElQQ19MT0NL</text>
+      <register name="1" type="2">
+        <text encoding="base64">CWJldGFQZXJzb25zWyIwMzEwMDAwMyJdID0gIumZiOaxn+axnyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgZXNkYXRhMjoKICAgIGRyaXZlcjogbG9jYWw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CWJldGFQZXJzb25zWyIxNjAzMjM5NyJdID0gIum7hOahieajiyIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBjYXBfYWRkOgogICAgICAtIElQQ19MT0NL</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgLSBTUEFOX1NUT1JBR0VfVFlQRT1lbGFzdGljc2VhcmNoCiAgICAgIC0gRVNfU0VSVkVSX1VSTFM9aHR0cDovL2VsYXN0aWNzZWFyY2g6OTIwMAogICAgICAtIEVTX1VTRVJOQU1FPWVsYXN0aWMKICAgICAgLSBFU19QQVNTV09SRD1jaGFuZ2VtZQ==</text>
+        <text encoding="base64">CiAgZXNkYXRhMjoKICAgIGRyaXZlcjogbG9jYWw=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgLSBTUEFOX1NUT1JBR0VfVFlQRT1lbGFzdGljc2VhcmNoCiAgICAgIC0gRVNfU0VSVkVSX1VSTFM9aHR0cDovL2VsYXN0aWNzZWFyY2g6OTIwMAogICAgICAtIEVTX1VTRVJOQU1FPWVsYXN0aWMKICAgICAgLSBFU19QQVNTV09SRD1jaGFuZ2VtZQ==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLSAiOTQxMTo5NDExIgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLSAiMTQyNjg6MTQyNjgiCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHVsaW1pdHM6CiAgICAgIG1lbWxvY2s6CiAgICAgICAgc29mdDogLTEKICAgICAgICBoYXJkOiAtMQogICAgICBub2ZpbGU6CiAgICAgICAgc29mdDogNjU1MzYKICAgICAgICBoYXJkOiA2NTUzNgogICAgbWVtX2xpbWl0OiAxZwogICAgY2FwX2FkZDoKICAgICAgLSBJUENfTE9DSwogICAgdm9sdW1lczoKICAgICAgLSBlc2RhdGE6L3Vzci9zaGFyZS9lbGFzdGljc2VhcmNoL2RhdGE=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIC0gIkVTX0pBVkFfT1BUUz0tWG1zNTEybSAtWG14NTEybSIKICAgICAgLSAiZGlzY292ZXJ5Lnplbi5waW5nLnVuaWNhc3QuaG9zdHM9ZWxhc3RpY3NlYXJjaDEi</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">ICAgIHVsaW1pdHM6CiAgICAgIG1lbWxvY2s6CiAgICAgICAgc29mdDogLTEKICAgICAgICBoYXJkOiAtMQogICAgICBub2ZpbGU6CiAgICAgICAgc29mdDogNjU1MzYKICAgICAgICBoYXJkOiA2NTUzNgogICAgbWVtX2xpbWl0OiAxZwogICAgY2FwX2FkZDoKICAgICAgLSBJUENfTE9DSwogICAgdm9sdW1lczoKICAgICAgLSBlc2RhdGE6L3Vzci9zaGFyZS9lbGFzdGljc2VhcmNoL2RhdGE=</text>
