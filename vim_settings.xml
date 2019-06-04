@@ -26,11 +26,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1559631164489">
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="26" column="3" />
-        <mark key="." line="26" column="3" />
-        <mark key="^" line="26" column="3" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1559634696544">
+        <mark key="[" line="152" column="23" />
+        <mark key="]" line="165" column="21" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="164" column="20" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1559119859485">
         <mark key="[" line="42" column="0" />
@@ -99,10 +99,10 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1559207662620">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1559634962268">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/payload.go" timestamp="1559540534894">
         <mark key="[" line="5" column="31" />
@@ -114,7 +114,7 @@
         <mark key="]" line="51" column="15" />
         <mark key="." line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1559527368082">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1559634970175">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
@@ -238,43 +238,43 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>stopped</text>
+        <text>10.10.18.87</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSAvdXNlcnMvYXV0aGVudGljYXRpb24K</text>
+        <text encoding="base64">ICAgICAgLSAiNTAwNTI6NTAwNTIiCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBib290c3RyYXAubWVtb3J5X2xvY2s9dHJ1ZQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIC0gIjU3NzU6NTc3NS91ZHAiCiAgICAgIC0gIjY4MzE6NjgzMS91ZHAiCiAgICAgIC0gIjY4MzI6NjgzMi91ZHAi</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBjbHVzdGVyLm5hbWU9ZG9ja2VyLWNsdXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgLSBib290c3RyYXAubWVtb3J5X2xvY2s9dHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAiZGlzY292ZXJ5Lnplbi5waW5nLnVuaWNhc3QuaG9zdHM9ZWxhc3RpY3NlYXJjaCIK</text>
+        <text encoding="base64">ICAgICAgLSBjbHVzdGVyLm5hbWU9ZG9ja2VyLWNsdXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWJldGFQZXJzb25zWyIwMzEwMDAwMyJdID0gIumZiOaxn+axnyIK</text>
+        <text encoding="base64">ICAgICAgLSAiZGlzY292ZXJ5Lnplbi5waW5nLnVuaWNhc3QuaG9zdHM9ZWxhc3RpY3NlYXJjaCIK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CWJldGFQZXJzb25zWyIwMzEwMDAwMyJdID0gIumZiOaxn+axnyIK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CWJldGFQZXJzb25zWyIxNjAzMjM5NyJdID0gIum7hOahieajiyIK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBjYXBfYWRkOgogICAgICAtIElQQ19MT0NL</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgZXNkYXRhMjoKICAgIGRyaXZlcjogbG9jYWw=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgLSBTUEFOX1NUT1JBR0VfVFlQRT1lbGFzdGljc2VhcmNoCiAgICAgIC0gRVNfU0VSVkVSX1VSTFM9aHR0cDovL2VsYXN0aWNzZWFyY2g6OTIwMAogICAgICAtIEVTX1VTRVJOQU1FPWVsYXN0aWMKICAgICAgLSBFU19QQVNTV09SRD1jaGFuZ2VtZQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
