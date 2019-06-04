@@ -8,6 +8,12 @@
         <mark key="]" line="41" column="149" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose_es.yaml" timestamp="1559650851276">
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="64" column="31" />
+        <mark key="^" line="64" column="31" />
+        <mark key="." line="64" column="31" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1559608803747" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/genproto.sh" timestamp="1559127467983">
         <mark key="[" line="1" column="139" />
@@ -238,43 +244,43 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>10.10.18.87</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAiNTAwNTI6NTAwNTIiCg==</text>
+      <register name="0" type="4">
+        <text>jaeger-query:</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgIC0gIjU3NzU6NTc3NS91ZHAiCiAgICAgIC0gIjY4MzE6NjgzMS91ZHAiCiAgICAgIC0gIjY4MzI6NjgzMi91ZHAi</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGVsYXN0aWMtamFlZ2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBib290c3RyYXAubWVtb3J5X2xvY2s9dHJ1ZQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgIC0gIjU3NzU6NTc3NS91ZHAiCiAgICAgIC0gIjY4MzE6NjgzMS91ZHAiCiAgICAgIC0gIjY4MzI6NjgzMi91ZHAi</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBjbHVzdGVyLm5hbWU9ZG9ja2VyLWNsdXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgLSBib290c3RyYXAubWVtb3J5X2xvY2s9dHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAiZGlzY292ZXJ5Lnplbi5waW5nLnVuaWNhc3QuaG9zdHM9ZWxhc3RpY3NlYXJjaCIK</text>
+        <text encoding="base64">ICAgICAgLSBjbHVzdGVyLm5hbWU9ZG9ja2VyLWNsdXN0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWJldGFQZXJzb25zWyIwMzEwMDAwMyJdID0gIumZiOaxn+axnyIK</text>
+        <text encoding="base64">ICAgICAgLSAiZGlzY292ZXJ5Lnplbi5waW5nLnVuaWNhc3QuaG9zdHM9ZWxhc3RpY3NlYXJjaCIK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CWJldGFQZXJzb25zWyIwMzEwMDAwMyJdID0gIumZiOaxn+axnyIK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CWJldGFQZXJzb25zWyIxNjAzMjM5NyJdID0gIum7hOahieajiyIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBjYXBfYWRkOgogICAgICAtIElQQ19MT0NL</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgZXNkYXRhMjoKICAgIGRyaXZlcjogbG9jYWw=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
