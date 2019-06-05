@@ -32,6 +32,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/tracer.go" timestamp="1559701289938">
+        <mark key="[" line="36" column="1" />
+        <mark key="]" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1559185770673">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="27" column="12" />
@@ -71,7 +76,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="79" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559699574210">
+      <file name="/Dummy.txt" timestamp="1559700984730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -132,7 +137,7 @@
         <mark key="]" line="51" column="15" />
         <mark key="." line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1559697522734">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1559701046176">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
@@ -271,28 +276,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdHJhY2VyLGNsb3NlcixlcnIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXRyYWNlciwgY2xvc2VyLCBlcnIgPSBjZmcuTmV3VHJhY2VyKGNvbmZpZy5Mb2dnZXIoamFlZ2VyLlN0ZExvZ2dlcikpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQkvLyBjZmcgPSAmY29uZmlnLkNvbmZpZ3VyYXRpb257CgkJLy8gCVNlcnZpY2VOYW1lOiBqLlNlcnZpY2VOYW1lLAoJCS8vIAlTYW1wbGVyOiAmY29uZmlnLlNhbXBsZXJDb25maWd7CgkJLy8gCQlUeXBlOiAgImNvbnN0IiwKCQkvLyAJCVBhcmFtOiAxLAoJCS8vIAl9LAoJCS8vIAlSZXBvcnRlcjogJmNvbmZpZy5SZXBvcnRlckNvbmZpZ3sKCQkvLyAJCUxvZ1NwYW5zOiAgICAgICAgICAgdHJ1ZSwKCQkvLyAJCUxvY2FsQWdlbnRIb3N0UG9ydDogai5KYWVnZXJBZ2VudEhvc3QsCgkJLy8gCX0sCgkJLy8gfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">amFlZ2VyQWdlbnQ6IGphZWdlci1hZ2VudDo2ODMxCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlyZXR1cm4gdHJhY2VyLGNsb3NlcixlcnIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXRyYWNlciwgY2xvc2VyLCBlcnIgPSBjZmcuTmV3VHJhY2VyKGNvbmZpZy5Mb2dnZXIoamFlZ2VyLlN0ZExvZ2dlcikpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CQkvLyBjZmcgPSAmY29uZmlnLkNvbmZpZ3VyYXRpb257CgkJLy8gCVNlcnZpY2VOYW1lOiBqLlNlcnZpY2VOYW1lLAoJCS8vIAlTYW1wbGVyOiAmY29uZmlnLlNhbXBsZXJDb25maWd7CgkJLy8gCQlUeXBlOiAgImNvbnN0IiwKCQkvLyAJCVBhcmFtOiAxLAoJCS8vIAl9LAoJCS8vIAlSZXBvcnRlcjogJmNvbmZpZy5SZXBvcnRlckNvbmZpZ3sKCQkvLyAJCUxvZ1NwYW5zOiAgICAgICAgICAgdHJ1ZSwKCQkvLyAJCUxvY2FsQWdlbnRIb3N0UG9ydDogai5KYWVnZXJBZ2VudEhvc3QsCgkJLy8gCX0sCgkJLy8gfQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">amFlZ2VyQWdlbnQ6IGphZWdlci1hZ2VudDo2ODMxCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IGVscy1uZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGVsYXN0aWMtamFlZ2VyCg==</text>
+        <text encoding="base64">ICAgIG5hbWU6IGVscy1uZXQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgIC0gIjU3NzU6NTc3NS91ZHAiCiAgICAgIC0gIjY4MzE6NjgzMS91ZHAiCiAgICAgIC0gIjY4MzI6NjgzMi91ZHAi</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGVsYXN0aWMtamFlZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
