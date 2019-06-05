@@ -51,10 +51,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/home.dart" timestamp="1559737292708">
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/home.dart" timestamp="1559738784957">
+        <mark key="[" line="88" column="48" />
+        <mark key="]" line="74" column="49" />
+        <mark key="." line="74" column="49" />
+        <mark key="^" line="74" column="49" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/lestrrat/go-file-rotatelogs@v0.0.0-20180223000712-d3151e2a480f/rotatelogs.go" timestamp="1556264834506">
         <mark key="[" line="100" column="7" />
@@ -150,6 +151,7 @@
         <mark key="]" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
+      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/model/products_repository.dart" timestamp="1559738397615" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/person.proto" timestamp="1557924312669">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="23" column="9" />
@@ -249,6 +251,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="45" column="10" />
       </file>
+      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/model/product.dart" timestamp="1559738415818" />
       <file name="$USER_HOME$/gitrepository/WOS_CORE/src/main.go" timestamp="1558519368022">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -376,56 +379,56 @@
       <jump line="36" column="45" filename="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZDogVGV4dCgnWW91IGRpZCBpdCEnKSwK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Center</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>avatar</text>
+        <text>fit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIEljb25CdXR0b24oaWNvbjogSWNvbihJY29ucy5zZWFyY2gsIHNlbWFudGljTGFiZWw6ICdzZWFyY2gnKSxvblByZXNzZWQ6ICgpewogICAgICAgICAgICBwcmludCgic2VhcmNoIik7CiAgICAgICAgICB9LCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZDogVGV4dCgnWW91IGRpZCBpdCEnKSwK</text>
+        <text encoding="base64">ICByZXR1cm4gY2FyZHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzZW1hbnRpY0xhYmVsOidzZWFyY2gnCg==</text>
+        <text encoding="base64">ICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMaXN0PENhcmQ+IGNhcmRzID0gTGlzdC5nZW5lcmF0ZSgKICAgIGNvdW50LAogICAgKGludCBpbmRleCkgPT4gQ2FyZCgKICAgICAgICAgIGNoaWxkOiBDb2x1bW4oCiAgICAgICAgICAgIGNyb3NzQXhpc0FsaWdubWVudDogQ3Jvc3NBeGlzQWxpZ25tZW50LnN0YXJ0LAogICAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgICAgQXNwZWN0UmF0aW8oCiAgICAgICAgICAgICAgICBhc3BlY3RSYXRpbzogMTguMCAvIDExLjAsCiAgICAgICAgICAgICAgICBjaGlsZDogSW1hZ2UuYXNzZXQoJ2Fzc2V0cy9kaWFtb25kLnBuZycpLAogICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgUGFkZGluZygKICAgICAgICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuZnJvbUxUUkIoMTYuMCwgMTIuMCwgMTYuMCwgOC4wKSwKICAgICAgICAgICAgICAgIGNoaWxkOiBDb2x1bW4oCiAgICAgICAgICAgICAgICAgIGNyb3NzQXhpc0FsaWdubWVudDogQ3Jvc3NBeGlzQWxpZ25tZW50LnN0YXJ0LAogICAgICAgICAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgICAgICAgICAgVGV4dCgnVGl0bGUnKSwKICAgICAgICAgICAgICAgICAgICBTaXplZEJveChoZWlnaHQ6IDguMCksCiAgICAgICAgICAgICAgICAgICAgVGV4dCgnU2Vjb25kYXJ5IFRleHQnKSwKICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgXSwKICAgICAgICAgICksCiAgICAgICAgKSwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEljb25zLm1lbnUsCiAgICAgICAgICAgIHNlbWFudGljTGFiZWw6J21lbnUnCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IDxXaWRnZXQ+WwogICAgICAgICAgQ2FyZCgKICAgICAgICAgICAgY2hpbGQ6IENvbHVtbigKICAgICAgICAgICAgICAgIGNyb3NzQXhpc0FsaWdubWVudDogQ3Jvc3NBeGlzQWxpZ25tZW50LnN0YXJ0LAogICAgICAgICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICAgICAgICBBc3BlY3RSYXRpbygKICAgICAgICAgICAgICAgICAgICBhc3BlY3RSYXRpbzogMTguMCAvIDExLjAsCiAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IEltYWdlLmFzc2V0KCdhc3NldHMvZGlhbW9uZC5wbmcnKSwKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgUGFkZGluZygKICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLmZyb21MVFJCKDE2LjAsIDEyLjAsIDE2LjAsIDguMCksCiAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IENvbHVtbigKICAgICAgICAgICAgICAgICAgICAgIGNyb3NzQXhpc0FsaWdubWVudDogQ3Jvc3NBeGlzQWxpZ25tZW50LnN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICAgICAgICAgICAgICBUZXh0KCdUaXRsZScpLAogICAgICAgICAgICAgICAgICAgICAgICBTaXplZEJveChoZWlnaHQ6IDguMCksCiAgICAgICAgICAgICAgICAgICAgICAgIFRleHQoJ1NlY29uZGFyeSBUZXh0JyksCiAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIF0pLAogICAgICAgICAgKQogICAgICAgIF0s</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVNlcnZlck1hcFsib3JnIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLm9ncyIpLCAmc2VydmljZS5PcmdTZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJPcmdTZXJ2ZXIsIHBiLlJlZ2lzdGVyT3JnSGFuZGxlckZyb21FbmRwb2ludH0K</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZDogVGV4dCgnWW91IGRpZCBpdCEnKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciBlcnIgZXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZW1hbnRpY0xhYmVsOidzZWFyY2gnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3NwZjEzL3ZpcGVyIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CS8vIHZhciAgKnZpcGVyLlZpcGVyCgl2ID0gdmlwZXIuTmV3KCkKCV8sIF8gPSBjb25maWcuTG9hZFlhbWwodikKCgkvLyDov57mjqXmlbDmja7lupPmnI3liqHlmagKCS8vIGFwcEVyciA6PSBnZXREQkNvbm4oY29uZmlnLCBBcHBEQikKCS8vIOiuvue9rui/nuaOpei2heaXtuaXtumXtC3kuIvlkajlho3ov5vooYzosIPor5UKCS8vIFNldE1heE9wZW5Db25uc1NlY29uZCA6PSAzCgkvLyBBcHBEQi5EQigpLlNldE1heE9wZW5Db25ucyhTZXRNYXhPcGVuQ29ubnNTZWNvbmQpCgkvLyBCbG9nREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gT2dzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gQ29tbW9uREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gSHJzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gV3BzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gU3lzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIEljb25zLm1lbnUsCiAgICAgICAgICAgIHNlbWFudGljTGFiZWw6J21lbnUnCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CVNlcnZlck1hcFsib3JnIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLm9ncyIpLCAmc2VydmljZS5PcmdTZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJPcmdTZXJ2ZXIsIHBiLlJlZ2lzdGVyT3JnSGFuZGxlckZyb21FbmRwb2ludH0K</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
       </register>
     </registers>
     <search>
-      <last-search>avatar</last-search>
+      <last-search>fit</last-search>
       <last-offset />
-      <last-pattern>avatar</last-pattern>
+      <last-pattern>fit</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -433,7 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fave</entry>
         <entry>fav</entry>
         <entry>message</entry>
         <entry>cancel_type</entry>
@@ -453,6 +455,7 @@
         <entry encoding="base64">XDxodHRwc1w+</entry>
         <entry>save</entry>
         <entry>avatar</entry>
+        <entry>fit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/03100004/03100001/g</entry>
