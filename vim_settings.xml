@@ -27,6 +27,11 @@
         <mark key="^" line="3" column="179" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/tracer/tracer.go" timestamp="1559699690904">
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1559185770673">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="27" column="12" />
@@ -38,11 +43,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1559652386821">
-        <mark key="[" line="141" column="42" />
-        <mark key="]" line="141" column="40" />
-        <mark key="." line="141" column="40" />
-        <mark key="^" line="141" column="40" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1559699560053">
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="156" column="40" />
+        <mark key="." line="156" column="40" />
+        <mark key="^" line="156" column="40" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1559119859485">
         <mark key="[" line="42" column="0" />
@@ -66,7 +71,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="79" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559531451808">
+      <file name="/Dummy.txt" timestamp="1559699574210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -94,7 +99,7 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559696569138">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1559698874378">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="0" />
@@ -111,10 +116,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1559697506840">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1559699184697">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/payload.go" timestamp="1559540534894">
         <mark key="[" line="5" column="31" />
@@ -250,7 +256,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>harbor01.wondershare.cn/wos/</text>
+        <text encoding="base64">ZXJyIA==</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -265,28 +271,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IGVscy1uZXQK</text>
+        <text encoding="base64">CQlyZXR1cm4gdHJhY2VyLGNsb3NlcixlcnIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGVsYXN0aWMtamFlZ2VyCg==</text>
+        <text encoding="base64">CXRyYWNlciwgY2xvc2VyLCBlcnIgPSBjZmcuTmV3VHJhY2VyKGNvbmZpZy5Mb2dnZXIoamFlZ2VyLlN0ZExvZ2dlcikpCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgIC0gIjU3NzU6NTc3NS91ZHAiCiAgICAgIC0gIjY4MzE6NjgzMS91ZHAiCiAgICAgIC0gIjY4MzI6NjgzMi91ZHAi</text>
+        <text encoding="base64">CQkvLyBjZmcgPSAmY29uZmlnLkNvbmZpZ3VyYXRpb257CgkJLy8gCVNlcnZpY2VOYW1lOiBqLlNlcnZpY2VOYW1lLAoJCS8vIAlTYW1wbGVyOiAmY29uZmlnLlNhbXBsZXJDb25maWd7CgkJLy8gCQlUeXBlOiAgImNvbnN0IiwKCQkvLyAJCVBhcmFtOiAxLAoJCS8vIAl9LAoJCS8vIAlSZXBvcnRlcjogJmNvbmZpZy5SZXBvcnRlckNvbmZpZ3sKCQkvLyAJCUxvZ1NwYW5zOiAgICAgICAgICAgdHJ1ZSwKCQkvLyAJCUxvY2FsQWdlbnRIb3N0UG9ydDogai5KYWVnZXJBZ2VudEhvc3QsCgkJLy8gCX0sCgkJLy8gfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBib290c3RyYXAubWVtb3J5X2xvY2s9dHJ1ZQo=</text>
+        <text encoding="base64">amFlZ2VyQWdlbnQ6IGphZWdlci1hZ2VudDo2ODMxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBjbHVzdGVyLm5hbWU9ZG9ja2VyLWNsdXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAiZGlzY292ZXJ5Lnplbi5waW5nLnVuaWNhc3QuaG9zdHM9ZWxhc3RpY3NlYXJjaCIK</text>
+        <text encoding="base64">ICAgIG5hbWU6IGVscy1uZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWJldGFQZXJzb25zWyIwMzEwMDAwMyJdID0gIumZiOaxn+axnyIK</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGVsYXN0aWMtamFlZ2VyCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CWJldGFQZXJzb25zWyIxNjAzMjM5NyJdID0gIum7hOahieajiyIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIC0gIjU3NzU6NTc3NS91ZHAiCiAgICAgIC0gIjY4MzE6NjgzMS91ZHAiCiAgICAgIC0gIjY4MzI6NjgzMi91ZHAi</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
