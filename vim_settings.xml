@@ -48,8 +48,8 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1559786246779">
-        <mark key="[" line="105" column="21" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1559802415459">
+        <mark key="[" line="112" column="23" />
         <mark key="]" line="105" column="22" />
         <mark key="." line="105" column="22" />
         <mark key="^" line="109" column="7" />
@@ -116,18 +116,18 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dc-test.yaml" timestamp="1559791903030">
-        <mark key="[" line="167" column="42" />
-        <mark key="]" line="167" column="42" />
-        <mark key="^" line="167" column="41" />
-        <mark key="." line="167" column="42" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dc-test.yaml" timestamp="1559802737531">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1559119831886">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1559699184697">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1559802155501">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -268,7 +268,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>workSpace</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -277,34 +277,34 @@
         <text>jaeger-query:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcGxveToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgcGxhY2VtZW50OgogICAgICAgIGNvbnN0cmFpbnRzOiBbbm9kZS5yb2xlID09IHdvcmtlcl0=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdHJhY2VyLGNsb3NlcixlcnIK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgcGxhY2VtZW50OgogICAgICAgIGNvbnN0cmFpbnRzOiBbbm9kZS5yb2xlID09IHdvcmtlcl0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXRyYWNlciwgY2xvc2VyLCBlcnIgPSBjZmcuTmV3VHJhY2VyKGNvbmZpZy5Mb2dnZXIoamFlZ2VyLlN0ZExvZ2dlcikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CQkvLyBjZmcgPSAmY29uZmlnLkNvbmZpZ3VyYXRpb257CgkJLy8gCVNlcnZpY2VOYW1lOiBqLlNlcnZpY2VOYW1lLAoJCS8vIAlTYW1wbGVyOiAmY29uZmlnLlNhbXBsZXJDb25maWd7CgkJLy8gCQlUeXBlOiAgImNvbnN0IiwKCQkvLyAJCVBhcmFtOiAxLAoJCS8vIAl9LAoJCS8vIAlSZXBvcnRlcjogJmNvbmZpZy5SZXBvcnRlckNvbmZpZ3sKCQkvLyAJCUxvZ1NwYW5zOiAgICAgICAgICAgdHJ1ZSwKCQkvLyAJCUxvY2FsQWdlbnRIb3N0UG9ydDogai5KYWVnZXJBZ2VudEhvc3QsCgkJLy8gCX0sCgkJLy8gfQ==</text>
+        <text encoding="base64">ICAgICAgcGxhY2VtZW50OgogICAgICAgIGNvbnN0cmFpbnRzOiBbbm9kZS5yb2xlID09IHdvcmtlcl0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">amFlZ2VyQWdlbnQ6IGphZWdlci1hZ2VudDo2ODMxCg==</text>
+        <text encoding="base64">ICAgIGRlcGxveToK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IGVscy1uZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
