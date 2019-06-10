@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/login.dart" timestamp="1560128883205">
+        <mark key="[" line="37" column="48" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config.go" timestamp="1559118777261">
         <mark key="[" line="51" column="15" />
         <mark key="]" line="51" column="15" />
@@ -32,12 +35,19 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/color.dart" timestamp="1560124104793" />
+      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/color.dart" timestamp="1560128647581">
+        <mark key="[" line="12" column="44" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1559044679510">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/home.dart" timestamp="1560128966715">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1559200754511">
         <mark key="[" line="26" column="22" />
@@ -71,10 +81,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/app.dart" timestamp="1560124654097">
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/gitrepository/material-components-flutter-codelabs/mdc_100_series/lib/app.dart" timestamp="1560129318788">
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="17" />
+        <mark key="." line="58" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1559185177774">
         <mark key="[" line="0" column="0" />
@@ -235,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyBUT0RPOiBCdWlsZCBhIFNocmluZSBUaGVtZSAoMTAzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiBrU2hyaW5lQmxhY2ssIC8vIE5ldyBjb2RlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>esnet</text>
+        <text>kShrineBrown900</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -247,37 +257,34 @@
         <text encoding="base64">LSAvdXNlcnMvYXV0aGVudGljYXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyBUT0RPOiBCdWlsZCBhIFNocmluZSBUaGVtZSAoMTAzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiBrU2hyaW5lQmxhY2ssIC8vIE5ldyBjb2RlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVNlcnZlck1hcFsib3JnIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLm9ncyIpLCAmc2VydmljZS5PcmdTZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJPcmdTZXJ2ZXIsIHBiLlJlZ2lzdGVyT3JnSGFuZGxlckZyb21FbmRwb2ludH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXZhciBlcnIgZXJyb3IK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3NwZjEzL3ZpcGVyIgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CS8vIHZhciAgKnZpcGVyLlZpcGVyCgl2ID0gdmlwZXIuTmV3KCkKCV8sIF8gPSBjb25maWcuTG9hZFlhbWwodikKCgkvLyDov57mjqXmlbDmja7lupPmnI3liqHlmagKCS8vIGFwcEVyciA6PSBnZXREQkNvbm4oY29uZmlnLCBBcHBEQikKCS8vIOiuvue9rui/nuaOpei2heaXtuaXtumXtC3kuIvlkajlho3ov5vooYzosIPor5UKCS8vIFNldE1heE9wZW5Db25uc1NlY29uZCA6PSAzCgkvLyBBcHBEQi5EQigpLlNldE1heE9wZW5Db25ucyhTZXRNYXhPcGVuQ29ubnNTZWNvbmQpCgkvLyBCbG9nREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gT2dzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gQ29tbW9uREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gSHJzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gV3BzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gU3lzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQlCbG9nREIuU2V0TG9nZ2VyKHdsb2cuTG9nZ2VyKQoJCU9nc0RCLlNldExvZ2dlcih3bG9nLkxvZ2dlcikKCQlDb21tb25EQi5TZXRMb2dnZXIod2xvZy5Mb2dnZXIpCgkJSHJzREIuU2V0TG9nZ2VyKHdsb2cuTG9nZ2VyKQoJCVdwc0RCLlNldExvZ2dlcih3bG9nLkxvZ2dlcik=</text>
+      <register name="4" type="2">
+        <text encoding="base64">LyBUT0RPOiBCdWlsZCBhIFNocmluZSBUaGVtZSAoMTAzKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CglCbG9nREIuTG9nTW9kZSh0cnVlKQoJT2dzREIuTG9nTW9kZSh0cnVlKQoJQ29tbW9uREIuTG9nTW9kZSh0cnVlKQoJSHJzREIuTG9nTW9kZSh0cnVlKQoJV3BzREIuTG9nTW9kZSh0cnVlKQp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CVNlcnZlck1hcFsib3JnIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLm9ncyIpLCAmc2VydmljZS5PcmdTZXJ2ZXJ7fSwgcGIuUmVnaXN0ZXJPcmdTZXJ2ZXIsIHBiLlJlZ2lzdGVyT3JnSGFuZGxlckZyb21FbmRwb2ludH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXZhciBlcnIgZXJyb3IK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSJnaXRodWIuY29tL3NwZjEzL3ZpcGVyIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>Merge branch 'develop' of git.wondershare.cn:CPStudio/WOS_CORE into develop
-
-# Conflicts:
-#	src/proto</text>
+        <text encoding="base64">CS8vIHZhciAgKnZpcGVyLlZpcGVyCgl2ID0gdmlwZXIuTmV3KCkKCV8sIF8gPSBjb25maWcuTG9hZFlhbWwodikKCgkvLyDov57mjqXmlbDmja7lupPmnI3liqHlmagKCS8vIGFwcEVyciA6PSBnZXREQkNvbm4oY29uZmlnLCBBcHBEQikKCS8vIOiuvue9rui/nuaOpei2heaXtuaXtumXtC3kuIvlkajlho3ov5vooYzosIPor5UKCS8vIFNldE1heE9wZW5Db25uc1NlY29uZCA6PSAzCgkvLyBBcHBEQi5EQigpLlNldE1heE9wZW5Db25ucyhTZXRNYXhPcGVuQ29ubnNTZWNvbmQpCgkvLyBCbG9nREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gT2dzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gQ29tbW9uREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gSHJzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gV3BzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQoJLy8gU3lzREIuREIoKS5TZXRNYXhPcGVuQ29ubnMoU2V0TWF4T3BlbkNvbm5zU2Vjb25kKQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
