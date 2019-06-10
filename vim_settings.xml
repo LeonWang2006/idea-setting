@@ -14,7 +14,7 @@
         <mark key="^" line="118" column="16" />
         <mark key="." line="118" column="18" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1559207077895">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1560171579593">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="149" />
         <mark key="." line="41" column="0" />
@@ -73,27 +73,33 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560169492570">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560172259570">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dc-test.yaml" timestamp="1560170632260">
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1560171601823">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="22" column="1" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dc-test.yaml" timestamp="1560172163330">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1559813640944">
         <mark key="[" line="42" column="38" />
         <mark key="]" line="42" column="31" />
         <mark key="." line="42" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1559815854088">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="29" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1560172076063">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/payload.go" timestamp="1559540534894">
         <mark key="[" line="5" column="31" />
@@ -105,7 +111,7 @@
         <mark key="]" line="51" column="15" />
         <mark key="." line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1559701046176">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1560171848145">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
@@ -231,7 +237,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>-grpc-port=50050</text>
+        <text>rpc.wondershare.cn</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -240,34 +246,34 @@
         <text encoding="base64">CUFwcEhvc3Q6IjEyNy4wLjAuMTo1MDA1MSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAiNTAwNTA6NTAwNTAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgLSBBcHBIb3N0PWFwcAogICAgICAtIEhyc0hvc3Q9aHJzCiAgICAgIC0gT2dzSG9zdD1vZ3M=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CUFwcEhvc3Q6ICAiMTI3LjAuMC4xOjUwMDUxIiwKCUhyc0hvc3Q6ICAiMTI3LjAuMC4xOjUwMDUyIiwKCU9nc0hvc3Q6ICAiMTI3LjAuMC4xOjUwMDUzIiw=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgLSBBcHBIb3N0PWFwcAogICAgICAtIEhyc0hvc3Q9aHJzCiAgICAgIC0gT2dzSG9zdD1vZ3M=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgLSBBcHBIb3N0PWFwcAogICAgICAtIEhyc0hvc3Q9aHJzCiAgICAgIC0gT2dzSG9zdD1vZ3M=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CS8vIENvbmYuSGVscCA9IGZsYWcuQm9vbCgiaGVscCIsIGZhbHNlLCAic2hvdyB0aGlzIGhlbHAiKQoJLy8gQ29uZi5EZWJ1ZyA9IGZsYWcuQm9vbCgiZGVidWciLCBmYWxzZSwgIm9wZW4gZGIgbG9nIG9yIGxvZyIpCgkvLyBDb25mLlByb2ZpbGUgPSBmbGFnLlN0cmluZygicHJvZmlsZSIsICJkZXYiLCAid2hpY2ggZW52IHRvIGJvb3Q/IGV4YW1wbGU6IGRldi9wcmQiKQoJLy8gQ29uZi5TZXJ2ZXIgPSBmbGFnLlN0cmluZygic2VydmVyIiwgImxvY2FsIiwgIndoaWNoIHNlcnZlciB0byBib290PyBleGFtcGxlOiBhcHAvaHJzL29ncy9sb2NhbCIpCgkvLyBDb25mLkh0dHBQb3J0ID0gZmxhZy5TdHJpbmcoImh0dHAtcG9ydCIsICI4MDgxIiwgImxpc3RlbmluZyBodHRwIHBvcnQiKQoJLy8gQ29uZi5HcnBjUG9ydCA9IGZsYWcuU3RyaW5nKCJncnBjLXBvcnQiLCAiNTAwNTEiLCAibGlzdGVuaW5nIGdycGMgcG9ydCIp</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">CQlpZiB2YWx1ZSwgZXJyIDo9IHN0cmNvbnYuUGFyc2VCb29sKGUpOyBlcnIgPT0gbmlsIHsKCQkJYy5SUENNZXRyaWNzID0gdmFsdWUKCQl9IGVsc2UgewoJCQlyZXR1cm4gbmlsLCBlcnJvcnMuV3JhcGYoZXJyLCAiY2Fubm90IHBhcnNlIGVudiB2YXIgJXM9JXMiLCBlbnZSUENNZXRyaWNzLCBlKQoJCX0=</text>
+        <text encoding="base64">ICAgICAgLSBBcHBIb3N0PWFwcAogICAgICAtIEhyc0hvc3Q9aHJzCiAgICAgIC0gT2dzSG9zdD1vZ3M=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIGVudmlyb25tZW50IHZhcmlhYmxlIG5hbWVzCg==</text>
+        <text encoding="base64">ICAgICAgLSAiNTAwNTA6NTAwNTAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
