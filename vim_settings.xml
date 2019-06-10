@@ -63,7 +63,7 @@
         <mark key="]" line="1" column="141" />
         <mark key="." line="1" column="141" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560148524345">
+      <file name="/Dummy.txt" timestamp="1560170475784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -79,10 +79,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dc-test.yaml" timestamp="1560136060879">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="31" />
-        <mark key="." line="43" column="31" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dc-test.yaml" timestamp="1560170632260">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1559813640944">
         <mark key="[" line="42" column="38" />
@@ -231,7 +231,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>overlay</text>
+        <text>-grpc-port=50050</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -240,34 +240,34 @@
         <text encoding="base64">CUFwcEhvc3Q6IjEyNy4wLjAuMTo1MDA1MSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiNTAwNTA6NTAwNTAiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CUFwcEhvc3Q6ICAiMTI3LjAuMC4xOjUwMDUxIiwKCUhyc0hvc3Q6ICAiMTI3LjAuMC4xOjUwMDUyIiwKCU9nc0hvc3Q6ICAiMTI3LjAuMC4xOjUwMDUzIiw=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CS8vIENvbmYuSGVscCA9IGZsYWcuQm9vbCgiaGVscCIsIGZhbHNlLCAic2hvdyB0aGlzIGhlbHAiKQoJLy8gQ29uZi5EZWJ1ZyA9IGZsYWcuQm9vbCgiZGVidWciLCBmYWxzZSwgIm9wZW4gZGIgbG9nIG9yIGxvZyIpCgkvLyBDb25mLlByb2ZpbGUgPSBmbGFnLlN0cmluZygicHJvZmlsZSIsICJkZXYiLCAid2hpY2ggZW52IHRvIGJvb3Q/IGV4YW1wbGU6IGRldi9wcmQiKQoJLy8gQ29uZi5TZXJ2ZXIgPSBmbGFnLlN0cmluZygic2VydmVyIiwgImxvY2FsIiwgIndoaWNoIHNlcnZlciB0byBib290PyBleGFtcGxlOiBhcHAvaHJzL29ncy9sb2NhbCIpCgkvLyBDb25mLkh0dHBQb3J0ID0gZmxhZy5TdHJpbmcoImh0dHAtcG9ydCIsICI4MDgxIiwgImxpc3RlbmluZyBodHRwIHBvcnQiKQoJLy8gQ29uZi5HcnBjUG9ydCA9IGZsYWcuU3RyaW5nKCJncnBjLXBvcnQiLCAiNTAwNTEiLCAibGlzdGVuaW5nIGdycGMgcG9ydCIp</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">CS8vIENvbmYuSGVscCA9IGZsYWcuQm9vbCgiaGVscCIsIGZhbHNlLCAic2hvdyB0aGlzIGhlbHAiKQoJLy8gQ29uZi5EZWJ1ZyA9IGZsYWcuQm9vbCgiZGVidWciLCBmYWxzZSwgIm9wZW4gZGIgbG9nIG9yIGxvZyIpCgkvLyBDb25mLlByb2ZpbGUgPSBmbGFnLlN0cmluZygicHJvZmlsZSIsICJkZXYiLCAid2hpY2ggZW52IHRvIGJvb3Q/IGV4YW1wbGU6IGRldi9wcmQiKQoJLy8gQ29uZi5TZXJ2ZXIgPSBmbGFnLlN0cmluZygic2VydmVyIiwgImxvY2FsIiwgIndoaWNoIHNlcnZlciB0byBib290PyBleGFtcGxlOiBhcHAvaHJzL29ncy9sb2NhbCIpCgkvLyBDb25mLkh0dHBQb3J0ID0gZmxhZy5TdHJpbmcoImh0dHAtcG9ydCIsICI4MDgxIiwgImxpc3RlbmluZyBodHRwIHBvcnQiKQoJLy8gQ29uZi5HcnBjUG9ydCA9IGZsYWcuU3RyaW5nKCJncnBjLXBvcnQiLCAiNTAwNTEiLCAibGlzdGVuaW5nIGdycGMgcG9ydCIp</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CQlpZiB2YWx1ZSwgZXJyIDo9IHN0cmNvbnYuUGFyc2VCb29sKGUpOyBlcnIgPT0gbmlsIHsKCQkJYy5SUENNZXRyaWNzID0gdmFsdWUKCQl9IGVsc2UgewoJCQlyZXR1cm4gbmlsLCBlcnJvcnMuV3JhcGYoZXJyLCAiY2Fubm90IHBhcnNlIGVudiB2YXIgJXM9JXMiLCBlbnZSUENNZXRyaWNzLCBlKQoJCX0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CS8vIGVudmlyb25tZW50IHZhcmlhYmxlIG5hbWVzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIGVudmlyb25tZW50IHZhcmlhYmxlIG5hbWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
