@@ -26,11 +26,6 @@
         <mark key="." line="64" column="31" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/AppService.kt" timestamp="1560171499989" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/tracer/tracer.go" timestamp="1560215030761">
-        <mark key="[" line="26" column="49" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/tracer.go" timestamp="1559701289938">
         <mark key="[" line="36" column="1" />
         <mark key="]" line="36" column="1" />
@@ -91,16 +86,16 @@
         <mark key="^" line="106" column="17" />
         <mark key="." line="207" column="19" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1560215136029">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1560244738838">
         <mark key="[" line="30" column="40" />
         <mark key="]" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1560242866607">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-        <mark key="^" line="9" column="6" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1560245403363">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/payload.go" timestamp="1559540534894">
         <mark key="[" line="5" column="31" />
@@ -244,7 +239,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>rpc.wondershare.cn</text>
+        <text>rpc-local.wondershare.cn</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
