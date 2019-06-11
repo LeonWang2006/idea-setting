@@ -37,11 +37,10 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1560254427425">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="31" />
-        <mark key="." line="43" column="31" />
-        <mark key="^" line="43" column="31" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1560257277397">
+        <mark key="[" line="96" column="31" />
+        <mark key="]" line="96" column="31" />
+        <mark key="." line="96" column="31" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1560251343049">
         <mark key="[" line="56" column="0" />
@@ -240,7 +239,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>elasticsearch</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -249,34 +248,34 @@
         <text encoding="base64">CUFwcEhvc3Q6IjEyNy4wLjAuMTo1MDA1MSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ndy53b25kZXJzaGFyZS5jbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vcGIuUmVnaXN0ZXJFdmFsdWF0ZVNlcnZlcihzLCZzZXJ2aWNlLkV2YWx1YXRlU2VydmVye30pCg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1vZ3Mud29uZGVyc2hhcmUuY24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">L3NyYy9kZXBsb3kvYXBwCg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ocnMud29uZGVyc2hhcmUuY24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAiNTAwNTI6NTAwNTIiCg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1hcHAud29uZGVyc2hhcmUuY24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q01EIFsiL2FwcCJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3c6IDEyMHMK</text>
+        <text encoding="base64">CS8vcGIuUmVnaXN0ZXJFdmFsdWF0ZVNlcnZlcihzLCZzZXJ2aWNlLkV2YWx1YXRlU2VydmVye30pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3c6IDEyMHMK</text>
+        <text encoding="base64">L3NyYy9kZXBsb3kvYXBwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3c6IDEyMHMK</text>
+        <text encoding="base64">ICAgICAgLSAiNTAwNTI6NTAwNTIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3c6IDEyMHMK</text>
+        <text encoding="base64">Q01EIFsiL2FwcCJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
