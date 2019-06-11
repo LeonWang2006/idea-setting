@@ -47,11 +47,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1560146804577">
-        <mark key="[" line="206" column="12" />
-        <mark key="]" line="206" column="12" />
-        <mark key="." line="206" column="12" />
-        <mark key="^" line="109" column="7" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1560235433531">
+        <mark key="[" line="212" column="51" />
+        <mark key="]" line="212" column="51" />
+        <mark key="." line="212" column="51" />
+        <mark key="^" line="212" column="21" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1559119859485">
         <mark key="[" line="42" column="0" />
@@ -73,7 +73,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560232990495">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560235508250">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="0" />
@@ -112,10 +112,10 @@
         <mark key="]" line="51" column="15" />
         <mark key="." line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1560171848145">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="2" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1560235492819">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/model/user.go" timestamp="1559540917906" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/app.proto" timestamp="1559713349319" />
@@ -244,7 +244,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXBwIA==</text>
+        <text>rpc.wondershare.cn</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -253,13 +253,13 @@
         <text encoding="base64">CUFwcEhvc3Q6IjEyNy4wLjAuMTo1MDA1MSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q01EIFsiL2FwcCJdCg==</text>
+        <text encoding="base64">ICAgICAgLSAiNTAwNTI6NTAwNTIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3c6IDEyMHMK</text>
+        <text encoding="base64">Q01EIFsiL2FwcCJdCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB3aW5kb3c6IDEyMHMK</text>
@@ -271,16 +271,16 @@
         <text encoding="base64">ICAgICAgICB3aW5kb3c6IDEyMHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1hcHAud29uZGVyc2hhcmUuY24K</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3c6IDEyMHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhvc3RuYW1lOiBycGMtYXBwLndvbmRlcnNoYXJlLmNuCg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1hcHAud29uZGVyc2hhcmUuY24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ocnMud29uZGVyc2hhcmUuY24K</text>
+        <text encoding="base64">ICAgIGhvc3RuYW1lOiBycGMtYXBwLndvbmRlcnNoYXJlLmNuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhvc3RuYW1lOiBycGMtaHJzLndvbmRlcnNoYXJlLmNuCg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ocnMud29uZGVyc2hhcmUuY24K</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
