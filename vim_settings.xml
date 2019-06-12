@@ -14,14 +14,13 @@
         <mark key="^" line="118" column="16" />
         <mark key="." line="118" column="18" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560304374507">
-        <mark key="[" line="151" column="76" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560310033190">
+        <mark key="[" line="159" column="52" />
+        <mark key="]" line="159" column="52" />
+        <mark key="." line="159" column="52" />
+        <mark key="^" line="124" column="50" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1560171579593">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="149" />
-        <mark key="." line="41" column="0" />
-      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1560308047460" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1560300129679" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose_es.yaml" timestamp="1559652248614">
         <mark key="[" line="20" column="8" />
@@ -36,6 +35,12 @@
         <mark key="." line="36" column="1" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/uber/jaeger-client-go@v2.16.0+incompatible/config/config_env.go" timestamp="1559812446788" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1560309785645">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="151" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1559713384093">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -61,12 +66,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1559119633647">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1560308012030">
+        <mark key="[" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560303236682">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1560308687950">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560306871616">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="0" />
@@ -243,7 +251,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>elasticsearch</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -252,34 +260,34 @@
         <text encoding="base64">CUFwcEhvc3Q6IjEyNy4wLjAuMTo1MDA1MSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ndy53b25kZXJzaGFyZS5jbgo=</text>
+        <text encoding="base64">CXdsb2cuSW5mbygiZ2F0ZXdheSBzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIGh0dHAtcG9ydDoiICsgKmNvbmZpZy5IdHRwUG9ydCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1vZ3Mud29uZGVyc2hhcmUuY24K</text>
+        <text encoding="base64">CXdsb2cuSW5mbygiZ2F0ZXdheSBzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIGh0dHAtcG9ydDoiICsgKmNvbmZpZy5IdHRwUG9ydCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ocnMud29uZGVyc2hhcmUuY24K</text>
+        <text encoding="base64">CQl3bG9nLkluZm8oImdhdGV3YXkgc2VydmljZSBhdCAiICsgaHR0cE9wdHMuUHJvZmlsZSArICIgbW9kZSBodHRwLXBvcnQ6IiArICpjb25maWcuSHR0cFBvcnQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1hcHAud29uZGVyc2hhcmUuY24K</text>
+        <text encoding="base64">CXdsb2cuSW5mbygiZ2F0ZXdheSBzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIGh0dHAtcG9ydDoiICsgKmNvbmZpZy5IdHRwUG9ydCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTZXJ2ZXJNYXBbIm1zZyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgJnNlcnZpY2UuTXNnU2VydmVye30sIHBiLlJlZ2lzdGVyTXNnU2VydmVyLCBwYi5SZWdpc3Rlck1zZ0hhbmRsZXJGcm9tRW5kcG9pbnR9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CS8vcGIuUmVnaXN0ZXJFdmFsdWF0ZVNlcnZlcihzLCZzZXJ2aWNlLkV2YWx1YXRlU2VydmVye30pCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0Og==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L3NyYy9kZXBsb3kvYXBwCg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ndy53b25kZXJzaGFyZS5jbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAiNTAwNTI6NTAwNTIiCg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1vZ3Mud29uZGVyc2hhcmUuY24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q01EIFsiL2FwcCJdCg==</text>
+        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ocnMud29uZGVyc2hhcmUuY24K</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
