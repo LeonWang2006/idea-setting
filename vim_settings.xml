@@ -8,6 +8,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/client/client.go" timestamp="1560338666939">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose-dev.yaml" timestamp="1559695564870">
         <mark key="[" line="118" column="18" />
         <mark key="]" line="118" column="18" />
@@ -55,6 +61,11 @@
         <mark key="]" line="96" column="31" />
         <mark key="." line="96" column="31" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1560338257095">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/healthcheck.js" timestamp="1560325404721">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
@@ -65,6 +76,9 @@
         <mark key="]" line="90" column="31" />
         <mark key="." line="90" column="31" />
         <mark key="^" line="86" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560338100169">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1560308012030">
         <mark key="[" line="68" column="0" />
@@ -98,10 +112,10 @@
         <mark key="^" line="106" column="17" />
         <mark key="." line="207" column="19" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1560319055621">
-        <mark key="[" line="69" column="33" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="33" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1560337405100">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1560260966934">
         <mark key="[" line="11" column="9" />
@@ -255,16 +269,16 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>hrs</text>
+        <text>TestUpdateCheck</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSAvbG9nLW9wZXJhdGUvc2F2ZQo=</text>
+      <register name="0" type="4">
+        <text>TestHealthCheck</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVNlcnZlciAgID0gZmxhZy5TdHJpbmcoInNlcnZlciIsICJsb2NhbCIsICJ3aGljaCBzZXJ2ZXIgdG8gYm9vdD8gZXhhbXBsZTogYXBwL2hycy9vZ3MvbG9jYWwiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -273,25 +287,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CURlYnVnID0gZmxhZy5Cb29sKCJkZWJ1ZyIsIGZhbHNlLCAib3BlbiBkYiBsb2cgb3IgbG9nIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8v5q2j5byP546v5aKD5byA5ZCv5pWw5o2u5bqT5pel5b+X5ZKMZGVidWfml6Xlv5fovpPlhaUK</text>
+        <text encoding="base64">Y29uc3QgKAoJYWRkcmVzcyAgICAgPSAiMTI3LjAuMC4xOjUwMDUxIgoJZGVmYXVsdE5hbWUgPSAid29ybGQiCikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CUdycGNQb3J0ID0gZmxhZy5TdHJpbmcoImdycGMtcG9ydCIsICI1MDA1MSIsICJsaXN0ZW5pbmcgZ3JwYyBwb3J0IikK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CS8vIFNldCB1cCBhIGNvbm5lY3Rpb24gdG8gdGhlIHNlcnZlci4KCWNvbm4sIGVyciA6PSBncnBjLkRpYWwoYWRkcmVzcywgZ3JwYy5XaXRoSW5zZWN1cmUoKSkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbGYoImRpZCBub3QgY29ubmVjdDogJXYiLCBlcnIpCgl9CglkZWZlciBjb25uLkNsb3NlKCkKCWMgOj0gcGIuTmV3QXBwQ2xpZW50KGNvbm4pCgoJLy8gQ29udGFjdCB0aGUgc2VydmVyIGFuZCBwcmludCBvdXQgaXRzIHJlc3BvbnNlLgoJLy8gbmFtZSA6PSBkZWZhdWx0TmFtZQoJLy8gaWYgbGVuKG9zLkFyZ3MpID4gMSB7CgkvLyAJbmFtZSA9IG9zLkFyZ3NbMV0KCS8vIH0KCXIsIGVyciA6PSBjLlVwZGF0ZUNoZWNrKGNvbnRleHQuQmFja2dyb3VuZCgpLCAmcGIuUmVxdWVzdHtXc0lkOiAiMDkwODA2NjEifSkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbGYoImNvdWxkIG5vdCBncmVldDogJXYiLCBlcnIpCgl9CgkvLyBmbXQuUHJpbnRmKCJ1bm1hcnNoYWxlZCBtZXNzYWdlOiAldiIsIHIuRGF0YSkKCXZhciB4ID0gJnBiLkFwcFJlc3BvbnNle30KCWlmIGVyciA6PSBwdHlwZXMuVW5tYXJzaGFsQW55KHIuRGF0YSwgeCk7IGVyciAhPSBuaWwgewoJCWZtdC5QcmludGYoInVubWFyc2hhbGVkIG1lc3NhZ2U6ICV2IiwgeCkKCX0KCWZtdC5QcmludGYoIm1lc3NhZ2U6ICV2IiwgKnguVXBkYXRlRGVzY3JpcHRpb25MaXN0WzFdKQoJLy9qc29uLCBlcnIgOj0gcHR5cGVzLlVubWFyc2hhbEFueShyLkRhdGEsICZ4KQoJLy8gbG9nLlByaW50Zihqc29uKQ==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnb29nbGUuZ29sYW5nLm9yZy9ncnBjL2hlYWx0aCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CURlYnVnID0gZmxhZy5Cb29sKCJkZWJ1ZyIsIGZhbHNlLCAib3BlbiBkYiBsb2cgb3IgbG9nIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CS8v5q2j5byP546v5aKD5byA5ZCv5pWw5o2u5bqT5pel5b+X5ZKMZGVidWfml6Xlv5fovpPlhaUK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cgloc3J2IDo9IGhlYWx0aC5OZXdTZXJ2ZXIoKQoJaHNydi5TZXRTZXJ2aW5nU3RhdHVzKCIiLCBoZWFsdGhwYi5IZWFsdGhDaGVja1Jlc3BvbnNlX1NFUlZJTkcpCgloZWFsdGhwYi5SZWdpc3RlckhlYWx0aFNlcnZlcihzLCBoc3J2KQ==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
