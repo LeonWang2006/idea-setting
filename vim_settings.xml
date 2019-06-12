@@ -14,13 +14,14 @@
         <mark key="^" line="118" column="16" />
         <mark key="." line="118" column="18" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560310033190">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560310674041">
         <mark key="[" line="159" column="52" />
         <mark key="]" line="159" column="52" />
         <mark key="." line="159" column="52" />
         <mark key="^" line="124" column="50" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1560308047460" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1560310661013" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1560311338611" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1560300129679" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose_es.yaml" timestamp="1559652248614">
         <mark key="[" line="20" column="8" />
@@ -34,6 +35,7 @@
         <mark key="]" line="36" column="1" />
         <mark key="." line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/loginhandler.go" timestamp="1560311194496" />
       <file name="$USER_HOME$/go/pkg/mod/github.com/uber/jaeger-client-go@v2.16.0+incompatible/config/config_env.go" timestamp="1559812446788" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1560309785645">
         <mark key="[" line="67" column="0" />
@@ -69,10 +71,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1560308012030">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1560308687950">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1560310938141">
+        <mark key="[" line="65" column="33" />
+        <mark key="]" line="65" column="45" />
+        <mark key="." line="65" column="45" />
+        <mark key="^" line="65" column="45" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560306871616">
         <mark key="[" line="0" column="1" />
@@ -118,11 +121,17 @@
         <mark key="]" line="51" column="15" />
         <mark key="." line="51" column="15" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1560303161261">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-        <mark key="^" line="14" column="8" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1560311020118">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/healthhandler.go" timestamp="1560311515969">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="10" column="43" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/model/user.go" timestamp="1559540917906" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/app.proto" timestamp="1559713349319" />
@@ -133,8 +142,8 @@
         <mark key="]" line="58" column="7" />
         <mark key="." line="58" column="7" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1560303168922">
-        <mark key="[" line="14" column="23" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1560311026175">
+        <mark key="[" line="15" column="19" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -251,43 +260,43 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>fdsafdsafdfdsafds</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUFwcEhvc3Q6IjEyNy4wLjAuMTo1MDA1MSIsCg==</text>
+        <text encoding="base64">LSAvbG9nLW9wZXJhdGUvc2F2ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXdsb2cuSW5mbygiZ2F0ZXdheSBzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIGh0dHAtcG9ydDoiICsgKmNvbmZpZy5IdHRwUG9ydCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXdsb2cuSW5mbygiZ2F0ZXdheSBzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIGh0dHAtcG9ydDoiICsgKmNvbmZpZy5IdHRwUG9ydCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnR5cGUgSGVhbHRoIHN0cnVjdCB7CglTdGF0dXMgIGludCAgICBganNvbjoic3RhdHVzImAKCU1lc3NhZ2Ugc3RyaW5nIGBqc29uOiJtZXNzYWdlImAKCURhdGEgICAgVG9rZW4gIGBqc29uOiJkYXRhImAKfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3bG9nLkluZm8oImdhdGV3YXkgc2VydmljZSBhdCAiICsgaHR0cE9wdHMuUHJvZmlsZSArICIgbW9kZSBodHRwLXBvcnQ6IiArICpjb25maWcuSHR0cFBvcnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">dy5IZWFkZXIoKS5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCgkJdXNlcm5hbWUgOj0gci5Qb3N0Rm9ybVZhbHVlKCJ1c2VybmFtZSIpCgkJcGFzc3dvcmQgOj0gci5Qb3N0Rm9ybVZhbHVlKCJwYXNzd29yZCIpCgoJCXZhciBlcnJNc2cgc3RyaW5nCgoJCS8vIOeZu+W9leexu+Wei+WIpOaWrSAtIDgtMTAg5pWw5a2X6K6k5a6a5Li655So5oi35bel5Y+3CgkJb2ssIGVyciA6PSByZWdleHAuTWF0Y2goIl5bMC05XXs4LDEwfSQiLCBbXWJ5dGUodXNlcm5hbWUpKQoJCWlmIGVyciAhPSBuaWwgewoJCQl3bG9nLkVycm9yKCLmraPliJnop6PmnpDotKbmiLflvILluLghIiwgZXJyKQoJCX0KCgkJaWYgb2sgewoKCQkJLy8g55So5oi355m75b2V6aqM6K+BCgkJCWNvbm4sIGVyciA6PSBncnBjLkRpYWwoY29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIiksIGdycGMuV2l0aEluc2VjdXJlKCkpIC8vIOmqjOivgeeZu+W9leeKtuaAgQoJCQlkZWZlciBjb25uLkNsb3NlKCkKCgkJCWlmIGVyciAhPSBuaWwgewoJCQkJZXJyTXNnID0gImNvbm5lY3QgdG8gIiArIGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpICsgIiBlcnJvciEiCgkJCQlwIDo9IEZhaWxSZXNwb25zZXtNZXNzYWdlOiBlcnJNc2csIFN0YXR1czogaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIERhdGE6ICIifQoJCQkJYXV0aEVycm9yKHAsIHcpCgkJCQl3bG9nLkVycm9yKHAuTWVzc2FnZSwgZXJyKQoJCQkJcmV0dXJuCgkJCX0KCgkJCWF1dGhSZXNwLCBlcnIgOj0gcGIuTmV3QWNjb3VudENsaWVudChjb25uKS5DaGVja0F1dGgoY3R4LCAmcGIuQXV0aENoZWNrUmVxdWVzdHtVc2VybmFtZTogdXNlcm5hbWUsIFBhc3N3b3JkOiBwYXNzd29yZH0pCgoJCQlkZWZlciBmdW5jKCkgewoJCQkJaWYgZXJyIDo9IGNvbm4uQ2xvc2UoKTsgZXJyICE9IG5pbCB7CgkJCQkJd2xvZy5FcnJvcigiZmFpbCB0byBjbG9zZSBncnBjLXNlcnZlcjoiICsgY29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIikpCgkJCQl9CgkJCX0oKQoKCQkJaWYgZXJyICE9IG5pbCB7CgkJCQllcnJNc2cgPSAiY2FsbCBDaGVja0F1dGggZXJyb3IgZnJvbSAiICsgY29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIikKCQkJCXAgOj0gRmFpbFJlc3BvbnNle01lc3NhZ2U6IGVyck1zZywgU3RhdHVzOiBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgRGF0YTogIiJ9CgkJCQlhdXRoRXJyb3IocCwgdykKCQkJCXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCgkJCQlyZXR1cm4KCQkJfQoKCQkJaWYgYXV0aFJlc3AuRGF0YSA9PSBmYWxzZSB7CgkJCQllcnJNc2cgPSAi55So5oi35ZCN5oiW5a+G56CB6ZSZ6K+vIOadpeiHqiAiICsgY29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIikKCQkJCXAgOj0gRmFpbFJlc3BvbnNle01lc3NhZ2U6IGVyck1zZywgU3RhdHVzOiBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgRGF0YTogIiJ9CgkJCQlhdXRoRXJyb3IocCwgdykKCQkJCXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCgkJCQlyZXR1cm4KCQkJfQoKCQkJLy8g6L296I236K6+6K6hCgkJCWNsYWltcyA6PSAmdG9rZW4uQ3VzdG9tQ2xhaW1zewoJCQkJSUQ6IHVzZXJuYW1lLAoJCQl9CgoJCQljbGFpbXMuRXhwaXJlc0F0ID0gdGltZS5Ob3coKS5BZGQodGltZS5Ib3VyICogMTY4KS5Vbml4KCkgICAgICAgIC8vIOi/h+acn+aXtumXtOiuvuWumuS4ujflpKkKCQkJY2xhaW1zLk5vdEJlZm9yZSA9IHRpbWUuTm93KCkuQWRkKHRpbWUuSG91ciAqICgxNjggKyAyNCkpLlVuaXgoKSAvLyDov4fmnJ/lkI7liLfmlrDml7bpl7Torr7lrprkuLoy5aSpCgoJCQkvLyDlrprkuYnlhazpkqUKCQkJand0IDo9ICZ0b2tlbi5Kd3R7CgkJCQlTaWduaW5nS2V5OiBbXWJ5dGUoIndvbmRlcnNoYXJlIiksCgkJCX0KCgkJCS8vIOaWsOW7unRva2VuCgkJCXRva2VuU3RyLCBfIDo9IGp3dC5DcmVhdGVUb2tlbihjdHgsIGNsYWltcykKCQkJYXV0aFJlc3BvbnNlIDo9IFRva2Vue1Rva2VuOiB0b2tlblN0cn0KCgkJCXJlc3BvbnNlSnNvbiA6PSBTdWNjZXNzUmVzcG9uc2V7TWVzc2FnZTogInN1Y2Nlc3MiLCBTdGF0dXM6IDIwMCwgRGF0YTogYXV0aFJlc3BvbnNlfQoJCQlyZXNwb25zZSwgZXJyIDo9IGpzb24uTWFyc2hhbChyZXNwb25zZUpzb24pCgkJCWlmIGVyciAhPSBuaWwgewoJCQkJd2xvZy5FcnJvcigianNvbiBwYXJzZSBlcnJvciIsIGVycikKCQkJfQoJCQlfLCBfID0gdy5Xcml0ZShbXWJ5dGUocmVzcG9uc2UpKQoKCQl9IGVsc2UgewoKCQkJLy8g5YaF6YOo57O757uf55m75b2VCgkJCWNvbm4sIGVyciA6PSBncnBjLkRpYWwoY29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIiksIGdycGMuV2l0aEluc2VjdXJlKCkpIC8vIOmqjOivgeeZu+W9leeKtuaAgQoJCQlkZWZlciBjb25uLkNsb3NlKCkKCgkJCWlmIGVyciAhPSBuaWwgewoJCQkJZXJyTXNnID0gImNvbm5lY3QgdG8gIiArIGNvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmhycyIpICsgIiBlcnJvciEiCgkJCQlwIDo9IEZhaWxSZXNwb25zZXtNZXNzYWdlOiBlcnJNc2csIFN0YXR1czogaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIERhdGE6ICIifQoJCQkJYXV0aEVycm9yKHAsIHcpCgkJCQl3bG9nLkVycm9yKHAuTWVzc2FnZSwgZXJyKQoJCQkJcmV0dXJuCgkJCX0KCgkJCWF1dGhSZXNwLCBlcnIgOj0gcGIuTmV3QWNjb3VudENsaWVudChjb25uKS5DaGVja0F1dGgoY3R4LCAmcGIuQXV0aENoZWNrUmVxdWVzdHtVc2VybmFtZTogdXNlcm5hbWUsIFBhc3N3b3JkOiBwYXNzd29yZH0pCgoJCQlkZWZlciBmdW5jKCkgewoJCQkJaWYgZXJyIDo9IGNvbm4uQ2xvc2UoKTsgZXJyICE9IG5pbCB7CgkJCQkJd2xvZy5FcnJvcigiZmFpbCB0byBjbG9zZSBncnBjLXNlcnZlcjoiICsgY29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIikpCgkJCQl9CgkJCX0oKQoKCQkJaWYgZXJyICE9IG5pbCB7CgkJCQllcnJNc2cgPSAiY2FsbCBDaGVja0F1dGggZXJyb3IgZnJvbSAiICsgY29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIikKCQkJCXAgOj0gRmFpbFJlc3BvbnNle01lc3NhZ2U6IGVyck1zZywgU3RhdHVzOiBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgRGF0YTogIiJ9CgkJCQlhdXRoRXJyb3IocCwgdykKCQkJCXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCgkJCQlyZXR1cm4KCQkJfQoKCQkJaWYgYXV0aFJlc3AuRGF0YSA9PSBmYWxzZSB7CgkJCQllcnJNc2cgPSAi55So5oi35ZCN5oiW5a+G56CB6ZSZ6K+vIOadpeiHqiAiICsgY29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuaHJzIikKCQkJCXAgOj0gRmFpbFJlc3BvbnNle01lc3NhZ2U6IGVyck1zZywgU3RhdHVzOiBodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgRGF0YTogIiJ9CgkJCQlhdXRoRXJyb3IocCwgdykKCQkJCXdsb2cuRXJyb3IocC5NZXNzYWdlLCBlcnIpCgkJCQlyZXR1cm4KCQkJfQoKCQkJLy8g6L296I236K6+6K6hCgkJCWNsYWltcyA6PSAmdG9rZW4uQ3VzdG9tQ2xhaW1zewoJCQkJSUQ6IHVzZXJuYW1lLAoJCQl9CgoJCQljbGFpbXMuRXhwaXJlc0F0ID0gdGltZS5Ob3coKS5BZGQodGltZS5Ib3VyICogMjQgKiAyMykuVW5peCgpIC8vIOi/h+acn+aXtumXtOiuvuWumuS4ujIz5aSpCgkJCWNsYWltcy5Ob3RCZWZvcmUgPSB0aW1lLk5vdygpLkFkZCh0aW1lLkhvdXIgKiAyNCAqIDMwKS5Vbml4KCkgLy8g6L+H5pyf5ZCO5Yi35paw5pe26Ze06K6+5a6a5Li6N+WkqQoKCQkJLy8g5a6a5LmJ5YWs6ZKlCgkJCWp3dCA6PSAmdG9rZW4uSnd0ewoJCQkJU2lnbmluZ0tleTogW11ieXRlKCJ3b25kZXJzaGFyZSIpLAoJCQl9CgoJCQkvLyDmlrDlu7p0b2tlbgoJCQl0b2tlblN0ciwgXyA6PSBqd3QuQ3JlYXRlVG9rZW4oY3R4LCBjbGFpbXMpCgkJCWF1dGhSZXNwb25zZSA6PSBUb2tlbntUb2tlbjogdG9rZW5TdHJ9CgoJCQlyZXNwb25zZUpzb24gOj0gU3VjY2Vzc1Jlc3BvbnNle01lc3NhZ2U6ICJzdWNjZXNzIiwgU3RhdHVzOiAyMDAsIERhdGE6IGF1dGhSZXNwb25zZX0KCQkJcmVzcG9uc2UsIGVyciA6PSBqc29uLk1hcnNoYWwocmVzcG9uc2VKc29uKQoJCQlpZiBlcnIgIT0gbmlsIHsKCQkJCXdsb2cuRXJyb3IoImpzb24gcGFyc2UgZXJyb3IiLCBlcnIpCgkJCX0=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CXdsb2cuSW5mbygiZ2F0ZXdheSBzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIGh0dHAtcG9ydDoiICsgKmNvbmZpZy5IdHRwUG9ydCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlTZXJ2ZXJNYXBbIm1zZyJdID0gW11pbnRlcmZhY2V7fXtjb25maWcuVmlwLkdldFN0cmluZygiZ3JwYy5hcHAiKSwgJnNlcnZpY2UuTXNnU2VydmVye30sIHBiLlJlZ2lzdGVyTXNnU2VydmVyLCBwYi5SZWdpc3Rlck1zZ0hhbmRsZXJGcm9tRW5kcG9pbnR9Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0Og==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ndy53b25kZXJzaGFyZS5jbgo=</text>
+        <text encoding="base64">CXdsb2cuSW5mbygiZ2F0ZXdheSBzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIGh0dHAtcG9ydDoiICsgKmNvbmZpZy5IdHRwUG9ydCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1vZ3Mud29uZGVyc2hhcmUuY24K</text>
+        <text encoding="base64">CQl3bG9nLkluZm8oImdhdGV3YXkgc2VydmljZSBhdCAiICsgaHR0cE9wdHMuUHJvZmlsZSArICIgbW9kZSBodHRwLXBvcnQ6IiArICpjb25maWcuSHR0cFBvcnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbm5hbWU6IHJwYy1ocnMud29uZGVyc2hhcmUuY24K</text>
+        <text encoding="base64">CXdsb2cuSW5mbygiZ2F0ZXdheSBzZXJ2aWNlIGF0ICIgKyBodHRwT3B0cy5Qcm9maWxlICsgIiBtb2RlIGh0dHAtcG9ydDoiICsgKmNvbmZpZy5IdHRwUG9ydCkK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
