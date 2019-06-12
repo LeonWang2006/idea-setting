@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1560148591923">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1560329854591">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -14,15 +14,16 @@
         <mark key="^" line="118" column="16" />
         <mark key="." line="118" column="18" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560329609611">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560332643857">
+        <mark key="[" line="229" column="1" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+        <mark key="^" line="229" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/health/main.go" timestamp="1560329495452">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/health/main.go" timestamp="1560331807795">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="41" />
+        <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose_es.yaml" timestamp="1559652248614">
         <mark key="[" line="20" column="8" />
@@ -30,7 +31,7 @@
         <mark key="^" line="64" column="31" />
         <mark key="." line="64" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1560329570603">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1560332190632">
         <mark key="[" line="1" column="75" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/tracer.go" timestamp="1560251031831">
@@ -86,6 +87,11 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="22" column="1" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dockerfile" timestamp="1560331141707">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dc-test.yaml" timestamp="1560220419134">
         <mark key="[" line="207" column="19" />
         <mark key="]" line="207" column="19" />
@@ -120,6 +126,11 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="11" column="43" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/health/main.go" timestamp="1560331394672">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1559813989665">
         <mark key="[" line="58" column="14" />
         <mark key="]" line="58" column="7" />
@@ -130,7 +141,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/dockerfile" timestamp="1560329713367" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/dockerfile" timestamp="1560332292210">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="73" />
+        <mark key="." line="3" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="9" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -239,7 +255,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text encoding="base64">IC1odHRwLXBvcnQ9ODA4MA==</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -248,57 +264,34 @@
         <text encoding="base64">LSAvbG9nLW9wZXJhdGUvc2F2ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVNlcnZlciAgID0gZmxhZy5TdHJpbmcoInNlcnZlciIsICJsb2NhbCIsICJ3aGljaCBzZXJ2ZXIgdG8gYm9vdD8gZXhhbXBsZTogYXBwL2hycy9vZ3MvbG9jYWwiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0OiBbIkNNRCIsICJub2RlIiwgIi9oZWFsdGhjaGVjay5qcyJdCiAgICAgIGludGVydmFsOiAxMHMKICAgICAgdGltZW91dDogMTBzCiAgICAgIHJldHJpZXM6IDMKICAgICAgc3RhcnRfcGVyaW9kOiAxMHM=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGVycikK</text>
+        <text encoding="base64">CURlYnVnID0gZmxhZy5Cb29sKCJkZWJ1ZyIsIGZhbHNlLCAib3BlbiBkYiBsb2cgb3IgbG9nIikK</text>
       </register>
-      <register name="4" type="4">
-        <text># Stage 1: 构建可执行应用
-FROM golang:1.9.2 as buildImage
-
-COPY main.go .
-COPY healthcheck ./healthcheck
-
-RUN CGO_ENABLED=0 go build -a -installsuffix cgo -o server
-RUN CGO_ENABLED=0 go build -a -installsuffix cgo -o health-check &quot;github.com/Soluto/golang-docker-healthcheck/healthcheck&quot;
-
-# Stage 2: Create release image
-FROM scratch as releaseImage
-
-COPY --from=buildImage /go/src/github.com/Soluto/golang-docker-healthcheck/server ./server
-COPY --from=buildImage /go/src/github.com/Soluto/golang-docker-healthcheck/health-check ./healthcheck
-
-HEALTHCHECK --interval=1s --timeout=1s --start-period=2s --retries=3 CMD [ &quot;/healthcheck&quot; ]
-
-ENV PORT=8080
-EXPOSE $PORT
-
-ENTRYPOINT [ &quot;/server&quot; ]</text>
+      <register name="4" type="2">
+        <text encoding="base64">CS8v5q2j5byP546v5aKD5byA5ZCv5pWw5o2u5bqT5pel5b+X5ZKMZGVidWfml6Xlv5fovpPlhaUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V09SS0RJUiAvVXNlcnMvd2FuZ2ZsL2dpdFJlcG9zaXRvcnkvV09TX0dBVEVXQVkvc3JjCg==</text>
+        <text encoding="base64">CUdycGNQb3J0ID0gZmxhZy5TdHJpbmcoImdycGMtcG9ydCIsICI1MDA1MSIsICJsaXN0ZW5pbmcgZ3JwYyBwb3J0IikK</text>
       </register>
-      <register name="6" type="4">
-        <text>_, err := http.Get(fmt.Sprintf(&quot;http://127.0.0.1:%s/health&quot;, os.Getenv(&quot;PORT&quot;)))
-if err != nil {
-os.Exit(1)
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CnR5cGUgSGVhbHRoIHN0cnVjdCB7CglTdGF0dXMgIGludCAgICBganNvbjoic3RhdHVzImAKCU1lc3NhZ2Ugc3RyaW5nIGBqc29uOiJtZXNzYWdlImAKCURhdGEgICAgVG9rZW4gIGBqc29uOiJkYXRhImAKfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CURlYnVnID0gZmxhZy5Cb29sKCJkZWJ1ZyIsIGZhbHNlLCAib3BlbiBkYiBsb2cgb3IgbG9nIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8v5q2j5byP546v5aKD5byA5ZCv5pWw5o2u5bqT5pel5b+X5ZKMZGVidWfml6Xlv5fovpPlhaUK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
