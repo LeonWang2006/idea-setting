@@ -29,10 +29,11 @@
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1560347265399">
         <mark key="^" line="22" column="147" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1559713384093">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1560412054166">
+        <mark key="[" line="282" column="41" />
+        <mark key="]" line="282" column="38" />
+        <mark key="." line="282" column="38" />
+        <mark key="^" line="282" column="38" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/health.proto" timestamp="1560343404738">
         <mark key="[" line="3" column="0" />
@@ -49,8 +50,8 @@
         <mark key="]" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dockerfile" timestamp="1560344862803">
-        <mark key="[" line="1" column="9" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dockerfile" timestamp="1560411562108">
+        <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="9" />
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
@@ -66,20 +67,17 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server_test.go" timestamp="1560340035230" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1560345731994">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server.go" timestamp="1560344424979" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560345414633">
         <mark key="[" line="124" column="65" />
         <mark key="]" line="124" column="65" />
         <mark key="." line="124" column="65" />
         <mark key="^" line="124" column="66" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/client_test.go" timestamp="1560343758473" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/tracer.go" timestamp="1560251031831">
         <mark key="[" line="36" column="1" />
         <mark key="]" line="36" column="1" />
@@ -94,15 +92,13 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/grpc_health_v1/health.pb.go" timestamp="1560343999745" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/app.pb.gw.go" timestamp="1560343976524" />
       <file name="/Dummy.txt" timestamp="1560344924261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1560308012030">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560345059128">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560411552726">
         <mark key="[" line="1" column="75" />
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="0" />
@@ -135,7 +131,6 @@
         <mark key="^" line="3" column="92" />
         <mark key="." line="3" column="92" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/client.go" timestamp="1560343815939" />
     </filemarks>
     <jumps>
       <jump line="9" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -244,7 +239,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2F0ZXdheSA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
