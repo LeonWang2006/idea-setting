@@ -18,7 +18,7 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1560390064456">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1560731327318">
         <mark key="[" line="232" column="21" />
         <mark key="]" line="233" column="0" />
         <mark key="." line="233" column="0" />
@@ -50,6 +50,7 @@
         <mark key="]" line="8" column="66" />
         <mark key="." line="8" column="66" />
       </file>
+      <file name="/docker-compose_es.yaml" timestamp="1560731416239" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dockerfile" timestamp="1560411562108">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="9" />
@@ -67,17 +68,20 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server_test.go" timestamp="1560340035230" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1560345731994">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560345414633">
-        <mark key="[" line="124" column="65" />
-        <mark key="]" line="124" column="65" />
-        <mark key="." line="124" column="65" />
-        <mark key="^" line="124" column="66" />
+      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server.go" timestamp="1560344424979" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560731498526">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="55" column="23" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/client_test.go" timestamp="1560343758473" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/tracer.go" timestamp="1560251031831">
         <mark key="[" line="36" column="1" />
         <mark key="]" line="36" column="1" />
@@ -88,10 +92,8 @@
         <mark key="]" line="96" column="31" />
         <mark key="." line="96" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/grpc.go" timestamp="1560344441124">
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
+      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/grpc_health_v1/health.pb.go" timestamp="1560343999745" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/app.pb.gw.go" timestamp="1560343976524" />
       <file name="/Dummy.txt" timestamp="1560344924261">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,6 +133,7 @@
         <mark key="^" line="3" column="92" />
         <mark key="." line="3" column="92" />
       </file>
+      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/client.go" timestamp="1560343815939" />
     </filemarks>
     <jumps>
       <jump line="9" column="2" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/config/RestApiDoc.kt" />
@@ -248,34 +251,34 @@
         <text encoding="base64">CQlvcy5FeGl0KDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kaXRpb246IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CS8vIFNlcnZlck1hcFsiaGVhbHRoIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmFwcCIpLCAmaGVhbHRoLlNlcnZlcnt9LCBoZWFsdGhncnBjLlJlZ2lzdGVySGVhbHRoU2VydmVyLCBwYi5SZWdpc3Rlck1zZ0hhbmRsZXJGcm9tRW5kcG9pbnR9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZWxz</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBndzogZ2F0ZXdheTo1MDA1MAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgIw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBndzogZ2F0ZXdheTo1MDA1MAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBqYWVnZXItY29sbGVjdG9yOgogICAgaW1hZ2U6IGphZWdlcnRyYWNpbmcvamFlZ2VyLWNvbGxlY3RvcjpsYXRlc3QKICAgIHBvcnRzOgogICAgICAtICIxNDI2NzoxNDI2NyIKICAgICAgLSAiMTQyNjg6MTQyNjgiCiAgICAgIC0gIjk0MTE6OTQxMSIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gZWxzCiAgICBjb250YWluZXJfbmFtZTogamFlZ2VyLWNvbGxlY3RvcgogICAgaG9zdG5hbWU6IGphZWdlci1jb2xsZWN0b3IKICAgIHJlc3RhcnQ6IG9uLWZhaWx1cmUKICAgIG5ldHdvcmtzOgogICAgICAtIGVsYXN0aWMtamFlZ2VyCiAgICBjb21tYW5kOiBbIi9nby9iaW4vY29sbGVjdG9yLWxpbnV4IiwgIi0tc3Bhbi1zdG9yYWdlLnR5cGU9ZWxhc3RpY3NlYXJjaCIsICItLWVzLnNlcnZlci11cmxzPWh0dHA6Ly9lbHM6OTIwMCJd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb2NhbDogbG9jYWw6NTAwNTAK</text>
+        <text encoding="base64">ICAgICAgICBjb25kaXRpb246IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2NhbDogbG9jYWw6NTAwNTAK</text>
+        <text encoding="base64">CS8vIFNlcnZlck1hcFsiaGVhbHRoIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmFwcCIpLCAmaGVhbHRoLlNlcnZlcnt9LCBoZWFsdGhncnBjLlJlZ2lzdGVySGVhbHRoU2VydmVyLCBwYi5SZWdpc3Rlck1zZ0hhbmRsZXJGcm9tRW5kcG9pbnR9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVNlcnZlciAgID0gZmxhZy5TdHJpbmcoInNlcnZlciIsICJsb2NhbCIsICJ3aGljaCBzZXJ2ZXIgdG8gYm9vdD8gZXhhbXBsZTogYXBwL2hycy9vZ3MvbG9jYWwiKQo=</text>
+        <text encoding="base64">ICBndzogZ2F0ZXdheTo1MDA1MAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJjb250ZXh0Igo=</text>
+        <text encoding="base64">ICBndzogZ2F0ZXdheTo1MDA1MAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWxmKCJkaWQgbm90IGNvbm5lY3Q6ICV2IiwgZXJyKQo=</text>
+        <text encoding="base64">ICBsb2NhbDogbG9jYWw6NTAwNTAK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
