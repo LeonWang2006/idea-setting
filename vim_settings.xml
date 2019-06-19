@@ -19,10 +19,11 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1560777028378">
-        <mark key="[" line="232" column="21" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1560930880767">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="15" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1560346042033">
         <mark key="[" line="1" column="75" />
@@ -76,7 +77,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server.go" timestamp="1560344424979" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560736542212">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1560930853888">
         <mark key="[" line="30" column="47" />
         <mark key="]" line="30" column="48" />
         <mark key="." line="30" column="48" />
@@ -252,34 +253,34 @@
         <text encoding="base64">CQlvcy5FeGl0KDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgIC0gZWxhc3RpY3NlYXJjaAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZWxz</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyAgICBkZXBlbmRzX29uOgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgIw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZWxz</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgIw==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICBqYWVnZXItY29sbGVjdG9yOgogICAgaW1hZ2U6IGphZWdlcnRyYWNpbmcvamFlZ2VyLWNvbGxlY3RvcjpsYXRlc3QKICAgIHBvcnRzOgogICAgICAtICIxNDI2NzoxNDI2NyIKICAgICAgLSAiMTQyNjg6MTQyNjgiCiAgICAgIC0gIjk0MTE6OTQxMSIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gZWxzCiAgICBjb250YWluZXJfbmFtZTogamFlZ2VyLWNvbGxlY3RvcgogICAgaG9zdG5hbWU6IGphZWdlci1jb2xsZWN0b3IKICAgIHJlc3RhcnQ6IG9uLWZhaWx1cmUKICAgIG5ldHdvcmtzOgogICAgICAtIGVsYXN0aWMtamFlZ2VyCiAgICBjb21tYW5kOiBbIi9nby9iaW4vY29sbGVjdG9yLWxpbnV4IiwgIi0tc3Bhbi1zdG9yYWdlLnR5cGU9ZWxhc3RpY3NlYXJjaCIsICItLWVzLnNlcnZlci11cmxzPWh0dHA6Ly9lbHM6OTIwMCJd</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25kaXRpb246IAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CS8vIFNlcnZlck1hcFsiaGVhbHRoIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmFwcCIpLCAmaGVhbHRoLlNlcnZlcnt9LCBoZWFsdGhncnBjLlJlZ2lzdGVySGVhbHRoU2VydmVyLCBwYi5SZWdpc3Rlck1zZ0hhbmRsZXJGcm9tRW5kcG9pbnR9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBndzogZ2F0ZXdheTo1MDA1MAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBndzogZ2F0ZXdheTo1MDA1MAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2NhbDogbG9jYWw6NTAwNTAK</text>
+        <text encoding="base64">ICBndzogZ2F0ZXdheTo1MDA1MAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
