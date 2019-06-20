@@ -20,7 +20,7 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1560930880767">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1561002275657">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
@@ -60,7 +60,12 @@
       </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/client_test.go" timestamp="1560343758473" />
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/grpc_health_v1/health.pb.go" timestamp="1560343999745" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-front.yaml" timestamp="1561001211357" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-front.yaml" timestamp="1561002516320">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="77" column="50" />
+        <mark key="." line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/app.pb.gw.go" timestamp="1560343976524" />
       <file name="/Dummy.txt" timestamp="1560936244495">
         <mark key="[" line="0" column="0" />
@@ -200,43 +205,43 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>compose</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlvcy5FeGl0KDEpCg==</text>
+        <text encoding="base64">ICAgICAgLSAiNTc3ODo1Nzc4Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgIC0gZWxhc3RpY3NlYXJjaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAgICBkZXBlbmRzX29uOgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gamFlZ2VyLWFnZW50</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZWxz</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gamFlZ2VyLWFnZW50</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgIw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBqYWVnZXItY29sbGVjdG9yOgogICAgaW1hZ2U6IGphZWdlcnRyYWNpbmcvamFlZ2VyLWNvbGxlY3RvcjpsYXRlc3QKICAgIHBvcnRzOgogICAgICAtICIxNDI2NzoxNDI2NyIKICAgICAgLSAiMTQyNjg6MTQyNjgiCiAgICAgIC0gIjk0MTE6OTQxMSIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gZWxzCiAgICBjb250YWluZXJfbmFtZTogamFlZ2VyLWNvbGxlY3RvcgogICAgaG9zdG5hbWU6IGphZWdlci1jb2xsZWN0b3IKICAgIHJlc3RhcnQ6IG9uLWZhaWx1cmUKICAgIG5ldHdvcmtzOgogICAgICAtIGVsYXN0aWMtamFlZ2VyCiAgICBjb21tYW5kOiBbIi9nby9iaW4vY29sbGVjdG9yLWxpbnV4IiwgIi0tc3Bhbi1zdG9yYWdlLnR5cGU9ZWxhc3RpY3NlYXJjaCIsICItLWVzLnNlcnZlci11cmxzPWh0dHA6Ly9lbHM6OTIwMCJd</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gamFlZ2VyLWFnZW50</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25kaXRpb246IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CS8vIFNlcnZlck1hcFsiaGVhbHRoIl0gPSBbXWludGVyZmFjZXt9e2NvbmZpZy5WaXAuR2V0U3RyaW5nKCJncnBjLmFwcCIpLCAmaGVhbHRoLlNlcnZlcnt9LCBoZWFsdGhncnBjLlJlZ2lzdGVySGVhbHRoU2VydmVyLCBwYi5SZWdpc3Rlck1zZ0hhbmRsZXJGcm9tRW5kcG9pbnR9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gamFlZ2VyLWFnZW50</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBndzogZ2F0ZXdheTo1MDA1MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
