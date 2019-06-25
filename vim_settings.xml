@@ -86,6 +86,12 @@
         <mark key="[" line="75" column="1" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/blogService.go" timestamp="1561022625258" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-vancouver.yaml" timestamp="1561450206500">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="170" column="18" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560999128173">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="4" column="7" />
@@ -219,7 +225,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>10.10.18.130:</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -228,34 +234,46 @@
         <text encoding="base64">ICAgICAgLSAiNTc3ODo1Nzc4Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>#    environment:
+#      - JAEGER_SERVICE_NAME=app
+#      - JAEGER_AGENT_HOST=jaeger-agent
+#      - JAEGER_AGENT_PORT=6831
+#      - JAEGER_SAMPLER_MANAGER_HOST_PORT=jaeger-agent:5778</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gamFlZ2VyLWFnZW50</text>
+      <register name="4" type="4">
+        <text>#    environment:
+#      - JAEGER_SERVICE_NAME=hrs
+#      - JAEGER_AGENT_HOST=jaeger-agent
+#      - JAEGER_AGENT_PORT=6831
+#      - JAEGER_SAMPLER_MANAGER_HOST_PORT=jaeger-agent:5778</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gamFlZ2VyLWFnZW50</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>#    environment:
+#      - JAEGER_SERVICE_NAME=ogs
+#      - JAEGER_AGENT_HOST=jaeger-agent
+#      - JAEGER_AGENT_PORT=6831
+#      - JAEGER_SAMPLER_MANAGER_HOST_PORT=jaeger-agent:5778</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gamFlZ2VyLWFnZW50</text>
+        <text encoding="base64">CiMgICAgZW52aXJvbm1lbnQ6CiMgICAgICAtIEpBRUdFUl9TRVJWSUNFX05BTUU9b2dzCiMgICAgICAtIEpBRUdFUl9BR0VOVF9IT1NUPWphZWdlci1hZ2VudAojICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiMgICAgICAtIEpBRUdFUl9TQU1QTEVSX01BTkFHRVJfSE9TVF9QT1JUPWphZWdlci1hZ2VudDo1Nzc4</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gamFlZ2VyLWFnZW50</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
