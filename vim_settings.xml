@@ -72,14 +72,14 @@
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1561429187502">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1561517743706">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server_test.go" timestamp="1560340035230" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1561095586139">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1561518286349">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -131,7 +131,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/build-docker-image.sh" timestamp="1561512288612">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/build-docker-image.sh" timestamp="1561518411552">
         <mark key="[" line="16" column="53" />
         <mark key="]" line="16" column="53" />
         <mark key="." line="16" column="53" />
@@ -271,46 +271,42 @@
         <text encoding="base64">c3VkbyBkb2NrZXIgdGFnIHdhbmdmbC9nYXRld2F5OmxhdGVzdCBoYXJib3IwMS53b25kZXJzaGFyZS5jbi93b3MvZ2F0ZXdheTpsYXRlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L3NyYy9kZXBsb3kvaGVhbHRoY2hlY2sK</text>
+        <text encoding="base64">L29mZmVyL3ZlcmlmaWNhdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L29mZmVyL2FwcGxldHMtbG9naW4K</text>
       </register>
-      <register name="3" type="4">
-        <text>#    environment:
-#      - JAEGER_SERVICE_NAME=app
-#      - JAEGER_AGENT_HOST=jaeger-agent
-#      - JAEGER_AGENT_PORT=6831
-#      - JAEGER_SAMPLER_MANAGER_HOST_PORT=jaeger-agent:5778</text>
+      <register name="3" type="2">
+        <text encoding="base64">L29mZmVyL29wZXJhdGluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L29mZmVyL2FwcGxldHMtbG9naW4K</text>
       </register>
-      <register name="5" type="4">
-        <text>#    environment:
-#      - JAEGER_SERVICE_NAME=hrs
-#      - JAEGER_AGENT_HOST=jaeger-agent
-#      - JAEGER_AGENT_PORT=6831
-#      - JAEGER_SAMPLER_MANAGER_HOST_PORT=jaeger-agent:5778</text>
+      <register name="5" type="2">
+        <text encoding="base64">L3NyYy9kZXBsb3kvaGVhbHRoY2hlY2sK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
         <text>#    environment:
-#      - JAEGER_SERVICE_NAME=ogs
+#      - JAEGER_SERVICE_NAME=app
 #      - JAEGER_AGENT_HOST=jaeger-agent
 #      - JAEGER_AGENT_PORT=6831
 #      - JAEGER_SAMPLER_MANAGER_HOST_PORT=jaeger-agent:5778</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiMgICAgZW52aXJvbm1lbnQ6CiMgICAgICAtIEpBRUdFUl9TRVJWSUNFX05BTUU9b2dzCiMgICAgICAtIEpBRUdFUl9BR0VOVF9IT1NUPWphZWdlci1hZ2VudAojICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiMgICAgICAtIEpBRUdFUl9TQU1QTEVSX01BTkFHRVJfSE9TVF9QT1JUPWphZWdlci1hZ2VudDo1Nzc4</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>#    environment:
+#      - JAEGER_SERVICE_NAME=hrs
+#      - JAEGER_AGENT_HOST=jaeger-agent
+#      - JAEGER_AGENT_PORT=6831
+#      - JAEGER_SAMPLER_MANAGER_HOST_PORT=jaeger-agent:5778</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
