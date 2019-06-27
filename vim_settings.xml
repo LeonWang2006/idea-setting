@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1560344799744">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1561600970114">
+        <mark key="[" line="102" column="5" />
+        <mark key="]" line="102" column="6" />
+        <mark key="." line="102" column="6" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/client/client.go" timestamp="1561034669502">
         <mark key="[" line="18" column="4" />
@@ -20,10 +20,11 @@
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1561447624103">
-        <mark key="[" line="150" column="21" />
-        <mark key="]" line="150" column="22" />
-        <mark key="." line="150" column="22" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1561601452333">
+        <mark key="[" line="178" column="44" />
+        <mark key="]" line="178" column="44" />
+        <mark key="." line="178" column="44" />
+        <mark key="^" line="216" column="44" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/readme/docker-deployment.md" timestamp="1561512205180">
         <mark key="[" line="3" column="46" />
@@ -31,13 +32,13 @@
         <mark key="^" line="3" column="46" />
         <mark key="." line="3" column="46" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-prd.yaml" timestamp="1561443671162">
-        <mark key="[" line="139" column="1" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="139" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-prd.yaml" timestamp="1561601545554">
+        <mark key="[" line="140" column="50" />
+        <mark key="]" line="140" column="49" />
+        <mark key="^" line="140" column="49" />
+        <mark key="." line="140" column="49" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1560993963086">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1561603275105">
         <mark key="^" line="22" column="147" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/health.proto" timestamp="1560343404738">
@@ -50,12 +51,18 @@
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/build-docker-image.sh" timestamp="1561422986175">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="8" column="66" />
-        <mark key="." line="8" column="66" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/build-docker-image.sh" timestamp="1561603049025">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/docker-compose_es.yaml" timestamp="1560731416239" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1560326709085">
+        <mark key="[" line="65" column="33" />
+        <mark key="]" line="65" column="45" />
+        <mark key="." line="65" column="45" />
+        <mark key="^" line="65" column="45" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dockerfile" timestamp="1560411562108">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="9" />
@@ -72,20 +79,26 @@
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1561517743706">
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1561601309149">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="21" column="1" />
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server_test.go" timestamp="1560340035230" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1561518286349">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1561601313043">
+        <mark key="[" line="19" column="30" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/ihrOffer.go" timestamp="1561022859542" />
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server.go" timestamp="1560344424979" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose-dev.yaml" timestamp="1559695564870">
+        <mark key="[" line="118" column="18" />
+        <mark key="]" line="118" column="18" />
+        <mark key="^" line="118" column="16" />
+        <mark key="." line="118" column="18" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-compose.yaml" timestamp="1561449495722">
         <mark key="[" line="222" column="22" />
         <mark key="]" line="30" column="48" />
@@ -93,6 +106,12 @@
         <mark key="^" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/client_test.go" timestamp="1560343758473" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose_es.yaml" timestamp="1559652248614">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="64" column="31" />
+        <mark key="^" line="64" column="31" />
+        <mark key="." line="64" column="31" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/tracer.go" timestamp="1560251031831">
         <mark key="[" line="36" column="1" />
         <mark key="]" line="36" column="1" />
@@ -110,8 +129,20 @@
         <mark key="^" line="77" column="50" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/server/handles.go" timestamp="1560323501597">
+        <mark key="[" line="90" column="31" />
+        <mark key="]" line="90" column="31" />
+        <mark key="." line="90" column="31" />
+        <mark key="^" line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/pb/app.pb.gw.go" timestamp="1560343976524" />
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/stream.go" timestamp="1561034767254" />
+      <file name="/Dummy.txt" timestamp="1561601082329">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/service/service.go" timestamp="1560993685366">
+        <mark key="[" line="75" column="1" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/blogService.go" timestamp="1561022625258" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-vancouver.yaml" timestamp="1561600047894">
         <mark key="[" line="133" column="11" />
@@ -125,17 +156,41 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/gateway/gateway.go" timestamp="1560171601823">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="22" column="1" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/dc-test.yaml" timestamp="1560220419134">
+        <mark key="[" line="207" column="19" />
+        <mark key="]" line="207" column="19" />
+        <mark key="^" line="106" column="17" />
+        <mark key="." line="207" column="19" />
+      </file>
       <file name="/register.go" timestamp="1561448674100" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1560337405100">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1561603248139">
+        <mark key="[" line="45" column="5" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/build-docker-image.sh" timestamp="1561518411552">
-        <mark key="[" line="16" column="53" />
-        <mark key="]" line="16" column="53" />
-        <mark key="." line="16" column="53" />
-        <mark key="^" line="16" column="79" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-dev.go" timestamp="1560260966934">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/server/healthhandler.go" timestamp="1560320655507">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="11" column="43" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/build-docker-image.sh" timestamp="1561602972307">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/health/main.go" timestamp="1560820335376">
         <mark key="[" line="19" column="31" />
@@ -262,51 +317,43 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3VkbyBkb2NrZXIgdGFnIHdhbmdmbC9nYXRld2F5OmxhdGVzdCBoYXJib3IwMS53b25kZXJzaGFyZS5jbi93b3MvZ2F0ZXdheTpsYXRlc3QK</text>
+        <text encoding="base64">ZWNobyAicHVzaCBkb2NrZXIgaW1hZ2UgdG8gaGFyYm9yMDEud29uZGVyc2hhcmUuY24vd29zL2dhdGV3YXk6JDAgLi4uIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L29mZmVyL3ZlcmlmaWNhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">L29mZmVyL2FwcGxldHMtbG9naW4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cgoj57yW6K+R572R5YWz5ZKM5b+D6Lez5qOA5rWL56iL5bqPCkNHT19FTkFCTEVEPTAgR09PUz1saW51eCBnbyBidWlsZCAtYSAtaW5zdGFsbHN1ZmZpeCBjZ28gLW8gZGVwbG95L2FwcCAuCkNHT19FTkFCTEVEPTAgR09PUz1saW51eCBnbyBidWlsZCAtYSAtaW5zdGFsbHN1ZmZpeCBjZ28gLW8gZGVwbG95L2hlYWx0aGNoZWNrIC4vZGVwbG95L2hlYWx0aC8uCgoj5omT5YyFZG9ja2Vy6ZWc5YOP5paH5Lu2CnN1ZG8gZG9ja2VyIGJ1aWxkIC1mIGRlcGxveS9kb2NrZXJmaWxlIC10IHdhbmdmbC9hcHAgLgpzdWRvIGRvY2tlciB0YWcgd2FuZ2ZsL2FwcDpsYXRlc3QgaGFyYm9yMDEud29uZGVyc2hhcmUuY24vd29zL2FwcDpsYXRlc3QKCiMg5Y+R5biD5Yiw5YaF6YOo56eB5pyJ5LuT5bqT77yM56aB5q2i6Ieq5Yqo5omn6KGM77yM5pys5Zyw5rWL6K+V6YCa6L+H77yM5LiU5LiO5Y+R5biD5Lq65ZGY77yI546L6aOe6b6Z77yM5YiY5paM5YWJ77yJ5rKf6YCa56Gu6K6k5ZCO5omN5Y+v5o6o6YCBCiNzdWRvIGRvY2tlciBwdXNoIGhhcmJvcjAxLndvbmRlcnNoYXJlLmNuL3dvcy9hcHA6bGF0ZXN0Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">L29mZmVyL29wZXJhdGluZwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiPnvJbor5Fnb2xhbmfvvIzlubbmiZPljIXmiJBkb2NrZXLplZzlg4/mlofku7bvvIzmoIforrDliLDlhazlj7jlhoXpg6jnp4HmnInplZzlg4/ku5PlupPjgIIKI2F1dGhvciB3YW5nZmwKI2RhdGUgICAyMDE5LTA2LTEy</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">L29mZmVyL2FwcGxldHMtbG9naW4K</text>
+        <text encoding="base64">ZG9ja2VyIHRhZyB3YW5nZmwvZ2F0ZXdheTpsYXRlc3QgaGFyYm9yMDEud29uZGVyc2hhcmUuY24vd29zL2dhdGV3YXk6JDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L3NyYy9kZXBsb3kvaGVhbHRoY2hlY2sK</text>
+        <text encoding="base64">ICAgICAgLSAiODA4Mzo4MDgzIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiODA4MTo4MDgxIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>#    environment:
-#      - JAEGER_SERVICE_NAME=app
-#      - JAEGER_AGENT_HOST=jaeger-agent
-#      - JAEGER_AGENT_PORT=6831
-#      - JAEGER_SAMPLER_MANAGER_HOST_PORT=jaeger-agent:5778</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLSAiODA4Mjo4MDgyIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L29mZmVyL3ZlcmlmaWNhdGlvbgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>#    environment:
-#      - JAEGER_SERVICE_NAME=hrs
-#      - JAEGER_AGENT_HOST=jaeger-agent
-#      - JAEGER_AGENT_PORT=6831
-#      - JAEGER_SAMPLER_MANAGER_HOST_PORT=jaeger-agent:5778</text>
+      <register name="9" type="2">
+        <text encoding="base64">L29mZmVyL2FwcGxldHMtbG9naW4K</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -319,7 +366,7 @@
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
