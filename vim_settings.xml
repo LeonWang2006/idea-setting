@@ -107,11 +107,11 @@
         <mark key="^" line="64" column="31" />
         <mark key="." line="64" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/tracer/tracer-gorm.go" timestamp="1561975092955">
-        <mark key="[" line="82" column="43" />
-        <mark key="]" line="82" column="43" />
-        <mark key="." line="82" column="43" />
-        <mark key="^" line="82" column="52" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/tracer/tracer-gorm.go" timestamp="1561978289529">
+        <mark key="[" line="92" column="58" />
+        <mark key="]" line="92" column="65" />
+        <mark key="." line="92" column="65" />
+        <mark key="^" line="92" column="65" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/grpc_health_v1/health.pb.go" timestamp="1561034699329" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-front.yaml" timestamp="1561600000903">
@@ -316,66 +316,40 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.(string)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAicHVzaCBkb2NrZXIgaW1hZ2UgdG8gaGFyYm9yMDEud29uZGVyc2hhcmUuY24vd29zL2dhdGV3YXk6JDAgLi4uIjsK</text>
+        <text encoding="base64">CQkJCXNxbCA9IHN0cmluZ3MuUmVwbGFjZShzcWwsIj8iLHN0cmNvbnYuSXRvYSh2KSwxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWZtdC5QcmludGYoIkkgZG9uJ3Qga25vdyBhYm91dCB0eXBlICVUIVxuIiwgdikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW90Z29ybSAiZ2l0aHViLmNvbS9zbWFja2VyL29wZW50cmFjaW5nLWdvcm0iCg==</text>
+        <text encoding="base64">CQkJCWZtdC5QcmludGYoIiVxIGlzICV2IGJ5dGVzIGxvbmdcbiIsIHYsIGxlbih2KSkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CQkJLy8gaW5kZXggaXMgdGhlIGluZGV4IHdoZXJlIHdlIGFyZQoJCQkvLyBlbGVtZW50IGlzIHRoZSBlbGVtZW50IGZyb20gc29tZVNsaWNlIGZvciB3aGVyZSB3ZSBhcmU=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCWZtdC5QcmludGYoIlR3aWNlICV2IGlzICV2XG4iLCB2LCB2KjIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzdHJpbmdzLlJlcGxhY2UoKQo=</text>
+        <text encoding="base64">CQkJc3RyaW5ncy5SZXBsYWNlKHNxbCwiPyIsZWxlbWVudC4oaW50KSwxKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW90Z29ybSAiZ2l0aHViLmNvbS9zbWFja2VyL29wZW50cmFjaW5nLWdvcm0iCg==</text>
       </register>
       <register name="7" type="4">
-        <text>import (
-	&quot;fmt&quot;
-	&quot;strings&quot;
-
-	&quot;github.com/jinzhu/gorm&quot;
-	&quot;github.com/opentracing/opentracing-go&quot;
-	&quot;github.com/opentracing/opentracing-go/ext&quot;
-)
-
-package otgorm</text>
+        <text encoding="base64">CQkJLy8gaW5kZXggaXMgdGhlIGluZGV4IHdoZXJlIHdlIGFyZQoJCQkvLyBlbGVtZW50IGlzIHRoZSBlbGVtZW50IGZyb20gc29tZVNsaWNlIGZvciB3aGVyZSB3ZSBhcmU=</text>
       </register>
-      <register name="8" type="4">
-        <text>echo &quot;building gateway version：$1 ...&quot;;
-CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o deploy/gateway .
-
-#一般无需重新编译
-#CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o deploy/healthcheck ./deploy/health/.
-
-#打包docker镜像文件
-echo &quot;building docker image version：$1 ...&quot;;
-docker build -f deploy/dockerfile -t wangfl/gateway .
-docker tag wangfl/gateway:latest harbor01.wondershare.cn/wos/gateway:latest
-docker tag wangfl/gateway:latest harbor01.wondershare.cn/wos/gateway:$1
-
-# 发布到内部私有仓库，禁止自动执行，本地测试通过，且与发布人员（王飞龙，刘斌光）沟通确认后才可推送
-echo &quot;pushing docker image to harbor01.wondershare.cn/wos/gateway:latest ...&quot;;
-docker push harbor01.wondershare.cn/wos/gateway:latest
-
-echo &quot;pushing docker image to harbor01.wondershare.cn/wos/gateway:$1 ...&quot;;
-docker push harbor01.wondershare.cn/wos/gateway:$1</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlzdHJpbmdzLlJlcGxhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
