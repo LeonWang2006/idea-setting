@@ -107,6 +107,12 @@
         <mark key="^" line="64" column="31" />
         <mark key="." line="64" column="31" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/tracer/tracer-gorm.go" timestamp="1561975092955">
+        <mark key="[" line="82" column="43" />
+        <mark key="]" line="82" column="43" />
+        <mark key="." line="82" column="43" />
+        <mark key="^" line="82" column="52" />
+      </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/grpc_health_v1/health.pb.go" timestamp="1561034699329" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-front.yaml" timestamp="1561600000903">
         <mark key="[" line="3" column="8" />
@@ -135,6 +141,11 @@
         <mark key="^" line="133" column="18" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/tracer/otgorm.go" timestamp="1561973925571">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/readme/docker-deployment.md" timestamp="1560999128173">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="4" column="7" />
@@ -153,7 +164,9 @@
         <mark key="^" line="106" column="17" />
         <mark key="." line="207" column="19" />
       </file>
-      <file name="$USER_HOME$/go/pkg/mod/github.com/smacker/opentracing-gorm@v0.0.0-20181207094635-cd4974441042/otgorm.go" timestamp="1561972933742" />
+      <file name="$USER_HOME$/go/pkg/mod/github.com/smacker/opentracing-gorm@v0.0.0-20181207094635-cd4974441042/otgorm.go" timestamp="1561973803370">
+        <mark key="[" line="76" column="5" />
+      </file>
       <file name="/register.go" timestamp="1561448674100" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1561603248139">
         <mark key="[" line="45" column="5" />
@@ -182,6 +195,11 @@
         <mark key="[" line="19" column="31" />
         <mark key="]" line="19" column="31" />
         <mark key="." line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1561975008177">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/dockerfile" timestamp="1560345974055">
         <mark key="[" line="1" column="4" />
@@ -298,7 +316,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.(string)</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -306,7 +324,40 @@
       <register name="0" type="2">
         <text encoding="base64">ZWNobyAicHVzaCBkb2NrZXIgaW1hZ2UgdG8gaGFyYm9yMDEud29uZGVyc2hhcmUuY24vd29zL2dhdGV3YXk6JDAgLi4uIjsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CW90Z29ybSAiZ2l0aHViLmNvbS9zbWFja2VyL29wZW50cmFjaW5nLWdvcm0iCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CQkJLy8gaW5kZXggaXMgdGhlIGluZGV4IHdoZXJlIHdlIGFyZQoJCQkvLyBlbGVtZW50IGlzIHRoZSBlbGVtZW50IGZyb20gc29tZVNsaWNlIGZvciB3aGVyZSB3ZSBhcmU=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlzdHJpbmdzLlJlcGxhY2UoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>import (
+	&quot;fmt&quot;
+	&quot;strings&quot;
+
+	&quot;github.com/jinzhu/gorm&quot;
+	&quot;github.com/opentracing/opentracing-go&quot;
+	&quot;github.com/opentracing/opentracing-go/ext&quot;
+)
+
+package otgorm</text>
+      </register>
+      <register name="8" type="4">
         <text>echo &quot;building gateway version：$1 ...&quot;;
 CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o deploy/gateway .
 
@@ -326,32 +377,8 @@ docker push harbor01.wondershare.cn/wos/gateway:latest
 echo &quot;pushing docker image to harbor01.wondershare.cn/wos/gateway:$1 ...&quot;;
 docker push harbor01.wondershare.cn/wos/gateway:$1</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cgoj57yW6K+R572R5YWz5ZKM5b+D6Lez5qOA5rWL56iL5bqPCkNHT19FTkFCTEVEPTAgR09PUz1saW51eCBnbyBidWlsZCAtYSAtaW5zdGFsbHN1ZmZpeCBjZ28gLW8gZGVwbG95L2FwcCAuCkNHT19FTkFCTEVEPTAgR09PUz1saW51eCBnbyBidWlsZCAtYSAtaW5zdGFsbHN1ZmZpeCBjZ28gLW8gZGVwbG95L2hlYWx0aGNoZWNrIC4vZGVwbG95L2hlYWx0aC8uCgoj5omT5YyFZG9ja2Vy6ZWc5YOP5paH5Lu2CnN1ZG8gZG9ja2VyIGJ1aWxkIC1mIGRlcGxveS9kb2NrZXJmaWxlIC10IHdhbmdmbC9hcHAgLgpzdWRvIGRvY2tlciB0YWcgd2FuZ2ZsL2FwcDpsYXRlc3QgaGFyYm9yMDEud29uZGVyc2hhcmUuY24vd29zL2FwcDpsYXRlc3QKCiMg5Y+R5biD5Yiw5YaF6YOo56eB5pyJ5LuT5bqT77yM56aB5q2i6Ieq5Yqo5omn6KGM77yM5pys5Zyw5rWL6K+V6YCa6L+H77yM5LiU5LiO5Y+R5biD5Lq65ZGY77yI546L6aOe6b6Z77yM5YiY5paM5YWJ77yJ5rKf6YCa56Gu6K6k5ZCO5omN5Y+v5o6o6YCBCiNzdWRvIGRvY2tlciBwdXNoIGhhcmJvcjAxLndvbmRlcnNoYXJlLmNuL3dvcy9hcHA6bGF0ZXN0Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiPnvJbor5Fnb2xhbmfvvIzlubbmiZPljIXmiJBkb2NrZXLplZzlg4/mlofku7bvvIzmoIforrDliLDlhazlj7jlhoXpg6jnp4HmnInplZzlg4/ku5PlupPjgIIKI2F1dGhvciB3YW5nZmwKI2RhdGUgICAyMDE5LTA2LTEy</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZG9ja2VyIHRhZyB3YW5nZmwvZ2F0ZXdheTpsYXRlc3QgaGFyYm9yMDEud29uZGVyc2hhcmUuY24vd29zL2dhdGV3YXk6JDAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAiODA4Mzo4MDgzIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAiODA4MTo4MDgxIgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAiODA4Mjo4MDgyIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">L29mZmVyL3ZlcmlmaWNhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
