@@ -61,18 +61,18 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1561621461873">
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1562076001529">
+        <mark key="[" line="23" column="22" />
         <mark key="]" line="21" column="1" />
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/uber/jaeger-client-go@v2.16.0+incompatible/config/config.go" timestamp="1561971440968" />
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server_test.go" timestamp="1560340035230" />
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1561601313043">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1562075939802">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/ihrOffer.go" timestamp="1561022859542" />
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server.go" timestamp="1560344424979" />
@@ -274,8 +274,8 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCXNxbCA9IHN0cmluZ3MuUmVwbGFjZShzcWwsIj8iLHN0cmNvbnYuSXRvYSh2KSwxKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3NzgK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci0gLw==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -283,26 +283,26 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3NzgK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3NzgK</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3Nzg=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCWZtdC5QcmludGYoIkkgZG9uJ3Qga25vdyBhYm91dCB0eXBlICVUIVxuIiwgdikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCWZtdC5QcmludGYoIiVxIGlzICV2IGJ5dGVzIGxvbmdcbiIsIHYsIGxlbih2KSkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCWZtdC5QcmludGYoIlR3aWNlICV2IGlzICV2XG4iLCB2LCB2KjIpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJc3RyaW5ncy5SZXBsYWNlKHNxbCwiPyIsZWxlbWVudC4oaW50KSwxKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CW90Z29ybSAiZ2l0aHViLmNvbS9zbWFja2VyL29wZW50cmFjaW5nLWdvcm0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
