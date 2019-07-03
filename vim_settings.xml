@@ -13,11 +13,10 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1562116867265">
-        <mark key="[" line="29" column="145" />
-        <mark key="]" line="29" column="143" />
-        <mark key="^" line="29" column="143" />
-        <mark key="." line="29" column="143" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1562143903937">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1561705217053" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/health/main.go" timestamp="1560331807795">
@@ -50,6 +49,17 @@
         <mark key="[" line="95" column="180" />
         <mark key="^" line="22" column="147" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/health.proto" timestamp="1560343404738">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/healthcheck.js" timestamp="1560325404721">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/gredis/redis.go" timestamp="1562143140654" />
       <file name="$USER_HOME$/go/pkg/mod/github.com/uber/jaeger-client-go@v2.16.0+incompatible/config/options.go" timestamp="1561971585330" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/build-docker-image.sh" timestamp="1561607625613">
         <mark key="[" line="5" column="0" />
@@ -74,11 +84,21 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1562076001529">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="21" column="1" />
-        <mark key="." line="21" column="1" />
-        <mark key="^" line="21" column="1" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1561514138842">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/payload.go" timestamp="1559540534894">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1562143766906">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="2" />
+        <mark key="." line="26" column="2" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/github.com/uber/jaeger-client-go@v2.16.0+incompatible/config/config.go" timestamp="1561971440968" />
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server_test.go" timestamp="1560340035230" />
@@ -89,6 +109,7 @@
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/ihrOffer.go" timestamp="1561022859542" />
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/server.go" timestamp="1560344424979" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/ihrOfferService.go" timestamp="1562143263315" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose-dev.yaml" timestamp="1559695564870">
         <mark key="[" line="118" column="18" />
         <mark key="]" line="118" column="18" />
@@ -108,11 +129,21 @@
         <mark key="^" line="64" column="31" />
         <mark key="." line="64" column="31" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/tracer/tracer.go" timestamp="1560251031831">
+        <mark key="[" line="36" column="1" />
+        <mark key="]" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/tracer/tracer-gorm.go" timestamp="1561978289529">
         <mark key="[" line="92" column="58" />
         <mark key="]" line="92" column="65" />
         <mark key="." line="92" column="65" />
         <mark key="^" line="92" column="65" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1560300000145">
+        <mark key="[" line="96" column="31" />
+        <mark key="]" line="96" column="31" />
+        <mark key="." line="96" column="31" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/grpc_health_v1/health.pb.go" timestamp="1561034699329" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-front.yaml" timestamp="1561600000903">
@@ -217,10 +248,10 @@
         <mark key="." line="4" column="92" />
       </file>
       <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.21.0/health/client.go" timestamp="1560343815939" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1562139364141">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1562143270447">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -330,43 +361,43 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>mname</text>
+        <text>/wx/bind-auth-phone</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXNxbCA9IHN0cmluZ3MuUmVwbGFjZShzcWwsIj8iLHN0cmNvbnYuSXRvYSh2KSwxKQo=</text>
+        <text encoding="base64">LSAvd3gvYmluZC1hdXRoLXBob25lCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci0gLw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBjY2MxZWJmMjY4ZmFiNWEwOGUyNjcwZWUwMmU4MzQ2YzUxNDUyZjg2Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3NzgK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3NzgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3Nzg=</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWZtdC5QcmludGYoIkkgZG9uJ3Qga25vdyBhYm91dCB0eXBlICVUIVxuIiwgdikK</text>
+        <text encoding="base64">CVNlcnZlck1hcFsid3giXSA9IFtdaW50ZXJmYWNle317Y29uZmlnLlZpcC5HZXRTdHJpbmcoImdycGMuYXBwIiksICZzZXJ2aWNlLld4U2VydmVye30sIHBiLlJlZ2lzdGVyV3hTZXJ2ZXIsIHBiLlJlZ2lzdGVyV3hIYW5kbGVyRnJvbUVuZHBvaW50fQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWZtdC5QcmludGYoIiVxIGlzICV2IGJ5dGVzIGxvbmdcbiIsIHYsIGxlbih2KSkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ci0gLw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWZtdC5QcmludGYoIlR3aWNlICV2IGlzICV2XG4iLCB2LCB2KjIpCg==</text>
+        <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3NzgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc3RyaW5ncy5SZXBsYWNlKHNxbCwiPyIsZWxlbWVudC4oaW50KSwxKQo=</text>
+        <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3NzgK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgLSBKQUVHRVJfQUdFTlRfSE9TVD1qYWVnZXItYWdlbnQKICAgICAgLSBKQUVHRVJfQUdFTlRfUE9SVD02ODMxCiAgICAgIC0gSkFFR0VSX1NBTVBMRVJfTUFOQUdFUl9IT1NUX1BPUlQ9amFlZ2VyLWFnZW50OjU3Nzg=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
