@@ -3,16 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1561600970114">
-        <mark key="[" line="102" column="5" />
-        <mark key="]" line="102" column="6" />
-        <mark key="." line="102" column="6" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config.go" timestamp="1562245048900">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/client/client.go" timestamp="1561034669502">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/model/app_message_custom.go" timestamp="1562247461399" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/srv/register.go" timestamp="1562143903937">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -58,15 +59,10 @@
         <mark key="^" line="140" column="49" />
         <mark key="." line="140" column="49" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/srv/register.go" timestamp="1562162811543">
-        <mark key="[" line="95" column="180" />
-        <mark key="^" line="22" column="147" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1562242885936">
-        <mark key="[" line="52" column="28" />
-        <mark key="]" line="52" column="28" />
-        <mark key="." line="52" column="28" />
-        <mark key="^" line="52" column="19" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1562247903123">
+        <mark key="[" line="51" column="100" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/health.proto" timestamp="1560343404738">
         <mark key="[" line="3" column="0" />
@@ -88,9 +84,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/inter/inter.go" timestamp="1562243095856">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1562159128450">
         <mark key="[" line="65" column="33" />
         <mark key="]" line="65" column="45" />
@@ -102,6 +95,11 @@
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
+      </file>
+      <file name="/fragment.go" timestamp="1562245947401">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/.gitignore" timestamp="1561514138842">
         <mark key="[" line="27" column="0" />
@@ -119,10 +117,10 @@
         <mark key="." line="26" column="2" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1562243105373">
-        <mark key="[" line="153" column="4" />
-        <mark key="]" line="153" column="4" />
-        <mark key="." line="153" column="4" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1562247274073">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1562075939802">
         <mark key="[" line="20" column="22" />
@@ -160,6 +158,11 @@
         <mark key="]" line="92" column="65" />
         <mark key="." line="92" column="65" />
         <mark key="^" line="92" column="65" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/sys/operate.go" timestamp="1562247744552">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1560300000145">
         <mark key="[" line="96" column="31" />
@@ -256,11 +259,10 @@
         <mark key="]" line="19" column="31" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1562242869558">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1562247299124">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/dockerfile" timestamp="1561985036166">
         <mark key="[" line="0" column="18" />
@@ -381,7 +383,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>cnf.inter</text>
+        <text>app_message_custom</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -390,22 +392,31 @@
         <text>inter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWludGVyICAgaW50ZXIuREJJbnRlcmZhY2UK</text>
+        <text encoding="base64">CW9wIDo9IHN5cy5Db25maWd7fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJyZXN0L2NvbmZpZy9kYi9pbnRlciIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSJyZXN0L3V0aWwvdG9vbHMiCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>func (c *Pool) GetDB(db string) *gorm.DB {
+
+	switch db {
+	case &quot;common&quot;:
+		c.db = CommonDB
+		break
+	}
+
+	return c.db
+}</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBDb25maWcgc3RydWN0IHsKCUZpbGVEaXIgc3RyaW5nCglpbnRlciAgIGludGVyLkRCSW50ZXJmYWNlCn0K</text>
+        <text encoding="base64">CWludGVyICAgaW50ZXIuREJJbnRlcmZhY2UK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -414,10 +425,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXN5c09wTG9nLlN5c3RlbSA9ICpjb25maWcuU2VydmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
+        <text encoding="base64">CWRiLkNyZWF0ZSgmc3lzT3BMb2cpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
