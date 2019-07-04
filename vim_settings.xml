@@ -83,6 +83,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/inter/inter.go" timestamp="1562240938032">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1562159128450">
         <mark key="[" line="65" column="33" />
         <mark key="]" line="65" column="45" />
@@ -111,11 +114,11 @@
         <mark key="." line="26" column="2" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1562235965353">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="131" column="54" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1562241108319">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1562075939802">
         <mark key="[" line="20" column="22" />
@@ -249,8 +252,8 @@
         <mark key="]" line="19" column="31" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1562234464670">
-        <mark key="[" line="161" column="37" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1562241226861">
+        <mark key="[" line="162" column="11" />
         <mark key="]" line="161" column="55" />
         <mark key="." line="161" column="55" />
         <mark key="^" line="161" column="55" />
@@ -383,36 +386,34 @@
         <text>inter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXN5c09wTG9nLlN5c3RlbSA9ICpjb25maWcuU2VydmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
+        <text encoding="base64">dHlwZSBDb25maWcgc3RydWN0IHsKCUZpbGVEaXIgc3RyaW5nCglpbnRlciAgIGludGVyLkRCSW50ZXJmYWNlCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
+        <text encoding="base64">CXN5c09wTG9nLlN5c3RlbSA9ICpjb25maWcuU2VydmVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
       </register>
-      <register name="8" type="4">
-        <text>type db interface {
-	getCommonDB() *gorm.DB
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJyZXN0L2NvbmZpZyIK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
