@@ -86,7 +86,7 @@
         <mark key="[" line="95" column="180" />
         <mark key="^" line="22" column="147" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1562219800529">
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1562225896531">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="63" />
         <mark key="." line="50" column="0" />
@@ -184,11 +184,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/model/sys_op_log.go" timestamp="1562224132145">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-        <mark key="." line="4" column="41" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/model/sys_op_log.go" timestamp="1562225698289">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/payload.go" timestamp="1559540534894">
         <mark key="[" line="5" column="31" />
@@ -245,11 +245,11 @@
         <mark key="^" line="4" column="92" />
         <mark key="." line="4" column="92" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1562223352580">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="106" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1562226079126">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="57" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -359,44 +359,43 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>wsId string, module string, action string, before string, after string</text>
+        <text>recordNew</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="4">
-        <text>response.Data</text>
+      <register name="0" type="2">
+        <text encoding="base64">CXN5c09wTG9nLk5hbWUgPSByZXNwb25zZS5EYXRhW3N5c09wTG9nLldzSWRdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CV8gPSB0b29scy5PcGVyYXRlTG9nKGN0eCwgImFwcCIsICJhcHAiLCAiZWRpdCIsICIwOTA4MDY2MSIpCg==</text>
+        <text encoding="base64">CSJyZXN0L2NvbmZpZy9kYiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3Byb21ldGhldXMvcHJvY2ZzL2ludGVybmFsL3V0aWwiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXBmZmZmZj09PS0tPT09LS0tZuingeW+ruenkuOAgeOAgQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN5c09wTG9nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRiLkNvbW1vbkRCCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vcmVzcG9uc2UuRGF0YVtiYWRnZV0K</text>
+        <text encoding="base64">CXN5c3RlbSA6PSAK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-			data</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXVzZXJNYXAgOj0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIHRvZG8K</text>
+        <text encoding="base64">CXdzSWQgc3RyaW5nLCBtb2R1bGUgc3RyaW5nLCBhY3Rpb24gc3RyaW5nLCBiZWZvcmUgc3RyaW5nLCBhZnRlciBzdHJpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CV8gPSB0b29scy5PcGVyYXRlTG9nKGN0eCwgImFwcCIsICJhcHAiLCAiZWRpdCIsICIwOTA4MDY2MSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3Byb21ldGhldXMvcHJvY2ZzL2ludGVybmFsL3V0aWwiCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
