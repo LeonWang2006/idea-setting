@@ -111,10 +111,11 @@
         <mark key="." line="26" column="2" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1562230003632">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1562234530113">
+        <mark key="[" line="151" column="40" />
+        <mark key="]" line="151" column="44" />
+        <mark key="." line="151" column="44" />
+        <mark key="^" line="151" column="44" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-prd.go" timestamp="1562075939802">
         <mark key="[" line="20" column="22" />
@@ -238,21 +239,21 @@
         <mark key="." line="28" column="50" />
         <mark key="^" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/i/dbcommon.go" timestamp="1562232138603">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/i/dbcommon.go" timestamp="1562233963334">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/health/main.go" timestamp="1560820335376">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="19" column="31" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1562229948929">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1562234464670">
+        <mark key="[" line="161" column="37" />
+        <mark key="]" line="161" column="55" />
+        <mark key="." line="161" column="55" />
+        <mark key="^" line="161" column="55" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/dockerfile" timestamp="1561985036166">
         <mark key="[" line="0" column="18" />
@@ -373,45 +374,45 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>system</text>
+        <text>db</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="4">
-        <text>GetCommon()</text>
+        <text>inter</text>
       </register>
-      <register name="1" type="4">
-        <text>type db interface {
-	getCommonDB() *gorm.DB
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>type db interface {
+	getCommonDB() *gorm.DB
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJyZXN0L2NvbmZpZy9kYiIK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN5c09wTG9nKQo=</text>
+        <text encoding="base64">CSJyZXN0L2NvbmZpZy9kYiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWRiLkNvbW1vbkRCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
