@@ -86,6 +86,12 @@
         <mark key="[" line="95" column="180" />
         <mark key="^" line="22" column="147" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1562219588341">
+        <mark key="[" line="37" column="59" />
+        <mark key="]" line="37" column="58" />
+        <mark key="." line="37" column="58" />
+        <mark key="^" line="37" column="58" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1560300000145">
         <mark key="[" line="96" column="31" />
         <mark key="]" line="96" column="31" />
@@ -231,11 +237,11 @@
         <mark key="^" line="4" column="92" />
         <mark key="." line="4" column="92" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1562210122055">
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="54" column="20" />
-        <mark key="." line="54" column="20" />
-        <mark key="^" line="54" column="20" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1562219397317">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -345,7 +351,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>util</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -354,35 +360,35 @@
         <text encoding="base64">LSAvd3gvYmluZC1hdXRoLXBob25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXBmZmZmZj09PS0tPT09LS0tZuingeW+ruenkuOAgeOAgQo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3Byb21ldGhldXMvcHJvY2ZzL2ludGVybmFsL3V0aWwiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBmZmZmZj09PS0tPT09LS0tZuingeW+ruenkuOAgeOAgQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CS8vcmVzcG9uc2UuRGF0YVtiYWRnZV0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
 			data</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CS8vIHRvZG8K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CS8vIOi6q+S7veagoemqjOWksei0pQoJaWYgcmVzcG9uc2UuRGF0YSB7CgkJd2xvZy5FcnJvcihwLk1lc3NhZ2UpCgkJcmV0dXJuIGVycgoJ</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlhdXRoRXJyb3IocCwgdykK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
