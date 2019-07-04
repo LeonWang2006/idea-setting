@@ -86,11 +86,10 @@
         <mark key="[" line="95" column="180" />
         <mark key="^" line="22" column="147" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1562219588341">
-        <mark key="[" line="37" column="59" />
-        <mark key="]" line="37" column="58" />
-        <mark key="." line="37" column="58" />
-        <mark key="^" line="37" column="58" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1562219800529">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="63" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/deploy/docker-compose.yaml" timestamp="1560300000145">
         <mark key="[" line="96" column="31" />
@@ -140,6 +139,9 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562220036314">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-vancouver.yaml" timestamp="1561600047894">
         <mark key="[" line="133" column="11" />
@@ -237,11 +239,11 @@
         <mark key="^" line="4" column="92" />
         <mark key="." line="4" column="92" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1562219397317">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1562221512126">
+        <mark key="[" line="55" column="13" />
+        <mark key="]" line="55" column="13" />
+        <mark key="." line="55" column="13" />
+        <mark key="^" line="55" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -351,44 +353,44 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>util</text>
+        <text>response.Data</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSAvd3gvYmluZC1hdXRoLXBob25lCg==</text>
+      <register name="0" type="4">
+        <text>response.Data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3Byb21ldGhldXMvcHJvY2ZzL2ludGVybmFsL3V0aWwiCg==</text>
+        <text encoding="base64">CV8gPSB0b29scy5PcGVyYXRlTG9nKGN0eCwgImFwcCIsICJhcHAiLCAiZWRpdCIsICIwOTA4MDY2MSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXBmZmZmZj09PS0tPT09LS0tZuingeW+ruenkuOAgeOAgQo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3Byb21ldGhldXMvcHJvY2ZzL2ludGVybmFsL3V0aWwiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBmZmZmZj09PS0tPT09LS0tZuingeW+ruenkuOAgeOAgQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CS8vcmVzcG9uc2UuRGF0YVtiYWRnZV0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
 			data</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CS8vIHRvZG8K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">fQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CS8vIOi6q+S7veagoemqjOWksei0pQoJaWYgcmVzcG9uc2UuRGF0YSB7CgkJd2xvZy5FcnJvcihwLk1lc3NhZ2UpCgkJcmV0dXJuIGVycgoJ</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
