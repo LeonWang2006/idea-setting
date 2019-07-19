@@ -28,7 +28,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1563504500909" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/middleware/auth.go" timestamp="1563506619316" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/docker-stack.yaml" timestamp="1562809575891">
         <mark key="[" line="8" column="51" />
         <mark key="]" line="242" column="25" />
@@ -47,7 +47,7 @@
         <mark key="[" line="96" column="180" />
         <mark key="^" line="22" column="147" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1563504521791" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1563507004632" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appService.go" timestamp="1562320236181">
         <mark key="[" line="91" column="4" />
         <mark key="]" line="91" column="0" />
@@ -69,6 +69,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/appUserService.go" timestamp="1563507290900" />
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/deploy/healthcheck.js" timestamp="1560325404721">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
@@ -84,6 +85,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/proto/appUser.proto" timestamp="1563506714149" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/build-docker-image.sh" timestamp="1563415209808">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="5" column="0" />
@@ -97,10 +99,10 @@
       <file name="/Dummy.txt" timestamp="1563333726064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1563503542751">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/main.go" timestamp="1563507887599">
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/fragment.go" timestamp="1562245947401">
         <mark key="[" line="0" column="10" />
@@ -123,16 +125,18 @@
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1561603248139">
-        <mark key="[" line="45" column="5" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/main.go" timestamp="1563507891029">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/build-docker-image.sh" timestamp="1563503835130">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1563506657053" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/i/dbcommon.go" timestamp="1562233963334">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="14" column="0" />
@@ -267,7 +271,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBjYW5jZWwg</text>
+        <text>this is value</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
@@ -276,30 +280,33 @@
         <text encoding="base64">CWN0eCwgY2FuY2VsIDo9IGNvbnRleHQuV2l0aENhbmNlbChjb250ZXh0LkJhY2tncm91bmQoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmZmZmZkc2FqZmRzaW9pb29qZmtsZHNmandmamRzbGFmamx3ZWYgICAgZmRzYTtrZjtkXFxcXFxdXQo=</text>
+        <text encoding="base64">CWRlZmVyIGNhbmNlbCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRlZmVyIGNhbmNlbCgpCg==</text>
+        <text encoding="base64">ZmZmZmZkc2FqZmRzaW9pb29qZmtsZHNmandmamRzbGFmamx3ZWYgICAgZmRzYTtrZjtkXFxcXFxdXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">L3NyYy9kZXBsb3kvaGVhbHRoY2hlY2sK</text>
+        <text encoding="base64">CWRlZmVyIGNhbmNlbCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJyZWZsZWN0Igo=</text>
+        <text encoding="base64">L3NyYy9kZXBsb3kvaGVhbHRoY2hlY2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW9wIDo9IHN5cy5Db25maWd7fQo=</text>
+        <text encoding="base64">CSJyZWZsZWN0Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW9wIDo9IHN5cy5Db25maWd7fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>func (c *Pool) GetDB(db string) *gorm.DB {
 
 	switch db {
@@ -310,9 +317,6 @@
 
 	return c.db
 }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CWludGVyICAgaW50ZXIuREJJbnRlcmZhY2UK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
