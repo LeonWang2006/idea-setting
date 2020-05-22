@@ -136,11 +136,16 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/global.dart" timestamp="1590130040589">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="10" />
-        <mark key="^" line="22" column="10" />
-        <mark key="." line="22" column="9" />
+      <file name="/Dummy.txt" timestamp="1575008412564">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/global.dart" timestamp="1590132865037">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="10" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/account.proto" timestamp="1573128264342">
         <mark key="[" line="50" column="25" />
@@ -163,20 +168,6 @@
         <mark key="^" line="107" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/build-docker-image-prd.sh" timestamp="1573567279501">
-        <mark key="[" line="20" column="52" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/login/login_model.dart" timestamp="1590116407940" />
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1572071234194">
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="93" column="4" />
-        <mark key="." line="93" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1575008412564">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/build-docker-image-prd.sh" timestamp="1575250853357">
         <mark key="[" line="27" column="58" />
         <mark key="]" line="27" column="57" />
@@ -188,6 +179,9 @@
         <mark key="]" line="108" column="79" />
         <mark key="." line="108" column="79" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/build-docker-image-prd.sh" timestamp="1573567279501">
+        <mark key="[" line="20" column="52" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/go.mod" timestamp="1575383428658">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -195,6 +189,17 @@
       </file>
       <file name="/" timestamp="1590027450189">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1590133073543">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/service/accountService.go" timestamp="1572071234194">
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="4" />
+        <mark key="." line="93" column="4" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/storage/storage.dart" timestamp="1590116131940">
         <mark key="[" line="0" column="0" />
@@ -330,28 +335,34 @@
       <register name="&quot;" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICBHZXRJdCBnZXRJdCA9IEdldEl0Lmluc3RhbmNlOwo=</text>
+      <register name="*" type="4">
+        <text>AppModel</text>
       </register>
       <register name="-" type="4">
-        <text>lweljew</text>
+        <text>AppModel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHlwZSBJaHJTYWxhcnlTZXJ2ZXIgc3RydWN0e30K</text>
+        <text encoding="base64">Ly8gICAgZ2V0SXQucmVnaXN0ZXJTaW5nbGV0b248QXBwTW9kZWw+KEFwcE1vZGVsSW1wbGVtZW50YXRpb24oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBHZXRJdCBnZXRJdCA9IEdldEl0Lmluc3RhbmNlOwo=</text>
+        <text encoding="base64">ICBMb2NhdG9yCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyDmnI3liqHlrprkvY3lmagKICBzdGF0aWMgR2V0SXQgZ2V0SXQgPSBHZXRJdC5pbnN0YW5jZTs=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBHZXRJdCBnZXRJdCA9IEdldEl0Lmluc3RhbmNlOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text>/*
  * @Author: your name
  * @Date: 2020-05-06 19:51:21
@@ -361,23 +372,17 @@
  * @FilePath: /wx_reading/Users/ws/hhh_workspace/wos_mobile/lib/util/storage/storage.dart
  */</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWdpdGh1Yi5jb20vdG9yZGVuL2dvLXN0cnV0aWwgdjAuMS40IC8vIGluZGlyZWN0Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl1c2VybmFtZSA6PSB1c2VyU2xpWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWdpdGh1Yi5jb20vdG9yZGVuL2dvLXN0cnV0aWwgdjAuMS40IC8vIGluZGlyZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvL2Y2NWNiMjQ3YTUwMmE3YjI4Y2JkZWY2MzczYzBiZGRmCg==</text>
+        <text encoding="base64">CQl1c2VybmFtZSA6PSB1c2VyU2xpWzBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIOeBsOW6pueOr+Wig+agoemqjOWbuuWumuWvhueggVdzMTIzQAoJaWYgKmNvbmZpZy5Qcm9maWxlID09ICJncmF5IiB7CgkJLy9mNjVjYjI0N2E1MDJhN2IyOGNiZGVmNjM3M2MwYmRkZgoJCXRtLm11eC5TZXJ2ZUhUVFAodywgcikKCQlyZXR1cm4KCX0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
@@ -392,7 +397,7 @@
       <last-replace />
       <last-substitute encoding="base64">XDxqYWVnZXJcPg==</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
