@@ -49,6 +49,7 @@
         <entry>action GotoImplementation</entry>
         <entry>action Find</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,12 +142,6 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-test.go" timestamp="1571803076930">
-        <mark key="[" line="116" column="44" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-        <mark key="^" line="41" column="19" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/account.proto" timestamp="1573128264342">
         <mark key="[" line="50" column="25" />
         <mark key="]" line="50" column="26" />
@@ -181,9 +176,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/build-docker-image-dev.sh" timestamp="1571802595361">
-        <mark key="[" line="20" column="52" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/build-docker-image-prd.sh" timestamp="1575250853357">
         <mark key="[" line="27" column="58" />
         <mark key="]" line="27" column="57" />
@@ -202,6 +194,11 @@
       </file>
       <file name="/" timestamp="1590027450189">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/storage/storage.dart" timestamp="1590116131940">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" timestamp="1572575650138">
         <mark key="[" line="1830" column="57" />
@@ -351,31 +348,38 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWdpdGh1Yi5jb20vdG9yZGVuL2dvLXN0cnV0aWwgdjAuMS40IC8vIGluZGlyZWN0Cg==</text>
+        <text>/*
+ * @Author: your name
+ * @Date: 2020-05-06 19:51:21
+ * @LastEditTime: 2020-05-15 17:36:27
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /wx_reading/Users/ws/hhh_workspace/wos_mobile/lib/util/storage/storage.dart
+ */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl1c2VybmFtZSA6PSB1c2VyU2xpWzBdCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWdpdGh1Yi5jb20vdG9yZGVuL2dvLXN0cnV0aWwgdjAuMS40IC8vIGluZGlyZWN0Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvL2Y2NWNiMjQ3YTUwMmE3YjI4Y2JkZWY2MzczYzBiZGRmCg==</text>
+        <text encoding="base64">CQl1c2VybmFtZSA6PSB1c2VyU2xpWzBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIOeBsOW6pueOr+Wig+agoemqjOWbuuWumuWvhueggVdzMTIzQAoJaWYgKmNvbmZpZy5Qcm9maWxlID09ICJncmF5IiB7CgkJLy9mNjVjYjI0N2E1MDJhN2IyOGNiZGVmNjM3M2MwYmRkZgoJCXRtLm11eC5TZXJ2ZUhUVFAodywgcikKCQlyZXR1cm4KCX0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXNwbGl0IDo9IHN0cmluZ3MuU3BsaXQodG9rZW5TdHIsICIgIikK</text>
+        <text encoding="base64">CQkvL2Y2NWNiMjQ3YTUwMmE3YjI4Y2JkZWY2MzczYzBiZGRmCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CS8vIOeBsOW6pueOr+Wig+agoemqjOWbuuWumuWvhueggVdzMTIzQAoJaWYgKmNvbmZpZy5Qcm9maWxlID09ICJncmF5IiB7CgkJLy9mNjVjYjI0N2E1MDJhN2IyOGNiZGVmNjM3M2MwYmRkZgoJCXRtLm11eC5TZXJ2ZUhUVFAodywgcikKCQlyZXR1cm4KCX0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXNwbGl0IDo9IHN0cmluZ3MuU3BsaXQodG9rZW5TdHIsICIgIikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
   </component>
