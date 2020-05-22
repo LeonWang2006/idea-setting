@@ -131,22 +131,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590136127609">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/global.dart" timestamp="1590132865037">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/proto/account.proto" timestamp="1573128264342">
-        <mark key="[" line="50" column="25" />
-        <mark key="]" line="50" column="26" />
-        <mark key="^" line="50" column="22" />
-        <mark key="." line="50" column="26" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590138259989">
+        <mark key="[" line="200" column="59" />
+        <mark key="]" line="200" column="59" />
+        <mark key="." line="200" column="59" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/main.dart" timestamp="1590135769261">
         <mark key="[" line="31" column="62" />
@@ -163,6 +157,28 @@
         <mark key="^" line="107" column="0" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/login/change_language.dart" timestamp="1590138277607">
+        <mark key="[" line="109" column="67" />
+        <mark key="]" line="109" column="67" />
+        <mark key="." line="109" column="67" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home.dart" timestamp="1590134960552">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+        <mark key="^" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/global/theme_model.dart" timestamp="1590138403540" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/bottombar_model.dart" timestamp="1590134950228">
+        <mark key="[" line="50" column="2" />
+        <mark key="]" line="50" column="2" />
+        <mark key="." line="50" column="2" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590136127609">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/build-docker-image-prd.sh" timestamp="1575250853357">
         <mark key="[" line="27" column="58" />
         <mark key="]" line="27" column="57" />
@@ -174,9 +190,6 @@
         <mark key="]" line="108" column="79" />
         <mark key="." line="108" column="79" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/build-docker-image-prd.sh" timestamp="1573567279501">
-        <mark key="[" line="20" column="52" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/go.mod" timestamp="1575383428658">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -185,36 +198,24 @@
       <file name="/" timestamp="1590027450189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1590135801330">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home.dart" timestamp="1590134960552">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
-        <mark key="^" line="15" column="16" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1590138378713">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/storage/storage.dart" timestamp="1590116131940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/bottombar_model.dart" timestamp="1590134950228">
-        <mark key="[" line="50" column="2" />
-        <mark key="]" line="50" column="2" />
-        <mark key="." line="50" column="2" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-prd.go" timestamp="1575106369778">
         <mark key="[" line="106" column="39" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_GATEWAY/src/config/config-dev.go" timestamp="1574123768186">
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/global/locale_model.dart" timestamp="1590138234422">
+        <mark key="[" line="53" column="40" />
+        <mark key="]" line="53" column="40" />
+        <mark key="." line="53" column="40" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/pubspec.yaml" timestamp="1590113378126">
         <mark key="[" line="43" column="16" />
@@ -330,17 +331,17 @@
       <register name="&quot;" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Ly8gICAgZ2V0SXQucmVnaXN0ZXJTaW5nbGV0b248QXBwTW9kZWw+KEFwcE1vZGVsSW1wbGVtZW50YXRpb24oKSk7Cg==</text>
+      <register name="*" type="4">
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCkgPT4g</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgZ2V0SXQucmVnaXN0ZXJTaW5nbGV0b248QXBwTW9kZWw+KEFwcE1vZGVsSW1wbGVtZW50YXRpb24oKSk7Cg==</text>
+        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gUygpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgZ2V0SXQucmVnaXN0ZXJTaW5nbGV0b248QXBwTW9kZWw+KEFwcE1vZGVsSW1wbGVtZW50YXRpb24oKSk7Cg==</text>
