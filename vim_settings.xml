@@ -137,10 +137,11 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590138259989">
-        <mark key="[" line="200" column="59" />
-        <mark key="]" line="200" column="59" />
-        <mark key="." line="200" column="59" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590139411776">
+        <mark key="[" line="41" column="47" />
+        <mark key="]" line="41" column="47" />
+        <mark key="." line="41" column="46" />
+        <mark key="^" line="41" column="47" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/main.dart" timestamp="1590135769261">
         <mark key="[" line="31" column="62" />
@@ -157,7 +158,7 @@
         <mark key="^" line="107" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/login/change_language.dart" timestamp="1590138277607">
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/login/change_language.dart" timestamp="1590139329613">
         <mark key="[" line="109" column="67" />
         <mark key="]" line="109" column="67" />
         <mark key="." line="109" column="67" />
@@ -198,11 +199,10 @@
       <file name="/" timestamp="1590027450189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1590138378713">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-        <mark key="^" line="6" column="14" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1590139470225">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/storage/storage.dart" timestamp="1590116131940">
         <mark key="[" line="0" column="0" />
@@ -212,10 +212,10 @@
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/config-prd.go" timestamp="1575106369778">
         <mark key="[" line="106" column="39" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/global/locale_model.dart" timestamp="1590138234422">
-        <mark key="[" line="53" column="40" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="40" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/global/locale_model.dart" timestamp="1590139297143">
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="59" column="17" />
+        <mark key="." line="59" column="17" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/pubspec.yaml" timestamp="1590113378126">
         <mark key="[" line="43" column="16" />
@@ -331,8 +331,8 @@
       <register name="&quot;" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="*" type="4">
-        <text>S</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
@@ -344,43 +344,36 @@
         <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gUygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgZ2V0SXQucmVnaXN0ZXJTaW5nbGV0b248QXBwTW9kZWw+KEFwcE1vZGVsSW1wbGVtZW50YXRpb24oKSk7Cg==</text>
+        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldEl0Lgo=</text>
+        <text encoding="base64">Ly8gICAgZ2V0SXQucmVnaXN0ZXJTaW5nbGV0b248QXBwTW9kZWw+KEFwcE1vZGVsSW1wbGVtZW50YXRpb24oKSk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGdldEl0Lgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>class ServiceLocator {
   // 服务定位器
   static</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBMb2NhdG9yCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAvLyDmnI3liqHlrprkvY3lmagKICBzdGF0aWMgR2V0SXQgZ2V0SXQgPSBHZXRJdC5pbnN0YW5jZTs=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBHZXRJdCBnZXRJdCA9IEdldEl0Lmluc3RhbmNlOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text>/*
- * @Author: your name
- * @Date: 2020-05-06 19:51:21
- * @LastEditTime: 2020-05-15 17:36:27
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /wx_reading/Users/ws/hhh_workspace/wos_mobile/lib/util/storage/storage.dart
- */</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
