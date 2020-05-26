@@ -131,6 +131,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590136127609">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/global.dart" timestamp="1590132865037">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -143,6 +148,12 @@
         <mark key="." line="41" column="46" />
         <mark key="^" line="41" column="47" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_index/home_index.dart" timestamp="1590479121261">
+        <mark key="[" line="311" column="50" />
+        <mark key="]" line="311" column="68" />
+        <mark key="." line="311" column="67" />
+        <mark key="^" line="311" column="68" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/main.dart" timestamp="1590141577061">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -153,31 +164,6 @@
         <mark key="]" line="109" column="67" />
         <mark key="." line="109" column="67" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home.dart" timestamp="1590134960552">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
-        <mark key="^" line="15" column="16" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/bottombar_model.dart" timestamp="1590134950228">
-        <mark key="[" line="50" column="2" />
-        <mark key="]" line="50" column="2" />
-        <mark key="." line="50" column="2" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/widgets/common/carousel_slider/carousel_slider.dart" timestamp="1590464511972" />
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/home_index_model.dart" timestamp="1590462995274" />
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1590463689138">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="33" />
-        <mark key="^" line="30" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590136127609">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_index/home_index.dart" timestamp="1590464591320" />
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/app_service.dart" timestamp="1590463631248">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="23" column="5" />
@@ -190,6 +176,12 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="28" column="2" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home.dart" timestamp="1590134960552">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+        <mark key="^" line="15" column="16" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/storage/storage.dart" timestamp="1590116131940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -201,12 +193,23 @@
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="40" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/bottombar_model.dart" timestamp="1590134950228">
+        <mark key="[" line="50" column="2" />
+        <mark key="]" line="50" column="2" />
+        <mark key="." line="50" column="2" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/global/locale_model.dart" timestamp="1590139297143">
         <mark key="[" line="59" column="17" />
         <mark key="]" line="59" column="17" />
         <mark key="." line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/home_index_service.dart" timestamp="1590463788172" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1590463689138">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="33" />
+        <mark key="^" line="30" column="34" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/widgets/home_index/index_widgets.dart" timestamp="1590479055318" />
     </filemarks>
     <jumps>
       <jump line="1382" column="30" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
@@ -317,10 +320,10 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="*" type="4">
-        <text>G</text>
+        <text>Iconfont.biaoqianfuhao</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>Iconfont.biaoqianfuhao</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
@@ -328,37 +331,48 @@
       <register name="0" type="2">
         <text encoding="base64">ICBnZXQgcHVzaE5hbWVkID0+IG5hdmlnYXRvci5wdXNoTmFtZWQ7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrZQo=</text>
+      <register name="1" type="4">
+        <text>Button.normal(
+                // context: context,
+                width: 35,
+                height: 22,
+                borderColor: Color(0XFFFF2929),
+                borderRadius: BorderRadius.all(Radius.circular(5.0)),
+                child: Text(
+                  '迟到',
+                  style: TextStyle(fontSize: 12.0, color: Color(0XFFFF2929)),
+                ),
+                plain: true,
+                context: context)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQoK5L2c6ICF77yaVmFkYXNraQrpk77mjqXvvJpodHRwczovL2p1ZWppbi5pbS9wb3N0LzVkMWRhYWRiZTUxZDQ1Nzc1OTY0ODc1NQrmnaXmupDvvJrmjpjph5EK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
+        <text encoding="base64">ICAgICAgICBrZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
+        <text encoding="base64">fQoK5L2c6ICF77yaVmFkYXNraQrpk77mjqXvvJpodHRwczovL2p1ZWppbi5pbS9wb3N0LzVkMWRhYWRiZTUxZDQ1Nzc1OTY0ODc1NQrmnaXmupDvvJrmjpjph5EK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgZ2V0SXQucmVnaXN0ZXJTaW5nbGV0b248QXBwTW9kZWw+KEFwcE1vZGVsSW1wbGVtZW50YXRpb24oKSk7Cg==</text>
+        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldEl0Lgo=</text>
+        <text encoding="base64">Ly8gICAgZ2V0SXQucmVnaXN0ZXJTaW5nbGV0b248QXBwTW9kZWw+KEFwcE1vZGVsSW1wbGVtZW50YXRpb24oKSk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGdldEl0Lgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>class ServiceLocator {
   // 服务定位器
   static</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBMb2NhdG9yCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyDmnI3liqHlrprkvY3lmagKICBzdGF0aWMgR2V0SXQgZ2V0SXQgPSBHZXRJdC5pbnN0YW5jZTs=</text>
+        <text encoding="base64">ICBMb2NhdG9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
