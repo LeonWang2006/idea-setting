@@ -185,12 +185,6 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="59" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home.dart" timestamp="1590134960552">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
-        <mark key="^" line="15" column="16" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/banner_model.dart" timestamp="1590463485567">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="41" />
@@ -202,14 +196,17 @@
         <mark key="]" line="59" column="17" />
         <mark key="." line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1590550581403">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="4" />
-        <mark key="." line="41" column="4" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/pubspec.yaml" timestamp="1590551745377">
+        <mark key="[" line="62" column="29" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1590551236964">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
         <mark key="^" line="30" column="34" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/widgets/home_index/index_widgets.dart" timestamp="1590486961190" />
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/message_service.dart" timestamp="1590550204375" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/message_service.dart" timestamp="1590551735410" />
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/home_index_service.dart" timestamp="1590550507589">
         <mark key="[" line="29" column="47" />
         <mark key="]" line="29" column="47" />
@@ -325,11 +322,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAvLy8gW0FUVEVORF0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_AUTHENTICATION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
@@ -338,12 +335,15 @@
         <text encoding="base64">ICAgIFBlbmRpbmdNZXNzYWdlTW9kZWwgcGVuZGluZ01lc3NhZ2VNb2RlbCA9IFByb3ZpZGVyLm9mPFBlbmRpbmdNZXNzYWdlTW9kZWw+KGNvbnRleHQsIGxpc3RlbjogZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGF0aWMgRnV0dXJlPE1hcDxTdHJpbmcsIGR5bmFtaWM+PiBob21laW5kZXhCYW5uZXJkYXRhKCkgYXN5bmMgewogICAgdmFyIHJlc3VsdCA9IGF3YWl0IEh0dHAoKS5nZXRMaXN0KEFwaS5IT01FSU5ERVhfQkFOTkVSX0RBVEEsCiAgICAgICAgcGFyYW1zOiB7J3Bvc2l0aW9uVHlwZSc6IDB9LAogICAgICAgIGh0dHBPcHRpb25zOiBidWlsZENhY2hlT3B0aW9ucyhEdXJhdGlvbihkYXlzOiA3KSwgZm9yY2VSZWZyZXNoOiB0cnVlKSk7CiAgICByZXR1cm4gcmVzdWx0OwogIH0K</text>
+        <text encoding="base64">ICAvLy8gW0FUVEVORF0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBzdGF0aWMgRnV0dXJlPE1hcDxTdHJpbmcsIGR5bmFtaWM+PiBob21laW5kZXhCYW5uZXJkYXRhKCkgYXN5bmMgewogICAgdmFyIHJlc3VsdCA9IGF3YWl0IEh0dHAoKS5nZXRMaXN0KEFwaS5IT01FSU5ERVhfQkFOTkVSX0RBVEEsCiAgICAgICAgcGFyYW1zOiB7J3Bvc2l0aW9uVHlwZSc6IDB9LAogICAgICAgIGh0dHBPcHRpb25zOiBidWlsZENhY2hlT3B0aW9ucyhEdXJhdGlvbihkYXlzOiA3KSwgZm9yY2VSZWZyZXNoOiB0cnVlKSk7CiAgICByZXR1cm4gcmVzdWx0OwogIH0K</text>
+      </register>
+      <register name="3" type="4">
         <text>Button.normal(
                 // context: context,
                 width: 35,
@@ -357,28 +357,23 @@
                 plain: true,
                 context: context)</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBrZQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">fQoK5L2c6ICF77yaVmFkYXNraQrpk77mjqXvvJpodHRwczovL2p1ZWppbi5pbS9wb3N0LzVkMWRhYWRiZTUxZDQ1Nzc1OTY0ODc1NQrmnaXmupDvvJrmjpjph5EK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgZ2V0SXQucmVnaXN0ZXJTaW5nbGV0b248QXBwTW9kZWw+KEFwcE1vZGVsSW1wbGVtZW50YXRpb24oKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGdldEl0Lgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">fQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>class ServiceLocator {
-  // 服务定位器
-  static</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
