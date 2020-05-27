@@ -131,32 +131,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590139411776">
-        <mark key="[" line="41" column="47" />
-        <mark key="]" line="41" column="47" />
-        <mark key="." line="41" column="46" />
-        <mark key="^" line="41" column="47" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/main.dart" timestamp="1590141577061">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_index/message.dart" timestamp="1590495371145">
-        <mark key="[" line="40" column="73" />
-        <mark key="]" line="40" column="73" />
-        <mark key="." line="40" column="73" />
-        <mark key="^" line="40" column="73" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/login/change_language.dart" timestamp="1590139329613">
-        <mark key="[" line="109" column="67" />
-        <mark key="]" line="109" column="67" />
-        <mark key="." line="109" column="67" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/provider.dart" timestamp="1590568863230">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/home_index_model.dart" timestamp="1590567302234">
         <mark key="[" line="197" column="20" />
         <mark key="]" line="197" column="20" />
         <mark key="." line="197" column="20" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/global/filter_model.dart" timestamp="1590568635183">
+        <mark key="[" line="131" column="35" />
+        <mark key="]" line="131" column="35" />
+        <mark key="." line="131" column="35" />
+        <mark key="^" line="131" column="34" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1590551236964">
         <mark key="[" line="26" column="0" />
@@ -171,24 +160,24 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_index/home_index.dart" timestamp="1590487166693">
-        <mark key="[" line="81" column="25" />
-        <mark key="]" line="81" column="26" />
-        <mark key="^" line="81" column="26" />
-        <mark key="." line="81" column="25" />
+      <file name="/Dummy.txt" timestamp="1590567499493">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/pending_message_model.dart" timestamp="1590567325160">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_index/home_index.dart" timestamp="1590569312263" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/pending_message_model.dart" timestamp="1590569236065">
+        <mark key="[" line="223" column="4" />
+        <mark key="]" line="218" column="10" />
+        <mark key="." line="218" column="9" />
+        <mark key="^" line="218" column="10" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/router.dart" timestamp="1590569132210">
+        <mark key="[" line="143" column="14" />
+        <mark key="]" line="143" column="14" />
+        <mark key="." line="143" column="14" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/banner_service.dart" timestamp="1590567358260" />
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/app_service.dart" timestamp="1590463631248">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="23" column="5" />
-        <mark key="^" line="23" column="5" />
-        <mark key="." line="23" column="4" />
-      </file>
       <file name="/" timestamp="1590495595625">
         <mark key="[" line="0" column="0" />
       </file>
@@ -324,10 +313,10 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="*" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
@@ -336,34 +325,34 @@
         <text encoding="base64">ICAgIFBlbmRpbmdNZXNzYWdlTW9kZWwgcGVuZGluZ01lc3NhZ2VNb2RlbCA9IFByb3ZpZGVyLm9mPFBlbmRpbmdNZXNzYWdlTW9kZWw+KGNvbnRleHQsIGxpc3RlbjogZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3V0aWwvSWNvbmZvbnQuZGFydCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL2dlbmVyYXRlZC9sMTBuLmRhcnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gTWF0ZXJpYWxQYWdlUm91dGUoYnVpbGRlcjogKF8pIHsKICAgICAgICAvLyAgIHJldHVybiBIb21lKCk7CiAgICAgICAgLy8gfSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfdW5yZWxpYWJsZV9tb2RlbC5kYXJ0JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfaHVtYW5lX21vZGVsLmRhcnQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfZW1wcmlzZV9tb2RlbC5kYXJ0JzsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaG9tZS1zb3J0IGJvb2vnm7jlhbPmlbDmja7mqKHlnovlrprkuYkKTGlzdDxTaW5nbGVDaGlsZFdpZGdldD4gYm9va1Byb3ZpZGVycyA9IFsKICBDaGFuZ2VOb3RpZmllclByb3ZpZGVyPEJvb2tMaXN0RW1wcmlzZU1vZGVsPigKICAgIGNyZWF0ZTogKGNvbnRleHQpID0+IEJvb2tMaXN0RW1wcmlzZU1vZGVsKCksCiAgKSwKICBDaGFuZ2VOb3RpZmllclByb3ZpZGVyPEJvb2tMaXN0SHVtYW5lTW9kZWw+KAogICAgY3JlYXRlOiAoY29udGV4dCkgPT4gQm9va0xpc3RIdW1hbmVNb2RlbCgpLAogICksCiAgQ2hhbmdlTm90aWZpZXJQcm92aWRlcjxCb29rTGlzdFVucmVsaWFibGVNb2RlbD4oCiAgICBjcmVhdGU6IChjb250ZXh0KSA9PiBCb29rTGlzdFVucmVsaWFibGVNb2RlbCgpLAogICksCl07</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vICBzdGF0aWMgRnV0dXJlPE1hcDxTdHJpbmcsIGR5bmFtaWM+PiBmZXRjaFVucmVsaWFibGVCb29rTGlzdCgpIGFzeW5jIHsKLy8gICAgdmFyIHJlc3VsdCA9IGF3YWl0IEh0dHAoKS5nZXRMaXN0KEFwaS5OT1ZFTCwKLy8gICAgICAgIGh0dHBPcHRpb25zOiBidWlsZENhY2hlT3B0aW9ucyhEdXJhdGlvbihkYXlzOiA3KSwgZm9yY2VSZWZyZXNoOiB0cnVlKSk7Ci8vICAgIHJldHVybiByZXN1bHQ7Ci8vICB9</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3V0aWwvSWNvbmZvbnQuZGFydCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBhcHDmtojmga/liJfooagKICBzdGF0aWMgRnV0dXJlPE1hcDxTdHJpbmcsIGR5bmFtaWM+PiBob21laW5kZXhNc2dMaXN0KHsKICAgIFN0cmluZyBmcm9tID0gJzInLAogICAgaW50IHBhZ2VTaXplLAogICAgaW50IHBhZ2VOdW0sCiAgICBTdHJpbmcgYWN0aW9uU3RyLAogICAgU3RyaW5nIHN0YXJ0VGltZSwKICAgIFN0cmluZyBlbmRUaW1lLAogICAgU3RyaW5nIHRhc2tTdGF0dXMsCiAgICBTdHJpbmcgdGFza1N0YXR1c09wLAogICAgaW50IGlzUmVhZCwgLy8g6ZiF6K+754q25oCBIDLmnKror7sx5bey6K+7CiAgICBTdHJpbmcgaXNSZWFkT3AsCiAgICBTdHJpbmcgb3JkZXJLZXksCiAgICBTdHJpbmcgb3JkZXJTb3J0LAogIH0pIGFzeW5jIHsKICAgIE1hcDxTdHJpbmcsIGR5bmFtaWM+IF9wYXJhbXMgPSB7CiAgICAgICdmcm9tJzogZnJvbSwKICAgICAgJ3BhZ2VTaXplJzogcGFnZVNpemUsCiAgICAgICdwYWdlTnVtJzogcGFnZU51bSwKICAgICAgJ2FjdGlvblN0cic6IGFjdGlvblN0ciwKICAgICAgJ3N0YXJ0VGltZSc6IHN0YXJ0VGltZSwKICAgICAgJ2VuZFRpbWUnOiBlbmRUaW1lLAogICAgICAndGFza1N0YXR1cyc6IHRhc2tTdGF0dXMsCiAgICAgICd0YXNrU3RhdHVzT3AnOiB0YXNrU3RhdHVzT3AsCiAgICAgICdpc1JlYWQnOiBpc1JlYWQsCiAgICAgICdpc1JlYWRPcCc6IGlzUmVhZE9wLAogICAgICAnb3JkZXJLZXknOiBvcmRlcktleSwKICAgICAgJ29yZGVyU29ydCc6IG9yZGVyU29ydCwKICAgIH07CiAgICB2YXIgcmVzdWx0ID0gYXdhaXQgSHR0cCgpLnBvc3REYXRhKEFwaS5IT01FSU5ERVhfTVNHX0xJU1QsCiAgICAgICAgZGF0YTogX3BhcmFtcywKICAgICAgICBodHRwT3B0aW9uczogYnVpbGRDYWNoZU9wdGlvbnMoRHVyYXRpb24oZGF5czogNyksIGZvcmNlUmVmcmVzaDogdHJ1ZSkpOwogICAgcmV0dXJuIHJlc3VsdDsKICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL2dlbmVyYXRlZC9sMTBuLmRhcnQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
