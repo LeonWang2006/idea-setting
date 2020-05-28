@@ -131,6 +131,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590627903913">
+        <mark key="[" line="143" column="79" />
+        <mark key="]" line="41" column="47" />
+        <mark key="." line="143" column="34" />
+        <mark key="^" line="41" column="47" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/provider.dart" timestamp="1590568863230">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -170,11 +176,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1590588134104">
-        <mark key="'" line="130" column="28" />
-        <mark key="[" line="130" column="29" />
-        <mark key="]" line="130" column="29" />
-        <mark key="." line="130" column="29" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1590588300129">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="39" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/router.dart" timestamp="1590569132210">
         <mark key="[" line="143" column="14" />
@@ -212,17 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b183eb7-d068-42c3-b4a7-53d6cbe8ac81/console.sql" />
-      <jump line="414" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b183eb7-d068-42c3-b4a7-53d6cbe8ac81/console.sql" />
-      <jump line="7" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9b183eb7-d068-42c3-b4a7-53d6cbe8ac81/console.sql" />
-      <jump line="68" column="21" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="71" column="8" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="78" column="78" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="97" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="98" column="28" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="104" column="47" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="111" column="21" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="114" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="117" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
       <jump line="67" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="123" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -312,6 +307,17 @@
       <jump line="58" column="40" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/message_service.dart" />
       <jump line="56" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/message_service.dart" />
       <jump line="129" column="28" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="51" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="54" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="61" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="66" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="121" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="110" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="103" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="98" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="85" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="79" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="71" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,8 +325,8 @@
       <register name="&quot;" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="*" type="4">
-        <text>&quot;http://47.91.159.200/&quot;</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;http://47.91.159.200/&quot;</text>
@@ -329,37 +335,37 @@
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKCJodHRwOi8vNDcuOTEuMTU5LjIwMC8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
+        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gTWF0ZXJpYWxQYWdlUm91dGUoYnVpbGRlcjogKF8pIHsKICAgICAgICAvLyAgIHJldHVybiBIb21lKCk7CiAgICAgICAgLy8gfSk7</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfdW5yZWxpYWJsZV9tb2RlbC5kYXJ0JzsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfaHVtYW5lX21vZGVsLmRhcnQnOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfZW1wcmlzZV9tb2RlbC5kYXJ0JzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gTWF0ZXJpYWxQYWdlUm91dGUoYnVpbGRlcjogKF8pIHsKICAgICAgICAvLyAgIHJldHVybiBIb21lKCk7CiAgICAgICAgLy8gfSk7</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfdW5yZWxpYWJsZV9tb2RlbC5kYXJ0JzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfaHVtYW5lX21vZGVsLmRhcnQnOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaG9tZS1zb3J0IGJvb2vnm7jlhbPmlbDmja7mqKHlnovlrprkuYkKTGlzdDxTaW5nbGVDaGlsZFdpZGdldD4gYm9va1Byb3ZpZGVycyA9IFsKICBDaGFuZ2VOb3RpZmllclByb3ZpZGVyPEJvb2tMaXN0RW1wcmlzZU1vZGVsPigKICAgIGNyZWF0ZTogKGNvbnRleHQpID0+IEJvb2tMaXN0RW1wcmlzZU1vZGVsKCksCiAgKSwKICBDaGFuZ2VOb3RpZmllclByb3ZpZGVyPEJvb2tMaXN0SHVtYW5lTW9kZWw+KAogICAgY3JlYXRlOiAoY29udGV4dCkgPT4gQm9va0xpc3RIdW1hbmVNb2RlbCgpLAogICksCiAgQ2hhbmdlTm90aWZpZXJQcm92aWRlcjxCb29rTGlzdFVucmVsaWFibGVNb2RlbD4oCiAgICBjcmVhdGU6IChjb250ZXh0KSA9PiBCb29rTGlzdFVucmVsaWFibGVNb2RlbCgpLAogICksCl07</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfZW1wcmlzZV9tb2RlbC5kYXJ0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
