@@ -174,6 +174,12 @@
         <mark key="]" line="13" column="81" />
         <mark key="." line="13" column="81" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home.dart" timestamp="1590631775097">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="31" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/banner_model.dart" timestamp="1590567279925">
         <mark key="[" line="17" column="20" />
         <mark key="]" line="17" column="20" />
@@ -328,10 +334,10 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="*" type="4">
-        <text>novel</text>
+        <text>currentTab</text>
       </register>
       <register name="-" type="4">
-        <text>novel</text>
+        <text>currentTab</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
@@ -340,34 +346,34 @@
         <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2hvdWxkUmVidWlsZDogKHByZSwgbmV4dCkgPT4gcHJlICE9IG5leHQsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0b3I6IChjb250ZXh0LCBtb2RlbCkgPT4gbW9kZWwuY3VycmVudFRhYiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gTWF0ZXJpYWxQYWdlUm91dGUoYnVpbGRlcjogKF8pIHsKICAgICAgICAvLyAgIHJldHVybiBIb21lKCk7CiAgICAgICAgLy8gfSk7</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfdW5yZWxpYWJsZV9tb2RlbC5kYXJ0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfaHVtYW5lX21vZGVsLmRhcnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gTWF0ZXJpYWxQYWdlUm91dGUoYnVpbGRlcjogKF8pIHsKICAgICAgICAvLyAgIHJldHVybiBIb21lKCk7CiAgICAgICAgLy8gfSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfZW1wcmlzZV9tb2RlbC5kYXJ0JzsK</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfdW5yZWxpYWJsZV9tb2RlbC5kYXJ0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
