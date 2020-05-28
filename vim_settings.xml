@@ -131,6 +131,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590585443390">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590627903913">
         <mark key="[" line="143" column="79" />
         <mark key="]" line="41" column="47" />
@@ -141,35 +146,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/home_index_model.dart" timestamp="1590567302234">
-        <mark key="[" line="190" column="20" />
-        <mark key="]" line="190" column="20" />
-        <mark key="." line="190" column="20" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/global/filter_model.dart" timestamp="1590568635183">
-        <mark key="[" line="131" column="35" />
-        <mark key="]" line="131" column="35" />
-        <mark key="." line="131" column="35" />
-        <mark key="^" line="131" column="34" />
-      </file>
-      <file name="/pending_message_model.dart" timestamp="1590586410105" />
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1590551236964">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/message_service.dart" timestamp="1590566299257" />
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/user_service.dart" timestamp="1590559250095">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590585443390">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/pending_message_model.dart" timestamp="1590586256164">
         <mark key="[" line="19" column="0" />
@@ -187,18 +163,33 @@
         <mark key="]" line="143" column="14" />
         <mark key="." line="143" column="14" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/banner_service.dart" timestamp="1590567358260" />
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/app_service.dart" timestamp="1590587981576">
         <mark key="[" line="43" column="53" />
         <mark key="]" line="34" column="28" />
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/android/app/src/main/AndroidManifest.xml" timestamp="1590629492166">
+        <mark key="[" line="13" column="81" />
+        <mark key="]" line="13" column="81" />
+        <mark key="." line="13" column="81" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/banner_model.dart" timestamp="1590567279925">
         <mark key="[" line="17" column="20" />
         <mark key="]" line="17" column="20" />
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="20" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/home_index_model.dart" timestamp="1590567302234">
+        <mark key="[" line="190" column="20" />
+        <mark key="]" line="190" column="20" />
+        <mark key="." line="190" column="20" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/global/filter_model.dart" timestamp="1590568635183">
+        <mark key="[" line="131" column="35" />
+        <mark key="]" line="131" column="35" />
+        <mark key="." line="131" column="35" />
+        <mark key="^" line="131" column="34" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/pubspec.yaml" timestamp="1590566014539">
         <mark key="[" line="0" column="0" />
@@ -210,6 +201,17 @@
         <mark key="]" line="61" column="21" />
         <mark key="." line="61" column="21" />
         <mark key="^" line="61" column="31" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1590551236964">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/user_service.dart" timestamp="1590559250095">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/home_index_service.dart" timestamp="1590567077866">
         <mark key="[" line="28" column="0" />
@@ -325,11 +327,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
+      <register name="*" type="4">
+        <text>novel</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://47.91.159.200/&quot;</text>
+        <text>novel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
