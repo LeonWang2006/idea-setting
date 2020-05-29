@@ -47,9 +47,9 @@
         <entry>noh</entry>
         <entry>194</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -136,6 +136,7 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/gitRepository/flutter/packages/flutter/lib/src/material/theme.dart" timestamp="1590732737655" />
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590714839428">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -169,10 +170,10 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1590719497029">
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="28" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1590732301432">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="47" />
         <mark key="^" line="42" column="29" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/android/app/src/main/AndroidManifest.xml" timestamp="1590629492166">
@@ -202,11 +203,6 @@
         <mark key="]" line="131" column="35" />
         <mark key="." line="131" column="35" />
         <mark key="^" line="131" column="34" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/pubspec.yaml" timestamp="1590566014539">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/http/http.dart" timestamp="1590588054703">
         <mark key="[" line="61" column="22" />
@@ -329,10 +325,10 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="*" type="4">
-        <text>NavigatorState</text>
+        <text>navigate_key</text>
       </register>
       <register name="-" type="4">
-        <text>NavigatorState</text>
+        <text>navigate_key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
@@ -371,7 +367,7 @@
         <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gTWF0ZXJpYWxQYWdlUm91dGUoYnVpbGRlcjogKF8pIHsKICAgICAgICAvLyAgIHJldHVybiBIb21lKCk7CiAgICAgICAgLy8gfSk7</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Find</text>
       </register>
     </registers>
   </component>
