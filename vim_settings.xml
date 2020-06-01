@@ -47,9 +47,9 @@
         <entry>noh</entry>
         <entry>194</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -136,6 +136,63 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/gitRepository/flutter/packages/flutter/lib/src/material/theme.dart" timestamp="1590732737655" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590714839428">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting_changelog.dart" timestamp="1590719259437" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/provider.dart" timestamp="1590568863230">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/pending_message_model.dart" timestamp="1590586256164">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1590588300129">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="39" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/router.dart" timestamp="1590569132210">
+        <mark key="[" line="143" column="14" />
+        <mark key="]" line="143" column="14" />
+        <mark key="." line="143" column="14" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/app_service.dart" timestamp="1590587981576">
+        <mark key="[" line="43" column="53" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="27" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1590732301432">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="47" />
+        <mark key="^" line="42" column="29" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/android/app/src/main/AndroidManifest.xml" timestamp="1590629492166">
+        <mark key="[" line="13" column="81" />
+        <mark key="]" line="13" column="81" />
+        <mark key="." line="13" column="81" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home.dart" timestamp="1590631775097">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/banner_model.dart" timestamp="1590567279925">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="41" />
+        <mark key="." line="17" column="20" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/home_index_model.dart" timestamp="1590567302234">
         <mark key="[" line="190" column="20" />
         <mark key="]" line="190" column="20" />
@@ -153,74 +210,15 @@
         <mark key="." line="61" column="21" />
         <mark key="^" line="61" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1590588300129">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="39" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/user_service.dart" timestamp="1590559250095">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/router.dart" timestamp="1590569132210">
-        <mark key="[" line="143" column="14" />
-        <mark key="]" line="143" column="14" />
-        <mark key="." line="143" column="14" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1590551236964">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/app_service.dart" timestamp="1590587981576">
-        <mark key="[" line="43" column="53" />
-        <mark key="]" line="34" column="28" />
-        <mark key="^" line="34" column="28" />
-        <mark key="." line="34" column="27" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590627903913">
-        <mark key="[" line="143" column="79" />
-        <mark key="]" line="41" column="47" />
-        <mark key="." line="143" column="34" />
-        <mark key="^" line="41" column="47" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/provider.dart" timestamp="1590568863230">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/banner_model.dart" timestamp="1590567279925">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="20" />
-        <mark key="^" line="17" column="41" />
-        <mark key="." line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/pubspec.yaml" timestamp="1590566014539">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/home_index_service.dart" timestamp="1590567077866">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repository/novel/lib/main.dart" timestamp="1590977489372">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/pending_message_model.dart" timestamp="1590586256164">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
     </filemarks>
     <jumps>
+      <jump line="117" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
+      <jump line="67" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="123" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="198" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="420" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -319,59 +317,57 @@
       <jump line="85" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
       <jump line="79" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
       <jump line="71" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/repository/novel/lib/main.dart" />
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/repository/novel/lib/main.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICC3oravu/qwwsD7uKW1xAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
+      <register name="*" type="4">
+        <text>navigate_key</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://47.91.159.200/&quot;</text>
+        <text>navigate_key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
+        <text encoding="base64">Y2xhc3MgTmF2aWdhdGVTZXJ2aWNlIHsKICBmaW5hbCBHbG9iYWxLZXk8TmF2aWdhdG9yU3RhdGU+IGtleSA9IEdsb2JhbEtleShkZWJ1Z0xhYmVsOiAnbmF2aWdhdGVfa2V5Jyk7CgogIE5hdmlnYXRvclN0YXRlIGdldCBuYXZpZ2F0b3IgPT4ga2V5LmN1cnJlbnRTdGF0ZTsKCiAgZ2V0IHB1c2hOYW1lZCA9PiBuYXZpZ2F0b3IucHVzaE5hbWVkOwoKICBnZXQgcG9wID0+IG5hdmlnYXRvci5wb3A7CgogIGdldCBwdXNoID0+IG5hdmlnYXRvci5wdXNoOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICC3oravu/qwwsD7uKW1xAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgYXBwQmFyOiBBcHBCYXIoCi8vICAgICAgICAgICAgYXV0b21hdGljYWxseUltcGx5TGVhZGluZzogZmFsc2UsCi8vICAgICAgICAgICAgdGl0bGU6IFRleHQoZ2V0SXQ8Uz4oKS5zZXR0aW5nKSwKLy8gICAgICAgICAgKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2hvdWxkUmVidWlsZDogKHByZSwgbmV4dCkgPT4gcHJlICE9IG5leHQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0b3I6IChjb250ZXh0LCBtb2RlbCkgPT4gbW9kZWwuY3VycmVudFRhYiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gTWF0ZXJpYWxQYWdlUm91dGUoYnVpbGRlcjogKF8pIHsKICAgICAgICAvLyAgIHJldHVybiBIb21lKCk7CiAgICAgICAgLy8gfSk7</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfdW5yZWxpYWJsZV9tb2RlbC5kYXJ0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL21vZGVscy9zY3JlZW4vYm9va2xpc3RfaHVtYW5lX21vZGVsLmRhcnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gTWF0ZXJpYWxQYWdlUm91dGUoYnVpbGRlcjogKF8pIHsKICAgICAgICAvLyAgIHJldHVybiBIb21lKCk7CiAgICAgICAgLy8gfSk7</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Find</text>
       </register>
     </registers>
   </component>
