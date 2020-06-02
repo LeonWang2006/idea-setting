@@ -126,6 +126,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -162,6 +165,12 @@
         <mark key="]" line="61" column="21" />
         <mark key="." line="61" column="21" />
         <mark key="^" line="61" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/repository/novel/lib/config/service_locator.dart" timestamp="1591066413547">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="51" />
+        <mark key="." line="10" column="50" />
+        <mark key="^" line="10" column="51" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1590588300129">
         <mark key="'" line="72" column="0" />
@@ -332,20 +341,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICDO0sPHCg==</text>
+      <register name="&quot;" type="4">
+        <text>BottomNavigationBarModel</text>
       </register>
       <register name="*" type="4">
         <text>navigate_key</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>BottomNavigationBarModel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTmF2aWdhdGVTZXJ2aWNlIHsKICBmaW5hbCBHbG9iYWxLZXk8TmF2aWdhdG9yU3RhdGU+IGtleSA9IEdsb2JhbEtleShkZWJ1Z0xhYmVsOiAnbmF2aWdhdGVfa2V5Jyk7CgogIE5hdmlnYXRvclN0YXRlIGdldCBuYXZpZ2F0b3IgPT4ga2V5LmN1cnJlbnRTdGF0ZTsKCiAgZ2V0IHB1c2hOYW1lZCA9PiBuYXZpZ2F0b3IucHVzaE5hbWVkOwoKICBnZXQgcG9wID0+IG5hdmlnYXRvci5wb3A7CgogIGdldCBwdXNoID0+IG5hdmlnYXRvci5wdXNoOwp9Cg==</text>
+        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gQm90dG9tTmF2aWdhdGlvbkJhck1vZGVsKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICDO0sPHCg==</text>
