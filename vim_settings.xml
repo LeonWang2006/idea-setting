@@ -134,7 +134,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591077868925">
+      <file name="/Dummy.txt" timestamp="1591080997917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -148,11 +148,6 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/home_index_model.dart" timestamp="1590567302234">
-        <mark key="[" line="190" column="20" />
-        <mark key="]" line="190" column="20" />
-        <mark key="." line="190" column="20" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/global/filter_model.dart" timestamp="1590568635183">
         <mark key="[" line="131" column="35" />
@@ -171,6 +166,9 @@
         <mark key="]" line="10" column="51" />
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="51" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5011e80c-a4d0-4508-8c75-ba9b0a23c6d4/console.sql" timestamp="1591080838898">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1590588300129">
         <mark key="'" line="72" column="0" />
@@ -207,7 +205,7 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="/a.sql" timestamp="1591077868909">
+      <file name="/a.sql" timestamp="1591081011273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home_setting.dart" timestamp="1590714839428">
@@ -220,12 +218,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/banner_model.dart" timestamp="1590567279925">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="20" />
-        <mark key="^" line="17" column="41" />
-        <mark key="." line="17" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/repository/novel/lib/main.dart" timestamp="1591064588911">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -235,6 +227,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repository/novel/lib/services/app_service.dart" timestamp="1591082155511">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -342,8 +339,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>BottomNavigationBarModel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENvbG9yLgo=</text>
       </register>
       <register name="*" type="4">
         <text>navigate_key</text>
@@ -358,34 +355,34 @@
         <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gQm90dG9tTmF2aWdhdGlvbkJhck1vZGVsKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICDO0sPHCg==</text>
+        <text encoding="base64">ICAgIENvbG9yLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDBvb28wCg==</text>
+        <text encoding="base64">ICAgICAgICDO0sPHCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDBvb28wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgYXBwQmFyOiBBcHBCYXIoCi8vICAgICAgICAgICAgYXV0b21hdGljYWxseUltcGx5TGVhZGluZzogZmFsc2UsCi8vICAgICAgICAgICAgdGl0bGU6IFRleHQoZ2V0SXQ8Uz4oKS5zZXR0aW5nKSwKLy8gICAgICAgICAgKSwK</text>
+        <text encoding="base64">CWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2hvdWxkUmVidWlsZDogKHByZSwgbmV4dCkgPT4gcHJlICE9IG5leHQsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgYXBwQmFyOiBBcHBCYXIoCi8vICAgICAgICAgICAgYXV0b21hdGljYWxseUltcGx5TGVhZGluZzogZmFsc2UsCi8vICAgICAgICAgICAgdGl0bGU6IFRleHQoZ2V0SXQ8Uz4oKS5zZXR0aW5nKSwKLy8gICAgICAgICAgKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0b3I6IChjb250ZXh0LCBtb2RlbCkgPT4gbW9kZWwuY3VycmVudFRhYiwK</text>
+        <text encoding="base64">ICAgICAgc2hvdWxkUmVidWlsZDogKHByZSwgbmV4dCkgPT4gcHJlICE9IG5leHQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0b3I6IChjb250ZXh0LCBtb2RlbCkgPT4gbW9kZWwuY3VycmVudFRhYiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
+        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
