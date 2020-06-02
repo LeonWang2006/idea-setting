@@ -168,11 +168,14 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1590732301432">
-        <mark key="[" line="46" column="47" />
-        <mark key="]" line="46" column="47" />
-        <mark key="." line="46" column="47" />
-        <mark key="^" line="42" column="29" />
+      <file name="/" timestamp="1591077347509">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1591077306258">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/android/app/src/main/AndroidManifest.xml" timestamp="1590629492166">
         <mark key="[" line="13" column="81" />
@@ -322,8 +325,8 @@
       <register name="&quot;" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="*" type="4">
-        <text>navigate_key</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>navigate_key</text>
@@ -335,34 +338,34 @@
         <text encoding="base64">Y2xhc3MgTmF2aWdhdGVTZXJ2aWNlIHsKICBmaW5hbCBHbG9iYWxLZXk8TmF2aWdhdG9yU3RhdGU+IGtleSA9IEdsb2JhbEtleShkZWJ1Z0xhYmVsOiAnbmF2aWdhdGVfa2V5Jyk7CgogIE5hdmlnYXRvclN0YXRlIGdldCBuYXZpZ2F0b3IgPT4ga2V5LmN1cnJlbnRTdGF0ZTsKCiAgZ2V0IHB1c2hOYW1lZCA9PiBuYXZpZ2F0b3IucHVzaE5hbWVkOwoKICBnZXQgcG9wID0+IG5hdmlnYXRvci5wb3A7CgogIGdldCBwdXNoID0+IG5hdmlnYXRvci5wdXNoOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgYXBwQmFyOiBBcHBCYXIoCi8vICAgICAgICAgICAgYXV0b21hdGljYWxseUltcGx5TGVhZGluZzogZmFsc2UsCi8vICAgICAgICAgICAgdGl0bGU6IFRleHQoZ2V0SXQ8Uz4oKS5zZXR0aW5nKSwKLy8gICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2hvdWxkUmVidWlsZDogKHByZSwgbmV4dCkgPT4gcHJlICE9IG5leHQsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgYXBwQmFyOiBBcHBCYXIoCi8vICAgICAgICAgICAgYXV0b21hdGljYWxseUltcGx5TGVhZGluZzogZmFsc2UsCi8vICAgICAgICAgICAgdGl0bGU6IFRleHQoZ2V0SXQ8Uz4oKS5zZXR0aW5nKSwKLy8gICAgICAgICAgKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0b3I6IChjb250ZXh0LCBtb2RlbCkgPT4gbW9kZWwuY3VycmVudFRhYiwK</text>
+        <text encoding="base64">ICAgICAgc2hvdWxkUmVidWlsZDogKHByZSwgbmV4dCkgPT4gcHJlICE9IG5leHQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0b3I6IChjb250ZXh0LCBtb2RlbCkgPT4gbW9kZWwuY3VycmVudFRhYiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gTWF0ZXJpYWxQYWdlUm91dGUoYnVpbGRlcjogKF8pIHsKICAgICAgICAvLyAgIHJldHVybiBIb21lKCk7CiAgICAgICAgLy8gfSk7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
