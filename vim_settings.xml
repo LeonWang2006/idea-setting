@@ -148,6 +148,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repository/novel/lib/screens/detail.dart" timestamp="1591163295285">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/http/http.dart" timestamp="1590588054703">
         <mark key="[" line="61" column="22" />
         <mark key="]" line="61" column="21" />
@@ -217,6 +220,12 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repository/novel/lib/models/screen/detail.dart" timestamp="1591163553251">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="9" />
       </file>
       <file name="/GoRegExp Fragment (main.go:7687).regexp" timestamp="1591102465828">
         <mark key="[" line="0" column="0" />
@@ -328,19 +337,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ext</text>
+        <text>Chapter</text>
       </register>
       <register name="*" type="4">
         <text>navigate_key</text>
       </register>
       <register name="-" type="4">
-        <text>ext</text>
+        <text>Chapter</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gQm90dG9tTmF2aWdhdGlvbkJhck1vZGVsKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>_currentPage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIENvbG9yLgo=</text>
