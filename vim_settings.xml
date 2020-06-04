@@ -133,11 +133,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/android/app/src/main/AndroidManifest.xml" timestamp="1590629492166">
-        <mark key="[" line="13" column="81" />
-        <mark key="]" line="13" column="81" />
-        <mark key="." line="13" column="81" />
-      </file>
       <file name="/Dummy.txt" timestamp="1591080997917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -156,7 +151,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repository/novel/lib/config/service_locator.dart" timestamp="1591066413547">
+      <file name="$USER_HOME$/Documents/repository/novel/lib/config/service_locator.dart" timestamp="1591253704770">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="51" />
         <mark key="." line="10" column="50" />
@@ -165,14 +160,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5011e80c-a4d0-4508-8c75-ba9b0a23c6d4/console.sql" timestamp="1591080838898">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1591146312694">
+      <file name="/console" timestamp="1591253821681">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1590588300129">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="39" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/repository/novel/lib/services/api.dart" timestamp="1591253900943">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="41" />
       </file>
       <file name="/" timestamp="1591084197333">
         <mark key="[" line="0" column="0" />
@@ -198,6 +191,13 @@
       </file>
       <file name="/a.sql" timestamp="1591081011273">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repository/novel/lib/services/book_service.dart" timestamp="1591254287867">
+        <mark key="'" line="27" column="42" />
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="57" />
+        <mark key="." line="32" column="56" />
+        <mark key="^" line="32" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/repository/novel-server/db/config.go" timestamp="1591083207626">
         <mark key="'" line="31" column="22" />
@@ -231,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="498" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="538" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="881" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="1171" column="20" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -331,24 +330,25 @@
       <jump line="171" column="14" filename="$USER_HOME$/Documents/repository/novel-server/spider/main.go" />
       <jump line="188" column="17" filename="$USER_HOME$/Documents/repository/novel-server/spider/main.go" />
       <jump line="189" column="14" filename="$USER_HOME$/Documents/repository/novel-server/spider/main.go" />
+      <jump line="27" column="42" filename="$USER_HOME$/Documents/repository/novel/lib/services/book_service.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>chapterId</text>
       </register>
       <register name="*" type="4">
         <text>navigate_key</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>chapters</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="4">
-        <text>_currentPage</text>
+        <text>chapterId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
