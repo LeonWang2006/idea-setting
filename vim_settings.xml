@@ -155,18 +155,18 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1590588300129">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="39" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1591348768412">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/router.dart" timestamp="1590569132210">
         <mark key="[" line="143" column="14" />
         <mark key="]" line="143" column="14" />
         <mark key="." line="143" column="14" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/app_service.dart" timestamp="1590587981576">
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/app_service.dart" timestamp="1591348706023">
         <mark key="[" line="43" column="53" />
         <mark key="]" line="34" column="28" />
         <mark key="^" line="34" column="28" />
@@ -192,12 +192,6 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/banner_model.dart" timestamp="1590567279925">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="20" />
-        <mark key="^" line="17" column="41" />
-        <mark key="." line="17" column="20" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/home_index_model.dart" timestamp="1590567302234">
         <mark key="[" line="190" column="20" />
         <mark key="]" line="190" column="20" />
@@ -209,11 +203,16 @@
         <mark key="." line="131" column="35" />
         <mark key="^" line="131" column="34" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/http/http.dart" timestamp="1590588054703">
-        <mark key="[" line="61" column="22" />
-        <mark key="]" line="61" column="21" />
-        <mark key="." line="61" column="21" />
-        <mark key="^" line="61" column="31" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/http/http.dart" timestamp="1591348778334">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1591348718954">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="48" />
+        <mark key="." line="18" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -325,10 +324,10 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>navigate_key</text>
+        <text encoding="base64">QkFTRV9VUkwgKyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
@@ -337,34 +336,34 @@
         <text encoding="base64">Y2xhc3MgTmF2aWdhdGVTZXJ2aWNlIHsKICBmaW5hbCBHbG9iYWxLZXk8TmF2aWdhdG9yU3RhdGU+IGtleSA9IEdsb2JhbEtleShkZWJ1Z0xhYmVsOiAnbmF2aWdhdGVfa2V5Jyk7CgogIE5hdmlnYXRvclN0YXRlIGdldCBuYXZpZ2F0b3IgPT4ga2V5LmN1cnJlbnRTdGF0ZTsKCiAgZ2V0IHB1c2hOYW1lZCA9PiBuYXZpZ2F0b3IucHVzaE5hbWVkOwoKICBnZXQgcG9wID0+IG5hdmlnYXRvci5wb3A7CgogIGdldCBwdXNoID0+IG5hdmlnYXRvci5wdXNoOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgYXBwQmFyOiBBcHBCYXIoCi8vICAgICAgICAgICAgYXV0b21hdGljYWxseUltcGx5TGVhZGluZzogZmFsc2UsCi8vICAgICAgICAgICAgdGl0bGU6IFRleHQoZ2V0SXQ8Uz4oKS5zZXR0aW5nKSwKLy8gICAgICAgICAgKSwK</text>
+        <text encoding="base64">CiAgdm9pZCBjaGFuZ2VCYXNlVXJsKFN0cmluZyB1cmwpewogICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSB1cmw7CiAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2hvdWxkUmVidWlsZDogKHByZSwgbmV4dCkgPT4gcHJlICE9IG5leHQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0b3I6IChjb250ZXh0LCBtb2RlbCkgPT4gbW9kZWwuY3VycmVudFRhYiwK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vVE9ETzrkuLTml7bmlLnlj5jln7rnoYBVUkwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKCJodHRwOi8vNDcuOTEuMTU5LjIwMC8iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwKCkuY2hhbmdlQmFzZVVybChBcGkuQkFTRV9VUkwpOwo=</text>
+        <text encoding="base64">ICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSAiRkRzYSIK</text>
+        <text encoding="base64">ICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKCJodHRwOi8vNDcuOTEuMTU5LjIwMC8iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOndzYXBwL3NlcnZpY2VzL2hvbWVfaW5kZXhfc2VydmljZS5kYXJ0JzsK</text>
+        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgYXBwQmFyOiBBcHBCYXIoCi8vICAgICAgICAgICAgYXV0b21hdGljYWxseUltcGx5TGVhZGluZzogZmFsc2UsCi8vICAgICAgICAgICAgdGl0bGU6IFRleHQoZ2V0SXQ8Uz4oKS5zZXR0aW5nKSwKLy8gICAgICAgICAgKSwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
