@@ -144,11 +144,16 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/config.dart" timestamp="1591682260091" />
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/provider.dart" timestamp="1590568863230">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/config.dart" timestamp="1591845196104">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/provider.dart" timestamp="1591844991965">
+        <mark key="[" line="140" column="24" />
+        <mark key="]" line="140" column="25" />
+        <mark key="." line="140" column="25" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/pending_message_model.dart" timestamp="1590586256164">
         <mark key="[" line="19" column="0" />
@@ -212,13 +217,18 @@
       <file name="/HTML File.txt.ft" timestamp="1591753918681">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" timestamp="1591845306036">
+        <mark key="'" line="20" column="1" />
+        <mark key="[" line="80" column="6" />
+        <mark key="]" line="80" column="6" />
+        <mark key="^" line="80" column="6" />
+        <mark key="." line="80" column="5" />
+      </file>
       <file name="debugger.xml" timestamp="1591662446804">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/LogService.kt" />
-      <jump line="67" column="46" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="123" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="198" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
       <jump line="420" column="12" filename="$USER_HOME$/gitRepository/WOS_Rest/src/main/java/cn/wondershare/service/BlogService.kt" />
@@ -317,6 +327,8 @@
       <jump line="85" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
       <jump line="79" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
       <jump line="71" column="0" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" />
+      <jump line="68" column="6" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" />
+      <jump line="20" column="1" filename="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/api.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,11 +336,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QkFTRV9VUkwgKyA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
@@ -337,34 +349,34 @@
         <text encoding="base64">Y2xhc3MgTmF2aWdhdGVTZXJ2aWNlIHsKICBmaW5hbCBHbG9iYWxLZXk8TmF2aWdhdG9yU3RhdGU+IGtleSA9IEdsb2JhbEtleShkZWJ1Z0xhYmVsOiAnbmF2aWdhdGVfa2V5Jyk7CgogIE5hdmlnYXRvclN0YXRlIGdldCBuYXZpZ2F0b3IgPT4ga2V5LmN1cnJlbnRTdGF0ZTsKCiAgZ2V0IHB1c2hOYW1lZCA9PiBuYXZpZ2F0b3IucHVzaE5hbWVkOwoKICBnZXQgcG9wID0+IG5hdmlnYXRvci5wb3A7CgogIGdldCBwdXNoID0+IG5hdmlnYXRvci5wdXNoOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN3aXRjaChwcm9maWxlKSB7CiAgICAgIGNhc2UgUHJvZmlsZS5EZXY6CiAgICAgICAgYnJlYWs7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgdm9pZCBjaGFuZ2VCYXNlVXJsKFN0cmluZyB1cmwpewogICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSB1cmw7CiAgfQ==</text>
+        <text encoding="base64">ICAgIHN3aXRjaCAocHJvZmlsZSkgewogICAgICBjYXNlIFByb2ZpbGUuRGV2OgogICAgICAgIC8vVE9ETzrmtYvor5Xnjq/looPphY3nva7pobkKICAgICAgICBicmVhazsKICAgICAgY2FzZSBQcm9maWxlLlByZDoKICAgICAgICAvL1RPRE865rWL6K+V546v5aKD6YWN572u6aG5CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgUHJvZmlsZS5HcmF5OgogICAgICAgIC8vVE9ETzrmtYvor5Xnjq/looPphY3nva7pobkKICAgICAgICBicmVhazsKICAgICAgZGVmYXVsdDoKICAgICAgICAvL1RPRE866buY6K6k5rWL6K+V546v5aKDCiAgICAgICAgYnJlYWs7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
+        <text encoding="base64">ICAgIHN3aXRjaFByb2ZpbGUocHJvZmlsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vVE9ETzrkuLTml7bmlLnlj5jln7rnoYBVUkwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKCJodHRwOi8vNDcuOTEuMTU5LjIwMC8iKTsK</text>
+        <text encoding="base64">CiAgdm9pZCBjaGFuZ2VCYXNlVXJsKFN0cmluZyB1cmwpewogICAgX2Rpby5vcHRpb25zLmJhc2VVcmwgPSB1cmw7CiAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKCJodHRwOi8vNDcuOTEuMTU5LjIwMC8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vVE9ETzrkuLTml7bmlLnlj5jln7rnoYBVUkwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXRJdC5yZWdpc3RlckxhenlTaW5nbGV0b24oKCkgPT4gVGhlbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKCJodHRwOi8vNDcuOTEuMTU5LjIwMC8iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgYXBwQmFyOiBBcHBCYXIoCi8vICAgICAgICAgICAgYXV0b21hdGljYWxseUltcGx5TGVhZGluZzogZmFsc2UsCi8vICAgICAgICAgICAgdGl0bGU6IFRleHQoZ2V0SXQ8Uz4oKS5zZXR0aW5nKSwKLy8gICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgIEh0dHAoKS5jaGFuZ2VCYXNlVXJsKEFwaS5CQVNFX1VSTCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
