@@ -131,7 +131,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590585443390">
+      <file name="/Dummy.txt" timestamp="1591974882437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -170,18 +170,13 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/router.dart" timestamp="1590569132210">
-        <mark key="[" line="143" column="14" />
-        <mark key="]" line="143" column="14" />
-        <mark key="." line="143" column="14" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/app_service.dart" timestamp="1591348706023">
         <mark key="[" line="43" column="53" />
         <mark key="]" line="34" column="28" />
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="/" timestamp="1591753943377">
+      <file name="/" timestamp="1591975175987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1591077306258">
@@ -201,6 +196,8 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="31" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/wlog/log.go" timestamp="1591975064801" />
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/config/db/mysql.go" timestamp="1591975255562" />
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/http/http.dart" timestamp="1591665517555">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -219,6 +216,12 @@
       </file>
       <file name="debugger.xml" timestamp="1591662446804">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1591975829267">
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="45" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -330,10 +333,10 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">bGF0ZWluaXQg</text>
+        <text>./logs/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF0ZWluaXQg</text>
+        <text>./logs/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
