@@ -154,10 +154,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/pending_message_model.dart" timestamp="1590586256164">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/config.dart" timestamp="1593479894422" />
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/main.dart" timestamp="1593479852445">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/models/screen/app_update_model.dart" timestamp="1591348768412">
         <mark key="'" line="70" column="0" />
@@ -174,17 +176,6 @@
       <file name="/" timestamp="1591975175987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/config/service_locator.dart" timestamp="1591077306258">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="41" column="29" />
-      </file>
-      <file name="$USER_HOME$/gitRepository/WOS_Mobile/android/app/src/main/AndroidManifest.xml" timestamp="1590629492166">
-        <mark key="[" line="13" column="81" />
-        <mark key="]" line="13" column="81" />
-        <mark key="." line="13" column="81" />
-      </file>
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/screens/home.dart" timestamp="1593331816161">
         <mark key="[" line="49" column="45" />
         <mark key="]" line="49" column="45" />
@@ -197,6 +188,7 @@
         <mark key="^" line="59" column="28" />
         <mark key="." line="59" column="27" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/weibo_service.dart" timestamp="1593480552057" />
       <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/util/http/http.dart" timestamp="1591665517555">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -216,6 +208,7 @@
       <file name="debugger.xml" timestamp="1591662446804">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gitRepository/WOS_Mobile/lib/services/user_service.dart" timestamp="1593479968764" />
       <file name="$USER_HOME$/gitRepository/WOS_CORE/src/util/tools/log.go" timestamp="1591976353500">
         <mark key="[" line="45" column="21" />
         <mark key="]" line="45" column="21" />
@@ -332,10 +325,10 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="*" type="4">
-        <text>e</text>
+        <text>Dev</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>Dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWVnZXJcPg==</text>
